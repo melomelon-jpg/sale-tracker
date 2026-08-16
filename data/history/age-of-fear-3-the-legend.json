@@ -1,0 +1,51 @@
+{
+  "slug": "age-of-fear-3-the-legend",
+  "updated_at": "2026-08-13T14:36:29Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 3000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 3000,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 3000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 3000,
+      "shop": "Steam"
+    }
+  ]
+}

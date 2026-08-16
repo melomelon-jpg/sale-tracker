@@ -1,0 +1,311 @@
+{
+  "slug": "detroit-become-human",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 900,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3690,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4005,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6307,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4500,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 4500,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 798,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 630,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 900,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 900,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1261,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 4500,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 630,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 675,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 3990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 4500,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 675,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4500,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 4500,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 6307,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 900,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 6443,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 900,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 788,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1289,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 4500,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 4500,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 900,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 900,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 3690,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 4500,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 4500,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4500,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 6443,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 399,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 4500,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 4500,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 4500,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 3690,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1289,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 900,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 1257,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 900,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 810,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 6285,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 3690,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 900,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4500,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4500,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 855,
+      "shop": "Fortuna Digital"
+    }
+  ]
+}

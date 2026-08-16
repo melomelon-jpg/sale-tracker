@@ -1,0 +1,61 @@
+{
+  "slug": "tom-clancys-ghost-recon-future-soldier",
+  "updated_at": "2026-08-13T14:56:08Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 495,
+      "shop": "Ubisoft Store"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 1980,
+      "shop": "Ubisoft Store"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 495,
+      "shop": "Ubisoft Store"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1980,
+      "shop": "Ubisoft Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 0,
+      "shop": "Ubisoft Store"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1980,
+      "shop": "Ubisoft Store"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "updated_at": "2026-08-16T03:36:12Z",
+  "items": [
+    {
+      "id": "018d937f-7336-7201-9f6c-3641a2f5923a",
+      "slug": "the-black-within",
+      "title": "The Black Within",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-f0ad-7094-b86c-d8fb32a1e6b4",
+      "slug": "detroit-become-human",
+      "title": "Detroit: Become Human",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-7519-727b-93be-24998f84c8df",
+      "slug": "cyber-avenger",
+      "title": "Cyber Avenger",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-f04c-70ce-b011-e610ea57d321",
+      "slug": "beyond-two-souls",
+      "title": "Beyond Two Souls",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-e9e5-72fa-a1dc-e7e090b64d2f",
+      "slug": "dwarven-skykeep",
+      "title": "Dwarven Skykeep",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-15f9-7056-8edf-2e8fa4b8f357",
+      "slug": "no-mans-sky",
+      "title": "No Man's Sky",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-00ed-714f-a195-6b1f287f36ea",
+      "slug": "the-book-of-legends",
+      "title": "The Book of Legends",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-3a3b-7210-bd2d-0d1dfb1d84c0",
+      "slug": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-fd68-72ed-b71b-1f115a3154eb",
+      "slug": "stronghold-3-gold",
+      "title": "Stronghold 3 Gold",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-f99a-7194-a303-07dd8f22d0b4",
+      "slug": "heavy-rain",
+      "title": "Heavy Rain",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-157e-7178-9b15-76557fc4e577",
+      "slug": "planar-conquest",
+      "title": "Planar Conquest",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-4adb-73a6-a9e5-94ff62f6265b",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-2b53-7239-8158-2253874522c9",
+      "slug": "paws-pitter-patter-edition",
+      "title": "Paws: Pitter Patter Edition",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-53ee-71c1-9635-7035894410d7",
+      "slug": "frostpunk-2",
+      "title": "Frostpunk 2",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-0398-711f-a876-a8aa6bb2587a",
+      "slug": "pan-pan-planetary-pack",
+      "title": "Pan-Pan: Planetary Pack",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-5ccf-7344-a579-d8feb6ba83cf",
+      "slug": "cult-of-the-lamb",
+      "title": "Cult of the Lamb",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-ea6d-7375-8c68-788f479cc0ea",
+      "slug": "1775-rebellion",
+      "title": "1775: Rebellion",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-6ee4-73f5-858c-2fde3c008587",
+      "slug": "pacific-drive",
+      "title": "Pacific Drive",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937f-26ef-72d7-9b07-c01744b7b93e",
+      "slug": "3-stars-of-destiny",
+      "title": "3 Stars of Destiny",
+      "first_seen": "2026-08-13",
+      "last_on_sale": "2026-08-16"
+    },
+    {
+      "id": "018d937e-f06b-7284-bf6c-c4e440623880",
+      "slug": "tom-clancys-ghost-recon-wildlands",
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "first_seen": "2026-08-16",
+      "last_on_sale": "2026-08-16"
+    }
+  ]
+}

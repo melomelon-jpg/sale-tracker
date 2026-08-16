@@ -1,0 +1,76 @@
+{
+  "slug": "prophunt",
+  "updated_at": "2026-08-13T14:36:29Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 1200,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 240,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1200,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 270,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 240,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 270,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 1200,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 1350,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 270,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 67,
+      "shop": "Epic Game Store"
+    }
+  ]
+}

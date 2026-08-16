@@ -1,0 +1,111 @@
+{
+  "slug": "tom-clancys-ghost-recon-wildlands",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1320,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6600,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1188,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 1267,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 7040,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 6600,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7040,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 1267,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 7040,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1267,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 6600,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 7040,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 330,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 352,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 330,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 7040,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 6600,
+      "shop": "Microsoft Store"
+    }
+  ]
+}

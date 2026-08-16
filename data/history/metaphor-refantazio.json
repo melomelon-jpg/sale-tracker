@@ -1,0 +1,31 @@
+{
+  "slug": "metaphor-refantazio",
+  "updated_at": "2026-08-13T14:56:08Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 9878,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3951,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 3951,
+      "shop": "Steam"
+    }
+  ]
+}

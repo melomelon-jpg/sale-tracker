@@ -1,0 +1,18 @@
+{
+  "games": [
+    { "slug": "elden-ring",     "title": "ELDEN RING",     "steam_appid": 1245620 },
+    { "slug": "hades",          "title": "Hades",          "steam_appid": 1145360 },
+    { "slug": "stardew-valley", "title": "Stardew Valley", "steam_appid": 413150 }
+  ],
+  "discovery": {
+    "enabled": true,
+    "sorts": ["-cut", "-trending"],
+    "fetch_limit": 200,
+    "min_cut_pct": 60,
+    "min_price_jpy": 1,
+    "max_auto": 20,
+    "prune_days": 14,
+    "allowed_types": ["game"],
+    "exclude_mature": true
+  }
+}

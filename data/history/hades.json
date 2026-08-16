@@ -1,0 +1,41 @@
+{
+  "slug": "hades",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2954,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2800,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 2800,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "generated_at": "2026-08-16T03:36:12Z",
+  "currency": "JPY",
+  "games": [
+    {
+      "slug": "elden-ring",
+      "title": "ELDEN RING",
+      "itad_id": "018d937f-590c-728b-ac35-38bcff85f086",
+      "steam_appid": 1245620,
+      "source": "manual",
+      "jp_support": true,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-590c-728b-ac35-38bcff85f086/boxart.jpg?t=1784684722",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-590c-728b-ac35-38bcff85f086/banner145.jpg?t=1784684722",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-590c-728b-ac35-38bcff85f086/banner300.jpg?t=1784684722",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-590c-728b-ac35-38bcff85f086/banner400.jpg?t=1784684722",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-590c-728b-ac35-38bcff85f086/banner600.jpg?t=1784684722"
+      },
+      "appid": 1245620,
+      "regular": {
+        "amount": 9557
+      },
+      "current": {
+        "amount": 8218,
+        "shop": "GameBillet",
+        "discount_pct": 14,
+        "url": "https://itad.link/018d9386-5634-71ca-ac17-8fff3f127b84/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 4300,
+        "date": "2025-07-01"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 91.1
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "hades",
+      "title": "Hades",
+      "itad_id": "018d937f-33f0-7200-80fc-87f769196c84",
+      "steam_appid": 1145360,
+      "source": "manual",
+      "jp_support": true,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-33f0-7200-80fc-87f769196c84/boxart.jpg?t=1761595303",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-33f0-7200-80fc-87f769196c84/banner145.jpg?t=1761595303",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-33f0-7200-80fc-87f769196c84/banner300.jpg?t=1761595303",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-33f0-7200-80fc-87f769196c84/banner400.jpg?t=1761595303",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-33f0-7200-80fc-87f769196c84/banner600.jpg?t=1761595303"
+      },
+      "appid": 1145360,
+      "regular": {
+        "amount": 2800
+      },
+      "current": {
+        "amount": 2800,
+        "shop": "Epic Game Store",
+        "discount_pct": 0,
+        "url": "https://itad.link/018d959f-7357-70d8-af21-b4f03553cae7/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 700,
+        "date": "2025-09-17"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 300.0
+      },
+      "on_sale": false
+    },
+    {
+      "slug": "stardew-valley",
+      "title": "Stardew Valley",
+      "itad_id": "018d937e-f835-710c-b95b-928e277b187e",
+      "steam_appid": 413150,
+      "source": "manual",
+      "jp_support": true,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f835-710c-b95b-928e277b187e/boxart.jpg?t=1786566930",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f835-710c-b95b-928e277b187e/banner145.jpg?t=1786566930",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f835-710c-b95b-928e277b187e/banner300.jpg?t=1786566930",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f835-710c-b95b-928e277b187e/banner400.jpg?t=1786566930",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f835-710c-b95b-928e277b187e/banner600.jpg?t=1786566930"
+      },
+      "appid": 413150,
+      "regular": {
+        "amount": 1480
+      },
+      "current": {
+        "amount": 1480,
+        "shop": "Steam",
+        "discount_pct": 0,
+        "url": "https://itad.link/018d9386-d141-7169-a0af-3349e75c3cb7/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 740,
+        "date": "2025-06-26"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 100.0
+      },
+      "on_sale": false
+    },
+    {
+      "slug": "the-black-within",
+      "title": "The Black Within",
+      "itad_id": "018d937f-7336-7201-9f6c-3641a2f5923a",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7336-7201-9f6c-3641a2f5923a/boxart.jpg?t=1770200120",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7336-7201-9f6c-3641a2f5923a/banner145.jpg?t=1770200121",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7336-7201-9f6c-3641a2f5923a/banner300.jpg?t=1770200121",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7336-7201-9f6c-3641a2f5923a/banner400.jpg?t=1770200121",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7336-7201-9f6c-3641a2f5923a/banner600.jpg?t=1770200121"
+      },
+      "appid": 2372870,
+      "regular": {
+        "amount": 580
+      },
+      "current": {
+        "amount": 23,
+        "shop": "GreenManGaming",
+        "discount_pct": 96,
+        "url": "https://itad.link/01923484-4d63-714f-ae19-cf664da766f7/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 23,
+        "date": "2026-08-11"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "detroit-become-human",
+      "title": "Detroit: Become Human",
+      "itad_id": "018d937e-f0ad-7094-b86c-d8fb32a1e6b4",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f0ad-7094-b86c-d8fb32a1e6b4/boxart.jpg?t=1786382836",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f0ad-7094-b86c-d8fb32a1e6b4/banner145.jpg?t=1786382836",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f0ad-7094-b86c-d8fb32a1e6b4/banner300.jpg?t=1786382836",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f0ad-7094-b86c-d8fb32a1e6b4/banner400.jpg?t=1786382836",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f0ad-7094-b86c-d8fb32a1e6b4/banner600.jpg?t=1786382836"
+      },
+      "appid": 1222140,
+      "regular": {
+        "amount": 4500
+      },
+      "current": {
+        "amount": 855,
+        "shop": "Fortuna Digital",
+        "discount_pct": 81,
+        "url": "https://itad.link/019cbeb2-1807-700e-991f-913754fb9691/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 399,
+        "date": "2026-07-16"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 114.3
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "cyber-avenger",
+      "title": "Cyber Avenger",
+      "itad_id": "018d937f-7519-727b-93be-24998f84c8df",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7519-727b-93be-24998f84c8df/boxart.jpg?t=1786384585",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7519-727b-93be-24998f84c8df/banner145.jpg?t=1786384585",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7519-727b-93be-24998f84c8df/banner300.jpg?t=1786384585",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7519-727b-93be-24998f84c8df/banner400.jpg?t=1786384585",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7519-727b-93be-24998f84c8df/banner600.jpg?t=1786384585"
+      },
+      "appid": 2606270,
+      "regular": {
+        "amount": 2866
+      },
+      "current": {
+        "amount": 113,
+        "shop": "Humble Store",
+        "discount_pct": 96,
+        "url": "https://itad.link/0191b8c3-793f-70e4-a3dd-08dc4c4524ca/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 51,
+        "date": "2025-05-02"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 121.6
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "beyond-two-souls",
+      "title": "Beyond Two Souls",
+      "itad_id": "018d937e-f04c-70ce-b011-e610ea57d321",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f04c-70ce-b011-e610ea57d321/boxart.jpg?t=1786382125",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f04c-70ce-b011-e610ea57d321/banner145.jpg?t=1786382125",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f04c-70ce-b011-e610ea57d321/banner300.jpg?t=1786382125",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f04c-70ce-b011-e610ea57d321/banner400.jpg?t=1786382125",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f04c-70ce-b011-e610ea57d321/banner600.jpg?t=1786382125"
+      },
+      "appid": 960990,
+      "regular": {
+        "amount": 2300
+      },
+      "current": {
+        "amount": 115,
+        "shop": "Steam",
+        "discount_pct": 95,
+        "url": "https://itad.link/018d9386-30df-7227-9b99-153712b491f3/",
+        "expiry": "2026-08-17T19:00:00+02:00"
+      },
+      "lowest": {
+        "amount": 115,
+        "date": "2026-08-10"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "dwarven-skykeep",
+      "title": "Dwarven Skykeep",
+      "itad_id": "018d937e-e9e5-72fa-a1dc-e7e090b64d2f",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-e9e5-72fa-a1dc-e7e090b64d2f/boxart.jpg?t=1786340761",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-e9e5-72fa-a1dc-e7e090b64d2f/banner145.jpg?t=1786340761",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-e9e5-72fa-a1dc-e7e090b64d2f/banner300.jpg?t=1786340761",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-e9e5-72fa-a1dc-e7e090b64d2f/banner400.jpg?t=1786340761",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-e9e5-72fa-a1dc-e7e090b64d2f/banner600.jpg?t=1786340761"
+      },
+      "appid": 1076120,
+      "regular": {
+        "amount": 3184
+      },
+      "current": {
+        "amount": 126,
+        "shop": "Humble Store",
+        "discount_pct": 96,
+        "url": "https://itad.link/018eaa2a-df34-7398-8231-96090357023a/",
+        "expiry": "2026-09-03T19:00:00+02:00"
+      },
+      "lowest": {
+        "amount": 126,
+        "date": "2026-08-13"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "no-mans-sky",
+      "title": "No Man's Sky",
+      "itad_id": "018d937f-15f9-7056-8edf-2e8fa4b8f357",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-15f9-7056-8edf-2e8fa4b8f357/boxart.jpg?t=1786533320",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-15f9-7056-8edf-2e8fa4b8f357/banner145.jpg?t=1786533320",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-15f9-7056-8edf-2e8fa4b8f357/banner300.jpg?t=1786533320",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-15f9-7056-8edf-2e8fa4b8f357/banner400.jpg?t=1786533320",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-15f9-7056-8edf-2e8fa4b8f357/banner600.jpg?t=1786533320"
+      },
+      "appid": 275850,
+      "regular": {
+        "amount": 9557
+      },
+      "current": {
+        "amount": 3815,
+        "shop": "GameBillet",
+        "discount_pct": 60,
+        "url": "https://itad.link/018d9386-a365-70c6-a395-86081c1069b3/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 2600,
+        "date": "2024-12-07"
+      },
+      "verdict": {
+        "code": "watch",
+        "label": "様子見",
+        "gap_pct": 46.7
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "the-book-of-legends",
+      "title": "The Book of Legends",
+      "itad_id": "018d937f-00ed-714f-a195-6b1f287f36ea",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-00ed-714f-a195-6b1f287f36ea/boxart.jpg?t=1760983848",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-00ed-714f-a195-6b1f287f36ea/banner145.jpg?t=1760983848",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-00ed-714f-a195-6b1f287f36ea/banner300.jpg?t=1760983848",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-00ed-714f-a195-6b1f287f36ea/banner400.jpg?t=1760983848",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-00ed-714f-a195-6b1f287f36ea/banner600.jpg?t=1760983849"
+      },
+      "appid": 277470,
+      "regular": {
+        "amount": 2388
+      },
+      "current": {
+        "amount": 94,
+        "shop": "Humble Store",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-dd17-7074-b64c-ba57e6026e67/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 45,
+        "date": "2025-03-10"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 108.9
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "itad_id": "018d937f-3a3b-7210-bd2d-0d1dfb1d84c0",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/boxart.jpg?t=1760981447",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/banner145.jpg?t=1760981447",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/banner300.jpg?t=1760981447",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/banner400.jpg?t=1760981447",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/banner600.jpg?t=1760981447"
+      },
+      "appid": 1174180,
+      "regular": {
+        "amount": 8618
+      },
+      "current": {
+        "amount": 1896,
+        "shop": "GreenManGaming",
+        "discount_pct": 78,
+        "url": "https://itad.link/018d9386-b703-7302-9857-11d2d1d13c48/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 1815,
+        "date": "2025-07-25"
+      },
+      "verdict": {
+        "code": "near_low",
+        "label": "ほぼ最安",
+        "gap_pct": 4.5
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "stronghold-3-gold",
+      "title": "Stronghold 3 Gold",
+      "itad_id": "018d937e-fd68-72ed-b71b-1f115a3154eb",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fd68-72ed-b71b-1f115a3154eb/boxart.jpg?t=1760377056",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fd68-72ed-b71b-1f115a3154eb/banner145.jpg?t=1760377056",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fd68-72ed-b71b-1f115a3154eb/banner300.jpg?t=1760377056",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fd68-72ed-b71b-1f115a3154eb/banner400.jpg?t=1760377056",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fd68-72ed-b71b-1f115a3154eb/banner600.jpg?t=1760377056"
+      },
+      "appid": 47400,
+      "regular": {
+        "amount": 4778
+      },
+      "current": {
+        "amount": 174,
+        "shop": "MacGameStore",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-d60e-720f-ba15-27ae8b6f186d/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 178,
+        "date": "2026-07-28"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": -2.2
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "heavy-rain",
+      "title": "Heavy Rain",
+      "itad_id": "018d937e-f99a-7194-a303-07dd8f22d0b4",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f99a-7194-a303-07dd8f22d0b4/boxart.jpg?t=1786383629",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f99a-7194-a303-07dd8f22d0b4/banner145.jpg?t=1786383629",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f99a-7194-a303-07dd8f22d0b4/banner300.jpg?t=1786383629",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f99a-7194-a303-07dd8f22d0b4/banner400.jpg?t=1786383629",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f99a-7194-a303-07dd8f22d0b4/banner600.jpg?t=1786383629"
+      },
+      "appid": 960910,
+      "regular": {
+        "amount": 2300
+      },
+      "current": {
+        "amount": 115,
+        "shop": "Steam",
+        "discount_pct": 95,
+        "url": "https://itad.link/0193a1d4-7cbb-7348-b218-cbae2eec8d01/",
+        "expiry": "2026-08-17T19:00:00+02:00"
+      },
+      "lowest": {
+        "amount": 115,
+        "date": "2026-08-10"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "planar-conquest",
+      "title": "Planar Conquest",
+      "itad_id": "018d937f-157e-7178-9b15-76557fc4e577",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-157e-7178-9b15-76557fc4e577/boxart.png?t=1782173119",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-157e-7178-9b15-76557fc4e577/banner145.jpg?t=1782173120",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-157e-7178-9b15-76557fc4e577/banner300.jpg?t=1782173120",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-157e-7178-9b15-76557fc4e577/banner400.jpg?t=1782173120",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-157e-7178-9b15-76557fc4e577/banner600.jpg?t=1782173120"
+      },
+      "appid": 449300,
+      "regular": {
+        "amount": 3981
+      },
+      "current": {
+        "amount": 174,
+        "shop": "MacGameStore",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-adeb-71f4-ad89-128b432fb174/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 60,
+        "date": "2024-12-20"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 190.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "itad_id": "018d937f-4adb-73a6-a9e5-94ff62f6265b",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/boxart.jpg?t=1786395642",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner145.jpg?t=1786395642",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner300.jpg?t=1786395642",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner400.jpg?t=1786395642",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner600.jpg?t=1786395642"
+      },
+      "appid": 1687950,
+      "regular": {
+        "amount": 7678
+      },
+      "current": {
+        "amount": 2303,
+        "shop": "Steam",
+        "discount_pct": 70,
+        "url": "https://itad.link/018d9386-ab6c-72b0-96fc-37ea5fd890e5/",
+        "expiry": "2026-08-24T19:00:00+02:00"
+      },
+      "lowest": {
+        "amount": 1535,
+        "date": "2026-04-23"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 50.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "paws-pitter-patter-edition",
+      "title": "Paws: Pitter Patter Edition",
+      "itad_id": "018d937f-2b53-7239-8158-2253874522c9",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2b53-7239-8158-2253874522c9/boxart.jpg?t=1759177528",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2b53-7239-8158-2253874522c9/banner145.jpg?t=1759177528",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2b53-7239-8158-2253874522c9/banner300.jpg?t=1759177528",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2b53-7239-8158-2253874522c9/banner400.jpg?t=1759177528",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2b53-7239-8158-2253874522c9/banner600.jpg?t=1759177529"
+      },
+      "appid": 434000,
+      "regular": {
+        "amount": 3981
+      },
+      "current": {
+        "amount": 174,
+        "shop": "MacGameStore",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-ab4a-7235-aca8-fe27db319356/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 178,
+        "date": "2026-07-28"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": -2.2
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "frostpunk-2",
+      "title": "Frostpunk 2",
+      "itad_id": "018d937f-53ee-71c1-9635-7035894410d7",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/boxart.jpg?t=1786394759",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner145.jpg?t=1786394760",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner300.jpg?t=1786394760",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner400.jpg?t=1786394760",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner600.jpg?t=1786394760"
+      },
+      "appid": 1601580,
+      "regular": {
+        "amount": 5200
+      },
+      "current": {
+        "amount": 2028,
+        "shop": "Fanatical",
+        "discount_pct": 61,
+        "url": "https://itad.link/0191946c-a383-7336-88c7-6b1ed309db8c/",
+        "expiry": "2026-08-21T00:59:00+02:00"
+      },
+      "lowest": {
+        "amount": 2028,
+        "date": "2026-06-19"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "pan-pan-planetary-pack",
+      "title": "Pan-Pan: Planetary Pack",
+      "itad_id": "018d937f-0398-711f-a876-a8aa6bb2587a",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0398-711f-a876-a8aa6bb2587a/banner145.jpg",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0398-711f-a876-a8aa6bb2587a/banner300.jpg",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0398-711f-a876-a8aa6bb2587a/banner400.jpg"
+      },
+      "appid": null,
+      "regular": {
+        "amount": 4778
+      },
+      "current": {
+        "amount": 174,
+        "shop": "MacGameStore",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-a926-7242-8dac-33bd93a71fc6/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 178,
+        "date": "2026-07-28"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": -2.2
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "cult-of-the-lamb",
+      "title": "Cult of the Lamb",
+      "itad_id": "018d937f-5ccf-7344-a579-d8feb6ba83cf",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/boxart.jpg?t=1786556447",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner145.jpg?t=1786556447",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner300.jpg?t=1786556447",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner400.jpg?t=1786556447",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner600.jpg?t=1786556447"
+      },
+      "appid": 1313140,
+      "regular": {
+        "amount": 2570
+      },
+      "current": {
+        "amount": 1028,
+        "shop": "Fanatical",
+        "discount_pct": 60,
+        "url": "https://itad.link/018d9386-45fa-735a-8cec-0c03f417af78/",
+        "expiry": "2026-08-21T00:59:00+02:00"
+      },
+      "lowest": {
+        "amount": 1028,
+        "date": "2026-01-22"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "1775-rebellion",
+      "title": "1775: Rebellion",
+      "itad_id": "018d937e-ea6d-7375-8c68-788f479cc0ea",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ea6d-7375-8c68-788f479cc0ea/boxart.png?t=1786737917",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ea6d-7375-8c68-788f479cc0ea/banner145.jpg?t=1786737917",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ea6d-7375-8c68-788f479cc0ea/banner300.jpg?t=1786737918",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ea6d-7375-8c68-788f479cc0ea/banner400.jpg?t=1786737918",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ea6d-7375-8c68-788f479cc0ea/banner600.jpg?t=1786737918"
+      },
+      "appid": 422610,
+      "regular": {
+        "amount": 3981
+      },
+      "current": {
+        "amount": 174,
+        "shop": "MacGameStore",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-81dc-71a4-93b3-ba9fe52a7be9/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 160,
+        "date": "2025-08-22"
+      },
+      "verdict": {
+        "code": "decent",
+        "label": "まあ買い時",
+        "gap_pct": 8.8
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "pacific-drive",
+      "title": "Pacific Drive",
+      "itad_id": "018d937f-6ee4-73f5-858c-2fde3c008587",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/boxart.jpg?t=1767987315",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner145.jpg?t=1767987315",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner300.jpg?t=1767987315",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner400.jpg?t=1767987315",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner600.jpg?t=1767987315"
+      },
+      "appid": 1458140,
+      "regular": {
+        "amount": 4765
+      },
+      "current": {
+        "amount": 1430,
+        "shop": "Fanatical",
+        "discount_pct": 70,
+        "url": "https://itad.link/01963e54-37b8-7144-a8da-074cfb4b68d9/",
+        "expiry": "2026-08-21T00:59:00+02:00"
+      },
+      "lowest": {
+        "amount": 1122,
+        "date": "2026-04-30"
+      },
+      "verdict": {
+        "code": "watch",
+        "label": "様子見",
+        "gap_pct": 27.5
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "3-stars-of-destiny",
+      "title": "3 Stars of Destiny",
+      "itad_id": "018d937f-26ef-72d7-9b07-c01744b7b93e",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-26ef-72d7-9b07-c01744b7b93e/boxart.jpg?t=1786384897",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-26ef-72d7-9b07-c01744b7b93e/banner145.jpg?t=1786384897",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-26ef-72d7-9b07-c01744b7b93e/banner300.jpg?t=1786384897",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-26ef-72d7-9b07-c01744b7b93e/banner400.jpg?t=1786384897",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-26ef-72d7-9b07-c01744b7b93e/banner600.jpg?t=1786384898"
+      },
+      "appid": 278530,
+      "regular": {
+        "amount": 2388
+      },
+      "current": {
+        "amount": 94,
+        "shop": "Humble Store",
+        "discount_pct": 96,
+        "url": "https://itad.link/018d9386-7d3e-71a2-aacf-ce93456a0a66/",
+        "expiry": null
+      },
+      "lowest": {
+        "amount": 57,
+        "date": "2025-03-10"
+      },
+      "verdict": {
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 64.9
+      },
+      "on_sale": true
+    },
+    {
+      "slug": "tom-clancys-ghost-recon-wildlands",
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "itad_id": "018d937e-f06b-7284-bf6c-c4e440623880",
+      "steam_appid": null,
+      "source": "auto",
+      "jp_support": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/boxart.jpg?t=1786116928",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner145.jpg?t=1786116928",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner300.jpg?t=1786116928",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner400.jpg?t=1786116928",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner600.jpg?t=1786116928"
+      },
+      "appid": 460930,
+      "regular": {
+        "amount": 6600
+      },
+      "current": {
+        "amount": 330,
+        "shop": "Steam",
+        "discount_pct": 95,
+        "url": "https://itad.link/018d9386-e1d3-73ca-9d38-e708bd6a0c1f/",
+        "expiry": "2026-08-16T19:00:00+02:00"
+      },
+      "lowest": {
+        "amount": 330,
+        "date": "2026-08-06"
+      },
+      "verdict": {
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
+      },
+      "on_sale": true
+    }
+  ]
+}

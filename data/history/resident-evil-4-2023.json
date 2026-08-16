@@ -1,0 +1,46 @@
+{
+  "slug": "resident-evil-4-2023",
+  "updated_at": "2026-08-13T14:56:08Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 1247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 3990,
+      "shop": "Steam"
+    }
+  ]
+}

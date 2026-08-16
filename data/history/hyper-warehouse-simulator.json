@@ -1,0 +1,31 @@
+{
+  "slug": "hyper-warehouse-simulator",
+  "updated_at": "2026-08-13T14:36:29Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 39,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 780,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 39,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 780,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-09",
+      "amount": 39,
+      "shop": "Epic Game Store"
+    }
+  ]
+}

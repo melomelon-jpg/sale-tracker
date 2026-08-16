@@ -1,0 +1,91 @@
+{
+  "slug": "stronghold-3-gold",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2980,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 298,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2980,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2980,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 298,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 298,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 2980,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 298,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 298,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 2980,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 298,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 298,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2980,
+      "shop": "GamersGate"
+    }
+  ]
+}

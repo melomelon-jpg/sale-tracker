@@ -1,0 +1,36 @@
+{
+  "slug": "paws-pitter-patter-edition",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1736,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    }
+  ]
+}

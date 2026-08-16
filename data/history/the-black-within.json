@@ -1,0 +1,61 @@
+{
+  "slug": "the-black-within",
+  "updated_at": "2026-08-16T03:36:12Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 98,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 580,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 232,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 490,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 92,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 49,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 490,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 23,
+      "shop": "GreenManGaming"
+    }
+  ]
+}

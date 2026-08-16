@@ -1,0 +1,13 @@
+# 秘密情報
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# エディタ
+.vscode/
+.idea/
+.DS_Store

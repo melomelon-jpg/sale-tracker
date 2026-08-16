@@ -1,0 +1,56 @@
+{
+  "slug": "the-green-light",
+  "updated_at": "2026-08-13T14:36:29Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 406,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 490,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 245,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 490,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 232,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 49,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 490,
+      "shop": "Epic Game Store"
+    }
+  ]
+}
