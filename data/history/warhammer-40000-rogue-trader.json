@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-rogue-trader",
-  "updated_at": "2026-08-16T04:51:41Z",
+  "updated_at": "2026-08-16T21:40:17Z",
   "history": [
     {
       "date": "2026-05-15",
@@ -396,6 +396,11 @@
       "date": "2026-08-13",
       "amount": 2600,
       "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-16",
+      "amount": 2275,
+      "shop": "Fortuna Digital"
     }
   ]
 }
