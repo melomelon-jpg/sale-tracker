@@ -1,0 +1,66 @@
+{
+  "slug": "evil-west",
+  "updated_at": "2026-08-16T05:15:00Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 7950,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 1596,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1590,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7950,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1596,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1590,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1596,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 7950,
+      "shop": "Microsoft Store"
+    }
+  ]
+}

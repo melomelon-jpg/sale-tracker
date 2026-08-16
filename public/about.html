@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#11151c">
+<title>このサイトについて｜ゲーム最安隊</title>
+<meta name="description" content="ゲーム最安隊のデータ出所（IsThereAnyDeal/Steam）と、買い時判定バッジのしきい値を公開しています。">
+<link rel="canonical" href="https://sale-tracker-368.pages.dev/about.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ゲーム最安隊">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="このサイトについて｜ゲーム最安隊">
+<meta property="og:description" content="ゲーム最安隊のデータ出所（IsThereAnyDeal/Steam）と、買い時判定バッジのしきい値を公開しています。">
+<meta property="og:url" content="https://sale-tracker-368.pages.dev/about.html">
+<meta property="og:image" content="https://sale-tracker-368.pages.dev/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="このサイトについて｜ゲーム最安隊">
+<meta name="twitter:description" content="ゲーム最安隊のデータ出所（IsThereAnyDeal/Steam）と、買い時判定バッジのしきい値を公開しています。">
+<meta name="twitter:image" content="https://sale-tracker-368.pages.dev/og-default.png">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="icon" href="./favicon.png" sizes="48x48" type="image/png">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap">
+<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="./index.html">🏷️ <span>ゲーム最安隊</span></a>
+    <nav class="site-nav">
+      <a href="./index.html" class="">注目のセール</a>
+      <a href="./all.html" class="">すべてのセール</a>
+      <a href="./about.html" class="active">このサイトについて</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+
+<section class="hero">
+  <h1>このサイトについて</h1>
+  <p class="meta">最終更新 2026年8月16日 19:40（日本時間）</p>
+</section>
+
+<h2>「ゲーム最安隊」とは</h2>
+<p>ゲーム最安隊は、Steamで配信されているゲームのセール情報を毎日自動で収集し、
+「今が買い時かどうか」を過去の最安値と比較して一目でわかるようにする非公式の価格追跡サイトです。
+セール中のタイトルを厳選して紹介するトップページと、全タイトルを検索・絞り込みできる一覧ページを用意しています。</p>
+
+<h2>データの出所</h2>
+<p>価格データは <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>
+のAPIを通じて取得し、ゲーム情報の一部はSteam公式APIで補っています。
+表示価格はリアルタイムではなく、<strong>毎朝6時ごろ（日本時間）に自動更新される保存済みデータ</strong>です。
+実際の購入前には、必ずストア側の最新価格をご確認ください。</p>
+
+<h2 id="verdict">買い時判定の仕組み</h2>
+<p>各ゲームに付くバッジは、「現在価格」と「過去に記録された最安値」の差（％）だけを使って機械的に判定しています。
+セールの煽り文句や独自の主観は入れず、しきい値は以下の通りです（バッジにカーソルを合わせても同じ説明が出ます）。</p>
+<ul class="legend-list">
+    <li class="legend-row">
+      <span class="badge v-record">過去最安更新中</span>
+      <span class="legend-desc">現在価格が過去最安値と同じか、それを更新中</span>
+    </li>
+    <li class="legend-row">
+      <span class="badge v-near">ほぼ最安</span>
+      <span class="legend-desc">過去最安値との差が5%以内</span>
+    </li>
+    <li class="legend-row">
+      <span class="badge v-decent">まあ買い時</span>
+      <span class="legend-desc">過去最安値との差が15%以内</span>
+    </li>
+    <li class="legend-row">
+      <span class="badge v-watch">様子見</span>
+      <span class="legend-desc">過去最安値との差が50%以内</span>
+    </li>
+    <li class="legend-row">
+      <span class="badge v-high">割高</span>
+      <span class="legend-desc">過去最安値より50%を超えて高い</span>
+    </li>
+    <li class="legend-row">
+      <span class="badge v-unknown">判定不可</span>
+      <span class="legend-desc">価格データ不足のため判定できません</span>
+    </li></ul>
+<p class="muted">※ 過去最安値は、このサイトが観測してきた範囲内での最安値です。観測期間より前の一時的な特売などは反映されない場合があります。</p>
+
+<h2>免責事項</h2>
+<p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載している価格・セール情報の正確性・最新性は保証できません。
+購入の判断は、必ずリンク先のストアで表示される価格を確認した上で行ってください。</p>
+
+</main>
+<footer class="site-footer">
+  <p>価格データ提供: <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>（Steamほか各ストアの価格情報を集約）</p>
+  <p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載価格は保存済みデータのため、購入前に必ずストア側の価格をご確認ください。</p>
+  <p>毎朝6時ごろ自動更新 ・ <a href="./about.html">このサイトについて</a></p>
+</footer>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8c81e274f13457d80d3e8484503fdf2"}'></script><!-- End Cloudflare Web Analytics -->
+<script src="./assets/deals.js" defer></script>
+</body>
+</html>

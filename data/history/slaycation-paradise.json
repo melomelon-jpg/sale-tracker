@@ -1,0 +1,81 @@
+{
+  "slug": "slaycation-paradise",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 158,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1520,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1520,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 228,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1580,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 228,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 228,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 1520,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 158,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 1580,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 152,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1520,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -12,6 +12,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 45   # 実測: 初回コールドスタート(260件)で約18分。異常時に6時間デフォルトまで張り付かないための保険
     steps:
       - uses: actions/checkout@v4
 

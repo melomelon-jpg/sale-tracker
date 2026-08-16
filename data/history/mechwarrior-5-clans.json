@@ -1,0 +1,81 @@
+{
+  "slug": "mechwarrior-5-clans",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1440,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 3400,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 2880,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1700,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 3400,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1700,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 3400,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1700,
+      "shop": "GreenManGaming"
+    }
+  ]
+}

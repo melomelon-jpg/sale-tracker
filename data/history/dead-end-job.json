@@ -1,0 +1,41 @@
+{
+  "slug": "dead-end-job",
+  "updated_at": "2026-08-16T05:15:00Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 95,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1900,
+      "shop": "Steam"
+    }
+  ]
+}

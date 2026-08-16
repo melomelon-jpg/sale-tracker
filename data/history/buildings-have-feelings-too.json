@@ -1,0 +1,76 @@
+{
+  "slug": "buildings-have-feelings-too",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1630,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 307,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 308,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 1535,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1630,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2050,
+      "shop": "Steam"
+    }
+  ]
+}

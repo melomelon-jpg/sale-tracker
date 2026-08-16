@@ -1,0 +1,26 @@
+{
+  "slug": "song-song--2",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

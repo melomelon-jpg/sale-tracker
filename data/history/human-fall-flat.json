@@ -1,0 +1,276 @@
+{
+  "slug": "human-fall-flat",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 595,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 506,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1527,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1722,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 615,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 523,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 615,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 2050,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 1527,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 2050,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 595,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 615,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 2050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 1535,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 1527,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1535,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 1527,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 2050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 595,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2050,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2050,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 595,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 750,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 518,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 492,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 615,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 615,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 2050,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 1535,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 2050,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 2050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1527,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 615,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 2050,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 502,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 615,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 750,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 492,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 2050,
+      "shop": "GamersGate"
+    }
+  ]
+}

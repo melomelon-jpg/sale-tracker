@@ -1,36 +1,31 @@
 {
   "slug": "tom-clancys-ghost-recon-breakpoint",
-  "updated_at": "2026-08-13T14:36:29Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 9250,
       "shop": "Microsoft Store"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 9240,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-12",
-      "amount": 9240,
+      "date": "2026-05-15",
+      "amount": 1848,
       "shop": "Epic Game Store"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 9240,
       "shop": "GreenManGaming"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 1848,
       "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 1848,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-05-18",
@@ -136,6 +131,11 @@
       "date": "2026-08-06",
       "amount": 462,
       "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 9240,
+      "shop": "Epic Game Store"
     }
   ]
 }

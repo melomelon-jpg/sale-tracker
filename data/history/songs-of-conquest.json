@@ -1,0 +1,56 @@
+{
+  "slug": "songs-of-conquest",
+  "updated_at": "2026-08-16T05:15:00Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 1895,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 0,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 3790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1895,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 947,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 3790,
+      "shop": "Steam"
+    }
+  ]
+}

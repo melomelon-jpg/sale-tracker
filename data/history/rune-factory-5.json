@@ -1,0 +1,31 @@
+{
+  "slug": "rune-factory-5",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5903,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5980,
+      "shop": "Steam"
+    }
+  ]
+}

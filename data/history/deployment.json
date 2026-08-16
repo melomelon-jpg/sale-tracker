@@ -1,0 +1,116 @@
+{
+  "slug": "deployment",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2699,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 269,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 2699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 242,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 323,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 6299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 472,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 6299,
+      "shop": "GamersGate"
+    }
+  ]
+}

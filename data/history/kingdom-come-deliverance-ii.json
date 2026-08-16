@@ -1,52 +1,7 @@
 {
   "slug": "kingdom-come-deliverance-ii",
-  "updated_at": "2026-08-13T14:56:08Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
-    {
-      "date": "2026-05-12",
-      "amount": 3795,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 5170,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 8090,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 8090,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 9427,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9454,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 4045,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 7590,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9465,
-      "shop": "GamersGate"
-    },
     {
       "date": "2026-05-15",
       "amount": 9511,
@@ -56,6 +11,26 @@
       "date": "2026-05-15",
       "amount": 4840,
       "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7590,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5170,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4045,
+      "shop": "Epic Game Store"
     },
     {
       "date": "2026-05-15",
@@ -445,6 +420,11 @@
     {
       "date": "2026-08-12",
       "amount": 9551,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 9558,
       "shop": "GamersGate"
     }
   ]

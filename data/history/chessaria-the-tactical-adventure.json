@@ -1,0 +1,336 @@
+{
+  "slug": "chessaria-the-tactical-adventure",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3169,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3157,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 3174,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 3181,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 3179,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 3181,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 3177,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 3183,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 3187,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 3188,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 3184,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 3188,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 3193,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 3194,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 3196,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 3198,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 3202,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 3208,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3209,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 3202,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 3206,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 3205,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 3217,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 3223,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 3234,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 3229,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 3232,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3235,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 3231,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 3236,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 3247,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 3253,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 3230,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 3221,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 3245,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 3236,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 3248,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3247,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 3236,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 3241,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 3243,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 3246,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3242,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 3245,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 3246,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 3253,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 3260,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 3268,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 3275,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 3271,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 3277,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 3272,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3257,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 3203,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 3132,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 3147,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 3150,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 3155,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 3165,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 3171,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 3182,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 3180,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 3185,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 3179,
+      "shop": "GamersGate"
+    }
+  ]
+}

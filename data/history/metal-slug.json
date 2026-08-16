@@ -1,0 +1,116 @@
+{
+  "slug": "metal-slug",
+  "updated_at": "2026-08-16T05:15:00Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1098,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1260,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1260,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 798,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 798,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 1050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 1287,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-27",
+      "amount": 798,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 1000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 1050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 798,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1287,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1050,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 798,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 1000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 160,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 160,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1045,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 159,
+      "shop": "Steam"
+    }
+  ]
+}

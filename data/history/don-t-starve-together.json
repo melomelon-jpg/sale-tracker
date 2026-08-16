@@ -1,0 +1,81 @@
+{
+  "slug": "don-t-starve-together",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1391,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1480,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1480,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 148,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 148,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 1480,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 503,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 148,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1480,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 1480,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 503,
+      "shop": "GamersGate"
+    }
+  ]
+}

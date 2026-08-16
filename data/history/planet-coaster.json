@@ -1,0 +1,1381 @@
+{
+  "slug": "planet-coaster",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1145,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4122,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3847,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4305,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7095,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 229,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4580,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 7144,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1145,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1053,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 7148,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 1789,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 7157,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 1145,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 1787,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1774,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 4580,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 4580,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1789,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 1791,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1787,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 1788,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 7165,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 1791,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1145,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 7176,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 7165,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 7168,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 4580,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 7167,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 7171,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 7183,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 1145,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 4122,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 7198,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 4580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 7196,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 7198,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 7095,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 7212,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 7214,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 7206,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7221,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7220,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7221,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7219,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7218,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 7216,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7202,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7222,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7221,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7220,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7222,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7221,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7224,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7223,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 4122,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7222,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7223,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7209,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7211,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7206,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7203,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7213,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7211,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7206,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7199,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 7196,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7212,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7208,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7205,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7207,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7204,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7201,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7208,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7203,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7197,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7190,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7207,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7218,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7216,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7215,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7213,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 4580,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7212,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7205,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7206,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7214,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 7216,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7231,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7213,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7207,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7208,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7207,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7210,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7213,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7214,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7217,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 7219,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1816,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1809,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1809,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1145,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7240,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7234,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7233,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7225,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7227,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7226,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7225,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 7228,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1815,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1813,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1815,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1813,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1813,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1814,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1053,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 1815,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 7248,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 1031,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 916,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1812,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 4080,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 3920,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 4122,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 4580,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 7248,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3881,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1812,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 1145,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 4080,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 3881,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 1053,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 7248,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1812,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 3920,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 4122,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 3882,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 4580,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1145,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1053,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 1768,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 7071,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 1145,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 4580,
+      "shop": "GamersGate"
+    }
+  ]
+}

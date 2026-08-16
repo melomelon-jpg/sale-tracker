@@ -1,0 +1,46 @@
+{
+  "slug": "aircraft-carrier-survival",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 396,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 123,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1980,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 123,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 123,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "routine",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2175,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2509,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2492,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3941,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2800,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 2900,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 4026,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 2030,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2900,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 3928,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 1876,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 2946,
+      "shop": "PlanetPlay"
+    }
+  ]
+}

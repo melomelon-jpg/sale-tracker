@@ -1,31 +1,26 @@
 {
   "slug": "asguaard",
-  "updated_at": "2026-08-13T14:36:29Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 1088,
       "shop": "Fanatical"
     },
     {
-      "date": "2026-05-12",
-      "amount": 1500,
+      "date": "2026-05-15",
+      "amount": 120,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 1500,
       "shop": "GamersGate"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 1500,
       "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 120,
-      "shop": "Steam"
     },
     {
       "date": "2026-05-18",

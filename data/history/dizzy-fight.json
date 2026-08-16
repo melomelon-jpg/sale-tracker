@@ -1,0 +1,36 @@
+{
+  "slug": "dizzy-fight",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 276,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 780,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 78,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 780,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 39,
+      "shop": "Epic Game Store"
+    }
+  ]
+}

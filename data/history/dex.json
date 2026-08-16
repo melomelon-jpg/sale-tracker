@@ -1,0 +1,51 @@
+{
+  "slug": "dex",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1455,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 1462,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1469,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 1475,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1980,
+      "shop": "Steam"
+    }
+  ]
+}

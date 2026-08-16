@@ -1,0 +1,146 @@
+{
+  "slug": "manor-lords",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3980,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3741,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2587,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6307,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3980,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 4100,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2587,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 3980,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 6307,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 2587,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 3980,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3980,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 2587,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 6443,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2587,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2587,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 4188,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 3980,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 2587,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3980,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 6443,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2587,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3980,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3980,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 6285,
+      "shop": "PlanetPlay"
+    }
+  ]
+}

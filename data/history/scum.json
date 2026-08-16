@@ -1,0 +1,136 @@
+{
+  "slug": "scum",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2000,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5000,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4700,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 2000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 5000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 5000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 5000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 5000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 5000,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 2000,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 2000,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2000,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1450,
+      "shop": "Fortuna Digital"
+    }
+  ]
+}

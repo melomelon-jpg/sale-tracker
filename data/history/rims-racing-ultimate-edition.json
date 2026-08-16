@@ -1,0 +1,9061 @@
+{
+  "slug": "rims-racing-ultimate-edition",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12815,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12814,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7130,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5240,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7271,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 12815,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 12813,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12866,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 606,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12843,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12813,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12813,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12818,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12843,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12845,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12863,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 12866,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12818,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12814,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12833,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12832,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12836,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12842,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12836,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12832,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12836,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12833,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 12832,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 2110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12858,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 12845,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12866,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12870,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 606,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 7130,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12928,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12933,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12933,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12923,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12924,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12924,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12926,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12926,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12924,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12926,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12925,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12935,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12934,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 7271,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12842,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12803,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12796,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12843,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12842,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12837,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 12833,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 12858,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12870,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12867,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12877,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12925,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 5704,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 7130,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12930,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12919,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12925,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12803,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12799,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12934,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12933,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12937,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 12939,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12754,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12772,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12779,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12779,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 713,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12780,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12773,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12807,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12814,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12809,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12809,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12730,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12730,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12736,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12753,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12761,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12765,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12762,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12760,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12762,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12760,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12762,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 12762,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-21",
+      "amount": 12843,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-21",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12870,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12838,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12776,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12774,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12777,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12776,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12780,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12788,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12780,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12788,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12798,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12793,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12797,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12832,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12832,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12768,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12765,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12765,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12757,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12752,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12754,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12752,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12730,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12741,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12730,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12741,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12738,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12749,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12756,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12763,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12756,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12763,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12769,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12758,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12756,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12758,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12772,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12769,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12774,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 12774,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12781,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12787,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12786,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1919,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12785,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12787,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12777,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12754,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12757,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12769,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12757,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12769,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12777,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12772,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12774,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12772,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12773,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12771,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12763,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12761,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12761,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12764,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12768,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 12766,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12803,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12798,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12800,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12803,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12807,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12806,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12823,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12823,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12806,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12806,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12805,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12796,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12778,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12768,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12773,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12774,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12777,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12777,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-27",
+      "amount": 12805,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-28",
+      "amount": 12798,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-28",
+      "amount": 12794,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12858,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12833,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12823,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12824,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12809,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12800,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12797,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12803,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12798,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12799,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12798,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12799,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 12796,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12858,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12845,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12861,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12893,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12799,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12796,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12793,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12796,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12793,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 7130,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12801,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12785,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12781,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12792,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12823,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12816,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12809,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12804,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12795,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12822,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12817,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12810,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12812,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12808,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 12802,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-04",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-04",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-04",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-04",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 12821,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12863,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12842,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 12819,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12863,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12862,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12858,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12863,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12863,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12868,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12871,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12870,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12865,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12866,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12902,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12895,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 12897,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12823,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12829,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12827,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12850,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12843,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12860,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 12820,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 12811,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12847,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12859,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12864,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 642,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12869,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12856,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12835,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12831,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12826,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12834,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12830,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 12828,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12872,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12873,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12875,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12854,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12841,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12853,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12857,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12844,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12852,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12845,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12846,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12882,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12878,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12883,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12881,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12896,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12879,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12876,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 12874,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12919,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12919,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12919,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12916,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12901,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12918,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 12900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 12899,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 12912,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 12917,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12891,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12885,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12888,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12898,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12914,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12910,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12907,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12904,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12900,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 12906,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12924,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12930,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12926,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12922,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12915,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12909,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12913,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12911,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12908,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12903,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12894,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12892,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12884,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12890,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12889,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12887,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 12886,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12933,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12934,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12933,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12919,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12921,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12934,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12928,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12927,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 12925,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 7271,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12947,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12945,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12939,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12945,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12949,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12949,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12937,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 12929,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12949,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12958,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 12957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 12905,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 12950,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 12953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12935,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12937,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 7130,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12940,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12935,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12950,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12949,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 5704,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12968,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12965,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 7130,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 12956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12968,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12965,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12944,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 5704,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12938,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12936,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12931,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12935,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12940,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12939,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12934,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 12937,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 13013,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 13002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12977,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12968,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12950,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12941,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12950,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 12962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12775,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12773,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12743,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12700,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12776,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12753,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12748,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12851,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12988,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12987,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 12982,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13017,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13015,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13017,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13009,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13017,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13009,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13011,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13013,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13009,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13011,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13012,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13014,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13018,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13022,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 13016,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12642,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12746,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12725,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12686,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12741,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12731,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12725,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12702,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12802,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12789,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12784,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12793,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12849,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12840,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12839,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12855,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12848,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12825,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12782,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 12780,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 5340,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 12619,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 12610,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 12602,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 12619,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 12680,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 12616,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12563,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12549,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12551,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12545,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12551,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12532,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12533,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12563,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12567,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12564,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12585,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12564,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12585,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12563,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 606,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12549,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12552,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12536,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12538,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12536,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12537,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12531,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12529,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12486,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12662,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12619,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 12637,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10939,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 10950,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12604,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12599,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12614,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12627,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12628,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12627,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12628,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12618,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12623,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12607,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12605,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12607,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12609,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12594,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12581,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12586,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 12587,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10958,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10943,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10949,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10947,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11010,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11006,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11003,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11006,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11013,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11014,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 11005,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10995,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 356,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10989,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10973,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10972,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10973,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10971,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10970,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10971,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10968,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10965,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10969,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10953,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10952,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10959,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 10961,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10966,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10942,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10932,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10948,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10969,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10951,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10920,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11001,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10998,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10997,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11004,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11005,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11006,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11003,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11006,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11008,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 10999,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11013,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11005,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11008,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11009,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11008,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11012,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 11008,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-08",
+      "amount": 10964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-09",
+      "amount": 10960,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-09",
+      "amount": 10963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11067,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11065,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11057,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11050,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11042,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11046,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11043,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11034,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11022,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11035,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11041,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11038,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11030,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11025,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11012,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11001,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11008,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11003,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10999,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10992,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 11002,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10994,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10993,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10992,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10997,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10982,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10981,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10974,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10981,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10970,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10966,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 10957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11067,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11065,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11064,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11065,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11063,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11063,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11067,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11071,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11061,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11064,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11062,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11055,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11080,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11081,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11078,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11064,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11055,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11054,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11042,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11054,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11060,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11056,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11060,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11056,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11071,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11073,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11074,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11078,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11073,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11071,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11067,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11064,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 11067,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11082,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11085,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11081,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11082,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11078,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11070,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11074,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11070,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11073,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11078,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11074,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11080,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11080,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11076,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11072,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11071,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11079,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 11080,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11073,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11061,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11056,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11044,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11045,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11035,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11059,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11060,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11058,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11059,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11056,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11060,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11068,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11066,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11070,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11069,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11071,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11070,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11075,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11077,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11074,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11076,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11082,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 11086,
+      "shop": "Dreamgame"
+    }
+  ]
+}

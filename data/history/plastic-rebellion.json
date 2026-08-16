@@ -1,0 +1,41 @@
+{
+  "slug": "plastic-rebellion",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 1010,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 71,
+      "shop": "Fanatical"
+    }
+  ]
+}

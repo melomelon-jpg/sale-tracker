@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sale-tracker-368.pages.dev/sitemap.xml

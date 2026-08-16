@@ -1,0 +1,106 @@
+{
+  "slug": "castle-flipper",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2100,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 105,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2100,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2100,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 105,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2100,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 105,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 2100,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 315,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 126,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 105,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 2100,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 2100,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 210,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 2100,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 126,
+      "shop": "Steam"
+    }
+  ]
+}

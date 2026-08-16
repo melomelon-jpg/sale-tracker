@@ -1,352 +1,7 @@
 {
   "slug": "hell-is-us",
-  "updated_at": "2026-08-13T14:56:08Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
-    {
-      "date": "2026-05-12",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 9251,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 9249,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 9251,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 2303,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6580,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6185,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 2369,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 2632,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6580,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 7884,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 9244,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 2698,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9243,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9242,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9240,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9241,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9239,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9234,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9236,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9234,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9240,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9234,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9240,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9242,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9232,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9237,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9240,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9247,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9253,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9248,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9248,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9253,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9254,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9249,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9250,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 9249,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9239,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9236,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9239,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9235,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9231,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9233,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9231,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 3290,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9230,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9238,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9230,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9238,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9240,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9242,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9245,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9243,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9248,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9242,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9245,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9243,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9248,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9246,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9247,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9243,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9247,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9243,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 9244,
-      "shop": "Dreamgame"
-    },
     {
       "date": "2026-05-15",
       "amount": 9222,
@@ -399,78 +54,48 @@
     },
     {
       "date": "2026-05-15",
+      "amount": 2303,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6580,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6185,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2369,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2632,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3290,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7884,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
       "amount": 9217,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9213,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9217,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9221,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9217,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9221,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9228,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9231,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9234,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9231,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9232,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9231,
       "shop": "Dreamgame"
     },
     {
       "date": "2026-05-15",
       "amount": 6580,
       "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9237,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9240,
-      "shop": "Dreamgame"
     },
     {
       "date": "2026-05-16",
@@ -10284,6 +9909,31 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 7973,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 7976,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 7973,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 7970,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 7962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-13",
       "amount": 7956,
       "shop": "Dreamgame"
     },
@@ -10431,6 +10081,141 @@
       "date": "2026-08-13",
       "amount": 7972,
       "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7958,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7954,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7946,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7947,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7940,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7958,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7956,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7955,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7957,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7963,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7962,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7965,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7964,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7965,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7968,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7970,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7967,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7969,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7973,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7976,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 6580,
+      "shop": "GreenManGaming"
     }
   ]
 }

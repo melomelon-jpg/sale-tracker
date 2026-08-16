@@ -1,0 +1,86 @@
+{
+  "slug": "sparklite",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2045,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2570,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2570,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 385,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 386,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 1925,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 2570,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 2045,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 1925,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 2045,
+      "shop": "Fanatical"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "undefeated",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 720,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1200,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1200,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 108,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1200,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 724,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 727,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 731,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 734,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 96,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1200,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 96,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 1200,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 96,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 1200,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 96,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 1200,
+      "shop": "GamersGate"
+    }
+  ]
+}

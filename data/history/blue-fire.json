@@ -1,0 +1,56 @@
+{
+  "slug": "blue-fire",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1507,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2080,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 410,
+      "shop": "Steam"
+    }
+  ]
+}

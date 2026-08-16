@@ -1,0 +1,321 @@
+{
+  "slug": "pathfinder-wrath-of-the-righteous-enhanced-edition",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 650,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 780,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2599,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2183,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 779,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3153,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 780,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 780,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2599,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 2599,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 780,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 2599,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 2599,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 780,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 946,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 779,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2599,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2599,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 2599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 2599,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 2599,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 3153,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 780,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 2599,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 650,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 2599,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 780,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 650,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 3220,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 780,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 649,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 966,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 624,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 2599,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 650,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 650,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 2599,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 2599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 650,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 2599,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2599,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3220,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 649,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2599,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 546,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 650,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 805,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 650,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 3220,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 2599,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 2599,
+      "shop": "Fortuna Digital"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2599,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 805,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 650,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 2599,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 650,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 786,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 3142,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 650,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 649,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 650,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 650,
+      "shop": "Fortuna Digital"
+    }
+  ]
+}

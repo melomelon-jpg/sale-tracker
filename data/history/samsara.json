@@ -1,0 +1,16 @@
+{
+  "slug": "samsara",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3380,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1520,
+      "shop": "Steam"
+    }
+  ]
+}

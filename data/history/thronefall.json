@@ -1,0 +1,71 @@
+{
+  "slug": "thronefall",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2500,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1260,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 1500,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 975,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 975,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 1500,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1500,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 975,
+      "shop": "Steam"
+    }
+  ]
+}

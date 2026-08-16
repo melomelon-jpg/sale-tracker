@@ -1,0 +1,296 @@
+{
+  "slug": "dishonored-2",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3300,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 660,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3300,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 3930,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 789,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 812,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 4510,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 4510,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 660,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3300,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3300,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 660,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 581,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 428,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 568,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 581,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 812,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 568,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 4510,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4510,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3300,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 3953,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 568,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 660,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 812,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 660,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 660,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 4510,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 4005,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 3300,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 3300,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 3300,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 568,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 3953,
+      "shop": "Fanatical"
+    }
+  ]
+}

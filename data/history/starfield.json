@@ -1,0 +1,236 @@
+{
+  "slug": "starfield",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 6050,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 4840,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 6050,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 4259,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 4296,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 6050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 6050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 6050,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 5022,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 5313,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4162,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4235,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4840,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 6050,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 6050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 6050,
+      "shop": "Microsoft Store"
+    }
+  ]
+}

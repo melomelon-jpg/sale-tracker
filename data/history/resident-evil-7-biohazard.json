@@ -1,0 +1,46 @@
+{
+  "slug": "resident-evil-7-biohazard",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1990,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 796,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 796,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 796,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1990,
+      "shop": "Steam"
+    }
+  ]
+}

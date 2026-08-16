@@ -1,0 +1,471 @@
+{
+  "slug": "the-medium",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 7926,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6308,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1554,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7896,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 7937,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 7954,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 2386,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 2099,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2387,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 2384,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 2388,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 2391,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 2392,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 2389,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 7973,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 6568,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 8230,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 7962,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 7986,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 7989,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 7992,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 6428,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 7997,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 8006,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 8023,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 8025,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 5180,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 8008,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 6568,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 8017,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 8014,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 8045,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 8060,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 6428,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 8087,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-23",
+      "amount": 8075,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 8083,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2428,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2425,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1975,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 2425,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 2428,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 2437,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-01",
+      "amount": 2441,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-02",
+      "amount": 2424,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 2417,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-06",
+      "amount": 2435,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-07",
+      "amount": 2428,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-08",
+      "amount": 2437,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2436,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 2428,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-12",
+      "amount": 8092,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 8105,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 6428,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 8230,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 8109,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 8118,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 6568,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 8108,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1554,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 8116,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 8118,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 8136,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 8152,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 8172,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 8189,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 8180,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 8194,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 8182,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 5180,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 8145,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 8010,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 6428,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 7832,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1975,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 7869,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 7878,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 2367,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 2364,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 2375,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2380,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 2388,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 2386,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2390,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7949,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 7965,
+      "shop": "GamersGate"
+    }
+  ]
+}

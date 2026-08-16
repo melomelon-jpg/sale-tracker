@@ -1,41 +1,21 @@
 {
   "slug": "miners-mettle",
-  "updated_at": "2026-08-13T14:36:29Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
-      "amount": 2800,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 393,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 280,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-13",
-      "amount": 394,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "amount": 2800,
       "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-14",
-      "amount": 395,
-      "shop": "Gamesporium"
     },
     {
       "date": "2026-05-15",
       "amount": 396,
       "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2800,
+      "shop": "Steam"
     },
     {
       "date": "2026-05-16",

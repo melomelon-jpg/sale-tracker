@@ -1,76 +1,56 @@
 {
   "slug": "warhammer-40000-rogue-trader",
-  "updated_at": "2026-08-13T14:56:08Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
-      "amount": 2600,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 6550,
       "shop": "Microsoft Store"
     },
     {
-      "date": "2026-05-12",
-      "amount": 2145,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6500,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 5850,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6500,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6500,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 7884,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 2275,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 6500,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "amount": 2080,
       "shop": "Fortuna Digital"
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
+      "amount": 6500,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5850,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 6500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
       "amount": 2600,
       "shop": "Epic Game Store"
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
+      "amount": 7884,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
       "amount": 2600,
       "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2275,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2600,
+      "shop": "GreenManGaming"
     },
     {
       "date": "2026-05-16",
@@ -396,6 +376,11 @@
       "date": "2026-08-07",
       "amount": 7857,
       "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2600,
+      "shop": "Steam"
     },
     {
       "date": "2026-08-13",

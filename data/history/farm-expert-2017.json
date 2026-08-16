@@ -1,0 +1,81 @@
+{
+  "slug": "farm-expert-2017",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 115,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2300,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2300,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2300,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 115,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2300,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 115,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 2300,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 115,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 2300,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 138,
+      "shop": "Steam"
+    }
+  ]
+}

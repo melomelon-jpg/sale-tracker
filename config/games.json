@@ -8,11 +8,16 @@
     "enabled": true,
     "sorts": ["-cut", "-trending"],
     "fetch_limit": 200,
-    "min_cut_pct": 60,
+    "min_cut_pct": 30,
     "min_price_jpy": 1,
-    "max_auto": 20,
+    "max_auto": 300,
     "prune_days": 14,
     "allowed_types": ["game"],
     "exclude_mature": true
+  },
+  "featured": {
+    "min_reviews": 500,
+    "min_price_jpy": 500,
+    "popularity_weight": 15
   }
 }

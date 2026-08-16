@@ -1,0 +1,41 @@
+{
+  "slug": "total-war-three-kingdoms",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1316,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 6580,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 4990,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1497,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 1497,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "et-armies",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 148,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 222,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 148,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 148,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 1480,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1480,
+      "shop": "Steam"
+    }
+  ]
+}

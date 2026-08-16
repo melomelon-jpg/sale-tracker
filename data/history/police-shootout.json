@@ -1,0 +1,111 @@
+{
+  "slug": "police-shootout",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 85,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 85,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 85,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1700,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1700,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 85,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 85,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 1700,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 85,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 85,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 85,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1700,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 119,
+      "shop": "Steam"
+    }
+  ]
+}

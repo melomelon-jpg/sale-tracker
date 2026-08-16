@@ -1,0 +1,91 @@
+{
+  "slug": "nickelodeon-all-star-brawl",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3785,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 259,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 258,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 258,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 5150,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 5150,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 5180,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 258,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 5150,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 258,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 5150,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 1030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 258,
+      "shop": "GamersGate"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "god-of-war-ragnarok",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 7590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 5085,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7590,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 5085,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 7590,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 7590,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 5085,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 5085,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 7590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 7590,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 5085,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 7590,
+      "shop": "Epic Game Store"
+    }
+  ]
+}

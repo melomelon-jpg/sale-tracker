@@ -1,0 +1,161 @@
+{
+  "slug": "a-little-to-the-left",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 680,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1598,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1669,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 680,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 680,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 1700,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1000,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1000,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 1700,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 680,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 680,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1000,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 680,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2500,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1700,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 680,
+      "shop": "2game"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1700,
+      "shop": "Steam"
+    }
+  ]
+}

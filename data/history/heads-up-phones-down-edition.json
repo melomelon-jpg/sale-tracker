@@ -1,46 +1,41 @@
 {
   "slug": "heads-up-phones-down-edition",
-  "updated_at": "2026-08-13T14:36:29Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 225,
       "shop": "Gamesporium"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 6613,
       "shop": "Fanatical"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 4230,
       "shop": "2game"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 4500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 4500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 225,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-12",
-      "amount": 4500,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-05-15",
       "amount": 225,
       "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 225,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4500,
+      "shop": "GreenManGaming"
     },
     {
       "date": "2026-05-18",
@@ -211,6 +206,11 @@
       "date": "2026-08-10",
       "amount": 225,
       "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 225,
+      "shop": "GreenManGaming"
     }
   ]
 }

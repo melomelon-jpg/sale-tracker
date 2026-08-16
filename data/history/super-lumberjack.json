@@ -1,0 +1,36 @@
+{
+  "slug": "super-lumberjack",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 545,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-09",
+      "amount": 545,
+      "shop": "Steam"
+    }
+  ]
+}

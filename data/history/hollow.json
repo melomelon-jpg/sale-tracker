@@ -1,0 +1,66 @@
+{
+  "slug": "hollow",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1980,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1980,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 198,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 1980,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 198,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1980,
+      "shop": "GamersGate"
+    }
+  ]
+}

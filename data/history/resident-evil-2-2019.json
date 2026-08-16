@@ -1,0 +1,66 @@
+{
+  "slug": "resident-evil-2-2019",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 3990,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 798,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3990,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 798,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3990,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 3990,
+      "shop": "Steam"
+    }
+  ]
+}

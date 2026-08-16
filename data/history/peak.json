@@ -1,0 +1,191 @@
+{
+  "slug": "peak",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 880,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 675,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 880,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 880,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 545,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 546,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 546,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 687,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 693,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 880,
+      "shop": "Gamesporium"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 687,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 693,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 545,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 448,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 687,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 546,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 880,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 880,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 693,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 692,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 693,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 437,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 880,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 414,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 687,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 546,
+      "shop": "Dreamgame"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 414,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 880,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 687,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 880,
+      "shop": "GreenManGaming"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 422,
+      "shop": "Fanatical"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "persona-3-reload",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 7678,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 3071,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2687,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 7678,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2687,
+      "shop": "Steam"
+    }
+  ]
+}

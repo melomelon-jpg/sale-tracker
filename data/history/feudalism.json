@@ -1,0 +1,31 @@
+{
+  "slug": "feudalism",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1174,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 1322,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 148,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1480,
+      "shop": "Steam"
+    }
+  ]
+}

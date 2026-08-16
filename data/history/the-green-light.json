@@ -1,19 +1,14 @@
 {
   "slug": "the-green-light",
-  "updated_at": "2026-08-13T14:36:29Z",
+  "updated_at": "2026-08-16T10:40:49Z",
   "history": [
     {
-      "date": "2026-05-12",
+      "date": "2026-05-15",
       "amount": 406,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-12",
-      "amount": 490,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-14",
+      "date": "2026-05-15",
       "amount": 245,
       "shop": "Epic Game Store"
     },

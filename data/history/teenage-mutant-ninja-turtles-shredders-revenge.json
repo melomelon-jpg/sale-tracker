@@ -1,0 +1,41 @@
+{
+  "slug": "teenage-mutant-ninja-turtles-shredders-revenge",
+  "updated_at": "2026-08-16T05:15:00Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2600,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2599,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 1039,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1040,
+      "shop": "Microsoft Store"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2600,
+      "shop": "Microsoft Store"
+    }
+  ]
+}

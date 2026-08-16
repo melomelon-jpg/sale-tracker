@@ -1,0 +1,91 @@
+{
+  "slug": "agents-of-mayhem",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 397,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 179,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 4100,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 3589,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 397,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 4962,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 397,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 4962,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 179,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 397,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 4962,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3589,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 397,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-11",
+      "amount": 4962,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 179,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 4962,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 3589,
+      "shop": "Steam"
+    }
+  ]
+}

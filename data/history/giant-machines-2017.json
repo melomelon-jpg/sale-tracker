@@ -1,0 +1,101 @@
+{
+  "slug": "giant-machines-2017",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1980,
+      "shop": "Fanatical"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 3153,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2300,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 410,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 3153,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2300,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 3220,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 161,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 299,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 418,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 3220,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 2300,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-05",
+      "amount": 3142,
+      "shop": "PlanetPlay"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 138,
+      "shop": "Steam"
+    }
+  ]
+}

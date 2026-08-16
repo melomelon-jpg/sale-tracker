@@ -1,0 +1,136 @@
+{
+  "slug": "hell-division",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 99,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1980,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 99,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-03",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1980,
+      "shop": "Epic Game Store"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 3400,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 255,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 3400,
+      "shop": "GamersGate"
+    }
+  ]
+}

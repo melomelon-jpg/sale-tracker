@@ -1,0 +1,46 @@
+{
+  "slug": "ships-2017",
+  "updated_at": "2026-08-16T10:40:49Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 2600,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 156,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 156,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 2600,
+      "shop": "GamersGate"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 156,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 156,
+      "shop": "GamersGate"
+    }
+  ]
+}
