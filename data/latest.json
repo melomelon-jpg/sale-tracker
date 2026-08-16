@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:36:12Z",
+  "generated_at": "2026-08-16T04:51:41Z",
   "currency": "JPY",
   "games": [
     {
@@ -21,7 +21,7 @@
         "amount": 9557
       },
       "current": {
-        "amount": 8218,
+        "amount": 8219,
         "shop": "GameBillet",
         "discount_pct": 14,
         "url": "https://itad.link/018d9386-5634-71ca-ac17-8fff3f127b84/",
@@ -270,7 +270,7 @@
       },
       "appid": 1076120,
       "regular": {
-        "amount": 3184
+        "amount": 3185
       },
       "current": {
         "amount": 126,
@@ -309,7 +309,7 @@
         "amount": 9557
       },
       "current": {
-        "amount": 3815,
+        "amount": 3816,
         "shop": "GameBillet",
         "discount_pct": 60,
         "url": "https://itad.link/018d9386-a365-70c6-a395-86081c1069b3/",
@@ -322,7 +322,7 @@
       "verdict": {
         "code": "watch",
         "label": "様子見",
-        "gap_pct": 46.7
+        "gap_pct": 46.8
       },
       "on_sale": true
     },
@@ -507,38 +507,38 @@
       "on_sale": true
     },
     {
-      "slug": "persona-5-royal",
-      "title": "Persona 5 Royal",
-      "itad_id": "018d937f-4adb-73a6-a9e5-94ff62f6265b",
+      "slug": "frostpunk-2",
+      "title": "Frostpunk 2",
+      "itad_id": "018d937f-53ee-71c1-9635-7035894410d7",
       "steam_appid": null,
       "source": "auto",
       "jp_support": null,
       "assets": {
-        "boxart": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/boxart.jpg?t=1786395642",
-        "banner145": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner145.jpg?t=1786395642",
-        "banner300": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner300.jpg?t=1786395642",
-        "banner400": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner400.jpg?t=1786395642",
-        "banner600": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner600.jpg?t=1786395642"
+        "boxart": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/boxart.jpg?t=1786394759",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner145.jpg?t=1786394760",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner300.jpg?t=1786394760",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner400.jpg?t=1786394760",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner600.jpg?t=1786394760"
       },
-      "appid": 1687950,
+      "appid": 1601580,
       "regular": {
-        "amount": 7678
+        "amount": 5200
       },
       "current": {
-        "amount": 2303,
-        "shop": "Steam",
-        "discount_pct": 70,
-        "url": "https://itad.link/018d9386-ab6c-72b0-96fc-37ea5fd890e5/",
-        "expiry": "2026-08-24T19:00:00+02:00"
+        "amount": 2028,
+        "shop": "Fanatical",
+        "discount_pct": 61,
+        "url": "https://itad.link/0191946c-a383-7336-88c7-6b1ed309db8c/",
+        "expiry": "2026-08-21T00:59:00+02:00"
       },
       "lowest": {
-        "amount": 1535,
-        "date": "2026-04-23"
+        "amount": 2028,
+        "date": "2026-06-19"
       },
       "verdict": {
-        "code": "high",
-        "label": "割高",
-        "gap_pct": 50.0
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
       },
       "on_sale": true
     },
@@ -579,38 +579,38 @@
       "on_sale": true
     },
     {
-      "slug": "frostpunk-2",
-      "title": "Frostpunk 2",
-      "itad_id": "018d937f-53ee-71c1-9635-7035894410d7",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "itad_id": "018d937f-4adb-73a6-a9e5-94ff62f6265b",
       "steam_appid": null,
       "source": "auto",
       "jp_support": null,
       "assets": {
-        "boxart": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/boxart.jpg?t=1786394759",
-        "banner145": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner145.jpg?t=1786394760",
-        "banner300": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner300.jpg?t=1786394760",
-        "banner400": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner400.jpg?t=1786394760",
-        "banner600": "https://assets.isthereanydeal.com/018d937f-53ee-71c1-9635-7035894410d7/banner600.jpg?t=1786394760"
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/boxart.jpg?t=1786395642",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner145.jpg?t=1786395642",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner300.jpg?t=1786395642",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner400.jpg?t=1786395642",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner600.jpg?t=1786395642"
       },
-      "appid": 1601580,
+      "appid": 1687950,
       "regular": {
-        "amount": 5200
+        "amount": 7678
       },
       "current": {
-        "amount": 2028,
-        "shop": "Fanatical",
-        "discount_pct": 61,
-        "url": "https://itad.link/0191946c-a383-7336-88c7-6b1ed309db8c/",
-        "expiry": "2026-08-21T00:59:00+02:00"
+        "amount": 2303,
+        "shop": "Steam",
+        "discount_pct": 70,
+        "url": "https://itad.link/018d9386-ab6c-72b0-96fc-37ea5fd890e5/",
+        "expiry": "2026-08-24T19:00:00+02:00"
       },
       "lowest": {
-        "amount": 2028,
-        "date": "2026-06-19"
+        "amount": 1535,
+        "date": "2026-04-23"
       },
       "verdict": {
-        "code": "record_low",
-        "label": "過去最安更新中",
-        "gap_pct": 0.0
+        "code": "high",
+        "label": "割高",
+        "gap_pct": 50.0
       },
       "on_sale": true
     },
@@ -649,38 +649,38 @@
       "on_sale": true
     },
     {
-      "slug": "cult-of-the-lamb",
-      "title": "Cult of the Lamb",
-      "itad_id": "018d937f-5ccf-7344-a579-d8feb6ba83cf",
+      "slug": "warhammer-40000-rogue-trader",
+      "title": "Warhammer 40,000: Rogue Trader",
+      "itad_id": "018d937f-66c4-73c9-996f-9034adea22e2",
       "steam_appid": null,
       "source": "auto",
       "jp_support": null,
       "assets": {
-        "boxart": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/boxart.jpg?t=1786556447",
-        "banner145": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner145.jpg?t=1786556447",
-        "banner300": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner300.jpg?t=1786556447",
-        "banner400": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner400.jpg?t=1786556447",
-        "banner600": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner600.jpg?t=1786556447"
+        "boxart": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/boxart.jpg?t=1786644393",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner145.jpg?t=1786644393",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner300.jpg?t=1786644393",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner400.jpg?t=1786644393",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner600.jpg?t=1786644393"
       },
-      "appid": 1313140,
+      "appid": 2186680,
       "regular": {
-        "amount": 2570
+        "amount": 7964
       },
       "current": {
-        "amount": 1028,
-        "shop": "Fanatical",
-        "discount_pct": 60,
-        "url": "https://itad.link/018d9386-45fa-735a-8cec-0c03f417af78/",
-        "expiry": "2026-08-21T00:59:00+02:00"
+        "amount": 2047,
+        "shop": "GameBillet",
+        "discount_pct": 74,
+        "url": "https://itad.link/018d9386-f27f-729b-998c-e8e7f97a4e68/",
+        "expiry": null
       },
       "lowest": {
-        "amount": 1028,
-        "date": "2026-01-22"
+        "amount": 1625,
+        "date": "2026-03-18"
       },
       "verdict": {
-        "code": "record_low",
-        "label": "過去最安更新中",
-        "gap_pct": 0.0
+        "code": "watch",
+        "label": "様子見",
+        "gap_pct": 26.0
       },
       "on_sale": true
     },
@@ -721,38 +721,38 @@
       "on_sale": true
     },
     {
-      "slug": "pacific-drive",
-      "title": "Pacific Drive",
-      "itad_id": "018d937f-6ee4-73f5-858c-2fde3c008587",
+      "slug": "cult-of-the-lamb",
+      "title": "Cult of the Lamb",
+      "itad_id": "018d937f-5ccf-7344-a579-d8feb6ba83cf",
       "steam_appid": null,
       "source": "auto",
       "jp_support": null,
       "assets": {
-        "boxart": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/boxart.jpg?t=1767987315",
-        "banner145": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner145.jpg?t=1767987315",
-        "banner300": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner300.jpg?t=1767987315",
-        "banner400": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner400.jpg?t=1767987315",
-        "banner600": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde3c008587/banner600.jpg?t=1767987315"
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/boxart.jpg?t=1786556447",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner145.jpg?t=1786556447",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner300.jpg?t=1786556447",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner400.jpg?t=1786556447",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner600.jpg?t=1786556447"
       },
-      "appid": 1458140,
+      "appid": 1313140,
       "regular": {
-        "amount": 4765
+        "amount": 2570
       },
       "current": {
-        "amount": 1430,
+        "amount": 1028,
         "shop": "Fanatical",
-        "discount_pct": 70,
-        "url": "https://itad.link/01963e54-37b8-7144-a8da-074cfb4b68d9/",
+        "discount_pct": 60,
+        "url": "https://itad.link/018d9386-45fa-735a-8cec-0c03f417af78/",
         "expiry": "2026-08-21T00:59:00+02:00"
       },
       "lowest": {
-        "amount": 1122,
-        "date": "2026-04-30"
+        "amount": 1028,
+        "date": "2026-01-22"
       },
       "verdict": {
-        "code": "watch",
-        "label": "様子見",
-        "gap_pct": 27.5
+        "code": "record_low",
+        "label": "過去最安更新中",
+        "gap_pct": 0.0
       },
       "on_sale": true
     },
