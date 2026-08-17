@@ -1,0 +1,96 @@
+{
+  "slug": "the-stanley-parable",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-30",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 750,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "elden-ring-nightreign",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2025-02-12",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5720,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,9 +1,99 @@
 {
   "slug": "the-elder-scrolls-iv-oblivion-remastered",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-04-22",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-30",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-13",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 4643,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4643,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-13",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
       "amount": 6930,
       "shop": "Steam"
     },

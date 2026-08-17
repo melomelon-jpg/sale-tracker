@@ -1,15 +1,80 @@
 {
   "slug": "doom-the-dark-ages",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-01-23",
       "amount": 9680,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-07-30",
+      "amount": 7260,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-13",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 6485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
       "amount": 3194,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-15",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3194,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 3194,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 9680,
       "shop": "Steam"
     },
     {

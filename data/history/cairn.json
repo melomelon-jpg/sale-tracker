@@ -1,9 +1,34 @@
 {
   "slug": "cairn",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2026-01-29",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 2890,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
       "amount": 3400,
       "shop": "Steam"
     },

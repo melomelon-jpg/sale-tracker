@@ -1,0 +1,51 @@
+{
+  "slug": "hi-fi-rush",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 4355,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-10",
+      "amount": 2613,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-17",
+      "amount": 4355,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2613,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4355,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2395,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4355,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 2177,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4355,
+      "shop": "Steam"
+    }
+  ]
+}

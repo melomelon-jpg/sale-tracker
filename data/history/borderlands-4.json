@@ -1,9 +1,64 @@
 {
   "slug": "borderlands-4",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-06-16",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-13",
+      "amount": 7568,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-20",
+      "amount": 7568,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 7568,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 6622,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 6622,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
       "amount": 5676,
       "shop": "Steam"
     },

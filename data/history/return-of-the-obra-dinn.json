@@ -1,0 +1,61 @@
+{
+  "slug": "return-of-the-obra-dinn",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 1541,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 1541,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-16",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 2300,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,9 +1,129 @@
 {
   "slug": "dragons-dogma-dark-arisen",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-12",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-10",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-12",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-24",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-23",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-06",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-20",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-24",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-23",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-07",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-18",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-13",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 4063,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
       "amount": 4063,
       "shop": "Steam"
     },

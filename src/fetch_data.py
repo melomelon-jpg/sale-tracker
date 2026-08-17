@@ -524,9 +524,18 @@ def main():
         pending_new_ids = {e["id"] for e in selected_new}
         onboarded = [e for e in tracked_pool.values() if e.get("info_fetched")]
 
+        # 自動収集プール（source=auto）と同じゲームは除外する。同じITAD idが
+        # auto/tracked 両方に入ると latest.json に同じゲームが2レコード（=slugが
+        # 重複するdetail pageのURL衝突）になってしまうため（セール中の人気タイトルは
+        # 両プールに同時に存在しうる）。
+        auto_ids = set(kept.keys())
         today_weekday = date.today().weekday()
         top_n = track_cfg["daily_history_top_n"]
+        skipped_dup_auto = 0
         for e in onboarded + selected_new:
+            if e["id"] in auto_ids:
+                skipped_dup_auto += 1
+                continue
             is_new = e["id"] in pending_new_ids
             in_tier_a = e.get("popularity_rank", 999999) < top_n
             rotates_today = _history_rotation_bucket(e["slug"]) == today_weekday
@@ -548,7 +557,8 @@ def main():
         skipped_new = len(pending_new) - len(selected_new)
         print(f"追跡対象: {len(tracked_pool)}件（オンボーディング済み{len(onboarded)} / "
               f"新規{len(selected_new)}件を今回処理"
-              f"{f'、残り{skipped_new}件は次回以降' if skipped_new > 0 else ''}）")
+              f"{f'、残り{skipped_new}件は次回以降' if skipped_new > 0 else ''}"
+              f"{f'、自動収集と重複{skipped_dup_auto}件は除外' if skipped_dup_auto > 0 else ''}）")
 
     targets += tracked_targets
 

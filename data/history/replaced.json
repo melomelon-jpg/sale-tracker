@@ -1,0 +1,41 @@
+{
+  "slug": "replaced",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2026-04-14",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 1760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2200,
+      "shop": "Steam"
+    }
+  ]
+}

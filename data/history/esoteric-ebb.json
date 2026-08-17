@@ -1,0 +1,51 @@
+{
+  "slug": "esoteric-ebb",
+  "updated_at": "2026-08-17T13:50:16Z",
+  "history": [
+    {
+      "date": "2026-03-03",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-14",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2240,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,9 +1,129 @@
 {
   "slug": "kingdom-come-deliverance-ii",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T13:50:16Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 6876,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-15",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-16",
+      "amount": 6472,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-23",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 6472,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-25",
+      "amount": 5663,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-01",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 5663,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 5663,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-06",
+      "amount": 4854,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-13",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-13",
+      "amount": 4045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 4045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-24",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 4045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 4045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 4045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
       "amount": 8090,
       "shop": "Steam"
     },
