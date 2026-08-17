@@ -4,43 +4,13 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1675,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 1980,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1980,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-05",
       "amount": 1188,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 1188,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 1435,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 2393,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 1980,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-15",
@@ -56,11 +26,6 @@
       "date": "2026-07-09",
       "amount": 1980,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 1386,
-      "shop": "GreenManGaming"
     }
   ]
 }

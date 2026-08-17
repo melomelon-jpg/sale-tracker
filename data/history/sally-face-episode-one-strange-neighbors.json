@@ -1,0 +1,56 @@
+{
+  "slug": "sally-face-episode-one-strange-neighbors",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 234,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 234,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 234,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-16",
+      "amount": 115,
+      "shop": "Steam"
+    }
+  ]
+}

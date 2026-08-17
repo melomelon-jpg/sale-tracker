@@ -1,0 +1,91 @@
+{
+  "slug": "after-the-crash-colony",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2025-12-26",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-07",
+      "amount": 399,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-09",
+      "amount": 470,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-14",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-21",
+      "amount": 299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-24",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-08",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-17",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 211,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-27",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-26",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-10",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 157,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-08",
+      "amount": 79,
+      "shop": "Steam"
+    }
+  ]
+}

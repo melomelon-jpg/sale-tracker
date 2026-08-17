@@ -26,16 +26,6 @@
       "date": "2026-07-09",
       "amount": 1010,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-21",
-      "amount": 1010,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 71,
-      "shop": "Fanatical"
     }
   ]
 }

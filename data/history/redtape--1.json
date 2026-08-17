@@ -1,0 +1,61 @@
+{
+  "slug": "redtape--1",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2025-10-16",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

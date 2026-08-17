@@ -5,77 +5,12 @@
     {
       "date": "2026-05-15",
       "amount": 3500,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2100,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2989,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3900,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3900,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1872,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-05-20",
       "amount": 1750,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 1950,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-27",
-      "amount": 1755,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-27",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 1872,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3046,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 3497,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-06-03",
@@ -83,154 +18,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-03",
-      "amount": 3900,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 3500,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1950,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-21",
-      "amount": 3046,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-06-25",
       "amount": 1750,
       "shop": "Steam"
     },
     {
-      "date": "2026-06-25",
-      "amount": 1950,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1541,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 3900,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-10",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-11",
-      "amount": 3046,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 3900,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 1750,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 3496,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 1750,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-07-23",
       "amount": 3500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 1950,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 1580,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-24",
-      "amount": 1521,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-24",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 1580,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 3500,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 3500,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 3046,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 3900,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 1580,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-04",
-      "amount": 3900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 3046,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1482,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-12",
-      "amount": 1580,
-      "shop": "Fanatical"
     }
   ]
 }

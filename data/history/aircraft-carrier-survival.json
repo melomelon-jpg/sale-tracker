@@ -1,16 +1,131 @@
 {
   "slug": "aircraft-carrier-survival",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 2050,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 396,
-      "shop": "Epic Game Store"
+      "date": "2024-12-19",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-09",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-22",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-06",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-20",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-04",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-12",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 164,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-11",
+      "amount": 143,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-25",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-24",
+      "amount": 143,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 123,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2050,
+      "shop": "Steam"
     },
     {
       "date": "2026-05-18",
@@ -21,11 +136,6 @@
       "date": "2026-05-25",
       "amount": 2050,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 1980,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-06-25",

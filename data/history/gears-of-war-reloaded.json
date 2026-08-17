@@ -1,14 +1,59 @@
 {
   "slug": "gears-of-war-reloaded",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-06-08",
       "amount": 5390,
-      "shop": "Microsoft Store"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-10-08",
+      "amount": 4042,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-22",
+      "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-21",
+      "amount": 3503,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2695,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2695,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 2695,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
       "amount": 5390,
       "shop": "Steam"
     },

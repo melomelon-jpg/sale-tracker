@@ -5,57 +5,12 @@
     {
       "date": "2026-05-15",
       "amount": 2200,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1894,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1980,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2200,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2200,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 506,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-05-30",
       "amount": 550,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 1859,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 2200,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 1930,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 1859,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-06-13",
@@ -68,39 +23,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-25",
-      "amount": 484,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-07-09",
       "amount": 2200,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 1930,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 2200,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 550,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 495,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 1859,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-07-23",
@@ -108,24 +33,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-30",
-      "amount": 2200,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 1980,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-06",
       "amount": 2200,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 1930,
-      "shop": "Fanatical"
     }
   ]
 }

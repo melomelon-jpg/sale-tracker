@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""既存の data/latest.json に日本語タイトル/ジャンル/レビュー数を一括で埋める一回限りのツール。
+"""既存の data/latest.json に日本語タイトル/ジャンル/レビュー数/日本語対応を一括で埋める一回限りのツール。
 
 fetch_data.py は日々の実行時に新規ゲーム分（+ 旧スキーマ分）だけ Steam(cc=jp) へ
 問い合わせて data/steam_info.json を育てていくが、それとは別に「今ある全件に
@@ -54,22 +54,25 @@ def main():
             g["genres"] = []
             g["categories"] = []
             g["review_count"] = None
+            g["jp_support"] = None
             skipped_no_appid += 1
             continue
 
         cached = steam_info.get(key)
-        if cached is None or "review_count" not in cached:
+        if cached is None or "review_count" not in cached or "jp_support" not in cached:
             info = steam_client.get_app_info(appid)
             steam_info[key] = {
                 "name": info["name"] if info else None,
                 "genres": info["genres"] if info else [],
                 "categories": info["categories"] if info else [],
                 "review_count": info["review_count"] if info else None,
+                "jp_support": info["jp_support"] if info else None,
                 "checked_at": None,
             }
             new_calls += 1
             print(f"  [{i}/{len(games)}] appid={appid} title={g.get('title')!r} -> "
-                  f"{steam_info[key]['name']!r} review_count={steam_info[key]['review_count']}")
+                  f"{steam_info[key]['name']!r} review_count={steam_info[key]['review_count']} "
+                  f"jp_support={steam_info[key]['jp_support']}")
             time.sleep(1.0)
             if new_calls % 20 == 0:
                 save_steam_info(steam_info)
@@ -79,6 +82,7 @@ def main():
         g["genres"] = cached.get("genres") or []
         g["categories"] = cached.get("categories") or []
         g["review_count"] = cached.get("review_count")
+        g["jp_support"] = cached.get("jp_support")
 
     save_steam_info(steam_info)
     LATEST_PATH.write_text(json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8")

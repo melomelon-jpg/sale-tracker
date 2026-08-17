@@ -28,7 +28,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import steam_client
 import verdict
-from itad_client import ITADClient, ITADError
+from itad_client import ITADClient, ITADError, STEAM_SHOP_ID
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "games.json"
@@ -151,10 +151,12 @@ def discover(client, cfg, manual_slugs, manual_titles, previous_items):
         return True
 
     # 各sortの順位を保ったまま、資格のある候補だけを残す
+    # shops=STEAM_SHOP_ID で絞り込み、「Steamのセールを追う」というサイトの前提と
+    # 矛盾する鍵屋（GameBillet/Fanatical等）の投げ売りが候補に混ざらないようにする。
     per_sort = []
     for sort in cfg.get("sorts") or ["-cut"]:
         try:
-            rows = client.deals(sort=sort, limit=limit)
+            rows = client.deals(sort=sort, limit=limit, shops=[STEAM_SHOP_ID])
         except Exception as e:
             print(f"  [WARN] deals(sort={sort}) 失敗: {type(e).__name__}: {e}")
             rows = []
@@ -224,8 +226,12 @@ def now_iso():
 def fetch_one(client, game):
     """1ゲーム分を取得し、latest用のレコード・履歴・キャッシュ更新分を返す。
 
+    価格はSteam（shops=STEAM_SHOP_ID）に絞り込んで取得する。過去最安値・履歴も
+    Steam価格のみで計算し、鍵屋（サードパーティストア）の投げ売りで判定が
+    歪まないようにする（discover() 側の候補収集も同様にSteam限定）。
+
     自動収集分は以下の2つでリクエストを節約する（手動分は従来通り毎回フル取得）:
-      - overview() 省略: 本日の /deals/v2 に出現し、かつ最安値キャッシュが
+      - overview() 省略: 本日の /deals/v2（Steam限定）に出現し、かつ最安値キャッシュが
         既にある場合は current/regular を deals のスナップショットで代用し、
         lowest はキャッシュと現在価格の min を取って更新する
         （最安値は単調非増加なので、min を取る限り正確性は失われない）。
@@ -254,6 +260,7 @@ def fetch_one(client, game):
         "regular": None,
         "current": None,
         "lowest": cached_lowest,
+        "other_store": None,  # Steamより安い他ストアがあるときだけ補足表示用に埋める
         "verdict": dict(verdict.UNKNOWN_VERDICT),
         "on_sale": False,
     }
@@ -288,25 +295,58 @@ def fetch_one(client, game):
             else:
                 record["lowest"] = cached_lowest
         else:
-            ov = client.overview(itad_id)
+            # 主役はSteam価格（shops=STEAM_SHOP_ID）。過去最安値もSteam価格のみで
+            # 計算する（鍵屋の投げ売りが混ざると判定が歪むため）。
+            ov = client.overview(itad_id, shops=[STEAM_SHOP_ID])
+            if client.last_overview_dropped:
+                print(f"  [WARN] {title}: overview中 {'/'.join(client.last_overview_dropped)}"
+                      f"をShops以外/JPY以外の通貨と判定し除外")
             client._sleep()
             record["current"] = ov["current"]
             record["lowest"] = ov["lowest"] or cached_lowest
             record["regular"] = ov["regular"]
 
-        history = client.history(itad_id)
+            # 補足情報: 全ショップ中の最安（＝他ストア）がSteamより安ければ、
+            # 「他ストア最安 ¥X（ストア名）」として控えめに併記する材料を取得する。
+            try:
+                ov_any = client.overview(itad_id)
+                client._sleep()
+                any_cur = ov_any.get("current")
+                steam_amt = (record["current"] or {}).get("amount")
+                if (any_cur and any_cur.get("amount") is not None
+                        and any_cur.get("shop") != "Steam"
+                        and (steam_amt is None or any_cur["amount"] < steam_amt)):
+                    record["other_store"] = {"amount": any_cur["amount"], "shop": any_cur.get("shop")}
+            except Exception:
+                pass  # 補足情報なので失敗してもメインのSteam価格取得は継続する
+
+        history = client.history(itad_id, shops=[STEAM_SHOP_ID])
+        if client.last_history_dropped:
+            print(f"  [WARN] {title}: history中 {client.last_history_dropped}点を除外"
+                  f"（Steam以外のショップ/JPY以外の通貨と判定）")
+        # 除外後に有効点（amount・date揃い）が2点未満だと詳細ページのグラフが
+        # 表示できなくなる（build_site.py price_chart_html参照）。フィルタが
+        # 効きすぎて履歴を壊していないか気づけるよう、ここで警告しておく。
+        valid_pts = [h for h in history if h.get("amount") is not None and h.get("date")]
+        if len(valid_pts) < 2:
+            print(f"  [WARN] {title}: Steam限定の有効な履歴点が{len(valid_pts)}件のみ"
+                  f"（詳細ページのグラフ非表示になります）")
         client._sleep()
 
-        # ゲーム情報（画像アセット・appid）はキャッシュが無いときだけ取得
+        # ゲーム情報（画像アセット・appid）はキャッシュが無いときだけ取得。
+        # 取得に失敗した場合は info_fetched を True にしない（＝次回また再試行する）。
+        # ここを無条件に True にすると、レート制限等での一時的な失敗がサムネイル欠損
+        # として永続化してしまう（「値下げ率ランキング」で新規発見ゲームのサムネが
+        # 灰色プレースホルダーのまま治らない不具合の原因だった）。
         if not info_fetched:
             try:
                 gi = client.info(itad_id)
                 record["assets"] = gi.get("assets") or {}
                 record["appid"] = gi.get("appid")
+                cache_out["info_fetched"] = True
             except Exception:
                 record["assets"] = cached_assets
             client._sleep()
-            cache_out["info_fetched"] = True
 
         cache_out["assets"] = record["assets"]
         cache_out["appid"] = record["appid"]
@@ -334,12 +374,9 @@ def fetch_one(client, game):
     disc = (record["current"] or {}).get("discount_pct") or 0
     record["on_sale"] = disc > 0
 
-    # 日本語対応の判定（Steam appid が分かるときのみ・別ホストなので低コスト）
-    if steam_appid:
-        try:
-            record["jp_support"] = steam_client.supports_japanese(steam_appid)
-        except Exception:
-            record["jp_support"] = None
+    # 日本語対応(jp_support)は Steam の appid が判明した後でないと引けない
+    # （自動収集分は info() 経由で判明する）ため、main() 側で steam_info
+    # キャッシュ（title_jp/genres/review_countと同じ経路）から埋める。
 
     return record, history, cache_out
 
@@ -404,22 +441,30 @@ def main():
             record, history, cache_out = fetch_one(client, game)
             records.append(record)
 
-            # 日本語タイトル・ジャンル・レビュー数（Steam cc=jp&l=japanese、1リクエスト）。
-            # appidごとに恒久キャッシュし、未キャッシュ or 旧スキーマ（review_countが
-            # 無い）ものだけ新規に問い合わせる（レート制限対策）。
+            # 日本語タイトル・ジャンル・レビュー数・日本語対応（Steam cc=jp&l=japanese、
+            # 1リクエスト）。appidごとに恒久キャッシュし、未キャッシュ or 旧スキーマ
+            # （review_count/jp_supportが無い）ものだけ新規に問い合わせる（レート制限対策）。
+            # 自動収集分は steam_appid が未知でも info() 経由で record["appid"] が
+            # 判明しているので、そちらもキーの候補にする（以前はここが steam_appid
+            # のみを見ていたため、自動収集分の日本語対応が常に不明になっていた）。
             steam_appid = record.get("steam_appid") or record.get("appid")
             steam_key = str(steam_appid) if steam_appid else None
             if steam_key:
                 cached = steam_info.get(steam_key)
-                if cached is None or "review_count" not in cached:
+                if cached is None or "review_count" not in cached or "jp_support" not in cached:
                     info = steam_client.get_app_info(steam_appid)
-                    steam_info[steam_key] = {
-                        "name": info["name"] if info else None,
-                        "genres": info["genres"] if info else [],
-                        "categories": info["categories"] if info else [],
-                        "review_count": info["review_count"] if info else None,
-                        "checked_at": ts,
-                    }
+                    # 失敗時（info=None）はキャッシュへ書き込まない。None を書き込むと
+                    # 「取得済みだが不明」として永続化され、一時的な失敗が恒久的な
+                    # 情報欠損（ジャンル/レビュー数/日本語対応が常に空）になってしまう。
+                    if info:
+                        steam_info[steam_key] = {
+                            "name": info["name"],
+                            "genres": info["genres"],
+                            "categories": info["categories"],
+                            "review_count": info["review_count"],
+                            "jp_support": info["jp_support"],
+                            "checked_at": ts,
+                        }
                     steam_info_new_calls += 1
                     time.sleep(1.0)  # Steamのレート制限対策
                 cached = steam_info.get(steam_key) or {}
@@ -427,11 +472,13 @@ def main():
                 record["genres"] = cached.get("genres") or []
                 record["categories"] = cached.get("categories") or []
                 record["review_count"] = cached.get("review_count")
+                record["jp_support"] = cached.get("jp_support")
             else:
                 record["title_jp"] = None
                 record["genres"] = []
                 record["categories"] = []
                 record["review_count"] = None
+                record["jp_support"] = None
             # 自動収集分はキャッシュ（assets/appid/最安値）をプールへ書き戻す
             if game.get("source") == "auto" and game["itad_id"] in kept:
                 kept[game["itad_id"]].update(cache_out)

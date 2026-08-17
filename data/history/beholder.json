@@ -4,48 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1176,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 192,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 1600,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 96,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 192,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1600,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 160,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1600,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-26",
-      "amount": 1600,
-      "shop": "Dreamgame"
     },
     {
       "date": "2026-06-01",
@@ -53,39 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-01",
-      "amount": 160,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 1198,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 1600,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 1600,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-06-15",
       "amount": 1600,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-15",
-      "amount": 1600,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 128,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-06-25",
@@ -93,49 +23,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-01",
-      "amount": 160,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 1600,
-      "shop": "Fortuna Digital"
-    },
-    {
       "date": "2026-07-09",
       "amount": 1600,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-11",
-      "amount": 1198,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-11",
-      "amount": 1600,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 128,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 160,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 1600,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 160,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-07-20",
@@ -143,39 +33,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-28",
-      "amount": 1600,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 1600,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-03",
       "amount": 1600,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 128,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 160,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 160,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 112,
-      "shop": "Fortuna Digital"
     }
   ]
 }

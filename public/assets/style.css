@@ -1,64 +1,334 @@
 
+/* テーマ設計の原則: ライトを既定値として無条件の :root に定義する
+   （日本の価格比較サイトの標準に合わせる）。ダークは prefers-color-scheme と
+   手動トグル（<html data-theme="dark|light">）の両方から上書きし、後者が
+   常にOS設定より優先されるよう `:root:not([data-theme="light"])` で
+   ガードする。ライト/ダークは単純な反転ではなく別トークンセットとして
+   個別にチューニングする（中間グレーを使わず、本文は常に「ほぼ黒」か
+   「ほぼ白」の1色、補助テキストも1色に統一する）。 */
 :root {
-  --bg: #11151c;
-  --panel: #171c25;
-  --panel2: #1e2530;
-  --row-hover: #212836;
-  --text: #c7d0dd;
-  --text-strong: #e7ebf2;
-  --muted: #7c8697;
-  --line: #262d3a;
-  --accent: #6ba3d6;
-  --good: #7fa876;
-  --decent: #c0a05f;
-  --watch: #737d8e;
-  --bad: #bd6f78;
+  --header-h: 64px;
+
+  /* ページ背景はわずかに温かみのあるオフホワイトにし、カード面(--surface-1)を
+     純白にすることで「背景は沈み、カードが浮く」階層を作る（純白背景の眩しさ対策）。 */
+  --bg: #fafaf9;
+  --surface-1: #ffffff;
+  --surface-2: #f2f1ee;
+  --surface-3: #e7e5e0;
+  --panel: var(--surface-1);
+  --panel2: var(--surface-2);
+  --row-hover: var(--surface-2);
+  --header-glass: rgba(250, 250, 249, .86);
+
+  --text: #14171c;
+  --text-strong: #14171c;
+  --muted: #5c6470;
+  --line: #e3e6eb;
+  --line-strong: #cdd2da;
+
+  /* 色は意味だけに使う: コーラル=主要アクション(購入等)のみ、
+     緑=過去最安値に到達（new_low/tied_low）のみ、赤=セール終了間近のみ。それ以外のUIは
+     全て上の無彩色トークン（text/muted/surface/line）で表現する。
+     good/bad はライト/ダークそれぞれ白地・黒地で4.5:1以上のコントラストに
+     なるよう個別に調整済み（薄い版をそのまま反転しただけだと不合格になる）。 */
+  --accent: #ff7a59;
+  --on-accent: #1c0f09;
+  --good: #0c6b3d;
+  --good-bg: rgba(12, 107, 61, .08);
+  --good-border: rgba(12, 107, 61, .3);
+  --bad: #c22f2f;
+  --bad-bg: rgba(194, 47, 47, .08);
+  --bad-border: rgba(194, 47, 47, .32);
+  /* バッジの「塗り」専用トークン。背景色と同系色の文字を重ねる中途半端な表現を
+     禁止し、背景を塗るバッジは常に不透明色+白文字のこの組み合わせだけを使う
+     （ライト/ダーク共通の固定値。実測コントラスト比: 緑6.6:1 / 赤5.6:1、
+     白文字でWCAG AA基準の4.5:1を満たす）。 */
+  --good-solid-bg: #0c6b3d;
+  --good-solid-fg: #ffffff;
+  --bad-solid-bg: #c22f2f;
+  --bad-solid-fg: #ffffff;
+  --font: "Inter", "Noto Sans JP", system-ui, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+
+  /* タイポグラフィスケール: 見出し/本文の差を広く取って階層を作る。
+     日本語は行間を広め（1.7前後）に取り、和欧混植でも詰まって見えないようにする。 */
+  --text-display: 800 2.25rem/1.2 var(--font);
+  --text-h2: 700 1.5rem/1.3 var(--font);
+  --text-title: 600 1rem/1.4 var(--font);
+  --text-price: 800 1.375rem/1 var(--font);
+  --text-body: 400 .875rem/1.7 var(--font);
+  --text-meta: 400 .75rem/1.6 var(--font);
+  --text-micro: 500 .6875rem/1.5 var(--font);
+  --text-label: 700 .78rem/1 var(--font);
+
+  /* スペーシング（4pxベース）。sp-9/sp-10 はセクション間の余白を
+     広く取るために追加した段階（行の高さ自体は変えない）。 */
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px;
+  --sp-9: 96px; --sp-10: 128px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1014;
+    --surface-1: #161a20;
+    --surface-2: #1c2129;
+    --surface-3: #232a33;
+    --header-glass: rgba(13, 16, 20, .88);
+    --text: #f2f4f7;
+    --text-strong: #f2f4f7;
+    --muted: #98a0ac;
+    --line: #262b33;
+    --line-strong: #333b46;
+    --good: #6fbf8b;
+    --good-bg: rgba(111, 191, 139, .14);
+    --good-border: rgba(111, 191, 139, .4);
+    --bad: #ef6b6b;
+    --bad-bg: rgba(239, 107, 107, .14);
+    --bad-border: rgba(239, 107, 107, .42);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d1014;
+  --surface-1: #161a20;
+  --surface-2: #1c2129;
+  --surface-3: #232a33;
+  --header-glass: rgba(13, 16, 20, .88);
+  --text: #f2f4f7;
+  --text-strong: #f2f4f7;
+  --muted: #98a0ac;
+  --line: #262b33;
+  --line-strong: #333b46;
+  --good: #6fbf8b;
+  --good-bg: rgba(111, 191, 139, .14);
+  --good-border: rgba(111, 191, 139, .4);
+  --bad: #ef6b6b;
+  --bad-bg: rgba(239, 107, 107, .14);
+  --bad-border: rgba(239, 107, 107, .42);
 }
 * { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
 body {
   margin: 0; background: var(--bg); color: var(--text);
-  font-family: system-ui, "Segoe UI", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-  line-height: 1.6;
+  font-family: var(--font);
+  font-feature-settings: "palt" 1;
+  line-height: 1.7;
+  /* .site-header は position:fixed でフローから外れているため、
+     その分の余白をここで確保する（--header-h はJSで実測して更新） */
+  padding-top: var(--header-h);
 }
-h1, h2, h3, .brand, .row-cur { font-family: "Zen Kaku Gothic New", system-ui, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif; }
-h1, h2, h3 { color: var(--text-strong); }
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
-.container { max-width: 1120px; margin: 0 auto; padding: 20px 14px 64px; }
+h1, h2, h3 { color: var(--text-strong); font-weight: 800; }
+/* リンクは色ではなく下線で示す（アクセントは購入ボタン等のCTA専用のため）。
+   パンくず・本文リンクが誤ってエラー表示のような色に見える問題もこれで解消する。 */
+a { color: var(--text-strong); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 2px; }
+a:hover { text-decoration-color: currentColor; }
+.container { max-width: 1120px; margin: 0 auto; padding: var(--sp-6) var(--sp-5) var(--sp-9); }
+@media (min-width: 720px) {
+  .container { padding-left: var(--sp-8); padding-right: var(--sp-8); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: .001ms !important; animation-iteration-count: 1 !important;
+    transition-duration: .001ms !important; scroll-behavior: auto !important;
+  }
+}
 .sr-only {
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
 }
 
-/* ヘッダー / ナビ */
-.site-header { background: var(--panel); border-bottom: 1px solid var(--line); padding: 12px 14px; }
+/* ヘッダー / ナビ: 常時画面上部に固定し、下にコンテンツが透けるガラス調に。
+   以前は position:sticky + backdrop-filter で実装していたが、Windows版Edgeに限らず
+   スクロール後にヘッダーが一覧の途中に浮いて見える不具合が実機でも再発したため、
+   スクロール挙動がブラウザ間で安定している position:fixed に切り替えた
+   （フローから外れる分は body の padding-top で補っている）。
+   ぼかし背景は引き続き::beforeの絶対配置レイヤーに分離し、本体は背景合成をしない。 */
+.site-header {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+  border-bottom: 1px solid var(--line);
+  padding: 10px 14px;
+}
+.site-header::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: var(--header-glass);
+  backdrop-filter: blur(10px) saturate(1.2);
+  -webkit-backdrop-filter: blur(10px) saturate(1.2);
+}
 .header-inner {
   max-width: 1120px; margin: 0 auto; display: flex; align-items: center;
-  justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  justify-content: space-between; gap: 10px 16px; flex-wrap: wrap;
 }
-.brand { font-weight: 900; font-size: 1.1rem; letter-spacing: .02em; color: var(--text-strong); }
+.brand {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-weight: 800; font-size: 1.1rem; letter-spacing: .01em; color: var(--text-strong);
+  text-decoration: none;
+}
 .brand:hover { text-decoration: none; }
-.site-nav { display: flex; gap: 4px; }
-.site-nav a { padding: 6px 12px; border-radius: 6px; font-size: .82rem; font-weight: 700; color: var(--muted); }
-.site-nav a:hover { text-decoration: none; color: var(--text-strong); }
-.site-nav a.active { background: var(--panel2); color: var(--accent); }
+.brand-icon { color: var(--accent); flex-shrink: 0; } /* ロゴマークのみブランド識別として例外的にアクセントを使う */
+.site-search { flex: 1 1 200px; max-width: 320px; }
+.site-search input {
+  width: 100%; padding: 7px 12px; border-radius: 7px; border: 1px solid var(--line);
+  background: var(--panel2); color: var(--text-strong); font-size: .85rem;
+  transition: border-color .15s ease;
+}
+.site-search input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+/* 横に収まらないときは折り返さず横スクロールにして、固定ヘッダーの高さを一定に保つ
+   （スマホでヘッダーが画面を圧迫しないようにするため） */
+.site-nav {
+  display: flex; gap: 4px; flex-wrap: nowrap; overflow-x: auto;
+  scrollbar-width: none; -ms-overflow-style: none; max-width: 100%;
+}
+.site-nav::-webkit-scrollbar { display: none; }
+.site-nav a {
+  padding: 6px 12px; border-radius: 6px; font-size: .82rem; font-weight: 700;
+  color: var(--muted); white-space: nowrap; text-decoration: none;
+  transition: background .15s ease, color .15s ease;
+}
+.site-nav a:hover { color: var(--text-strong); }
+.site-nav a.active { background: var(--panel2); color: var(--text-strong); }
+/* テーマ切替。アイコンのみのゴーストボタン。データ属性でサン/ムーンの表示を切り替える。 */
+.theme-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--line);
+  background: none; color: var(--muted); cursor: pointer; flex-shrink: 0;
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
+}
+.theme-toggle:hover { color: var(--text-strong); border-color: var(--line-strong); background: var(--panel2); }
+.theme-toggle .icon-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: block; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: none; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: block; }
+}
 .site-footer {
   text-align: center; color: var(--muted); font-size: .78rem;
   padding: 24px; border-top: 1px solid var(--line);
 }
 .site-footer p { margin: 4px 0; }
-.site-footer a { color: var(--muted); text-decoration: underline; }
-.site-footer a:hover { color: var(--accent); }
+.site-footer a { color: var(--muted); }
+.site-footer a:hover { color: var(--text-strong); }
 
-.hero { padding: 6px 0 6px; }
-.hero h1, .game-head h1 { margin: 0 0 4px; font-weight: 900; font-size: 1.5rem; }
+.hero {
+  padding: var(--sp-6) var(--sp-7) var(--sp-7); border-radius: 16px; border: 1px solid var(--line);
+  background: var(--panel);
+}
+.hero h1, .game-hero-title-row h1 { margin: 0 0 4px; font-weight: 800; }
+/* 見出しの装飾は色ではなく無彩色の左ボーダー＋サイズ差で示す（色は意味のみに使うため） */
+.hero h1 { padding-left: 14px; border-left: 3px solid var(--line-strong); font: var(--text-display); }
 .meta { color: var(--muted); font-size: .85rem; margin: 2px 0; }
 
+/* 導入部（トップページ冒頭）: 「何本を毎朝チェックしていて、何本が今買い時か」を
+   数字そのものをページ内最大の要素として見せる。罫線・背景色・アイコンなどの
+   装飾は足さず、数字の大きさと数字/説明文のサイズ差だけで語らせる。 */
+.hero-stat-row {
+  display: flex; flex-direction: column; gap: var(--sp-6);
+  margin: 0; padding: 0; border: none; font: inherit;
+}
+@media (min-width: 640px) {
+  .hero-stat-row { flex-direction: row; align-items: baseline; flex-wrap: wrap; gap: var(--sp-9); }
+}
+.hero-stat-item { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+.hero-stat-num {
+  display: block; font-weight: 800; letter-spacing: -.03em; line-height: .92;
+  font-size: clamp(3.4rem, 16vw, 6.5rem);
+  color: var(--text-strong); font-variant-numeric: tabular-nums;
+}
+.hero-stat-label { font-size: 1rem; font-weight: 700; color: var(--muted); }
+@media (min-width: 640px) { .hero-stat-label { font-size: 1.15rem; } .hero-stat-br { display: none; } }
+/* サイトの核となる価値（買い時）だけ、購入導線と同じアクセントカラーを例外的に使う */
+.hero-stat-accent { color: var(--accent); font-weight: 800; }
+.hero-stat-meta { margin-top: var(--sp-5); }
+
+/* ジャンル / 価格帯チップ（導入部から独立した「探す」セクション） */
+.explore-section { margin: var(--sp-8) 0 0; }
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 12px 0 0; padding-left: 14px; }
+.chip-row-label { color: var(--muted); font-size: .78rem; font-weight: 700; margin-right: 2px; }
+.chip {
+  display: inline-block; padding: 4px 11px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--panel2); color: var(--text); font-size: .78rem; font-weight: 600;
+  text-decoration: none;
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.chip:hover, .chip:focus-visible {
+  border-color: var(--line-strong); color: var(--text-strong);
+  background: var(--surface-3);
+}
+
+/* トップ3ヒーロー */
+.hero-top3 { margin: var(--sp-9) 0 0; }
+.hero-top3 .section-head { margin: 0 0 var(--sp-5); }
+
+/* 汎用の横スクロールカルーセル（本日イチ押し・詳細ページのグラフ期間切替でも使う
+   ため用途非依存の命名にする）。ネイティブの overflow-x + scroll-snap で
+   スマホのスワイプに対応し、矢印ボタンはその補助として左右に添える。 */
+.carousel-wrap { display: flex; align-items: stretch; gap: var(--sp-3); }
+.carousel-track {
+  list-style: none; margin: 0; padding: 2px 2px 10px; display: flex; gap: var(--sp-4);
+  overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+}
+.carousel-track > li { scroll-snap-align: start; flex: 0 0 auto; }
+.carousel-arrow {
+  flex: 0 0 auto; display: none; align-items: center; justify-content: center;
+  width: 36px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel2);
+  color: var(--text-strong); cursor: pointer;
+  transition: background .15s ease, border-color .15s ease, opacity .15s ease;
+}
+@media (min-width: 720px) { .carousel-arrow { display: flex; } }
+.carousel-arrow:hover { background: var(--surface-2); border-color: var(--line-strong); }
+.carousel-arrow:disabled { opacity: .35; cursor: default; }
+.carousel-arrow:disabled:hover { background: var(--panel2); border-color: var(--line); }
+
+/* カードは全て同一サイズ（1枚だけ拡大しない＝10枚が同格）。情報の階層は色数を
+   増やさず文字サイズ・太さで表す: 現在価格が最大・最太、タイトルは中間、
+   定価は最小・細字（row-cur/row-regularの既定スタイルをそのまま使う）。 */
+.hero3-card {
+  position: relative; width: 220px; background: var(--surface-1); border: 1px solid var(--line-strong);
+  border-radius: 14px; overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
+  transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
+}
+.hero3-card:hover { background: var(--surface-2); border-color: var(--text-strong); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
+.hero3-link { display: block; color: inherit; text-decoration: none; }
+.hero3-rank {
+  position: absolute; top: 10px; left: 10px; z-index: 1;
+  width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  background: rgba(16,19,26,.78); border: 1px solid rgba(255,255,255,.5); color: #fff;
+  font-weight: 800; font-size: .95rem; font-variant-numeric: tabular-nums;
+}
+.hero3-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; }
+.hero3-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero3-body { padding: var(--sp-4) var(--sp-5) var(--sp-5); }
+.hero3-title {
+  margin: 0 0 8px; font-size: .92rem; font-weight: 700; color: var(--text-strong);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.hero3-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.hero3-price { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+.hero3-price .row-cur { font-size: 1.2rem; }
+
+/* まもなく終了: 横スクロールカードは一覧性が悪いため使わず、他セクションと同じ
+   縦リストのまま「残り日数の表示サイズ」で差別化する。赤は本日〜3日以内の
+   緊急表示にのみ使う（それ以外の判定色は使わない）。 */
+.tag-expiry.big {
+  padding: 2px 8px; border-radius: 4px; font-size: .82rem; font-weight: 800;
+  color: var(--text-strong); background: var(--panel2); border: 1px solid var(--line);
+  white-space: nowrap;
+}
+.tag-expiry.big.urgent { color: var(--bad-solid-fg); background: var(--bad-solid-bg); border-color: var(--bad-solid-bg); }
+/* 緊急度（残り3日以内）はセクション/行の背景に色を敷かず、左端のアクセントラインと
+   「本日終了」バッジの2箇所だけで表現する（背景着色はダークテーマで濁って見えるため
+   廃止）。.row.row-urgent で詳細度を1段上げ、new_low/tied_low等の左バー色より確実に勝つ。 */
+.row.row-urgent::before { background: var(--bad); width: 4px; }
+
 /* トップページのチャートセクション（人気/値下げ率/まもなく終了） */
-.chart-section { margin: 28px 0 0; }
-.section-head { margin: 0 0 8px; }
-.section-head h2 { margin: 0 0 2px; font-size: 1.15rem; font-weight: 800; }
-.section-head .meta { margin: 0; }
+.chart-section, #verdict { scroll-margin-top: calc(var(--header-h) + 14px); }
+.chart-section { margin: var(--sp-9) 0 0; }
+.section-head { margin: 0 0 var(--sp-6); }
+.section-head h2 {
+  margin: 0 0 4px; font: var(--text-h2); letter-spacing: -.01em;
+  padding-left: 12px; border-left: 3px solid var(--line-strong);
+}
+.section-head .meta { margin: 0; padding-left: 12px; }
 .empty { text-align: center; color: var(--muted); padding: 36px 12px; }
 .empty p { margin: 0 0 14px; }
 .js-warn {
@@ -66,16 +336,19 @@ a:hover { text-decoration: underline; }
   border-radius: 10px; color: var(--muted); font-size: .85rem;
 }
 
-/* 検索・並び替え・絞り込みバー（全件ページ） */
+/* 検索・並び替え・絞り込みバー（全件ページ）: 固定ヘッダーの下端に貼り付ける。
+   ガラス調（backdrop-filter）は固定ヘッダーのみに限定し、ここは不透明な背景にする。 */
 .filter-bar {
-  position: sticky; top: 0; z-index: 5; background: var(--bg);
-  padding: 10px 0 12px; margin-bottom: 4px; border-bottom: 1px solid var(--line);
+  position: sticky; top: var(--header-h); z-index: 5;
+  background: var(--surface-1);
+  padding: var(--sp-3) 0 var(--sp-3); margin-bottom: var(--sp-1); border-bottom: 1px solid var(--line);
 }
 #q {
   width: 100%; padding: 11px 14px; border-radius: 8px; border: 1px solid var(--line);
   background: var(--panel); color: var(--text-strong); font-size: 1rem; margin-bottom: 8px;
+  transition: border-color .15s ease;
 }
-#q:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+#q:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 .filter-toggle {
   display: none; cursor: pointer; padding: 8px 2px; margin-top: 2px;
   font-weight: 700; font-size: .84rem; color: var(--text-strong);
@@ -84,98 +357,239 @@ a:hover { text-decoration: underline; }
 .filter-row select {
   padding: 7px 10px; border-radius: 6px; border: 1px solid var(--line);
   background: var(--panel2); color: var(--text); font-size: .82rem;
+  transition: border-color .15s ease;
 }
-.chk { display: inline-flex; align-items: center; gap: 5px; font-size: .8rem; color: var(--muted); }
-.chk input { accent-color: var(--accent); }
-.btn-text { background: none; border: none; color: var(--accent); font-size: .8rem; cursor: pointer; padding: 4px 0; }
+.filter-row select:hover { border-color: var(--line-strong); }
+.filter-row select:focus-visible { border-color: var(--accent); outline: 2px solid var(--accent); outline-offset: 1px; }
+/* チェックボックスはピル状にして、選択状態が一目で分かるようにする（色ではなく背景の濃さで示す） */
+.chk {
+  display: inline-flex; align-items: center; gap: 6px; font-size: .8rem; color: var(--muted);
+  padding: 5px 10px 5px 8px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel2);
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.chk input { accent-color: var(--text-strong); }
+.chk:has(input:checked) {
+  color: var(--text-strong); border-color: var(--line-strong); background: var(--surface-3);
+}
+.btn-text { background: none; border: none; color: var(--text-strong); text-decoration: underline; font-size: .8rem; cursor: pointer; padding: 4px 0; }
 .result-count { margin: 8px 0 0; font-size: .78rem; color: var(--muted); }
 @media (max-width: 719px) {
   /* 画面が狭いうちは絞り込み行を畳んでおき、検索窓の直下を圧迫しないようにする */
   .filter-toggle { display: block; }
 }
 
-/* ゲーム一覧（トップ・全件ページ共通） */
+/* ゲーム一覧（トップ・全件ページ共通）: Steamのセールチャートのような固定カラムの
+   表構造。全行・全セクションで「順位・画像・タイトル・買い時・割引・価格」が同じ
+   位置に揃うグリッドにする（デスクトップ）。判定の強調は色数を増やさず、
+   過去最安に到達している行（new_low/tied_low）だけを左端の細いアクセントバーで
+   示す方式に一本化し、それ以外の行の明るさ・文字色は全行で統一する（above_lowを沈める処理はしない）。 */
 .list {
-  list-style: none; margin: 14px 0; padding: 0;
-  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+  list-style: none; margin: var(--sp-5) 0; padding: 0;
+  background: var(--surface-1); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
 }
 
-.row {
-  display: grid; grid-template-columns: 108px 1fr; column-gap: 12px; row-gap: 6px;
-  grid-template-areas: "thumb main" "thumb status" "thumb price";
-  align-items: start; padding: 10px 14px; border-bottom: 1px solid var(--line);
+/* 列見出し行。一覧の先頭に1回だけ出し、各行での説明を省く。
+   帯状の背景は使わず、細い罫線と小さめの文字だけで控えめに示す（安っぽく見えないように）。
+   モバイルは行そのものが3要素構成に変わるため見出しごと隠す。 */
+.list-head { display: none; }
+@media (min-width: 720px) {
+  .list-head {
+    display: grid; grid-template-columns: 40px 128px minmax(140px, 1fr) 170px 188px;
+    column-gap: var(--sp-4); align-items: center;
+    padding: 5px var(--sp-8); border-bottom: 1px solid var(--line);
+  }
+  .list-head span { font: var(--text-micro); color: var(--muted); letter-spacing: .03em; }
+  .lh-amount { text-align: right; }
 }
+
+/* 行1件。スマホは [画像][タイトル＋買い時][価格] の3要素・2段組に圧縮する。
+   行の高さ（min-height）と縦paddingは余白拡張の対象外（縦に間延びさせないため）。
+   横paddingだけ広く取る。 */
+.row {
+  position: relative;
+  display: grid; grid-template-columns: 56px 1fr auto;
+  grid-template-areas: "thumb title amount" "thumb timing amount";
+  align-items: center; column-gap: var(--sp-3); row-gap: 1px;
+  padding: 6px var(--sp-5); border-bottom: 1px solid var(--line);
+  cursor: pointer; transition: background .16s ease; min-height: 56px;
+}
+/* 行全体をクリック可能にする（タイトルのリンクを行全体に拡張する「stretched link」）。
+   行内の個別リンク（もしあれば）は position:relative + z-index で上に出す。 */
+.row-title a.stretched-link::after { content: ""; position: absolute; inset: 0; z-index: 1; }
 .list .row:last-child { border-bottom: none; }
 .list .row[hidden] { display: none; }
-.row:hover { background: var(--row-hover); }
+/* 左端のアクセントバー: 過去最安に到達している行(new_low/tied_low)だけに出す。行の背景・文字色は
+   判定によらず全行で統一し、バー1本だけで買い時を目立たせる。ホバーは無彩色
+   （アクセントは購入等のCTA専用のため、単なるホバー表示には使わない）。 */
+.row::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+  background: transparent; transition: background .12s ease;
+}
+.row:hover { background: var(--surface-2); }
+.row:hover::before { background: var(--line-strong); }
+.row-v-record::before { background: var(--good); }
+.row-v-record:hover::before { background: var(--good); }
 
 @media (min-width: 720px) {
   .row {
-    /* main列の上限を狭めることで、短いタイトルの右側に不要な余白が
-       できないようにし、ステータス/価格列をタイトルの近くに寄せる。 */
-    grid-template-columns: 152px minmax(140px, 420px) 130px 170px;
-    grid-template-areas: "thumb main status price";
-    align-items: center; column-gap: 16px; row-gap: 0; padding: 10px 16px;
+    grid-template-columns: 40px 128px minmax(140px, 1fr) 170px 188px;
+    grid-template-areas: "rank thumb title timing amount";
+    align-items: center; column-gap: var(--sp-4); row-gap: 0;
+    padding: 6px var(--sp-8); min-height: 84px;
   }
 }
 
+.row-rank {
+  grid-area: rank; display: none;
+  font-size: 1rem; font-weight: 800; color: var(--muted);
+  text-align: center; font-variant-numeric: tabular-nums;
+}
+@media (min-width: 720px) { .row-rank { display: block; } }
+.list.ranked li:nth-child(-n+3) .row-rank { color: var(--text-strong); }
+
+/* お気に入り★トグル。サムネの右上に重ねて表示する（stretched-linkより手前）。
+   常時表示すると主要4情報の主張が弱まるため、ホバー/キーボードフォーカス時のみ現れる
+   （既にお気に入り済みのものは、行を探せるよう常時表示のままにする）。 */
 .row-thumb {
-  grid-area: thumb; display: block; width: 100%; aspect-ratio: 400 / 230;
-  border-radius: 6px; overflow: hidden; background: var(--panel2);
+  grid-area: thumb; position: relative; display: block; width: 100%; max-width: 56px;
+  aspect-ratio: 16 / 9; border-radius: 6px; overflow: hidden; background: var(--surface-2);
 }
+@media (min-width: 720px) { .row-thumb { max-width: 128px; aspect-ratio: 128 / 72; } }
 .row-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
-
-.row-main { grid-area: main; min-width: 0; }
-.row-title { margin: 0; font-size: 1rem; line-height: 1.35; font-weight: 700; word-break: break-word; }
-.row-title a { color: var(--text-strong); }
-.row-title a:hover { color: var(--accent); text-decoration: none; }
-.row-tags { margin-top: 5px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: .72rem; color: var(--muted); }
-
-.row-status { grid-area: status; display: flex; flex-direction: column; gap: 4px; align-items: flex-start; }
-.row-timing { font-size: .74rem; color: var(--muted); }
-.row-timing.save { color: var(--good); font-weight: 600; }
-
-/* 価格欄の情報階層: ①現在価格（最大・最強調）→②割引率→③定価/過去最安（控えめ） */
-.row-price { grid-area: price; display: flex; flex-direction: column; gap: 3px; align-items: flex-start; }
-@media (min-width: 720px) { .row-price { align-items: flex-end; text-align: right; } }
-.row-price-main { display: flex; align-items: baseline; gap: 8px; }
-.row-cut {
-  font-size: .8rem; font-weight: 800; color: var(--good);
-  background: rgba(127,168,118,.16); border: 1px solid rgba(127,168,118,.32);
-  padding: 2px 7px; border-radius: 4px;
+.fav-btn {
+  position: absolute; top: 2px; right: 2px; z-index: 2;
+  width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(255,255,255,.4);
+  background: rgba(9,11,16,.72); color: #fff; font-size: .76rem; line-height: 1;
+  cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0;
+  opacity: 0; text-decoration: none;
+  transition: opacity .15s ease, color .15s ease, border-color .15s ease, background .15s ease;
 }
-.row-cur { font-weight: 800; font-size: 1.4rem; color: var(--text-strong); letter-spacing: -.01em; }
-.row-reg { color: var(--muted); font-size: .74rem; text-decoration: line-through; opacity: .8; }
-.row-low { color: var(--muted); font-size: .72rem; opacity: .8; }
+@media (min-width: 720px) { .fav-btn { top: 4px; right: 4px; width: 26px; height: 26px; font-size: .85rem; } }
+.row:hover .fav-btn, .row:focus-within .fav-btn, .fav-btn:focus-visible, .fav-btn.is-fav { opacity: 1; }
+/* サムネ画像に重なる常設オーバーレイのため、ページのテーマトークンではなく
+   固定の白黒濃淡で状態を示す（色は使わず、塗り有無で「お気に入り済み」を表す）。 */
+.fav-btn:hover { border-color: #fff; }
+.fav-btn.is-fav { background: #fff; color: #14171c; border-color: #fff; }
+/* お気に入り追加の瞬間だけ弾むマイクロインタラクション（操作フィードバックとして唯一残す動き） */
+.fav-btn.fav-pop { animation: favPop .38s ease; }
+@keyframes favPop {
+  0% { transform: scale(1); }
+  35% { transform: scale(1.35); }
+  65% { transform: scale(.92); }
+  100% { transform: scale(1); }
+}
+/* 詳細ページ用の小さいアイコンボタン（タイトル横）。全幅ボタンは廃止した。 */
+.fav-btn.icon {
+  position: static; opacity: 1; flex-shrink: 0;
+  width: 36px; height: 36px; border-radius: 50%;
+  border: 1px solid var(--line-strong); background: var(--surface-1); color: var(--muted);
+  font-size: 1rem;
+}
+.fav-btn.icon:hover { color: var(--text-strong); border-color: var(--text-strong); }
+.fav-btn.icon.is-fav { color: var(--text-strong); background: var(--surface-2); border-color: var(--text-strong); }
 
-.tag-expiry.urgent { color: var(--bad); font-weight: 600; }
+/* タイトル。行の高さを一定に保つため常に1行（超過分は省略記号）。 */
+.row-title {
+  grid-area: title; margin: 0; min-width: 0;
+  font: var(--text-title); font-size: .92rem; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+@media (min-width: 720px) { .row-title { font-size: 1rem; } }
+.row-title a { color: inherit; text-decoration: none; }
+.row-title a:hover { text-decoration: underline; }
+
+/* 買い時列: バッジを上、補足の一言をその直下の小さい文字で積む（中央に浮遊させない）。
+   スマホは高さを抑えるため横並びの1行にする。 */
+.row-timing-col {
+  grid-area: timing; display: flex; flex-direction: row; flex-wrap: wrap;
+  align-items: center; gap: 5px; min-width: 0; overflow: hidden;
+}
+@media (min-width: 720px) {
+  .row-timing-col { flex-direction: column; align-items: flex-start; justify-content: center; gap: 3px; }
+}
+.row-timing { font: var(--text-meta); color: var(--muted); white-space: nowrap; }
+/* 過去最安に到達（new_low/tied_low）のみ緑（色は意味だけに使うルールに合わせ、
+   最安値に近い(near_low)は太字のみで示し色は使わない） */
+.row-timing.save { color: var(--good); font-weight: 700; }
+.row-other-store { font: var(--text-micro); color: var(--muted); opacity: .85; }
+.tag-expiry.urgent {
+  display: inline-flex; align-items: center; gap: 3px; color: var(--bad); font-weight: 600; white-space: nowrap;
+}
+.icon-clock { flex-shrink: 0; }
+
+/* 割引・価格。右揃え＋tabular-numsで桁を揃える。固定幅にして全行・列見出しと
+   ぴったり揃える（割引70px・価格110px）。 */
+/* 価格ブロック: 定価(取り消し線)＋割引バッジを上段に、現在価格を下段の大きな数字で
+   積む。3つを縦に近接させて「セットで1つの情報」に見せる（割引率だけを離れた
+   列に置かない）。現在価格が最も大きく・太く＝主役、定価は小さく添える。 */
+.row-amount {
+  grid-area: amount; display: flex; flex-direction: column;
+  align-items: flex-end; justify-content: center; gap: 2px;
+}
+.row-amount-top { display: flex; align-items: center; gap: 6px; }
+/* 「これが定価だと分からない」対策として、取消線に加え小さな「定価」ラベルを前置する。
+   ラベル自体には取消線を付けない（価格の部分だけに掛かるよう内側のspanに限定する）。 */
+.row-regular {
+  font-size: .76rem; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+.row-regular-label { margin-right: 3px; }
+.row-regular-price { text-decoration: line-through; text-decoration-color: var(--line-strong); }
+/* 割引率は色ではなく無彩色の塗りバッジで強調する（割引率専用の意味色は割り当てない） */
+.row-cut {
+  display: inline-flex; align-items: center; padding: 1px 6px; border-radius: 4px;
+  background: var(--surface-3); border: 1px solid var(--line-strong);
+  font: var(--text-label); color: var(--text-strong); font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.row-cur {
+  font: var(--text-price); font-size: 1.05rem; color: var(--text-strong); letter-spacing: -.01em;
+  font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap;
+}
+@media (min-width: 720px) {
+  .row-cur { font-size: 1.3rem; }
+}
 
 .see-all { text-align: center; margin: 22px 0 8px; }
 .load-more-wrap { text-align: center; margin: 20px 0; }
 .btn-outline {
-  display: inline-block; padding: 10px 22px; border: 1px solid var(--accent); color: var(--accent);
+  display: inline-block; padding: 10px 22px; border: 1px solid var(--line-strong); color: var(--text-strong);
   border-radius: 8px; font-weight: 700; background: none; cursor: pointer; font-size: .9rem;
+  text-decoration: none;
+  transition: background .15s ease, border-color .15s ease, transform .15s ease;
 }
-.btn-outline:hover { background: rgba(107,163,214,.1); text-decoration: none; }
+.btn-outline:hover { background: var(--surface-2); border-color: var(--muted); }
 .btn-outline[hidden] { display: none; }
+
+.back-to-top {
+  position: fixed; right: 18px; bottom: 18px; z-index: 20;
+  display: flex; align-items: center; justify-content: center;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--panel2); border: 1px solid var(--line); color: var(--text-strong);
+  cursor: pointer; opacity: 0; pointer-events: none; transform: translateY(6px);
+  box-shadow: 0 2px 8px -2px rgba(0,0,0,.4);
+  transition: opacity .18s ease, transform .18s ease, background .15s ease;
+}
+.back-to-top.show { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.back-to-top.show:hover { background: var(--surface-3); }
 
 /* 詳細ページ */
 .table-wrap { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; margin: 16px 0; }
-th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+th, td { text-align: left; padding: 10px 20px 10px 0; border-bottom: 1px solid var(--line); }
 th { color: var(--muted); font-size: .8rem; font-weight: 600; }
-.verdict-detail { margin: 8px 0 0; font-size: 1.15rem; font-weight: 700; color: var(--text-strong); }
-.jp { color: var(--good); font-size: .75rem; font-weight: 700; white-space: nowrap; }
-.jp-no { color: var(--muted); font-size: .72rem; }
+.verdict-detail { margin: 8px 0 0; font-size: 1.05rem; font-weight: 700; color: var(--text-strong); }
+.jp { color: var(--muted); font-size: .75rem; font-weight: 700; white-space: nowrap; }
 .tag-genre {
   display: inline-block; padding: 1px 7px; border-radius: 4px;
   background: var(--panel2); color: var(--muted); font-size: .7rem; white-space: nowrap;
+  border: 1px solid var(--line); position: relative; z-index: 2; text-decoration: none;
 }
+a.tag-genre:hover { color: var(--text-strong); border-color: var(--line-strong); }
 /* 画像が取得できないときのプレースホルダー: 真っ黒/無地にせず、ゲーム名で判別できるようにする */
 .img-ph {
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: 4px; padding: 6px; text-align: center;
-  background: linear-gradient(160deg, var(--panel2), var(--panel)); color: var(--muted);
+  background: var(--surface-2); color: var(--muted);
 }
 .img-ph-icon { font-size: 1.3em; line-height: 1; opacity: .7; }
 .img-ph-title {
@@ -185,71 +599,151 @@ th { color: var(--muted); font-size: .8rem; font-weight: 600; }
 .row-thumb-img.img-ph .img-ph-icon { font-size: 1.1em; }
 .row-thumb-img.img-ph .img-ph-title { font-size: .66rem; -webkit-line-clamp: 2; }
 
-.game-banner { margin: 4px 0 16px; }
 .hero-banner {
   width: 100%; max-width: 100%; height: auto; aspect-ratio: 600 / 344; display: block;
-  border-radius: 10px; background: var(--panel2); object-fit: cover;
+  border-radius: 12px; background: var(--panel2); object-fit: cover;
 }
 .hero-banner.img-ph { height: auto; aspect-ratio: 600 / 344; }
 .hero-banner.img-ph .img-ph-icon { font-size: 2.6rem; }
 .hero-banner.img-ph .img-ph-title { font-size: 1.1rem; max-width: 80%; }
-.expiry-detail { margin: 8px 0 0; font-size: .95rem; font-weight: 600; color: var(--muted); }
+/* セール終了日は「本日〜3日以内」のときだけ赤にする（それ以外は無彩色）。
+   「未定」も含め、単独の浮遊段落ではなく価格ブロック内の1行として表示する。 */
+.expiry-detail {
+  display: flex; align-items: center; gap: 5px;
+  margin: 6px 0 0; font-size: .9rem; font-weight: 600; color: var(--muted);
+}
 .expiry-detail.urgent { color: var(--bad); }
+.expiry-detail .icon-clock { flex-shrink: 0; }
 .badge {
   display: inline-flex; align-items: center; padding: 2px 9px; border-radius: 5px;
   font-size: .78rem; font-weight: 700; border: 1px solid transparent; cursor: help;
+  white-space: nowrap;
 }
+/* 一覧行の判定バッジはサイトの核となる情報なので、他の用途（凡例・ヒーロー枠）より
+   一段大きく太くして主役級に見せる */
+.row-timing-col .badge { padding: 3px 9px; font-size: .78rem; font-weight: 800; border-radius: 6px; }
 .legend-list {
   list-style: none; margin: 14px 0; padding: 0; display: flex; flex-direction: column; gap: 10px;
 }
 .legend-row {
-  display: flex; align-items: center; gap: 12px; padding: 10px 14px;
-  background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+  display: flex; align-items: center; gap: 12px; padding: 16px 20px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
 }
 .legend-row .badge { flex-shrink: 0; }
 .legend-desc { color: var(--text); font-size: .86rem; }
-.v-record { color: var(--good); background: rgba(127,168,118,.16); border-color: rgba(127,168,118,.32); }
-.v-near { color: var(--good); background: rgba(127,168,118,.11); border-color: rgba(127,168,118,.24); }
-.v-decent { color: var(--decent); background: rgba(192,160,95,.14); border-color: rgba(192,160,95,.3); }
-.v-watch { color: var(--watch); background: rgba(115,125,142,.14); border-color: rgba(115,125,142,.3); }
-.v-high { color: var(--bad); background: rgba(189,111,120,.14); border-color: rgba(189,111,120,.3); }
-.v-unknown { color: var(--muted); background: rgba(124,134,151,.1); border-color: var(--line); }
+
+/* Steam大型セールカレンダー（about.html）。開催中は不透明な塗りバッジ+白文字で
+   目立たせ、それ以外は無彩色の中立バッジで「あと◯日」を示す。 */
+.sales-cal-list { list-style: none; margin: 14px 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.sales-cal-item {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 12px 16px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+}
+.sales-cal-name { font-weight: 700; color: var(--text-strong); flex: 1 1 auto; min-width: 120px; }
+.sales-cal-dates { color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.sales-cal-status {
+  display: inline-flex; align-items: center; padding: 2px 9px; border-radius: 5px;
+  font-size: .78rem; font-weight: 700; background: var(--surface-2); border: 1px solid var(--line);
+  color: var(--text-strong); white-space: nowrap;
+}
+.sales-cal-status.is-live { background: var(--good-solid-bg); color: var(--good-solid-fg); border-color: var(--good-solid-bg); }
+.sales-cal-item.is-live { border-color: var(--good-solid-bg); }
+/* 判定バッジの色は過去最安に到達（new_low/tied_low）だけに使う。それ以外（最安値に近い/
+   最安値より高い/判定不可）は全て同じ無彩色チップにし、太字の有無だけで軽い差を付ける
+   （色は意味だけに使うルールをバッジにも適用する）。 */
+.v-record { color: var(--good-solid-fg); background: var(--good-solid-bg); border-color: var(--good-solid-bg); font-weight: 800; }
+.v-near, .v-watch, .v-unknown {
+  color: var(--text-strong); background: var(--surface-2); border-color: var(--line);
+}
+.v-near { font-weight: 800; }
+.v-watch, .v-unknown { color: var(--muted); font-weight: 700; }
 .crumbs { margin-bottom: 12px; font-size: .85rem; }
-.game-head { display: flex; flex-direction: column; gap: 8px; }
-.game-head-tags { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-/* 現在価格を最も強調し、過去最安/定価は控えめな補助情報として並べる */
-.price-cards { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 12px; margin: 20px 0; }
-.stat-card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
-.stat-card.primary { background: rgba(107,163,214,.08); border-color: rgba(107,163,214,.35); }
-.stat-card.secondary { padding: 12px 16px; }
-.stat-card.secondary .card-label { font-size: .74rem; }
-.stat-card.secondary .card-value { font-size: 1.1rem; color: var(--text); font-weight: 600; }
+.game-head-tags { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: var(--sp-3) 0 0; }
+
+/* ファーストビュー: 画像を縮小し、右側にタイトル・価格・買い時・購入ボタンを
+   横並びで配置してスクロールなしで見えるようにする。 */
+.game-hero {
+  display: flex; flex-direction: column; gap: var(--sp-5); margin: 0 0 var(--sp-7);
+}
+@media (min-width: 720px) {
+  .game-hero { flex-direction: row; align-items: flex-start; gap: var(--sp-7); }
+  .game-hero-media { flex: 0 0 320px; max-width: 320px; }
+  .game-hero-info { flex: 1 1 auto; min-width: 0; }
+}
+.game-hero-title-row { display: flex; align-items: flex-start; gap: var(--sp-3); }
+.game-hero-title-row h1 { margin: 0; flex: 1 1 auto; font-size: 1.5rem; line-height: 1.3; }
+.price-current { margin: var(--sp-4) 0 0; }
+.price-current-value {
+  display: flex; align-items: baseline; gap: var(--sp-3); flex-wrap: wrap;
+  font-size: 2.5rem; font-weight: 800; color: var(--text-strong);
+  font-variant-numeric: tabular-nums; letter-spacing: -.01em;
+}
+.price-current-meta { margin-top: var(--sp-2); display: flex; flex-direction: column; gap: 4px; }
+.store-badge {
+  display: inline-flex; align-items: center; align-self: flex-start; padding: 2px 9px;
+  border-radius: 5px; font-size: .78rem; font-weight: 700; border: 1px solid transparent;
+  white-space: nowrap;
+}
+.buy {
+  display: inline-block; margin: var(--sp-4) 0 0; padding: 12px 22px;
+  background: var(--accent); color: var(--on-accent); border-radius: 8px; font-weight: 700;
+  text-decoration: none;
+  transition: opacity .15s ease;
+}
+.buy:hover { opacity: .9; }
+
+/* 過去最安・定価はページ下部の控えめな2枚カードにする（現在価格はヒーローに直書き）。 */
+.price-cards-secondary { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-5); margin: 0 0 var(--sp-6); }
+@media (max-width: 640px) { .price-cards-secondary { grid-template-columns: 1fr; } }
+.stat-card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: var(--sp-6);
+  transition: border-color .16s ease, background .16s ease;
+}
+.stat-card:hover { border-color: var(--line-strong); background: var(--surface-2); }
 .card-label { color: var(--muted); font-size: .8rem; }
-.card-value { font-size: 1.4rem; font-weight: 700; color: var(--text-strong); }
-.card-value.big { display: flex; align-items: baseline; gap: 10px; font-size: 2.1rem; color: var(--text-strong); }
+.card-value { font-size: 1.4rem; font-weight: 700; color: var(--text-strong); font-variant-numeric: tabular-nums; }
 .card-cut {
-  font-size: 1rem; font-weight: 800; color: var(--good);
-  background: rgba(127,168,118,.16); border: 1px solid rgba(127,168,118,.32);
+  font-size: 1rem; font-weight: 800; color: var(--text-strong);
+  background: var(--surface-2); border: 1px solid var(--line-strong);
   padding: 2px 8px; border-radius: 5px;
 }
 .card-sub { color: var(--muted); font-size: .8rem; min-height: 1.2em; }
 .card-sub.save { color: var(--good); font-weight: 600; }
-.buy {
-  display: inline-block; margin: 4px 0 8px; padding: 10px 18px;
-  background: var(--accent); color: #10161f; border-radius: 8px; font-weight: 700;
-}
-.buy:hover { text-decoration: none; opacity: .9; }
-.chart { width: 100%; height: auto; background: var(--panel); border-radius: 10px; padding: 8px; }
-.price-line { stroke: var(--accent); stroke-width: 2; }
-.pt { fill: var(--accent); opacity: .55; }
+
+/* 価格履歴チャート: 「価格は変わるまで一定」を正しく表現するステップ（階段）
+   グラフ。斜め線で結ぶ折れ線は徐々に値下がりしたように誤読させるため使わない。
+   動的な文字ラベル（現在/最安/定価）はSVGの外（.chart-legend）に出し、線や
+   グリッドと重ならないようにする。観測点が多いほど.chart自体の実ピクセル幅を
+   広げて.table-wrapで横スクロールさせるため、幅は100%固定にしない。 */
+.chart { display: block; width: 100%; height: auto; background: var(--panel); border-radius: 10px; padding: 8px; }
+.grid-line { stroke: var(--line); stroke-width: 1; }
+.axis-y-label, .axis-x-label { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.price-area { fill: var(--text-strong); opacity: .06; stroke: none; }
+.price-line { stroke: var(--text-strong); stroke-width: 2; fill: none; }
+.pt { fill: var(--muted); opacity: .7; }
 .pt-low { fill: var(--good); stroke: var(--bg); stroke-width: 1.5; }
-.pt-current { fill: var(--text-strong); stroke: var(--accent); stroke-width: 2.5; }
-.cur-line { stroke: var(--accent); stroke-width: 1; stroke-dasharray: 2 3; opacity: .8; }
-.cur-label { fill: var(--accent); font-size: 12px; font-weight: 700; }
-.axis-label { fill: var(--muted); font-size: 11px; }
-.low-line { stroke: var(--good); stroke-width: 1; stroke-dasharray: 4 4; }
-.low-label { fill: var(--good); font-size: 11px; }
-.muted { color: var(--muted); }
-@media (max-width: 640px) {
-  .price-cards { grid-template-columns: 1fr; }
+.pt-current { fill: var(--text-strong); stroke: var(--bg); stroke-width: 2; }
+
+/* グラフ上部の凡例（SVG外のHTML）。現在/最安の色はドットの色と揃える。 */
+.chart-legend { display: flex; flex-wrap: wrap; gap: var(--sp-5); margin: 0 0 8px; font-size: .82rem; color: var(--text-strong); font-weight: 600; }
+.chart-legend-item { display: inline-flex; align-items: center; gap: 5px; }
+.chart-legend-swatch { width: 9px; height: 9px; border-radius: 50%; background: var(--muted); display: inline-block; }
+.chart-legend-swatch.cur { background: var(--text-strong); }
+.chart-legend-swatch.low { background: var(--good); }
+
+/* 期間切り替え（1年/全期間）。トグルは中立チップ2つで、選択中だけ濃く塗る
+   （色は意味だけに使うルールに沿い、緑等の意味色は使わない）。 */
+.chart-period-toggle { display: inline-flex; gap: 6px; margin: 0 0 10px; }
+.chart-period-btn {
+  padding: 4px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel2);
+  color: var(--muted); font-size: .8rem; font-weight: 700; cursor: pointer;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
 }
+.chart-period-btn:hover { border-color: var(--line-strong); }
+.chart-period-btn[aria-pressed="true"] { background: var(--surface-3); color: var(--text-strong); border-color: var(--line-strong); }
+
+/* 価格履歴テーブルの「もっと見る」展開（JS不要のdetails/summary）。 */
+.hist-more summary { cursor: pointer; color: var(--text-strong); font-weight: 700; font-size: .85rem; margin: 4px 0 8px; }
+.hist-more table { margin-top: 0; }
+
+.muted { color: var(--muted); }

@@ -1,31 +1,166 @@
 {
   "slug": "blue-fire",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 1507,
-      "shop": "Fanatical"
+      "date": "2024-12-07",
+      "amount": 512,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-18",
       "amount": 2050,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 2080,
-      "shop": "Epic Game Store"
+      "date": "2024-12-19",
+      "amount": 512,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-02",
       "amount": 2050,
-      "shop": "Dreamgame"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-20",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-24",
       "amount": 2050,
-      "shop": "GreenManGaming"
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-28",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-12",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-17",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-24",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-04",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-18",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-18",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-01",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-14",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-28",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-12",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-14",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 2050,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-05",

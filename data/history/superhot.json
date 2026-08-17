@@ -1,86 +1,166 @@
 {
   "slug": "superhot",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 1953,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 749,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 2499,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 1185,
-      "shop": "GamersGate"
+      "date": "2024-12-19",
+      "amount": 749,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 675,
-      "shop": "GreenManGaming"
+      "date": "2025-01-02",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-03",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-17",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-03",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-03",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-14",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-14",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-28",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-23",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-06",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-19",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-03",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-18",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-17",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-03",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 2499,
+      "shop": "Steam"
     },
     {
       "date": "2026-05-16",
       "amount": 749,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-16",
-      "amount": 2499,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1191,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 645,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-19",
-      "amount": 1193,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 1193,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-21",
-      "amount": 1194,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 3977,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-25",
-      "amount": 3972,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-27",
-      "amount": 3984,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 3985,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-05-30",
@@ -88,179 +168,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-01",
-      "amount": 3986,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3980,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 1990,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 2480,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-04",
-      "amount": 3993,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 3995,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-08",
-      "amount": 3998,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-09",
-      "amount": 4002,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-09",
-      "amount": 645,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-10",
-      "amount": 4011,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 2499,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 4003,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-16",
-      "amount": 4008,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-17",
-      "amount": 4006,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-17",
-      "amount": 1990,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-17",
-      "amount": 2480,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 4022,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1209,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1207,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-20",
-      "amount": 690,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-22",
-      "amount": 1213,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-23",
-      "amount": 1212,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-24",
-      "amount": 1213,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-06-25",
       "amount": 749,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 4045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 4040,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 4040,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-29",
-      "amount": 4045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-30",
-      "amount": 4059,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-01",
-      "amount": 4066,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-02",
-      "amount": 4038,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-03",
-      "amount": 4027,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 4057,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 4046,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-08",
-      "amount": 4061,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-07-09",
@@ -268,184 +178,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-10",
-      "amount": 4059,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 1216,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 4045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1217,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 2499,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 1218,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 1216,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 749,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 1218,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-20",
-      "amount": 4058,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-20",
-      "amount": 4057,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-21",
-      "amount": 4067,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-22",
-      "amount": 4075,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 4085,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-24",
-      "amount": 4094,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-24",
-      "amount": 645,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 4089,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-28",
-      "amount": 4096,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-29",
-      "amount": 4090,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 4072,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 2499,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 4004,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 1990,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 2480,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 3915,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 632,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-04",
-      "amount": 3934,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 3938,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 3944,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-08-07",
       "amount": 749,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 3957,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-10",
-      "amount": 3964,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 3978,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-12",
-      "amount": 3976,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 3982,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 3974,
-      "shop": "GamersGate"
     }
   ]
 }

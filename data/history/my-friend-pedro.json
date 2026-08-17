@@ -4,68 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 410,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2758,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 2300,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 2050,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 410,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 575,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 2300,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 2050,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 688,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 410,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 2750,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-08",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-09",
-      "amount": 2750,
-      "shop": "2game"
     },
     {
       "date": "2026-06-11",
@@ -73,109 +13,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-11",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 2750,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 2750,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 2050,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 663,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 2650,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 410,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-30",
-      "amount": 675,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
       "date": "2026-07-09",
       "amount": 2300,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-10",
-      "amount": 2750,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 2050,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 2300,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 2750,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 2800,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 2750,
-      "shop": "2game"
     },
     {
       "date": "2026-07-30",
       "amount": 460,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-02",
-      "amount": 2700,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 410,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-08-06",

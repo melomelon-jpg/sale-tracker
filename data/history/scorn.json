@@ -1,161 +1,141 @@
 {
   "slug": "scorn",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 4650,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3762,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 5557,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 1045,
-      "shop": "Epic Game Store"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-02",
       "amount": 4180,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-18",
       "amount": 1045,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-02-01",
       "amount": 4180,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 6307,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2025-03-03",
       "amount": 1045,
-      "shop": "GamersGate"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-18",
+      "date": "2025-03-12",
       "amount": 4180,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-18",
-      "amount": 961,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-20",
+      "date": "2025-03-13",
       "amount": 1045,
-      "shop": "GamersGate"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-20",
+      "date": "2025-03-20",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-15",
       "amount": 1045,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
+      "date": "2025-05-22",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
       "amount": 1045,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
-      "amount": 1577,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-22",
+      "date": "2025-07-10",
       "amount": 4180,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-28",
-      "amount": 1162,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3762,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 4180,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 4180,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-05",
+      "date": "2025-08-14",
       "amount": 1045,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-06-05",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-06",
+      "date": "2025-08-28",
       "amount": 4180,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-06-06",
-      "amount": 6307,
-      "shop": "PlanetPlay"
+      "date": "2025-09-29",
+      "amount": 1045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 1045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 1045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 1045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 418,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 1045,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 4180,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-11",
       "amount": 418,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 4180,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 4650,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 4180,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-06-18",
@@ -163,84 +143,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-20",
-      "amount": 6443,
-      "shop": "PlanetPlay"
-    },
-    {
       "date": "2026-06-25",
       "amount": 418,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1045,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 961,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1045,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 1611,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-06-29",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-07",
-      "amount": 1045,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-07-09",
@@ -248,164 +153,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-13",
-      "amount": 4180,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 1162,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 4180,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 6443,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 4180,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 3762,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 4650,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 1611,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 961,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 4180,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 1045,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 1571,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 1045,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 6285,
-      "shop": "PlanetPlay"
-    },
-    {
       "date": "2026-08-07",
       "amount": 1045,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-10",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-10",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-10",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 4180,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 1045,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 4180,
-      "shop": "PlanetPlay"
     }
   ]
 }

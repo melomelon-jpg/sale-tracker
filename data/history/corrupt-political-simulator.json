@@ -1,21 +1,5 @@
 {
   "slug": "corrupt-political-simulator",
   "updated_at": "2026-08-16T10:40:49Z",
-  "history": [
-    {
-      "date": "2026-05-15",
-      "amount": 19,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 390,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-08-04",
-      "amount": 19,
-      "shop": "Epic Game Store"
-    }
-  ]
+  "history": []
 }

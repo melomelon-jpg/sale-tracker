@@ -1,14 +1,139 @@
 {
   "slug": "persona-5-royal",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 7678,
-      "shop": "Microsoft Store"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-19",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-23",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-06",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-24",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-04",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2687,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-20",
+      "amount": 2687,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2303,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 2303,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2303,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 1535,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
       "amount": 7678,
       "shop": "Steam"
     },

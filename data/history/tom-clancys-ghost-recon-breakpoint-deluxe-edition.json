@@ -4,33 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 2112,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 10560,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2112,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 10560,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1901,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-19",
-      "amount": 10560,
-      "shop": "Ubisoft Store"
     },
     {
       "date": "2026-05-25",
@@ -38,34 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-26",
-      "amount": 10560,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-06-01",
       "amount": 10560,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 2112,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 10560,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 10560,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1901,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-25",
@@ -73,49 +23,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-01",
-      "amount": 10560,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-07-09",
       "amount": 10560,
       "shop": "Steam"
     },
     {
-      "date": "2026-07-20",
-      "amount": 1901,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-21",
-      "amount": 10560,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 10560,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 528,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-06",
       "amount": 528,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 528,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 10560,
-      "shop": "Epic Game Store"
     }
   ]
 }

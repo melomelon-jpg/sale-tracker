@@ -8,19 +8,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 245,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-05-24",
       "amount": 580,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 490,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-06-25",
@@ -33,19 +23,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-16",
-      "amount": 49,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-07-23",
       "amount": 580,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 490,
-      "shop": "Epic Game Store"
     }
   ]
 }

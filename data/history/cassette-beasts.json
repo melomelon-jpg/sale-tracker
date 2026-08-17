@@ -4,88 +4,13 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 920,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2299,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2046,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 2299,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1980,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3153,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-21",
-      "amount": 1931,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 920,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 1261,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 2299,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 2299,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 2299,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 2299,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 3153,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-06-07",
       "amount": 804,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 920,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-20",
-      "amount": 3220,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-06-21",
@@ -98,39 +23,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-25",
-      "amount": 920,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 1288,
-      "shop": "PlanetPlay"
-    },
-    {
       "date": "2026-07-09",
       "amount": 2299,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 2299,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 3220,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-20",
-      "amount": 920,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-20",
-      "amount": 1288,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-07-21",
@@ -138,44 +33,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-26",
-      "amount": 3220,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 2299,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 2057,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 1992,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-08-04",
       "amount": 2299,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 3142,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 2057,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 1992,
-      "shop": "Fanatical"
     }
   ]
 }

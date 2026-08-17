@@ -1,0 +1,76 @@
+{
+  "slug": "cultic",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 840,
+      "shop": "Steam"
+    }
+  ]
+}

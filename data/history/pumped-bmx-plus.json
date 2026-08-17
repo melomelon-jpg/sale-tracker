@@ -5,132 +5,17 @@
     {
       "date": "2026-05-15",
       "amount": 98,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 720,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1552,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 98,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 980,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 980,
       "shop": "Steam"
     },
     {
       "date": "2026-05-18",
-      "amount": 83,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-20",
       "amount": 980,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 98,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 980,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-23",
-      "amount": 980,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 774,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 980,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-04",
-      "amount": 98,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 980,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 734,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 872,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-14",
-      "amount": 774,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-15",
-      "amount": 98,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 98,
       "shop": "Steam"
     },
     {
       "date": "2026-06-18",
       "amount": 98,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 980,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 980,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 98,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 78,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 98,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
       "date": "2026-07-09",
@@ -138,84 +23,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-11",
-      "amount": 734,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-11",
-      "amount": 980,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 980,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1619,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1617,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1614,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 774,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 980,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-28",
-      "amount": 980,
-      "shop": "Fortuna Digital"
-    },
-    {
       "date": "2026-07-30",
       "amount": 98,
       "shop": "Steam"
     },
     {
-      "date": "2026-08-01",
-      "amount": 734,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 78,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-12",
-      "amount": 1783,
-      "shop": "PlanetPlay"
-    },
-    {
       "date": "2026-08-13",
       "amount": 980,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 98,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 69,
-      "shop": "Fortuna Digital"
     }
   ]
 }

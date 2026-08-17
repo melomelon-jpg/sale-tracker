@@ -4,33 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1274,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 2750,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2750,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 3920,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-19",
-      "amount": 963,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 2750,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-18",
@@ -38,49 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-19",
-      "amount": 963,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1254,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-07-09",
       "amount": 2750,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 3920,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 2750,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 1254,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 3920,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 1254,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 3920,
-      "shop": "Fanatical"
     }
   ]
 }

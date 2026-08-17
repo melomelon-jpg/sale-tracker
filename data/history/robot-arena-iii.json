@@ -4,23 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1584,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 2300,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2300,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2300,
-      "shop": "GreenManGaming"
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "slug": "kingdom-of-night",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2025-12-02",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-10",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-10",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1495,
+      "shop": "Steam"
+    }
+  ]
+}

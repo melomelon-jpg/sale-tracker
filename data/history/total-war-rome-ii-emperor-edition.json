@@ -1,21 +1,131 @@
 {
   "slug": "total-war-rome-ii-emperor-edition",
-  "updated_at": "2026-08-16T05:15:00Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 1316,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 6580,
       "shop": "Steam"
     },
     {
-      "date": "2026-06-11",
+      "date": "2024-12-19",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
       "amount": 6580,
-      "shop": "Epic Game Store"
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-28",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-21",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-04",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-27",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 6580,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-25",

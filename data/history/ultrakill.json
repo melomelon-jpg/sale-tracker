@@ -4,16 +4,6 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 2240,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2058,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 1960,
       "shop": "Steam"
     },
@@ -28,41 +18,6 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
-      "amount": 2800,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-26",
-      "amount": 2068,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 2078,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 2087,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-30",
-      "amount": 2509,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 2097,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 2509,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-06-25",
       "amount": 2287,
       "shop": "Steam"
@@ -73,41 +28,6 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-21",
-      "amount": 2193,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-22",
-      "amount": 2509,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-23",
-      "amount": 2195,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-25",
-      "amount": 2097,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 2800,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 2509,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-28",
-      "amount": 2509,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-08-03",
       "amount": 2287,
       "shop": "Steam"
@@ -116,11 +36,6 @@
       "date": "2026-08-10",
       "amount": 3050,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-16",
-      "amount": 2097,
-      "shop": "Fanatical"
     }
   ]
 }

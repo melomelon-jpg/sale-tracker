@@ -4,23 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1823,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 1050,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 263,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 210,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-05-18",
@@ -28,39 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-18",
-      "amount": 1050,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-05-25",
       "amount": 1050,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-26",
-      "amount": 1831,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-27",
-      "amount": 1050,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 1840,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 1849,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-30",
-      "amount": 1858,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-06-25",

@@ -4,28 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1174,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1874,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 1480,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1480,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1480,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-05-17",
@@ -33,49 +13,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
-      "amount": 1480,
-      "shop": "2game"
-    },
-    {
       "date": "2026-05-31",
       "amount": 1480,
       "shop": "Steam"
     },
     {
-      "date": "2026-06-02",
-      "amount": 2400,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-06",
-      "amount": 2450,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-07",
-      "amount": 2450,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-07",
-      "amount": 2400,
-      "shop": "2game"
-    },
-    {
       "date": "2026-06-25",
       "amount": 296,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-03",
-      "amount": 222,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-05",
-      "amount": 1109,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-07-09",
@@ -88,54 +33,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-14",
-      "amount": 1480,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1480,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 1174,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 2450,
-      "shop": "2game"
-    },
-    {
       "date": "2026-07-23",
       "amount": 1480,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-24",
-      "amount": 2500,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 2450,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 1109,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 2400,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 1174,
-      "shop": "Fanatical"
     }
   ]
 }

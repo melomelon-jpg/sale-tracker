@@ -5,37 +5,7 @@
     {
       "date": "2026-05-15",
       "amount": 7590,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3795,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 7590,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 7590,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 7590,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 7590,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-22",
-      "amount": 3795,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-06-22",
@@ -43,39 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-22",
-      "amount": 3415,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-22",
-      "amount": 3795,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-07-09",
       "amount": 7590,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 7590,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 7590,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 3795,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 7590,
-      "shop": "Epic Game Store"
     }
   ]
 }

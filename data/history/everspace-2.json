@@ -4,16 +4,6 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1737,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 4956,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 5500,
       "shop": "Steam"
     },
@@ -21,21 +11,6 @@
       "date": "2026-05-16",
       "amount": 1100,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-16",
-      "amount": 5900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1180,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 6950,
-      "shop": "Microsoft Store"
     },
     {
       "date": "2026-05-30",
@@ -43,74 +18,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-02",
-      "amount": 5900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 1390,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1180,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-24",
-      "amount": 5500,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-06-25",
       "amount": 1100,
       "shop": "Steam"
     },
     {
-      "date": "2026-06-25",
-      "amount": 1100,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1100,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-02",
-      "amount": 6950,
-      "shop": "Microsoft Store"
-    },
-    {
       "date": "2026-07-09",
       "amount": 5500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 5050,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-09",
-      "amount": 5900,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-12",
-      "amount": 5500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 5298,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-13",
-      "amount": 5500,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-07-20",
@@ -118,24 +33,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-25",
-      "amount": 5050,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-07-27",
       "amount": 5500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 5298,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 5050,
-      "shop": "Fanatical"
     }
   ]
 }

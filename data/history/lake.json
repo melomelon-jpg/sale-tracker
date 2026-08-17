@@ -1,26 +1,106 @@
 {
   "slug": "lake",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-13",
+      "amount": 697,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
       "amount": 820,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-02",
       "amount": 2050,
-      "shop": "Epic Game Store"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 2785,
-      "shop": "PlanetPlay"
+      "date": "2025-03-13",
+      "amount": 1025,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-03-20",
       "amount": 2050,
-      "shop": "GamersGate"
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-10",
+      "amount": 922,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-18",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-07",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 717,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-08",
+      "amount": 717,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-22",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 820,
+      "shop": "Steam"
     },
     {
       "date": "2026-05-18",
@@ -28,19 +108,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-18",
-      "amount": 820,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-06-25",
       "amount": 717,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-02",
-      "amount": 2050,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-07-09",
@@ -48,29 +118,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-08-06",
-      "amount": 717,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-10",
       "amount": 717,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 2050,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 820,
-      "shop": "Fortuna Digital"
-    },
-    {
-      "date": "2026-08-15",
-      "amount": 697,
-      "shop": "Fortuna Digital"
     }
   ]
 }

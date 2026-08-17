@@ -1,0 +1,41 @@
+{
+  "slug": "collectors-cove",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2026-03-12",
+      "amount": 2070,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}

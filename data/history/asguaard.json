@@ -4,38 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 1088,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 120,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1500,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 135,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-25",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-26",
-      "amount": 1093,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-05-27",
@@ -43,79 +13,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-28",
-      "amount": 1098,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 1103,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-30",
-      "amount": 1109,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-15",
-      "amount": 120,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-22",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-06-25",
       "amount": 120,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 120,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-10",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 123,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 120,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-19",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-20",
-      "amount": 120,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-07-23",
       "amount": 1500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-27",
-      "amount": 1500,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 1500,
-      "shop": "GreenManGaming"
     }
   ]
 }

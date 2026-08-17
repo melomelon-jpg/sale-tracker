@@ -5,32 +5,12 @@
     {
       "date": "2026-05-15",
       "amount": 8800,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 8800,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 8800,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 2200,
-      "shop": "Microsoft Store"
     },
     {
       "date": "2026-05-30",
       "amount": 2200,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 8800,
-      "shop": "Microsoft Store"
     },
     {
       "date": "2026-06-13",
@@ -48,11 +28,6 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-15",
-      "amount": 2200,
-      "shop": "Microsoft Store"
-    },
-    {
       "date": "2026-07-16",
       "amount": 2200,
       "shop": "Steam"
@@ -61,11 +36,6 @@
       "date": "2026-07-30",
       "amount": 8800,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 8800,
-      "shop": "Microsoft Store"
     }
   ]
 }

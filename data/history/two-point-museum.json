@@ -1,0 +1,106 @@
+{
+  "slug": "two-point-museum",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-22",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-11",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-27",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-05",
+      "amount": 2916,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 2604,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2604,
+      "shop": "Steam"
+    }
+  ]
+}

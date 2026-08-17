@@ -4,38 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 9250,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 9240,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1848,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9240,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1848,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 1663,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-19",
-      "amount": 9240,
-      "shop": "Ubisoft Store"
     },
     {
       "date": "2026-05-25",
@@ -43,44 +13,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-26",
-      "amount": 9240,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 1850,
-      "shop": "Microsoft Store"
-    },
-    {
       "date": "2026-06-01",
       "amount": 9240,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 1848,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 9240,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 9250,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 9240,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 1663,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-25",
@@ -88,54 +23,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-01",
-      "amount": 9240,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-07-09",
       "amount": 9240,
       "shop": "Steam"
     },
     {
-      "date": "2026-07-20",
-      "amount": 1663,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-21",
-      "amount": 9240,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 9240,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 462,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-06",
       "amount": 462,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 462,
-      "shop": "Ubisoft Store"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 462,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 9240,
-      "shop": "Epic Game Store"
     }
   ]
 }

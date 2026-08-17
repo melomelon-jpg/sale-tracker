@@ -4,23 +4,8 @@
   "history": [
     {
       "date": "2026-05-15",
-      "amount": 950,
-      "shop": "EA Store"
-    },
-    {
-      "date": "2026-05-15",
       "amount": 9500,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 9500,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 9500,
-      "shop": "EA Store"
     },
     {
       "date": "2026-06-18",
@@ -28,49 +13,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-18",
-      "amount": 950,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-06-20",
-      "amount": 950,
-      "shop": "EA Store"
-    },
-    {
-      "date": "2026-07-02",
-      "amount": 9500,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-07-09",
       "amount": 9500,
       "shop": "Steam"
     },
     {
-      "date": "2026-07-09",
-      "amount": 9500,
-      "shop": "EA Store"
-    },
-    {
       "date": "2026-07-30",
       "amount": 475,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-30",
-      "amount": 475,
-      "shop": "EA Store"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 475,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-08-13",
-      "amount": 9500,
-      "shop": "EA Store"
     },
     {
       "date": "2026-08-13",

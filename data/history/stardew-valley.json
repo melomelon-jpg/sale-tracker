@@ -1,14 +1,84 @@
 {
   "slug": "stardew-valley",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 1781,
-      "shop": "Microsoft Store"
+      "date": "2024-12-07",
+      "amount": 1480,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-20",
+      "amount": 888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 1036,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-14",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1036,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
       "amount": 740,
       "shop": "Steam"
     },

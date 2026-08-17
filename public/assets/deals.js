@@ -17,8 +17,10 @@
   var priceSel = document.getElementById("f-price");
   var reviewsSel = document.getElementById("f-reviews");
   var genreSel = document.getElementById("f-genre");
+  var shopSel = document.getElementById("f-shop");
   var jpChk = document.getElementById("f-jp");
   var onsaleChk = document.getElementById("f-onsale");
+  var favChk = document.getElementById("f-fav");
   var resultCount = document.getElementById("result-count");
   var emptyMsg = document.getElementById("empty");
   var loadMoreBtn = document.getElementById("load-more");
@@ -33,7 +35,7 @@
     price_asc: function (a, b) { return (+a.dataset.price) - (+b.dataset.price); },
     reviews_desc: function (a, b) { return (+b.dataset.reviews) - (+a.dataset.reviews); },
     verdict: function (a, b) { return (+a.dataset.verdictRank) - (+b.dataset.verdictRank); },
-    expiry: function (a, b) { return (+a.dataset.expiryDays) - (+b.dataset.expiryDays); },
+    expiry: function (a, b) { return (+a.dataset.expiryTs) - (+b.dataset.expiryTs); },
   };
 
   function priceInBucket(price, bucket) {
@@ -53,6 +55,7 @@
     if (p.has("price")) priceSel.value = p.get("price");
     if (p.has("reviews")) reviewsSel.value = p.get("reviews");
     if (p.has("genre")) genreSel.value = p.get("genre");
+    if (p.has("shop")) shopSel.value = p.get("shop");
     if (p.has("jp")) jpChk.checked = p.get("jp") === "1";
     if (p.has("onsale")) onsaleChk.checked = p.get("onsale") === "1";
   }
@@ -60,11 +63,12 @@
   function syncUrl() {
     var p = new URLSearchParams();
     if (qInput.value) p.set("q", qInput.value);
-    if (sortSel.value !== "cut_desc") p.set("sort", sortSel.value);
+    if (sortSel.value !== "reviews_desc") p.set("sort", sortSel.value);
     if (cutSel.value !== "0") p.set("cut", cutSel.value);
     if (priceSel.value) p.set("price", priceSel.value);
     if (reviewsSel.value !== "0") p.set("reviews", reviewsSel.value);
     if (genreSel.value) p.set("genre", genreSel.value);
+    if (shopSel && shopSel.value) p.set("shop", shopSel.value);
     if (jpChk.checked) p.set("jp", "1");
     if (onsaleChk.checked) p.set("onsale", "1");
     var qs = p.toString();
@@ -77,8 +81,11 @@
     var bucket = priceSel.value;
     var minReviews = +reviewsSel.value || 0;
     var genre = genreSel.value;
+    var shop = shopSel ? shopSel.value : "";
     var jpOnly = jpChk.checked;
     var onsaleOnly = onsaleChk.checked;
+    var favOnly = favChk && favChk.checked;
+    var favSet = (favOnly && window.SaleTrackerFavorites) ? window.SaleTrackerFavorites.getAll() : null;
 
     var matched = cards.filter(function (c) {
       if (q && c.dataset.title.indexOf(q) === -1) return false;
@@ -86,8 +93,10 @@
       if (bucket && !priceInBucket(+c.dataset.price, bucket)) return false;
       if (minReviews && (+c.dataset.reviews) < minReviews) return false;
       if (genre && (c.dataset.genres || "").split(",").indexOf(genre) === -1) return false;
+      if (shop && c.dataset.shop !== shop) return false;
       if (jpOnly && c.dataset.jp !== "1") return false;
       if (onsaleOnly && c.dataset.onsale !== "1") return false;
+      if (favSet && favSet.indexOf(c.dataset.slug) === -1) return false;
       return true;
     });
 
@@ -115,15 +124,20 @@
     clearTimeout(debounceId);
     debounceId = setTimeout(onFilterChange, 200);
   });
-  [sortSel, cutSel, priceSel, reviewsSel, genreSel, jpChk, onsaleChk].forEach(function (el) {
-    el.addEventListener("change", onFilterChange);
+  [sortSel, cutSel, priceSel, reviewsSel, genreSel, shopSel, jpChk, onsaleChk, favChk].forEach(function (el) {
+    if (el) el.addEventListener("change", onFilterChange);
   });
   loadMoreBtn.addEventListener("click", function () { page += 1; render(); });
+  document.addEventListener("favorites:change", function () {
+    if (favChk && favChk.checked) render();
+  });
 
   function resetAll() {
-    qInput.value = ""; sortSel.value = "cut_desc"; cutSel.value = "0";
+    qInput.value = ""; sortSel.value = "reviews_desc"; cutSel.value = "0";
     priceSel.value = ""; reviewsSel.value = "0"; genreSel.value = "";
+    if (shopSel) shopSel.value = "";
     jpChk.checked = false; onsaleChk.checked = false;
+    if (favChk) favChk.checked = false;
     onFilterChange();
   }
   if (resetBtn) resetBtn.addEventListener("click", resetAll);

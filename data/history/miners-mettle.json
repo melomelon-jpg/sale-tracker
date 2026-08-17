@@ -5,122 +5,7 @@
     {
       "date": "2026-05-15",
       "amount": 2800,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 396,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2800,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-16",
-      "amount": 397,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-17",
-      "amount": 397,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 397,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-18",
-      "amount": 238,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-19",
-      "amount": 397,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-20",
-      "amount": 398,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-21",
-      "amount": 397,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 3974,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 3970,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-23",
-      "amount": 3979,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-25",
-      "amount": 3970,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-26",
-      "amount": 3972,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-27",
-      "amount": 3980,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 3986,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 3980,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-05-30",
-      "amount": 3981,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3980,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 2229,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 3983,
-      "shop": "Gamesporium"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 2800,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-18",
-      "amount": 182,
-      "shop": "Fanatical"
     },
     {
       "date": "2026-06-25",
@@ -133,21 +18,6 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-11",
-      "amount": 2097,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-11",
-      "amount": 2800,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 2229,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-07-20",
       "amount": 280,
       "shop": "Steam"
@@ -156,11 +26,6 @@
       "date": "2026-07-27",
       "amount": 2800,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-04",
-      "amount": 140,
-      "shop": "Fanatical"
     }
   ]
 }

@@ -1,46 +1,56 @@
 {
   "slug": "mafia-the-old-country",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-05-08",
       "amount": 6930,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 6930,
-      "shop": "GamersGate"
+      "date": "2025-12-18",
+      "amount": 6237,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2026-01-05",
       "amount": 6930,
-      "shop": "GreenManGaming"
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 5544,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 6930,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-04",
       "amount": 4851,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-04",
-      "amount": 4366,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-05",
-      "amount": 4220,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-11",
-      "amount": 4366,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 6930,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-06-18",
@@ -48,34 +58,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-19",
-      "amount": 4366,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-22",
-      "amount": 4317,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-24",
-      "amount": 4366,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-06-25",
       "amount": 4851,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 4851,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-06",
-      "amount": 4317,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-07-09",
@@ -83,39 +68,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-13",
-      "amount": 6930,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 6930,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-08-06",
-      "amount": 4158,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 4269,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-08-11",
-      "amount": 3659,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-08-14",
       "amount": 4158,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 6930,
-      "shop": "GamersGate"
     }
   ]
 }

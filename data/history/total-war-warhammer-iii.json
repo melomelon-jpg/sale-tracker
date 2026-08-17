@@ -1,31 +1,141 @@
 {
   "slug": "total-war-warhammer-iii",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 7000,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 7000,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-12",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
       "amount": 7000,
-      "shop": "Epic Game Store"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-21",
-      "amount": 1050,
-      "shop": "Microsoft Store"
+      "date": "2025-02-17",
+      "amount": 2800,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-21",
-      "amount": 1050,
-      "shop": "Epic Game Store"
+      "date": "2025-02-27",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-22",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-14",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-04",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-16",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-28",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-27",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 7000,
+      "shop": "Steam"
     },
     {
       "date": "2026-05-21",
@@ -35,17 +145,7 @@
     {
       "date": "2026-05-28",
       "amount": 7000,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-28",
-      "amount": 7000,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 7000,
-      "shop": "Microsoft Store"
     },
     {
       "date": "2026-06-25",

@@ -1,86 +1,126 @@
 {
   "slug": "wolcen-lords-of-mayhem",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 3400,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 3196,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 2880,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 3400,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-09",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-16",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-23",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-06",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
       "amount": 510,
-      "shop": "Dreamgame"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-03-20",
       "amount": 3400,
-      "shop": "GreenManGaming"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-18",
+      "date": "2025-05-27",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-14",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-21",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-13",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
       "amount": 510,
-      "shop": "Fanatical"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
+      "date": "2025-12-15",
       "amount": 3400,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-26",
+      "date": "2025-12-18",
+      "amount": 306,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
       "amount": 3400,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-01",
-      "amount": 510,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-02",
-      "amount": 3400,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-03",
-      "amount": 510,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-13",
-      "amount": 3400,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-15",
-      "amount": 3400,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 469,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 476,
-      "shop": "Fanatical"
+      "shop": "Steam"
     },
     {
       "date": "2026-06-25",
@@ -88,64 +128,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-01",
-      "amount": 510,
-      "shop": "Dreamgame"
-    },
-    {
       "date": "2026-07-09",
       "amount": 3400,
       "shop": "Steam"
     },
     {
-      "date": "2026-07-11",
-      "amount": 3400,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 3400,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-07-15",
-      "amount": 3400,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-07-21",
-      "amount": 510,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 3400,
-      "shop": "Fanatical"
-    },
-    {
       "date": "2026-08-01",
       "amount": 2000,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 510,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 510,
-      "shop": "Dreamgame"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 2000,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 270,
-      "shop": "GreenManGaming"
     },
     {
       "date": "2026-08-13",

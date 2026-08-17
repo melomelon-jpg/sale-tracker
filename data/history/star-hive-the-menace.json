@@ -1,9 +1,69 @@
 {
   "slug": "star-hive-the-menace",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-23",
+      "amount": 60,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-06",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 60,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 60,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-06",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-06",
+      "amount": 90,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-20",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 90,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-09",
       "amount": 90,
       "shop": "Steam"
     },

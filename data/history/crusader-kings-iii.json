@@ -1,111 +1,141 @@
 {
   "slug": "crusader-kings-iii",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 5850,
-      "shop": "Microsoft Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 6828,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 7649,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 6990,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 7884,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-05-22",
-      "amount": 6990,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-20",
-      "amount": 8054,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-06-25",
+      "date": "2024-12-19",
       "amount": 2097,
-      "shop": "2game"
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-07",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-28",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-12",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-06",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-08",
+      "amount": 3495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-28",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-06",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-11",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 6990,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-25",
       "amount": 2097,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 2173,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 2416,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-07-09",
       "amount": 6990,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 6990,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 8054,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-07-16",
-      "amount": 7759,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 6828,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-07-31",
-      "amount": 2416,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-01",
-      "amount": 2097,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-08-03",
-      "amount": 2173,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-08-05",
-      "amount": 2357,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 7857,
-      "shop": "PlanetPlay"
     },
     {
       "date": "2026-08-13",

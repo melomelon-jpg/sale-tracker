@@ -1,0 +1,136 @@
+{
+  "slug": "die-in-the-dungeon",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2025-02-21",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-07",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-12",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-26",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-21",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-22",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-21",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-18",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 1020,
+      "shop": "Steam"
+    }
+  ]
+}

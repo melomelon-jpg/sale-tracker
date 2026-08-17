@@ -1,31 +1,151 @@
 {
   "slug": "persona-3-reload",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 7678,
-      "shop": "Microsoft Store"
+      "date": "2024-12-07",
+      "amount": 9680,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2024-12-19",
+      "amount": 5808,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-23",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-06",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-24",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 4356,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 4356,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 4356,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-04",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 3872,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
       "amount": 7678,
       "shop": "Steam"
     },
     {
-      "date": "2026-06-17",
+      "date": "2025-11-27",
+      "amount": 3455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
       "amount": 3071,
-      "shop": "Microsoft Store"
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 3071,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 7678,
+      "shop": "Steam"
     },
     {
       "date": "2026-06-25",
       "amount": 2687,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 7678,
-      "shop": "Microsoft Store"
     },
     {
       "date": "2026-07-09",

@@ -8,34 +8,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 1460,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-05-19",
       "amount": 323,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-29",
-      "amount": 3688,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-05-30",
-      "amount": 102,
-      "shop": "Epic Game Store"
     },
     {
       "date": "2026-06-02",
@@ -43,44 +18,9 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-06-12",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-12",
-      "amount": 3688,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 3688,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-06-25",
       "amount": 539,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-06-29",
-      "amount": 1460,
-      "shop": "Epic Game Store"
-    },
-    {
-      "date": "2026-07-03",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-03",
-      "amount": 3688,
-      "shop": "GamersGate"
     },
     {
       "date": "2026-07-09",
@@ -88,49 +28,14 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-07-17",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-07-17",
-      "amount": 3688,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-02",
-      "amount": 102,
-      "shop": "Epic Game Store"
-    },
-    {
       "date": "2026-08-03",
       "amount": 539,
       "shop": "Steam"
     },
     {
-      "date": "2026-08-07",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-07",
-      "amount": 3688,
-      "shop": "GamersGate"
-    },
-    {
       "date": "2026-08-10",
       "amount": 2699,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 277,
-      "shop": "GamersGate"
-    },
-    {
-      "date": "2026-08-14",
-      "amount": 3688,
-      "shop": "GamersGate"
     }
   ]
 }

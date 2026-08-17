@@ -1,0 +1,46 @@
+{
+  "slug": "styx-blades-of-greed",
+  "updated_at": "2026-08-17T00:16:27Z",
+  "history": [
+    {
+      "date": "2026-01-13",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-25",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-16",
+      "amount": 2700,
+      "shop": "Steam"
+    }
+  ]
+}

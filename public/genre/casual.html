@@ -1,0 +1,1447 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff" id="theme-color-meta">
+<script>
+// FOUC防止: CSSが読み込まれる前に保存済みテーマを <html> に反映する。
+// 未保存（初回訪問）なら何もせず、CSS側の prefers-color-scheme に委ねる
+// （ライトを既定値としつつOSのダーク設定も尊重するため）。
+(function () {
+  try {
+    var saved = localStorage.getItem("sale-tracker:theme");
+    if (saved === "light" || saved === "dark") {
+      document.documentElement.setAttribute("data-theme", saved);
+      var m = document.getElementById("theme-color-meta");
+      if (m) m.setAttribute("content", saved === "dark" ? "#0d1014" : "#ffffff");
+    }
+  } catch (e) { /* ignore */ }
+})();
+</script>
+<title>カジュアルのセール一覧｜ゲーム最安隊</title>
+<meta name="description" content="Steamで配信中のカジュアルジャンルのセールを81本掲載。割引率が高い順に一覧表示します。">
+<link rel="canonical" href="https://sale-tracker-368.pages.dev/genre/casual.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ゲーム最安隊">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="カジュアルのセール一覧｜ゲーム最安隊">
+<meta property="og:description" content="Steamで配信中のカジュアルジャンルのセールを81本掲載。割引率が高い順に一覧表示します。">
+<meta property="og:url" content="https://sale-tracker-368.pages.dev/genre/casual.html">
+<meta property="og:image" content="https://sale-tracker-368.pages.dev/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="カジュアルのセール一覧｜ゲーム最安隊">
+<meta name="twitter:description" content="Steamで配信中のカジュアルジャンルのセールを81本掲載。割引率が高い順に一覧表示します。">
+<meta name="twitter:image" content="https://sale-tracker-368.pages.dev/og-default.png">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon.png" sizes="48x48" type="image/png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="../index.html"><svg class="brand-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42Z"/><circle cx="7.5" cy="7.5" r=".6" fill="currentColor"/></svg> <span>ゲーム最安隊</span></a>
+    
+    <form class="site-search" action="../all.html" method="get" role="search">
+      <label class="sr-only" for="header-q">ゲーム名で検索</label>
+      <input type="search" id="header-q" name="q" placeholder="ゲーム名で検索…" autocomplete="off" aria-label="ゲーム名で検索">
+    </form>
+    <nav class="site-nav">
+      <a href="../index.html" class="">注目のセール</a>
+      <a href="../index.html#popular">人気</a>
+      <a href="../index.html#discount">値下げ率</a>
+      <a href="../index.html#ending">まもなく終了</a>
+      <a href="../all.html" class="">すべてのセール</a>
+      <a href="../about.html" class="">このサイトについて</a>
+    </nav>
+    <button type="button" id="theme-toggle" class="theme-toggle" aria-pressed="false" aria-label="ダークモードに切り替え">
+      <svg class="icon-sun" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg><svg class="icon-moon" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"/></svg>
+    </button>
+  </div>
+</header>
+<main class="container">
+
+<nav class="crumbs"><a href="../index.html">注目のセール</a> ・ <a href="../all.html">すべてのセール</a></nav>
+<section class="hero">
+  <h1>カジュアルのセール一覧</h1>
+  <p class="meta">全 81 本（セール中 81 本） ・ 最終更新 2026年8月17日 09:16（日本時間）</p>
+  <p class="meta">価格はすべて Steam ストアの表示です。</p>
+</section>
+<div class="list-head" aria-hidden="true"><span class="lh-rank"></span><span class="lh-thumb"></span><span class="lh-title">ゲーム</span><span class="lh-timing">買い時</span><span class="lh-amount">価格</span></div>
+<ul class="list">
+<li class="row row-v-watch" data-slug="ultimate-fishing-simulator" data-title="ultimate fishing simulator 究極の釣りシミュレータ" data-cut="94" data-price="138"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="8122" data-genres="カジュアル,シミュレーション,スポーツ" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-15bf-70a1-9e1c-01020c6a9e0c/banner400.jpg?t=1786794609" alt="究極の釣りシミュレータ" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ultimate-fishing-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ultimate-fishing-simulator.html" class="stretched-link">究極の釣りシミュレータ</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥23 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-94%</span></div>
+    <span class="row-cur">¥138</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="electrician-simulator" data-title="electrician simulator electrician simulator" data-cut="94" data-price="120"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="3971" data-genres="アドベンチャー,カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-2e81-722e-be0a-f3d2d2180fc6/banner400.jpg?t=1786641338" alt="Electrician Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="electrician-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/electrician-simulator.html" class="stretched-link">Electrician Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥45 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,000</span></span><span class="row-cut">-94%</span></div>
+    <span class="row-cur">¥120</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="castle-flipper" data-title="castle flipper castle flipper" data-cut="94" data-price="126"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
+  data-reviews="1020" data-genres="アドベンチャー,カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0083-72fc-85df-d1fcf2d2819d/banner400.jpg?t=1786667731" alt="Castle Flipper" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="castle-flipper" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/castle-flipper.html" class="stretched-link">Castle Flipper</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥21 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,100</span></span><span class="row-cut">-94%</span></div>
+    <span class="row-cur">¥126</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="star-hive-the-menace" data-title="star hive: the menace star hive: the menace" data-cut="93" data-price="126"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6b7d-7382-9685-8ec6d928089e/banner400.jpg?t=1763185734" alt="Star Hive: The Menace" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="star-hive-the-menace" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/star-hive-the-menace.html" class="stretched-link">Star Hive: The Menace</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥66 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,800</span></span><span class="row-cut">-93%</span></div>
+    <span class="row-cur">¥126</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="ship-graveyard-simulator" data-title="ship graveyard simulator ship graveyard simulator" data-cut="93" data-price="119"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="2073" data-genres="アクション,アドベンチャー,カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-4080-71bd-9208-7b9f28d7707b/banner400.jpg?t=1786648860" alt="Ship Graveyard Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ship-graveyard-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ship-graveyard-simulator.html" class="stretched-link">Ship Graveyard Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥34 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-93%</span></div>
+    <span class="row-cur">¥119</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="cube-dodge" data-title="cube dodge cube dodge" data-cut="93" data-price="126"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6671-7056-b419-aac8a0ef5bb6/banner400.jpg?t=1767739217" alt="Cube Dodge" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="cube-dodge" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/cube-dodge.html" class="stretched-link">Cube Dodge</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥66 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,800</span></span><span class="row-cut">-93%</span></div>
+    <span class="row-cur">¥126</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="bakery-simulator" data-title="bakery simulator bakery simulator" data-cut="93" data-price="126"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="2159" data-genres="カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-f098-737d-8b53-b5d4aa61f5cb/banner400.jpg?t=1786644023" alt="Bakery Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="bakery-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/bakery-simulator.html" class="stretched-link">Bakery Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥36 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,800</span></span><span class="row-cut">-93%</span></div>
+    <span class="row-cur">¥126</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="yacht-mechanic-simulator" data-title="yacht mechanic simulator yacht mechanic simulator" data-cut="92" data-price="136"
+  data-verdict-rank="1" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="184" data-genres="カジュアル,インディー,レース,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-4024-708f-bfaf-4be3c03e5d1d/banner400.jpg?t=1786706124" alt="Yacht Mechanic Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="yacht-mechanic-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/yacht-mechanic-simulator.html" class="stretched-link">Yacht Mechanic Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-92%</span></div>
+    <span class="row-cur">¥136</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="dragons-reef-vr" data-title="dragons reef vr dragons reef vr" data-cut="91" data-price="207"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,インディー,RPG" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019713ed-e9c4-7300-8d3c-3125e219b429/banner400.jpg?t=1786392701" alt="Dragons Reef VR" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="dragons-reef-vr" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/dragons-reef-vr.html" class="stretched-link">Dragons Reef VR</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは7回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥207</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="ironsmith-medieval-simulator" data-title="ironsmith medieval simulator ironsmith medieval simulator" data-cut="91" data-price="108"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="213" data-genres="カジュアル,インディー,RPG,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-f81e-7138-8ac6-d3f51c7c9a81/banner400.jpg?t=1786647019" alt="Ironsmith Medieval Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ironsmith-medieval-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ironsmith-medieval-simulator.html" class="stretched-link">Ironsmith Medieval Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥12 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥108</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="grave-keeper" data-title="grave keeper grave keeper" data-cut="91" data-price="108"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,インディー,RPG" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0456-7388-9084-d1ae9206e00d/banner400.jpg?t=1786638318" alt="Grave Keeper" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="grave-keeper" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/grave-keeper.html" class="stretched-link">Grave Keeper</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥12 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥108</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="farming-life" data-title="farming life farming life" data-cut="91" data-price="108"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="168" data-genres="アドベンチャー,カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-341d-7165-9e2d-5e75cb3cc534/banner400.jpg?t=1786650956" alt="Farming Life" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="farming-life" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/farming-life.html" class="stretched-link">Farming Life</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥12 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥108</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="escape-doodland" data-title="escape doodland escape doodland" data-cut="91" data-price="108"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="137" data-genres="アクション,アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-ff5a-7157-8aac-5f8ca73a319a/banner400.jpg?t=1786669817" alt="Escape Doodland" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="escape-doodland" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/escape-doodland.html" class="stretched-link">Escape Doodland</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥12 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥108</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="city-eye" data-title="city eye city eye" data-cut="91" data-price="108"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-1c96-71f9-93da-caf3eb1553d6/banner400.jpg?t=1786671041" alt="City Eye" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="city-eye" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/city-eye.html" class="stretched-link">City Eye</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥12 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-91%</span></div>
+    <span class="row-cur">¥108</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="legion" data-title="legion legion:dead metal" data-cut="90" data-price="135"
+  data-verdict-rank="3" data-expiry-ts="1787245200.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <div class="row-thumb-img img-ph" role="img" aria-label="LEGION:DEAD METAL"><span class="img-ph-icon">🎮</span><span class="img-ph-title">LEGION:DEAD METAL</span></div>
+    <button type="button" class="fav-btn" data-fav-slug="legion" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/legion.html" class="stretched-link">LEGION:DEAD METAL</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと3日</span><span class="row-timing">過去最安より ¥15 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,350</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥135</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="spleef-game" data-title="spleef game spleef game" data-cut="90" data-price="135"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-74db-7395-982a-4d6235be4ede/banner400.jpg?t=1786477564" alt="Spleef Game" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="spleef-game" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/spleef-game.html" class="stretched-link">Spleef Game</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥75 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,350</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥135</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="leadcount" data-title="leadcount leadcount" data-cut="90" data-price="120"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019a2297-3a55-72a3-8ebb-c7ade11a83a5/banner400.jpg?t=1786388737" alt="LeadCount" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="leadcount" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/leadcount.html" class="stretched-link">LeadCount</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは5回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥120</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="redtape--1" data-title="redtape redtape" data-cut="90" data-price="120"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/01995d55-4689-71ff-a6a2-2aace443f560/banner400.jpg?t=1786385802" alt="REDTAPE" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="redtape--1" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/redtape--1.html" class="stretched-link">REDTAPE</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは5回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥120</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="super-farming-boy" data-title="super farming boy super farming boy" data-cut="90" data-price="205"
+  data-verdict-rank="1" data-expiry-ts="1787590800.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アドベンチャー,カジュアル,インディー,無料プレイ,早期アクセス" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018da2ed-d469-72c1-a139-ffb43427acc0/banner400.jpg?t=1786395319" alt="Super Farming Boy" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="super-farming-boy" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/super-farming-boy.html" class="stretched-link">Super Farming Boy</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,050</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥205</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="tower-survivor" data-title="tower survivor tower survivor" data-cut="90" data-price="120"
+  data-verdict-rank="1" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,RPG" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019794b8-0b8f-7151-bfe9-80be5a592222/banner400.jpg?t=1786475724" alt="Tower Survivor" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="tower-survivor" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/tower-survivor.html" class="stretched-link">Tower Survivor</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは4回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥120</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="12-labours-of-hercules-xviii-ghost-sheep" data-title="12 labours of hercules xviii: ghost sheep 12 labours of hercules xviii: ghost sheep" data-cut="90" data-price="140"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アドベンチャー,カジュアル,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019807f5-6e2b-7213-b886-779db364a7c6/banner400.jpg?t=1786525223" alt="12 Labours of Hercules XVIII: Ghost Sheep" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="12-labours-of-hercules-xviii-ghost-sheep" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/12-labours-of-hercules-xviii-ghost-sheep.html" class="stretched-link">12 Labours of Hercules XVIII: Ghost Sheep</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,400</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥140</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="dear-his-majesty" data-title="dear his majesty 親愛なる国王陛下" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/0193989f-cff1-7382-aae1-50c2926e0424/banner400.jpg?t=1786384013" alt="親愛なる国王陛下" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="dear-his-majesty" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/dear-his-majesty.html" class="stretched-link">親愛なる国王陛下</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは7回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="proxyma" data-title="proxyma proxyma" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/01919b53-7abe-70ce-98fa-a610c115dc54/banner400.jpg?t=1786300814" alt="Proxyma" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="proxyma" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/proxyma.html" class="stretched-link">Proxyma</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは11回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="nekonoyakyuu" data-title="ネコノヤキュウ ネコノヤキュウ" data-cut="90" data-price="98"
+  data-verdict-rank="1" data-expiry-ts="1787360400.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,スポーツ" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <div class="row-thumb-img img-ph" role="img" aria-label="ネコノヤキュウ"><span class="img-ph-icon">🎮</span><span class="img-ph-title">ネコノヤキュウ</span></div>
+    <button type="button" class="fav-btn" data-fav-slug="nekonoyakyuu" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/nekonoyakyuu.html" class="stretched-link">ネコノヤキュウ</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥980</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥98</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="yu-mei-nu-he-zu-de99zhong-si-fa" data-title="与美女合租的99种死法 与美女合租的99种死法" data-cut="90" data-price="150"
+  data-verdict-rank="1" data-expiry-ts="1787886000.0" data-jp="0" data-onsale="1"
+  data-reviews="470" data-genres="アドベンチャー,カジュアル,インディー,RPG,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <div class="row-thumb-img img-ph" role="img" aria-label="与美女合租的99种死法"><span class="img-ph-icon">🎮</span><span class="img-ph-title">与美女合租的99种死法</span></div>
+    <button type="button" class="fav-btn" data-fav-slug="yu-mei-nu-he-zu-de99zhong-si-fa" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/yu-mei-nu-he-zu-de99zhong-si-fa.html" class="stretched-link">与美女合租的99种死法</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,500</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥150</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="escape-zombie-maze" data-title="escape: zombie maze escape: zombie maze" data-cut="90" data-price="230"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,インディー,早期アクセス" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/0190360e-4cd8-732b-9cad-886246bc563e/banner400.jpg?t=1786384050" alt="Escape: Zombie Maze" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="escape-zombie-maze" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/escape-zombie-maze.html" class="stretched-link">Escape: Zombie Maze</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは7回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥230</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="game-builder-tycoon" data-title="game builder tycoon game builder tycoon" data-cut="90" data-price="100"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="1" data-onsale="1"
+  data-reviews="137" data-genres="カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d9809-7a29-7366-8c53-a161debe6eb2/banner400.jpg?t=1786650015" alt="Game Builder Tycoon" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="game-builder-tycoon" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/game-builder-tycoon.html" class="stretched-link">Game Builder Tycoon</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥19 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,000</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥100</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="where-are-my-pipes" data-title="where are my pipes where are my pipes?" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-1557-701c-962b-b633417567bc/banner400.jpg?t=1786395038" alt="Where are My Pipes?" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="where-are-my-pipes" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/where-are-my-pipes.html" class="stretched-link">Where are My Pipes?</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="brawlout" data-title="brawlout brawlout" data-cut="90" data-price="198"
+  data-verdict-rank="3" data-expiry-ts="1787504400.0" data-jp="1" data-onsale="1"
+  data-reviews="524" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-03e7-720b-a743-e680c3966823/banner400.jpg?t=1786905012" alt="Brawlout" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="brawlout" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/brawlout.html" class="stretched-link">Brawlout</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥60 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,980</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥198</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="tank-mechanic-simulator" data-title="tank mechanic simulator tank mechanic simulator" data-cut="90" data-price="205"
+  data-verdict-rank="1" data-expiry-ts="1787850000.0" data-jp="1" data-onsale="1"
+  data-reviews="8689" data-genres="アクション,アドベンチャー,カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-299a-70da-a88b-1914e822285e/banner400.jpg?t=1786620922" alt="Tank Mechanic Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="tank-mechanic-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/tank-mechanic-simulator.html" class="stretched-link">Tank Mechanic Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは3回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,050</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥205</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="space-mechanic-simulator" data-title="space mechanic simulator space mechanic simulator" data-cut="90" data-price="260"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="114" data-genres="カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0682-7131-a7fb-a8c628cb9247/banner400.jpg?t=1786643482" alt="Space Mechanic Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="space-mechanic-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/space-mechanic-simulator.html" class="stretched-link">Space Mechanic Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥53 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥260</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="solitaire-beach-season-sounds-of-waves" data-title="solitaire beach season: sounds of waves solitaire beach season sounds of waves" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-2815-73cb-9d38-7c8f3da9aa4e/banner400.jpg?t=1786388193" alt="Solitaire Beach Season Sounds of Waves" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="solitaire-beach-season-sounds-of-waves" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/solitaire-beach-season-sounds-of-waves.html" class="stretched-link">Solitaire Beach Season Sounds of Waves</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥100 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="solitaire-beach-season-2" data-title="solitaire beach season 2 solitaire beach season 2" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-3106-7309-832f-279b764f49a4/banner400.jpg?t=1786386144" alt="Solitaire Beach Season 2" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="solitaire-beach-season-2" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/solitaire-beach-season-2.html" class="stretched-link">Solitaire Beach Season 2</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥100 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="social-credit-simulator--1" data-title="social credit simulator social credit simulator" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1788070612.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d9988-dd18-7301-91ba-084996b54126/banner400.jpg?t=1786873814" alt="Social Credit Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="social-credit-simulator--1" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/social-credit-simulator--1.html" class="stretched-link">Social Credit Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは17回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="shapeshooter" data-title="shapeshooter shapeshooter" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-3fe5-717c-add7-c083e12cc2dc/banner400.jpg?t=1786296020" alt="Shapeshooter" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="shapeshooter" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/shapeshooter.html" class="stretched-link">Shapeshooter</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは19回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="savanna-shot-vr" data-title="savanna shot vr savanna shot vr" data-cut="90" data-price="148"
+  data-verdict-rank="1" data-expiry-ts="1787158800.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0886-7206-b6e2-999b79a5a45a/banner400.jpg?t=1732089903" alt="SAVANNA SHOT VR" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="savanna-shot-vr" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/savanna-shot-vr.html" class="stretched-link">SAVANNA SHOT VR</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと2日</span><span class="row-timing save">この価格になるのは8回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,480</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥148</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="royal-roads-2-the-magic-box" data-title="royal roads 2 the magic box royal roads 2 the magic box" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-49bc-71f5-a2f9-9b2ced470960/banner400.jpg?t=1786417266" alt="Royal Roads 2 The Magic Box" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="royal-roads-2-the-magic-box" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/royal-roads-2-the-magic-box.html" class="stretched-link">Royal Roads 2 The Magic Box</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="royal-jigsaw" data-title="royal jigsaw royal jigsaw" data-cut="90" data-price="170"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0dd4-701f-ba63-93c5f912ef10/banner400.jpg?t=1786391487" alt="Royal Jigsaw" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="royal-jigsaw" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/royal-jigsaw.html" class="stretched-link">Royal Jigsaw</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="roads-of-time" data-title="roads of time roads of time" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アドベンチャー,カジュアル,インディー,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-3e25-7125-ba3a-b27e2706f422/banner400.jpg?t=1786392605" alt="Roads of time" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="roads-of-time" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/roads-of-time.html" class="stretched-link">Roads of time</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="riddle-of-the-mask" data-title="riddle of the mask riddle of the mask" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アドベンチャー,カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-2101-70ce-8a02-70291c419f28/banner400.jpg?t=1786404117" alt="Riddle of the mask" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="riddle-of-the-mask" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/riddle-of-the-mask.html" class="stretched-link">Riddle of the mask</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="rainbow-pixel" data-title="rainbow pixel rainbow pixel - color by number" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-3856-7332-b066-517d95ec5a47/banner400.jpg" alt="Rainbow Pixel - Color by Number" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="rainbow-pixel" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/rainbow-pixel.html" class="stretched-link">Rainbow Pixel - Color by Number</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="putin-destroys-alien" data-title="putin destroys alien putin destroys alien" data-cut="90" data-price="67"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-695b-7263-bacf-51e96be62c29/banner400.jpg?t=1786382778" alt="Putin Destroys Alien" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="putin-destroys-alien" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/putin-destroys-alien.html" class="stretched-link">Putin Destroys Alien</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥7 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥670</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥67</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="push-that-cat" data-title="push that cat!! push that cat!!" data-cut="90" data-price="67"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-7612-725d-aba0-ac4d82ce9d04/banner400.jpg?t=1786383306" alt="Push That Cat!!" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="push-that-cat" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/push-that-cat.html" class="stretched-link">Push That Cat!!</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥7 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥670</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥67</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="velocity-wings" data-title="✈️velocity wings✈️ ✈️velocity wings✈️" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アドベンチャー,カジュアル,インディー,レース,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/01988c20-fd4b-717e-9a26-b9c7f117376a/banner400.jpg?t=1786383634" alt="✈️Velocity Wings✈️" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="velocity-wings" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/velocity-wings.html" class="stretched-link">✈️Velocity Wings✈️</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは7回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="polygoneer" data-title="polygoneer polygoneer" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="1" data-onsale="1"
+  data-reviews="424" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-330c-7281-aba1-97c538ad9325/banner400.jpg?t=1786296659" alt="Polygoneer" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="polygoneer" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/polygoneer.html" class="stretched-link">Polygoneer</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは19回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="pirate-mosaic-puzzle-caribbean-treasures" data-title="pirate mosaic puzzle: caribbean treasures pirate mosaic puzzle. caribbean treasures" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-17f1-7056-a285-b85520eb401d/banner400.jpg?t=1786395343" alt="Pirate Mosaic Puzzle. Caribbean Treasures" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="pirate-mosaic-puzzle-caribbean-treasures" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/pirate-mosaic-puzzle-caribbean-treasures.html" class="stretched-link">Pirate Mosaic Puzzle. Caribbean Treasures</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="ninja-stealth-2" data-title="ninja stealth 2 ninja stealth 2" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1788109200.0" data-jp="0" data-onsale="1"
+  data-reviews="666" data-genres="カジュアル,インディー,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-f9e5-7295-90a8-83e3da83eef2/banner400.jpg?t=1786901431" alt="Ninja Stealth 2" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ninja-stealth-2" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ninja-stealth-2.html" class="stretched-link">Ninja Stealth 2</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは18回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="ninja-stealth" data-title="ninja stealth ninja stealth" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787677200.0" data-jp="0" data-onsale="1"
+  data-reviews="910" data-genres="カジュアル,インディー,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-f52c-726b-bfbf-c6914dd16f40/banner400.jpg?t=1786473338" alt="Ninja Stealth" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ninja-stealth" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ninja-stealth.html" class="stretched-link">Ninja Stealth</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは16回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="new-lands-3" data-title="new lands 3 new lands paradise island collector&#x27;s edition" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-5e42-70de-91f9-a319dbdc98c7/banner400.jpg" alt="New Lands Paradise Island Collector&#x27;s Edition" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="new-lands-3" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/new-lands-3.html" class="stretched-link">New Lands Paradise Island Collector&#x27;s Edition</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="mystery-solitaire-grimms-tales-7" data-title="mystery solitaire. grimm&#x27;s tales 7 mystery solitaire. grimm&#x27;s tales 7" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6964-71bb-9120-e8ff111dd1a4/banner400.jpg?t=1786408273" alt="Mystery Solitaire. Grimm&#x27;s Tales 7" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="mystery-solitaire-grimms-tales-7" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/mystery-solitaire-grimms-tales-7.html" class="stretched-link">Mystery Solitaire. Grimm&#x27;s Tales 7</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="mystery-of-neuschwanstein" data-title="mystery of neuschwanstein mystery of neuschwanstein" data-cut="90" data-price="120"
+  data-verdict-rank="1" data-expiry-ts="1787245200.0" data-jp="0" data-onsale="1"
+  data-reviews="105" data-genres="アドベンチャー,カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-1b29-718d-ab64-2172cbbc944f/banner400.jpg?t=1768876220" alt="Mystery of Neuschwanstein" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="mystery-of-neuschwanstein" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/mystery-of-neuschwanstein.html" class="stretched-link">Mystery of Neuschwanstein</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと3日</span><span class="row-timing save">この価格になるのは14回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥120</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="the-medic" data-title="the medic the medic" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-428d-727b-8459-9ccdf6e2fea1/banner400.jpg?t=1786304117" alt="The Medic" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="the-medic" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/the-medic.html" class="stretched-link">The Medic</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは16回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="ken-folletts-the-pillars-of-the-earth" data-title="ken follett&#x27;s the pillars of the earth ken follett&#x27;s the pillars of the earth" data-cut="90" data-price="270"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="5892" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-1787-70c5-84bf-5802a22087eb/banner400.jpg?t=1777463423" alt="Ken Follett&#x27;s The Pillars of the Earth" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="ken-folletts-the-pillars-of-the-earth" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/ken-folletts-the-pillars-of-the-earth.html" class="stretched-link">Ken Follett&#x27;s The Pillars of the Earth</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは18回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥270</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="jump-up-jerry" data-title="jump up, jerry! jump up, jerry!" data-cut="90" data-price="60"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6d0f-7291-a5a1-e23eb90f5b5a/banner400.jpg?t=1786300558" alt="Jump Up, Jerry!" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="jump-up-jerry" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/jump-up-jerry.html" class="stretched-link">Jump Up, Jerry!</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは16回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥600</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥60</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="12-labours-of-hercules-xi-painted-adventure" data-title="12 labours of hercules xi: painted adventure 12 labours of hercules xi: painted adventure" data-cut="90" data-price="122"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="アクション,アドベンチャー,カジュアル,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-4817-71ee-8dac-d0e094bf1252/banner400.jpg?t=1786544432" alt="12 Labours of Hercules XI: Painted Adventure" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="12-labours-of-hercules-xi-painted-adventure" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/12-labours-of-hercules-xi-painted-adventure.html" class="stretched-link">12 Labours of Hercules XI: Painted Adventure</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,220</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥122</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="1001-jigsaw-home-sweet-home-2" data-title="1001 jigsaw. home sweet home 2 1001 jigsaw. home sweet home 2" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-60b8-709f-862c-09b205ed859f/banner400.jpg?t=1786387348" alt="1001 Jigsaw. Home Sweet Home 2" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="1001-jigsaw-home-sweet-home-2" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/1001-jigsaw-home-sweet-home-2.html" class="stretched-link">1001 Jigsaw. Home Sweet Home 2</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="1001-jigsaw-earth-chronicles-6" data-title="1001 jigsaw earth chronicles 6 1001 jigsaw. earth chronicles 6" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-263c-72dd-888f-a9786d1fd78c/banner400.jpg?t=1786383369" alt="1001 Jigsaw. Earth Chronicles 6" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="1001-jigsaw-earth-chronicles-6" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/1001-jigsaw-earth-chronicles-6.html" class="stretched-link">1001 Jigsaw. Earth Chronicles 6</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="1001-jigsaw-earth-chronicles-5" data-title="1001 jigsaw earth chronicles 5 1001 jigsaw: earth chronicles 5" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-17d3-722e-86f0-a71bbf515e2c/banner400.jpg?t=1786388164" alt="1001 Jigsaw: Earth Chronicles 5" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="1001-jigsaw-earth-chronicles-5" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/1001-jigsaw-earth-chronicles-5.html" class="stretched-link">1001 Jigsaw: Earth Chronicles 5</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="1001-jigsaw-cute-cats" data-title="1001 jigsaw. cute cats 1001 jigsaw. cute cats" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-5dd3-7271-9649-ed7685154582/banner400.jpg?t=1786433757" alt="1001 Jigsaw. Cute Cats" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="1001-jigsaw-cute-cats" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/1001-jigsaw-cute-cats.html" class="stretched-link">1001 Jigsaw. Cute Cats</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="christmas-mahjong" data-title="christmas mahjong christmas mahjong" data-cut="90" data-price="170"
+  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-203e-73c3-8ee8-2276b4eadeac/banner400.jpg?t=1786384337" alt="Christmas Mahjong" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="christmas-mahjong" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/christmas-mahjong.html" class="stretched-link">Christmas Mahjong</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥83 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,700</span></span><span class="row-cut">-90%</span></div>
+    <span class="row-cur">¥170</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="two-point-campus" data-title="two point campus two point campus" data-cut="85" data-price="583"
+  data-verdict-rank="3" data-expiry-ts="1787850000.0" data-jp="0" data-onsale="1"
+  data-reviews="5754" data-genres="カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-50e3-70a2-9dc0-91a22ea2351d/banner400.jpg?t=1786649131" alt="Two Point Campus" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="two-point-campus" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/two-point-campus.html" class="stretched-link">Two Point Campus</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥195 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥3,888</span></span><span class="row-cut">-85%</span></div>
+    <span class="row-cur">¥583</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="mr-prepper" data-title="mr. prepper mr. プレッパー" data-cut="84" data-price="368"
+  data-verdict-rank="1" data-expiry-ts="1787850000.0" data-jp="1" data-onsale="1"
+  data-reviews="4764" data-genres="アクション,アドベンチャー,カジュアル,インディー,RPG,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-133f-73fb-9e6f-31786d7f6cf2/banner400.jpg?t=1786662620" alt="Mr. プレッパー" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="mr-prepper" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/mr-prepper.html" class="stretched-link">Mr. プレッパー</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-84%</span></div>
+    <span class="row-cur">¥368</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="muffin-knight" data-title="muffin knight muffin knight" data-cut="80" data-price="104"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="1" data-onsale="1"
+  data-reviews="124" data-genres="アクション,アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-19a6-73db-b627-a6c4e2ffc5de/banner400.jpg?t=1786914320" alt="Muffin Knight" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="muffin-knight" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/muffin-knight.html" class="stretched-link">Muffin Knight</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは22回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥520</span></span><span class="row-cut">-80%</span></div>
+    <span class="row-cur">¥104</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="lil-guardsman" data-title="lil&#x27; guardsman lil&#x27; guardsman" data-cut="80" data-price="460"
+  data-verdict-rank="1" data-expiry-ts="1786986000.0" data-jp="0" data-onsale="1"
+  data-reviews="1170" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6cba-7049-b5c2-ca40cee692fa/banner400.jpg?t=1786393353" alt="Lil&#x27; Guardsman" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="lil-guardsman" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/lil-guardsman.html" class="stretched-link">Lil&#x27; Guardsman</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing save">この価格になるのは5回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-80%</span></div>
+    <span class="row-cur">¥460</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="turnip-boy-commits-tax-evasion" data-title="turnip boy commits tax evasion turnip boy commits tax evasion" data-cut="80" data-price="304"
+  data-verdict-rank="1" data-expiry-ts="1787936400.0" data-jp="1" data-onsale="1"
+  data-reviews="9775" data-genres="アクション,アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-3d22-7234-9fdb-3f73011e948b/banner400.jpg?t=1786728939" alt="Turnip Boy Commits Tax Evasion" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="turnip-boy-commits-tax-evasion" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/turnip-boy-commits-tax-evasion.html" class="stretched-link">Turnip Boy Commits Tax Evasion</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは17回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,520</span></span><span class="row-cut">-80%</span></div>
+    <span class="row-cur">¥304</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="planet-coaster" data-title="planet coaster プラネットコースター" data-cut="75" data-price="1145"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="59699" data-genres="アクション,アドベンチャー,カジュアル,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937e-fa3c-7148-89e9-0bc7015abc73/banner400.jpg?t=1786454402" alt="プラネットコースター" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="planet-coaster" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/planet-coaster.html" class="stretched-link">プラネットコースター</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥934 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥4,580</span></span><span class="row-cut">-75%</span></div>
+    <span class="row-cur">¥1,145</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="overcooked-2" data-title="overcooked! 2 overcooked! 2" data-cut="75" data-price="642"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="61539" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-101a-71e7-8e08-6c455a66a708/banner400.jpg?t=1786656921" alt="Overcooked! 2" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="overcooked-2" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/overcooked-2.html" class="stretched-link">Overcooked! 2</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥95 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,570</span></span><span class="row-cut">-75%</span></div>
+    <span class="row-cur">¥642</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="garden-life-a-cozy-simulator" data-title="garden life: a cozy simulator garden life: a cozy simulator" data-cut="70" data-price="1072"
+  data-verdict-rank="1" data-expiry-ts="1787158800.0" data-jp="1" data-onsale="1"
+  data-reviews="883" data-genres="カジュアル,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d97ab-6d77-70ab-9f10-80518e0bb06a/banner400.jpg?t=1786209645" alt="Garden Life: A Cozy Simulator" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="garden-life-a-cozy-simulator" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/garden-life-a-cozy-simulator.html" class="stretched-link">Garden Life: A Cozy Simulator</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと2日</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥3,574</span></span><span class="row-cut">-70%</span></div>
+    <span class="row-cur">¥1,072</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="papetura" data-title="papetura papetura" data-cut="65" data-price="451"
+  data-verdict-rank="1" data-expiry-ts="1788109200.0" data-jp="1" data-onsale="1"
+  data-reviews="1134" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <div class="row-thumb-img img-ph" role="img" aria-label="Papetura"><span class="img-ph-icon">🎮</span><span class="img-ph-title">Papetura</span></div>
+    <button type="button" class="fav-btn" data-fav-slug="papetura" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/papetura.html" class="stretched-link">Papetura</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,290</span></span><span class="row-cut">-65%</span></div>
+    <span class="row-cur">¥451</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="until-then" data-title="until then until then" data-cut="60" data-price="920"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="15350" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-7359-736e-9e07-58d9f5cbe843/banner400.jpg?t=1786142162" alt="Until Then" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="until-then" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/until-then.html" class="stretched-link">Until Then</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥92 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-60%</span></div>
+    <span class="row-cur">¥920</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="melvor-idle" data-title="melvor idle melvor idle" data-cut="60" data-price="480"
+  data-verdict-rank="1" data-expiry-ts="1787504400.0" data-jp="1" data-onsale="1"
+  data-reviews="14526" data-genres="アドベンチャー,カジュアル,インディー,RPG" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-4982-7291-bf9c-e0b6cb3e5639/banner400.jpg?t=1786901436" alt="Melvor Idle" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="melvor-idle" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/melvor-idle.html" class="stretched-link">Melvor Idle</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,200</span></span><span class="row-cut">-60%</span></div>
+    <span class="row-cur">¥480</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="targeted-10-days" data-title="targeted -10 days targeted –10 days" data-cut="50" data-price="327"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="0" data-genres="カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/0190dc3e-ef4b-72f3-9226-b2a93f2dea0b/banner400.jpg?t=1786205419" alt="Targeted –10 Days" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="targeted-10-days" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/targeted-10-days.html" class="stretched-link">Targeted –10 Days</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥37 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥655</span></span><span class="row-cut">-50%</span></div>
+    <span class="row-cur">¥327</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="the-wolf-among-us" data-title="the wolf among us the wolf among us" data-cut="50" data-price="760"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
+  data-reviews="32327" data-genres="アクション,アドベンチャー,カジュアル" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-0ea6-732e-866d-75df62546c6b/banner400.jpg?t=1786386018" alt="The Wolf Among Us" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="the-wolf-among-us" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/the-wolf-among-us.html" class="stretched-link">The Wolf Among Us</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥258 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,520</span></span><span class="row-cut">-50%</span></div>
+    <span class="row-cur">¥760</span>
+  </div>
+</li>
+<li class="row row-v-watch" data-slug="rue-valley" data-title="rue valley rue valley" data-cut="50" data-price="849"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
+  data-reviews="1859" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-6962-714f-9bf7-c750c6ce9365/banner400.jpg?t=1786645574" alt="Rue Valley" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="rue-valley" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/rue-valley.html" class="stretched-link">Rue Valley</a></h3>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥186 高い</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,699</span></span><span class="row-cut">-50%</span></div>
+    <span class="row-cur">¥849</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="strange-jigsaws" data-title="strange jigsaws strange jigsaws" data-cut="50" data-price="290"
+  data-verdict-rank="1" data-expiry-ts="1787936400.0" data-jp="0" data-onsale="1"
+  data-reviews="4238" data-genres="アドベンチャー,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/01904a63-0aab-72a3-baf8-5b96682c0cf5/banner400.jpg?t=1786739142" alt="Strange Jigsaws" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="strange-jigsaws" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/strange-jigsaws.html" class="stretched-link">Strange Jigsaws</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥580</span></span><span class="row-cut">-50%</span></div>
+    <span class="row-cur">¥290</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="the-citadel" data-title="the citadel the citadel" data-cut="50" data-price="760"
+  data-verdict-rank="1" data-expiry-ts="1787245200.0" data-jp="0" data-onsale="1"
+  data-reviews="2564" data-genres="アクション,カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d955b-b0c6-72f0-ad4d-fc0309f57643/banner400.jpg?t=1761611752" alt="The Citadel" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="the-citadel" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/the-citadel.html" class="stretched-link">The Citadel</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと3日</span><span class="row-timing save">この価格になるのは10回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,520</span></span><span class="row-cut">-50%</span></div>
+    <span class="row-cur">¥760</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="wagotabi-a-japanese-journey" data-title="wagotabi: a japanese journey wagotabi: a japanese journey" data-cut="35" data-price="844"
+  data-verdict-rank="1" data-expiry-ts="1788022800.0" data-jp="1" data-onsale="1"
+  data-reviews="1455" data-genres="カジュアル,インディー,RPG,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018d937f-7b28-7090-a896-259180b6b510/banner400.jpg?t=1786439151" alt="Wagotabi: A Japanese Journey" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="wagotabi-a-japanese-journey" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/wagotabi-a-japanese-journey.html" class="stretched-link">Wagotabi: A Japanese Journey</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,299</span></span><span class="row-cut">-35%</span></div>
+    <span class="row-cur">¥844</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="lootbound" data-title="lootbound lootbound" data-cut="35" data-price="1299"
+  data-verdict-rank="1" data-expiry-ts="1787936442.0" data-jp="1" data-onsale="1"
+  data-reviews="619" data-genres="アドベンチャー,カジュアル,インディー,RPG,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019610b9-0224-7212-b2ea-c33bc6b196ce/banner400.jpg?t=1786721436" alt="Lootbound" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="lootbound" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/lootbound.html" class="stretched-link">Lootbound</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥1,999</span></span><span class="row-cut">-35%</span></div>
+    <span class="row-cur">¥1,299</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="two-point-museum" data-title="two point museum ツーポイントミュージアム" data-cut="33" data-price="2604"
+  data-verdict-rank="1" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
+  data-reviews="9392" data-genres="カジュアル,インディー,シミュレーション,ストラテジー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/banner400.jpg?t=1786647074" alt="ツーポイントミュージアム" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="two-point-museum" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/two-point-museum.html" class="stretched-link">ツーポイントミュージアム</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥3,888</span></span><span class="row-cut">-33%</span></div>
+    <span class="row-cur">¥2,604</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="many-nights-a-whisper" data-title="many nights a whisper many nights a whisper" data-cut="33" data-price="234"
+  data-verdict-rank="1" data-expiry-ts="1787590800.0" data-jp="1" data-onsale="1"
+  data-reviews="686" data-genres="カジュアル,インディー" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/019585ad-4ef0-73e4-b411-fec6825d530f/banner400.jpg?t=1786923303" alt="Many Nights a Whisper" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="many-nights-a-whisper" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/many-nights-a-whisper.html" class="stretched-link">Many Nights a Whisper</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="row-timing save">この価格になるのは2回目</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥350</span></span><span class="row-cut">-33%</span></div>
+    <span class="row-cur">¥234</span>
+  </div>
+</li>
+<li class="row row-v-record" data-slug="collectors-cove" data-title="collectors cove collector&#x27;s cove" data-cut="30" data-price="1610"
+  data-verdict-rank="1" data-expiry-ts="1787245200.0" data-jp="1" data-onsale="1"
+  data-reviews="129" data-genres="カジュアル,インディー,シミュレーション" data-shop="Steam">
+  <div class="row-rank"></div>
+  <div class="row-thumb">
+    <img class="row-thumb-img" src="https://assets.isthereanydeal.com/018ef182-45c3-70a5-81e2-bc54581f7039/banner400.jpg?t=1786022427" alt="Collector&#x27;s Cove" width="400" height="230" loading="lazy" referrerpolicy="no-referrer">
+    <button type="button" class="fav-btn" data-fav-slug="collectors-cove" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
+  </div>
+  <h3 class="row-title"><a href="../games/collectors-cove.html" class="stretched-link">Collector&#x27;s Cove</a></h3>
+  <div class="row-timing-col"><span class="badge v-record" title="現在価格が過去最安値とちょうど同額">過去最安値と同じ価格</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> あと3日</span></div>
+  <div class="row-amount">
+    <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥2,300</span></span><span class="row-cut">-30%</span></div>
+    <span class="row-cur">¥1,610</span>
+  </div>
+</li></ul>
+<p class="see-all"><a class="btn-outline" href="../all.html?genre=%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB">すべてのセールで絞り込み表示 →</a></p>
+
+</main>
+<footer class="site-footer">
+  <p>価格データ提供: <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>（Steamほか各ストアの価格情報を集約）</p>
+  <p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載価格は保存済みデータのため、購入前に必ずストア側の価格をご確認ください。</p>
+  <p>毎朝6時ごろ自動更新 ・ <a href="../about.html">このサイトについて</a></p>
+</footer>
+<button type="button" id="back-to-top" class="back-to-top" aria-label="ページの先頭に戻る"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg></button>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8c81e274f13457d80d3e8484503fdf2"}'></script><!-- End Cloudflare Web Analytics -->
+<script src="../assets/favorites.js" defer></script>
+<script src="../assets/deals.js" defer></script>
+<script>
+(function () {
+  "use strict";
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // --- テーマ切替: クリックのたびにライト/ダークをトグルし、localStorageに保存する。
+  //     初回訪問（保存なし）はOSの現在の実効テーマを起点に反転させる。 ---
+  var themeBtn = document.getElementById("theme-toggle");
+  var themeMeta = document.getElementById("theme-color-meta");
+  var THEME_KEY = "sale-tracker:theme";
+  function effectiveTheme() {
+    var saved = null;
+    try { saved = localStorage.getItem(THEME_KEY); } catch (e) { /* ignore */ }
+    if (saved === "light" || saved === "dark") return saved;
+    return (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  }
+  function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+    if (themeMeta) themeMeta.setAttribute("content", theme === "dark" ? "#0d1014" : "#ffffff");
+    if (themeBtn) themeBtn.setAttribute("aria-pressed", theme === "dark" ? "true" : "false");
+  }
+  if (themeBtn) {
+    themeBtn.addEventListener("click", function () {
+      var next = effectiveTheme() === "dark" ? "light" : "dark";
+      try { localStorage.setItem(THEME_KEY, next); } catch (e) { /* ignore */ }
+      applyTheme(next);
+    });
+    applyTheme(effectiveTheme());
+  }
+
+  // --- 固定ヘッダーの実測高さをCSS変数に反映（フィルタバーのtop位置・アンカーの
+  //     scroll-margin-topが正しく効くようにするため。検索欄の折り返しで高さが
+  //     変わるスマホでも常に正しい値を保つ） ---
+  var header = document.querySelector(".site-header");
+  function setHeaderHeight() {
+    if (header) document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
+  }
+  setHeaderHeight();
+  window.addEventListener("resize", setHeaderHeight);
+  window.addEventListener("orientationchange", setHeaderHeight);
+  // Webフォント読み込み完了でヘッダーの実高さが微妙に変わることがあるため再計測
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(setHeaderHeight);
+
+  // --- トップへ戻るボタン ---
+  var btn = document.getElementById("back-to-top");
+  if (btn) {
+    function onScroll() { btn.classList.toggle("show", window.scrollY > 400); }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    btn.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
+    });
+    onScroll();
+  }
+
+  // --- 横スクロールカルーセル（本日イチ押し等）の矢印ボタン。ネイティブの
+  //     overflow-x scrollで動くのでJSはボタン操作の補助のみ（スマホのスワイプは
+  //     このJS無しでも動く）。ページに無ければ何もしない。 ---
+  Array.prototype.slice.call(document.querySelectorAll(".carousel-wrap")).forEach(function (wrap) {
+    var track = wrap.querySelector(".carousel-track");
+    var prev = wrap.querySelector(".carousel-arrow.prev");
+    var next = wrap.querySelector(".carousel-arrow.next");
+    if (!track || !prev || !next) return;
+    function step() {
+      var card = track.querySelector(":scope > *");
+      return card ? card.getBoundingClientRect().width + 14 : track.clientWidth * 0.9;
+    }
+    function updateArrows() {
+      prev.disabled = track.scrollLeft <= 4;
+      next.disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 4;
+    }
+    prev.addEventListener("click", function () {
+      track.scrollBy({ left: -step(), behavior: reduceMotion ? "auto" : "smooth" });
+    });
+    next.addEventListener("click", function () {
+      track.scrollBy({ left: step(), behavior: reduceMotion ? "auto" : "smooth" });
+    });
+    track.addEventListener("scroll", function () {
+      if (!wrap._ticking) {
+        wrap._ticking = true;
+        window.requestAnimationFrame(function () { updateArrows(); wrap._ticking = false; });
+      }
+    }, { passive: true });
+    updateArrows();
+  });
+
+  // --- 期間切り替え（1年/全期間）: ページ内に複数あってもよいよう、ボタン群ごとに
+  //     data-period-target で対応する表示ブロックを出し分ける。 ---
+  Array.prototype.slice.call(document.querySelectorAll("[data-period-buttons]")).forEach(function (group) {
+    var buttons = Array.prototype.slice.call(group.querySelectorAll("[data-period]"));
+    buttons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var period = btn.getAttribute("data-period");
+        buttons.forEach(function (b) { b.setAttribute("aria-pressed", b === btn ? "true" : "false"); });
+        var targets = document.querySelectorAll("[data-period-panel='" + group.getAttribute("data-period-buttons") + "']");
+        Array.prototype.slice.call(targets).forEach(function (panel) {
+          panel.hidden = panel.getAttribute("data-period") !== period;
+        });
+        scrollChartsToLatest();
+      });
+    });
+  });
+
+  // --- 価格グラフは観測点が多いほど実ピクセル幅を広げて横スクロール可にしているため
+  //     （.chart-scroll）、初期表示は左端（最古）ではなく右端（現在価格）を見せる。
+  //     「今が買い時か」の判断に要る情報を最初のスクロール操作なしで見せるため。 ---
+  function scrollChartsToLatest() {
+    Array.prototype.slice.call(document.querySelectorAll(".chart-scroll")).forEach(function (el) {
+      if (!el.offsetParent) return; // hidden panel
+      el.scrollLeft = el.scrollWidth;
+    });
+  }
+  scrollChartsToLatest();
+
+  // --- スクロールスパイ: 表示中のセクションに応じてナビの強調表示を切り替える ---
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll(".site-nav a"));
+  var topLink = document.querySelector(".site-nav a.active");
+  var sectionMap = [];
+  navLinks.forEach(function (a) {
+    var hash = (a.getAttribute("href") || "").split("#")[1];
+    if (!hash) return;
+    var el = document.getElementById(hash);
+    if (el) sectionMap.push({ link: a, el: el });
+  });
+  if (sectionMap.length && topLink) {
+    var ticking = false;
+    function updateSpy() {
+      ticking = false;
+      var headerH = header ? header.offsetHeight : 0;
+      var offset = headerH + 24;
+      var current = null;
+      sectionMap.forEach(function (s) {
+        if (s.el.getBoundingClientRect().top <= offset) current = s;
+      });
+      navLinks.forEach(function (a) { a.classList.remove("active"); });
+      (current ? current.link : topLink).classList.add("active");
+    }
+    window.addEventListener("scroll", function () {
+      if (!ticking) { window.requestAnimationFrame(updateSpy); ticking = true; }
+    }, { passive: true });
+    updateSpy();
+  }
+})();
+</script>
+</body>
+</html>

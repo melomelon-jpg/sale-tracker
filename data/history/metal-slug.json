@@ -1,111 +1,91 @@
 {
   "slug": "metal-slug",
-  "updated_at": "2026-08-16T05:15:00Z",
+  "updated_at": "2026-08-17T00:16:27Z",
   "history": [
     {
-      "date": "2026-05-15",
-      "amount": 1098,
-      "shop": "Fanatical"
-    },
-    {
-      "date": "2026-05-15",
-      "amount": 1260,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
       "amount": 798,
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 1260,
-      "shop": "PlanetPlay"
+      "date": "2024-12-20",
+      "amount": 199,
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
+      "date": "2025-01-02",
       "amount": 798,
-      "shop": "GamersGate"
+      "shop": "Steam"
     },
     {
-      "date": "2026-05-22",
+      "date": "2025-02-20",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-05",
       "amount": 798,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-06-02",
-      "amount": 1050,
-      "shop": "2game"
+      "date": "2025-03-13",
+      "amount": 199,
+      "shop": "Steam"
     },
     {
-      "date": "2026-06-20",
-      "amount": 1287,
-      "shop": "PlanetPlay"
-    },
-    {
-      "date": "2026-06-25",
-      "amount": 1000,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-26",
-      "amount": 1050,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-06-27",
+      "date": "2025-03-20",
       "amount": 798,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-07-03",
-      "amount": 1000,
-      "shop": "2game"
+      "date": "2025-06-10",
+      "amount": 159,
+      "shop": "Steam"
     },
     {
-      "date": "2026-07-07",
-      "amount": 1050,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-14",
+      "date": "2025-06-18",
       "amount": 798,
-      "shop": "2game"
+      "shop": "Steam"
     },
     {
-      "date": "2026-07-15",
-      "amount": 1287,
-      "shop": "PlanetPlay"
+      "date": "2025-09-10",
+      "amount": 159,
+      "shop": "Steam"
     },
     {
-      "date": "2026-07-16",
-      "amount": 1050,
-      "shop": "2game"
-    },
-    {
-      "date": "2026-07-16",
+      "date": "2025-09-24",
       "amount": 798,
-      "shop": "PlanetPlay"
+      "shop": "Steam"
     },
     {
-      "date": "2026-08-01",
-      "amount": 1000,
-      "shop": "2game"
+      "date": "2025-10-25",
+      "amount": 159,
+      "shop": "Steam"
     },
     {
-      "date": "2026-08-12",
-      "amount": 160,
-      "shop": "PlanetPlay"
+      "date": "2025-11-05",
+      "amount": 798,
+      "shop": "Steam"
     },
     {
-      "date": "2026-08-12",
-      "amount": 160,
-      "shop": "GamersGate"
+      "date": "2026-03-11",
+      "amount": 159,
+      "shop": "Steam"
     },
     {
-      "date": "2026-08-13",
-      "amount": 1045,
-      "shop": "Fanatical"
+      "date": "2026-03-22",
+      "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 159,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-06",
+      "amount": 798,
+      "shop": "Steam"
     },
     {
       "date": "2026-08-13",

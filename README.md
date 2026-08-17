@@ -55,11 +55,13 @@ start public/index.html
 | `src/itad_client.py` | ITAD APIラッパー |
 | `src/steam_client.py` | Steam appdetails 補助 |
 | `src/verdict.py` | 買い時判定（純粋関数） |
+| `src/sale_history.py` | セール履歴の傾向（回数・直近日を検出する純粋関数、予測はしない） |
 | `src/fetch_data.py` | ①取得 → `data/` |
 | `src/build_site.py` | ②生成 → `public/` |
 | `data/` | 取得済みJSON（`fetch`の出力・`build`の入力） |
 | `public/` | 公開する静的サイト（`build`の出力） |
 | `assets/style.css` | （任意）CSSを差し替えたい場合に置く。無ければ内蔵CSSを使う |
+| `config/steam_sales.json` | Steam大型セールの時期（about.htmlに表示）。取得APIが無いため**手動更新**。Valveは例年、上半期分・下半期分をSteamworks Developer向けに年2回アナウンスするので、発表を見たらここを書き換える |
 
 ## 買い時判定
 

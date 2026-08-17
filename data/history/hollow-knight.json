@@ -8,16 +8,6 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-05-15",
-      "amount": 1700,
-      "shop": "GreenManGaming"
-    },
-    {
-      "date": "2026-06-19",
-      "amount": 850,
-      "shop": "GreenManGaming"
-    },
-    {
       "date": "2026-06-25",
       "amount": 850,
       "shop": "Steam"
@@ -26,11 +16,6 @@
       "date": "2026-07-09",
       "amount": 1700,
       "shop": "Steam"
-    },
-    {
-      "date": "2026-07-14",
-      "amount": 1700,
-      "shop": "GreenManGaming"
     }
   ]
 }
