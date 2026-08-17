@@ -1,9 +1,59 @@
 {
   "slug": "cronos-the-new-dawn",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-07-31",
+      "amount": 7950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-21",
+      "amount": 6757,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-04",
+      "amount": 7950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-10",
+      "amount": 5962,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 7950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 5565,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 7950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 5565,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 7950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 5565,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
       "amount": 7950,
       "shop": "Steam"
     },

@@ -1,9 +1,129 @@
 {
   "slug": "the-talos-principle-2",
-  "updated_at": "2026-08-16T05:15:00Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-03",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-10",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-18",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-04",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-11",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-24",
       "amount": 3400,
       "shop": "Steam"
     },

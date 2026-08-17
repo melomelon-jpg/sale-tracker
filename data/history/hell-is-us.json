@@ -1,9 +1,59 @@
 {
   "slug": "hell-is-us",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-02-13",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 5264,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 4606,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3948,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 3290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-11",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
       "amount": 2632,
       "shop": "Steam"
     },

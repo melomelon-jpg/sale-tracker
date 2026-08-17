@@ -1,0 +1,76 @@
+{
+  "slug": "radarjam",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-22",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-31",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-31",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 101,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 101,
+      "shop": "Steam"
+    }
+  ]
+}

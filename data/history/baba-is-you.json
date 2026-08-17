@@ -1,0 +1,61 @@
+{
+  "slug": "baba-is-you",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 1064,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-30",
+      "amount": 1064,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1064,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-18",
+      "amount": 1064,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1064,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 1520,
+      "shop": "Steam"
+    }
+  ]
+}

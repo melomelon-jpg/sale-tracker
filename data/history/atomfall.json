@@ -1,0 +1,91 @@
+{
+  "slug": "atomfall",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 4400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 4400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-18",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5500,
+      "shop": "Steam"
+    }
+  ]
+}

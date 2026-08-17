@@ -1,0 +1,56 @@
+{
+  "slug": "arc-raiders",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2025-09-22",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 6390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 5112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 6390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 6390,
+      "shop": "Steam"
+    }
+  ]
+}

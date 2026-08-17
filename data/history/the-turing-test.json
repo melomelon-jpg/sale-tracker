@@ -1,0 +1,51 @@
+{
+  "slug": "the-turing-test",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2016,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-30",
+      "amount": 705,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-06",
+      "amount": 2016,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1400,
+      "shop": "Steam"
+    }
+  ]
+}

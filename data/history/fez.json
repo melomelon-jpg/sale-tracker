@@ -1,0 +1,91 @@
+{
+  "slug": "fez",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-13",
+      "amount": 333,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-26",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-29",
+      "amount": 392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-05",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 333,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 980,
+      "shop": "Steam"
+    }
+  ]
+}

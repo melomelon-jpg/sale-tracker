@@ -1,0 +1,36 @@
+{
+  "slug": "paralives",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2026-05-25",
+      "amount": 4050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 4500,
+      "shop": "Steam"
+    }
+  ]
+}

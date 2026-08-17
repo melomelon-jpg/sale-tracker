@@ -1,9 +1,154 @@
 {
   "slug": "darkest-dungeon-ii",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 2700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-13",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-10",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-07",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-21",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-21",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-04",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 1702,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-11",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1426,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-29",
+      "amount": 1426,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1426,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 1426,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
       "amount": 4600,
       "shop": "Steam"
     },

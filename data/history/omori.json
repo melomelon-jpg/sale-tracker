@@ -1,0 +1,51 @@
+{
+  "slug": "omori",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1386,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 1188,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1386,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    }
+  ]
+}

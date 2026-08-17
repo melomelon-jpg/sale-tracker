@@ -1,6 +1,6 @@
 {
   "slug": "kingdom-come-deliverance-ii",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-07-16",
       "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 3236,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "slug": "inzoi",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2025-03-28",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 4032,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-19",
+      "amount": 3584,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-02",
+      "amount": 4480,
+      "shop": "Steam"
+    }
+  ]
+}

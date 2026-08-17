@@ -1,0 +1,101 @@
+{
+  "slug": "titan-quest-ii",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2025-08-01",
+      "amount": 3511,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-08",
+      "amount": 4389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 3950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 4389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 3950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 4389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-11",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 4950,
+      "shop": "Steam"
+    }
+  ]
+}

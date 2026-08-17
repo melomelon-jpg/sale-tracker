@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-odyssey",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-03",
       "amount": 1848,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 9240,
       "shop": "Steam"
     }
   ]

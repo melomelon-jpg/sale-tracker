@@ -1,6 +1,6 @@
 {
   "slug": "dune-awakening",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
       "date": "2025-03-24",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-07",
       "amount": 2994,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 4990,
       "shop": "Steam"
     }
   ]

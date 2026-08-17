@@ -1,0 +1,46 @@
+{
+  "slug": "sword-of-the-sea",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2025-08-19",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 2890,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-09",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 2380,
+      "shop": "Steam"
+    }
+  ]
+}

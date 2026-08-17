@@ -1,0 +1,41 @@
+{
+  "slug": "reanimal",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2025-11-20",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-14",
+      "amount": 5720,
+      "shop": "Steam"
+    }
+  ]
+}

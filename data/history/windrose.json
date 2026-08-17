@@ -1,0 +1,26 @@
+{
+  "slug": "windrose",
+  "updated_at": "2026-08-17T21:53:17Z",
+  "history": [
+    {
+      "date": "2026-04-14",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3400,
+      "shop": "Steam"
+    }
+  ]
+}

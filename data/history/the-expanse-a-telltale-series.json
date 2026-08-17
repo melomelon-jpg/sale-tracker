@@ -1,6 +1,6 @@
 {
   "slug": "the-expanse-a-telltale-series",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-17T21:53:17Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-10",
       "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]
