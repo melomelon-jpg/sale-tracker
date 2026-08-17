@@ -19,5 +19,17 @@
     "min_reviews": 500,
     "min_price_jpy": 500,
     "popularity_weight": 15
+  },
+  "track": {
+    "enabled": true,
+    "target_count": 1000,
+    "sources": ["most-popular", "most-collected", "most-waitlisted"],
+    "allowed_types": ["game"],
+    "exclude_mature": true,
+    "page_limit": 500,
+    "max_pages_per_source": 10,
+    "daily_history_top_n": 300,
+    "new_targets_per_run": 300,
+    "prune_days": 400
   }
 }

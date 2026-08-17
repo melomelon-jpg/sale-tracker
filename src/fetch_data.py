@@ -12,6 +12,7 @@
     data/latest.json         … 全ゲームの最新スナップショット
     data/history/<slug>.json … ゲーム別 価格履歴
 """
+import hashlib
 import json
 import os
 import re
@@ -35,8 +36,15 @@ CONFIG_PATH = ROOT / "config" / "games.json"
 DATA_DIR = ROOT / "data"
 HISTORY_DIR = DATA_DIR / "history"
 DISCOVERED_PATH = DATA_DIR / "discovered.json"  # 自動収集プールの永続化
+TRACKED_PATH = DATA_DIR / "tracked.json"  # 追跡対象（人気タイトル）プールの永続化。expand_tracklist.py が作る
 STEAM_INFO_PATH = DATA_DIR / "steam_info.json"  # Steam appid -> 日本語タイトル/ジャンル/レビュー数のキャッシュ
 CURRENCY = "JPY"
+
+_TRACK_DEFAULTS = {
+    "enabled": False,
+    "daily_history_top_n": 300,   # 人気上位n件は毎日history()を更新する（Tier A）
+    "new_targets_per_run": 300,   # 未オンボーディングの追跡対象を1回の実行で処理する上限（段階的に増やす）
+}
 
 
 def _safe_slug(s):
@@ -86,6 +94,38 @@ def save_discovered(items, ts):
     DISCOVERED_PATH.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+
+def load_track_config():
+    cfg = load_config().get("track") or {}
+    return {**_TRACK_DEFAULTS, **cfg}
+
+
+def load_tracked():
+    """追跡対象（人気タイトル）プールを {itad_id: entry} で返す。無ければ空。
+
+    data/tracked.json は expand_tracklist.py が作る（このスクリプトは追加/削除しない。
+    assets/appid/info_fetched/lowest のキャッシュ欄だけ書き戻す）。
+    """
+    if not TRACKED_PATH.exists():
+        return {}
+    try:
+        data = json.loads(TRACKED_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    return {e["id"]: e for e in data.get("items", []) if e.get("id")}
+
+
+def save_tracked(items, ts):
+    payload = {"updated_at": ts, "items": list(items.values())}
+    TRACKED_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def _history_rotation_bucket(slug):
+    """slugを0-6に安定的に振り分ける（hash()はプロセスごとに変わるためmd5を使う）。"""
+    return int(hashlib.md5(slug.encode("utf-8")).hexdigest(), 16) % 7
 
 
 def load_steam_info():
@@ -223,7 +263,7 @@ def now_iso():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
-def fetch_one(client, game):
+def fetch_one(client, game, bulk_price=None, bulk_other=None):
     """1ゲーム分を取得し、latest用のレコード・履歴・キャッシュ更新分を返す。
 
     価格はSteam（shops=STEAM_SHOP_ID）に絞り込んで取得する。過去最安値・履歴も
@@ -238,6 +278,18 @@ def fetch_one(client, game):
         代償として expiry（セール終了日時）は deals から得られないため
         この経路では None になる＝詳細ページは「終了日未定」表示になる。
       - info() 省略: assets/appid は不変とみなし、初回取得後はキャッシュを使い回す。
+
+    追跡対象（source=tracked、セール中に限らない人気タイトル）は数百〜数千件規模になるため、
+    main() が事前に ITADClient.overview_bulk()（最大200件/リクエスト）で一括取得した
+    bulk_price/bulk_other を渡してもらい、それがあれば per-game の overview() 呼び出しを
+    省略する（bulk_price の shops=[STEAM_SHOP_ID]・bulk_other の全ショップ、いずれも
+    overview() と同じ検証済みロジックで作られているため精度は落ちない）。
+    bulk側に無い（バッチ通信の一部が失敗した等）場合は従来通り個別にoverview()へフォールバックする。
+
+    game["need_history"] が False の場合は history() 呼び出しを省略する（戻り値の
+    history は None）。追跡対象は「上位n件は毎日・残りは曜日ローテーションで週1」
+    という頻度分けを main() 側で決めるためのフラグ（詳細ページのグラフ更新頻度にのみ影響し、
+    current/lowest は毎回更新されるため買い時判定自体は常に最新）。
     """
     slug = game["slug"]
     title = game["title"]
@@ -294,6 +346,21 @@ def fetch_one(client, game):
                 record["lowest"] = {"amount": cur_amt, "date": date.today().isoformat()}
             else:
                 record["lowest"] = cached_lowest
+        elif bulk_price is not None and itad_id in bulk_price:
+            # 追跡対象向け: main()が事前に一括取得したoverview_bulk()の結果を使い、
+            # per-gameのoverview()呼び出しを省略する。
+            bp = bulk_price[itad_id]
+            record["current"] = bp["current"]
+            record["lowest"] = bp["lowest"] or cached_lowest
+            record["regular"] = bp["regular"]
+
+            other = (bulk_other or {}).get(itad_id) or {}
+            any_cur = (other.get("current") or None)
+            steam_amt = (record["current"] or {}).get("amount")
+            if (any_cur and any_cur.get("amount") is not None
+                    and any_cur.get("shop") != "Steam"
+                    and (steam_amt is None or any_cur["amount"] < steam_amt)):
+                record["other_store"] = {"amount": any_cur["amount"], "shop": any_cur.get("shop")}
         else:
             # 主役はSteam価格（shops=STEAM_SHOP_ID）。過去最安値もSteam価格のみで
             # 計算する（鍵屋の投げ売りが混ざると判定が歪むため）。
@@ -320,18 +387,25 @@ def fetch_one(client, game):
             except Exception:
                 pass  # 補足情報なので失敗してもメインのSteam価格取得は継続する
 
-        history = client.history(itad_id, shops=[STEAM_SHOP_ID])
-        if client.last_history_dropped:
-            print(f"  [WARN] {title}: history中 {client.last_history_dropped}点を除外"
-                  f"（Steam以外のショップ/JPY以外の通貨と判定）")
-        # 除外後に有効点（amount・date揃い）が2点未満だと詳細ページのグラフが
-        # 表示できなくなる（build_site.py price_chart_html参照）。フィルタが
-        # 効きすぎて履歴を壊していないか気づけるよう、ここで警告しておく。
-        valid_pts = [h for h in history if h.get("amount") is not None and h.get("date")]
-        if len(valid_pts) < 2:
-            print(f"  [WARN] {title}: Steam限定の有効な履歴点が{len(valid_pts)}件のみ"
-                  f"（詳細ページのグラフ非表示になります）")
-        client._sleep()
+        if game.get("need_history", True):
+            history = client.history(itad_id, shops=[STEAM_SHOP_ID])
+            if client.last_history_dropped:
+                print(f"  [WARN] {title}: history中 {client.last_history_dropped}点を除外"
+                      f"（Steam以外のショップ/JPY以外の通貨と判定）")
+            # 除外後に有効点（amount・date揃い）が2点未満だと詳細ページのグラフが
+            # 表示できなくなる（build_site.py price_chart_html参照）。フィルタが
+            # 効きすぎて履歴を壊していないか気づけるよう、ここで警告しておく。
+            valid_pts = [h for h in history if h.get("amount") is not None and h.get("date")]
+            if len(valid_pts) < 2:
+                print(f"  [WARN] {title}: Steam限定の有効な履歴点が{len(valid_pts)}件のみ"
+                      f"（詳細ページのグラフ非表示になります）")
+            client._sleep()
+        else:
+            # 追跡対象のTier B（曜日ローテーション対象外の日）。current/lowestは
+            # 上のbulk_priceで毎回更新済みなので判定は最新のまま、詳細ページの
+            # 履歴グラフだけ今回は更新しない（Noneは「今回は触らない」の意味、
+            # 呼び出し側は既存の履歴ファイルを上書きしない）。
+            history = None
 
         # ゲーム情報（画像アセット・appid）はキャッシュが無いときだけ取得。
         # 取得に失敗した場合は info_fetched を True にしない（＝次回また再試行する）。
@@ -431,14 +505,75 @@ def main():
             "cached_lowest": e.get("lowest"),
         })
 
+    # --- 追跡対象（source=tracked）: セール中に限らない人気タイトル。
+    #     expand_tracklist.py が作った data/tracked.json をプールとして使う。 ---
+    track_cfg = load_track_config()
+    tracked_pool = load_tracked() if track_cfg["enabled"] else {}
+    tracked_targets = []
+    if tracked_pool:
+        # 未オンボーディング（info_fetched=False、＝初回取得がまだ）は1回の実行あたり
+        # new_targets_per_run 件までに絞り、人気順に段階投入する（Steam appdetails 側の
+        # レート制限・GitHub Actionsの実行時間対策）。オンボーディング済みは
+        # 一括APIで価格更新が安価なので毎回全件対象にする。
+        pending_new = sorted(
+            (e for e in tracked_pool.values() if not e.get("info_fetched")),
+            key=lambda e: e.get("popularity_rank", 999999),
+        )
+        cap = track_cfg["new_targets_per_run"]
+        selected_new = pending_new[:cap] if cap else pending_new
+        pending_new_ids = {e["id"] for e in selected_new}
+        onboarded = [e for e in tracked_pool.values() if e.get("info_fetched")]
+
+        today_weekday = date.today().weekday()
+        top_n = track_cfg["daily_history_top_n"]
+        for e in onboarded + selected_new:
+            is_new = e["id"] in pending_new_ids
+            in_tier_a = e.get("popularity_rank", 999999) < top_n
+            rotates_today = _history_rotation_bucket(e["slug"]) == today_weekday
+            tracked_targets.append({
+                "slug": _safe_slug(e["slug"]),
+                "title": e["title"],
+                "itad_id": e["id"],
+                "steam_appid": None,
+                "source": "tracked",
+                "deal_snapshot": None,
+                "cached_assets": e.get("assets"),
+                "cached_appid": e.get("appid"),
+                "info_fetched": e.get("info_fetched", False),
+                "cached_lowest": e.get("lowest"),
+                # 初回オンボーディング時は必ず履歴を取る（グラフの土台が要るため）。
+                # それ以外は人気上位n件（Tier A）は毎日、残りは曜日ローテーションで週1。
+                "need_history": is_new or in_tier_a or rotates_today,
+            })
+        skipped_new = len(pending_new) - len(selected_new)
+        print(f"追跡対象: {len(tracked_pool)}件（オンボーディング済み{len(onboarded)} / "
+              f"新規{len(selected_new)}件を今回処理"
+              f"{f'、残り{skipped_new}件は次回以降' if skipped_new > 0 else ''}）")
+
+    targets += tracked_targets
+
+    # --- 追跡対象の価格を一括取得（overview_bulk、最大200件/リクエスト）。
+    #     per-gameのoverview()呼び出しを省略するための事前準備。 ---
+    bulk_price, bulk_other = {}, {}
+    tracked_ids = [t["itad_id"] for t in tracked_targets]
+    if tracked_ids:
+        n_chunks = (len(tracked_ids) + 199) // 200
+        print(f"一括価格取得: 追跡対象 {len(tracked_ids)}件を{n_chunks}リクエスト×2"
+              f"（Steam限定/全ショップ）で取得中…")
+        bulk_price = client.overview_bulk(tracked_ids, shops=[STEAM_SHOP_ID])
+        bulk_other = client.overview_bulk(tracked_ids)
+        print(f"  取得完了: {len(bulk_price)}/{len(tracked_ids)}件"
+              f"（不足分は個別リクエストにフォールバック）")
+
     steam_info = load_steam_info()
     steam_info_new_calls = 0
 
     records = []
-    print(f"取得開始: {len(targets)}件（手動{len(manual_games)} / 自動{len(kept)}）")
+    print(f"取得開始: {len(targets)}件（手動{len(manual_games)} / 自動{len(kept)} / "
+          f"追跡{len(tracked_targets)}）")
     for game in targets:
         try:
-            record, history, cache_out = fetch_one(client, game)
+            record, history, cache_out = fetch_one(client, game, bulk_price=bulk_price, bulk_other=bulk_other)
             records.append(record)
 
             # 日本語タイトル・ジャンル・レビュー数・日本語対応（Steam cc=jp&l=japanese、
@@ -479,22 +614,28 @@ def main():
                 record["categories"] = []
                 record["review_count"] = None
                 record["jp_support"] = None
-            # 自動収集分はキャッシュ（assets/appid/最安値）をプールへ書き戻す
+            # 自動収集分・追跡対象分はキャッシュ（assets/appid/最安値）をプールへ書き戻す
             if game.get("source") == "auto" and game["itad_id"] in kept:
                 kept[game["itad_id"]].update(cache_out)
-            # 履歴を個別ファイルに保存
-            hist_path = HISTORY_DIR / f"{record['slug']}.json"
-            hist_path.write_text(
-                json.dumps(
-                    {"slug": record["slug"], "updated_at": ts, "history": history},
-                    ensure_ascii=False, indent=2,
-                ),
-                encoding="utf-8",
-            )
+            elif game.get("source") == "tracked" and game["itad_id"] in tracked_pool:
+                tracked_pool[game["itad_id"]].update(cache_out)
+            # 履歴を個別ファイルに保存。history=None は「今回は更新しない」の意味
+            # （追跡対象のTier B、曜日ローテーション対象外の日）なので既存ファイルを
+            # 上書きせずそのまま残す。
+            if history is not None:
+                hist_path = HISTORY_DIR / f"{record['slug']}.json"
+                hist_path.write_text(
+                    json.dumps(
+                        {"slug": record["slug"], "updated_at": ts, "history": history},
+                        ensure_ascii=False, indent=2,
+                    ),
+                    encoding="utf-8",
+                )
             cur = (record["current"] or {}).get("amount")
             low = (record["lowest"] or {}).get("amount")
+            hist_txt = f"{len(history)}点" if history is not None else "更新なし"
             print(f"  [OK] {game['title']} [{game['source']}]: 現在={cur} 最安={low} "
-                  f"判定={record['verdict']['label']} 日本語={record['jp_support']} 履歴={len(history)}点")
+                  f"判定={record['verdict']['label']} 日本語={record['jp_support']} 履歴={hist_txt}")
         except Exception as e:
             print(f"  [NG] {game['title']}: {type(e).__name__}: {e}")
 
@@ -503,10 +644,14 @@ def main():
         if len(records) % 25 == 0:
             if cfg.get("enabled"):
                 save_discovered(kept, ts)
+            if track_cfg["enabled"]:
+                save_tracked(tracked_pool, ts)
             save_steam_info(steam_info)
 
     if cfg.get("enabled"):
         save_discovered(kept, ts)
+    if track_cfg["enabled"]:
+        save_tracked(tracked_pool, ts)
     save_steam_info(steam_info)
     print(f"Steam情報(日本語名/ジャンル/レビュー数): 新規取得 {steam_info_new_calls} 件 / "
           f"キャッシュ計 {len(steam_info)} 件")

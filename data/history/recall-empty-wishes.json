@@ -1,0 +1,111 @@
+{
+  "slug": "recall-empty-wishes",
+  "updated_at": "2026-08-17T12:56:31Z",
+  "history": [
+    {
+      "date": "2025-02-13",
+      "amount": 1530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-20",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-07",
+      "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-11",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-06",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-20",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-18",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 850,
+      "shop": "Steam"
+    }
+  ]
+}

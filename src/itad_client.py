@@ -146,12 +146,70 @@ class ITADClient:
         prices = res.get("prices") or []
         block = prices[0] if prices else {}
 
+        # shops=で絞り込みを依頼したのにAPIがそれ以外のショップを返すことがある点への
+        # 対策（ショップ名・通貨の再検証）は overview_bulk() と共通の _parse_overview_block()
+        # に切り出してある。ここでは呼び出し側向けの last_overview_dropped ログだけ組み立てる。
+        self.last_overview_dropped = []
+        cur_node, low_node = block.get("current") or {}, block.get("lowest") or {}
+        parsed = self._parse_overview_block(block, allowed_shop_names)
+        if cur_node and not parsed["current"]:
+            self.last_overview_dropped.append("current")
+        if low_node and not parsed["lowest"]:
+            self.last_overview_dropped.append("lowest")
+        return parsed
+
+    def overview_bulk(self, game_ids, shops=None):
+        """複数ゲームの現在価格・過去最安値・定価を一括取得する。
+
+        /games/overview/v2 は1リクエストにつき最大200件のIDを受け付ける
+        （gids-200スキーマ）。overview() と違い1件ずつ叩かないため、
+        追跡対象が数百〜数千件規模でもリクエスト数を抑えられる
+        （3,000件なら200件×15リクエスト）。
+
+        実データ検証済みの注意点: /games/prices/v3 の historyLow は
+        shops= を指定しても全ショップ中の最安値を返してしまい
+        （鍵屋の投げ売りが混ざる）、本サイトの「Steam限定の最安値」という
+        前提と矛盾することを確認した。/games/overview/v2 は shops= が
+        current・lowest の両方に正しく効くことを確認済みのため、
+        バッチ化にはこちらを使う。
+
+        戻り値: {game_id: {"current", "lowest", "regular"}}（形はoverview()と同じ）。
+        通信自体が失敗したチャンクは警告を出して読み飛ばす（呼び出し側は
+        戻り値に無いIDについて個別リトライ等のフォールバックをすること）。
+        """
+        out = {}
+        ids = list(game_ids)
+        for i in range(0, len(ids), 200):
+            chunk = ids[i:i + 200]
+            params = {"key": self.key, "country": COUNTRY}
+            allowed_shop_names = None
+            if shops:
+                shop_ids = list(shops) if isinstance(shops, (list, tuple, set)) else [shops]
+                params["shops"] = ",".join(str(s) for s in shop_ids)
+                allowed_shop_names = {_SHOP_NAMES[s] for s in shop_ids if s in _SHOP_NAMES}
+            try:
+                res = _post_json("/games/overview/v2", params, chunk)
+            except Exception as e:
+                print(f"  [WARN] overview_bulk チャンク({len(chunk)}件)失敗: {type(e).__name__}: {e}")
+                self._sleep()
+                continue
+            for block in res.get("prices") or []:
+                gid = block.get("id")
+                if not gid:
+                    continue
+                out[gid] = self._parse_overview_block(block, allowed_shop_names)
+            self._sleep()
+        return out
+
+    def _parse_overview_block(self, block, allowed_shop_names):
+        """overview/v2 の1件分（{"current","lowest",...}）を current/lowest/regular に整形する。
+
+        overview() 単体版と同じ検証（ショップ名・通貨の再確認）をここに切り出し、
+        overview() / overview_bulk() の両方から使う。
+        """
         cur_node = block.get("current") or {}
         low_node = block.get("lowest") or {}
 
-        # shops=で絞り込みを依頼したのにAPIがそれ以外のショップを返すことがある
-        # （history()と同じ不具合が overview() 側にもあり得るため、amountを使う前に
-        # ショップ名・通貨をクライアント側で再検証し、一致しなければ無いものとして扱う）
         def _valid(node):
             if not node:
                 return False
@@ -164,8 +222,6 @@ class ITADClient:
                 return False
             return True
 
-        self.last_overview_dropped = []
-
         current = None
         if _valid(cur_node):
             shop = (cur_node.get("shop") or {}).get("name")
@@ -174,10 +230,8 @@ class ITADClient:
                 "shop": shop,
                 "discount_pct": cur_node.get("cut"),
                 "url": cur_node.get("url"),
-                "expiry": cur_node.get("expiry"),   # セール終了日時（null=期限なし/未定）
+                "expiry": cur_node.get("expiry"),
             }
-        elif cur_node:
-            self.last_overview_dropped.append("current")
 
         lowest = None
         if _valid(low_node):
@@ -186,14 +240,48 @@ class ITADClient:
                 "amount": _amount(low_node),
                 "date": ts[:10] if isinstance(ts, str) else None,
             }
-        elif low_node:
-            self.last_overview_dropped.append("lowest")
 
-        # 定価は current.regular を優先、なければ block直下を探る
         regular_node = cur_node.get("regular") or block.get("regular") or {}
         regular = {"amount": regular_node.get("amount")} if regular_node else None
 
         return {"current": current, "lowest": lowest, "regular": regular}
+
+    def lookup_ids_by_steam_appids(self, steam_appids):
+        """Steam appid の配列から ITAD id への対応を一括で引く（最大200件/リクエスト）。
+
+        steam_appids: 数値/文字列のappidのリスト（"app/12345"形式への変換はここで行う）。
+        戻り値: {steam_appid(str): itad_id | None}
+        """
+        out = {}
+        ids = [str(a) for a in steam_appids]
+        for i in range(0, len(ids), 200):
+            chunk = ids[i:i + 200]
+            payload = [f"app/{a}" for a in chunk]
+            try:
+                res = _post_json(f"/lookup/id/shop/{STEAM_SHOP_ID}/v1", {"key": self.key}, payload)
+            except Exception as e:
+                print(f"  [WARN] lookup_ids_by_steam_appids チャンク({len(chunk)}件)失敗: "
+                      f"{type(e).__name__}: {e}")
+                self._sleep()
+                continue
+            for key, val in (res or {}).items():
+                appid = key.split("/", 1)[-1]
+                out[appid] = val
+            self._sleep()
+        return out
+
+    def _stats(self, path, offset, limit):
+        return _get(path, {"key": self.key, "offset": offset, "limit": limit})
+
+    def stats_most_popular(self, offset=0, limit=500):
+        """人気順（waitlist数+collected数）ゲーム一覧。[{"position","id","slug","title","type","mature","count"}]"""
+        return self._stats("/stats/most-popular/v1", offset, limit)
+
+    def stats_most_collected(self, offset=0, limit=500):
+        return self._stats("/stats/most-collected/v1", offset, limit)
+
+    def stats_most_waitlisted(self, offset=0, limit=500):
+        return self._stats("/stats/most-waitlisted/v1", offset, limit)
 
     def history(self, game_id, shops=None, since=_HISTORY_SINCE):
         """価格履歴を [{"date", "amount", "shop"}] の昇順リストで返す（円建てのみ）。

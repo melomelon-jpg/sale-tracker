@@ -217,30 +217,53 @@ a:hover { text-decoration-color: currentColor; }
 .hero h1 { padding-left: 14px; border-left: 3px solid var(--line-strong); font: var(--text-display); }
 .meta { color: var(--muted); font-size: .85rem; margin: 2px 0; }
 
-/* 導入部（トップページ冒頭）: 「何本を毎朝チェックしていて、何本が今買い時か」を
-   数字そのものをページ内最大の要素として見せる。罫線・背景色・アイコンなどの
-   装飾は足さず、数字の大きさと数字/説明文のサイズ差だけで語らせる。 */
-.hero-stat-row {
-  display: flex; flex-direction: column; gap: var(--sp-6);
-  margin: 0; padding: 0; border: none; font: inherit;
+/* ヒーロー（検索が主役。旧「303本／182本」の数字誇示は廃止し、管理情報は
+   ページ最下部の.meta-barへ移した）。他ページの.heroカード（罫線・背景付き）とは
+   あえて分け、トップページだけ開けた見た目の見出しにする。 */
+.hero-search { padding: var(--sp-9) var(--sp-5) var(--sp-7); text-align: center; }
+.hero-search h1 {
+  margin: 0 0 14px; font: var(--text-display); font-size: clamp(1.85rem, 5vw, 2.5rem);
+  letter-spacing: -.01em; text-wrap: balance;
 }
-@media (min-width: 640px) {
-  .hero-stat-row { flex-direction: row; align-items: baseline; flex-wrap: wrap; gap: var(--sp-9); }
+.hero-search-sub { margin: 0 0 var(--sp-6); font-size: 1rem; color: var(--muted); }
+.hero-searchbox {
+  max-width: 560px; margin: 0 auto; display: flex; align-items: center; gap: 10px;
+  background: var(--surface-1); border: 1.5px solid var(--line-strong); border-radius: 14px;
+  padding: 14px 18px; box-shadow: 0 6px 24px rgba(20,20,25,.06);
+  transition: border-color .15s ease;
 }
-.hero-stat-item { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
-.hero-stat-num {
-  display: block; font-weight: 800; letter-spacing: -.03em; line-height: .92;
-  font-size: clamp(3.4rem, 16vw, 6.5rem);
-  color: var(--text-strong); font-variant-numeric: tabular-nums;
+.hero-searchbox:focus-within { border-color: var(--accent); }
+.hero-searchbox svg { flex-shrink: 0; color: var(--muted); }
+.hero-searchbox input {
+  border: none; outline: none; background: none; width: 100%; min-width: 0;
+  font-size: 1rem; color: var(--text); font-family: var(--font);
 }
-.hero-stat-label { font-size: 1rem; font-weight: 700; color: var(--muted); }
-@media (min-width: 640px) { .hero-stat-label { font-size: 1.15rem; } .hero-stat-br { display: none; } }
-/* サイトの核となる価値（買い時）だけ、購入導線と同じアクセントカラーを例外的に使う */
-.hero-stat-accent { color: var(--accent); font-weight: 800; }
-.hero-stat-meta { margin-top: var(--sp-5); }
+.hero-searchbox input::placeholder { color: var(--muted); }
 
-/* ジャンル / 価格帯チップ（導入部から独立した「探す」セクション） */
+/* ヒーロー直下の「本日の数本」。カードのバッジが個々の正確な状態（更新/同額/近い）を
+   示すため、ここは横並びの3枚に留め、詳しい理由は書き添えない。 */
+.hero-picks { max-width: 900px; margin: var(--sp-7) auto 0; text-align: left; }
+.hero-picks-label { margin: 0 0 var(--sp-3); font-size: .85rem; font-weight: 700; color: var(--muted); }
+.hero-picks-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--sp-4); }
+@media (max-width: 720px) { .hero-picks-grid { grid-template-columns: 1fr; } }
+.hero-pick-card {
+  background: var(--surface-1); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+  transition: background .16s ease, border-color .16s ease;
+}
+.hero-pick-card:hover { background: var(--surface-2); border-color: var(--line-strong); }
+.hero-pick-link { display: block; color: inherit; text-decoration: none; }
+.hero-pick-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; }
+.hero-pick-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero-pick-body { padding: var(--sp-3) var(--sp-4) var(--sp-4); display: flex; flex-direction: column; align-items: flex-start; gap: 6px; }
+.hero-pick-title {
+  margin: 0; width: 100%; font-size: .88rem; font-weight: 700; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.hero-pick-price { font: var(--text-price); font-size: 1.1rem; color: var(--text-strong); font-variant-numeric: tabular-nums; }
+
+/* ジャンル / 価格帯チップ（ページ末尾寄りの「静かに手がかりを渡す」セクション） */
 .explore-section { margin: var(--sp-8) 0 0; }
+.explore-heading { font-size: 1.05rem; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 12px 0 0; padding-left: 14px; }
 .chip-row-label { color: var(--muted); font-size: .78rem; font-weight: 700; margin-right: 2px; }
 .chip {
@@ -254,81 +277,95 @@ a:hover { text-decoration-color: currentColor; }
   background: var(--surface-3);
 }
 
-/* トップ3ヒーロー */
-.hero-top3 { margin: var(--sp-9) 0 0; }
-.hero-top3 .section-head { margin: 0 0 var(--sp-5); }
-
-/* 汎用の横スクロールカルーセル（本日イチ押し・詳細ページのグラフ期間切替でも使う
-   ため用途非依存の命名にする）。ネイティブの overflow-x + scroll-snap で
-   スマホのスワイプに対応し、矢印ボタンはその補助として左右に添える。 */
-.carousel-wrap { display: flex; align-items: stretch; gap: var(--sp-3); }
-.carousel-track {
-  list-style: none; margin: 0; padding: 2px 2px 10px; display: flex; gap: var(--sp-4);
-  overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+/* 本日のセール（ベントーグリッド）: 1位だけ2×2の大枠、残り9本は1×1。
+   grid-auto-flow: dense により、大枠を先頭に置くだけで残りが自動的に隙間なく詰まる
+   （手動配置は不要）。カルーセルと違い、10本全部が最初からスクロールなしで見える。 */
+.bento-section { margin: var(--sp-9) 0 0; }
+.bento-grid {
+  list-style: none; margin: var(--sp-5) 0 0; padding: 0;
+  display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-flow: dense; gap: var(--sp-4);
 }
-.carousel-track > li { scroll-snap-align: start; flex: 0 0 auto; }
-.carousel-arrow {
-  flex: 0 0 auto; display: none; align-items: center; justify-content: center;
-  width: 36px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel2);
-  color: var(--text-strong); cursor: pointer;
-  transition: background .15s ease, border-color .15s ease, opacity .15s ease;
-}
-@media (min-width: 720px) { .carousel-arrow { display: flex; } }
-.carousel-arrow:hover { background: var(--surface-2); border-color: var(--line-strong); }
-.carousel-arrow:disabled { opacity: .35; cursor: default; }
-.carousel-arrow:disabled:hover { background: var(--panel2); border-color: var(--line); }
-
-/* カードは全て同一サイズ（1枚だけ拡大しない＝10枚が同格）。情報の階層は色数を
-   増やさず文字サイズ・太さで表す: 現在価格が最大・最太、タイトルは中間、
-   定価は最小・細字（row-cur/row-regularの既定スタイルをそのまま使う）。 */
-.hero3-card {
-  position: relative; width: 220px; background: var(--surface-1); border: 1px solid var(--line-strong);
-  border-radius: 14px; overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
+.bento-card {
+  display: flex; background: var(--surface-1); border: 1px solid var(--line-strong); border-radius: 14px;
+  overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
   transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
 }
-.hero3-card:hover { background: var(--surface-2); border-color: var(--text-strong); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
-.hero3-link { display: block; color: inherit; text-decoration: none; }
-.hero3-rank {
-  position: absolute; top: 10px; left: 10px; z-index: 1;
-  width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
-  background: rgba(16,19,26,.78); border: 1px solid rgba(255,255,255,.5); color: #fff;
-  font-weight: 800; font-size: .95rem; font-variant-numeric: tabular-nums;
-}
-.hero3-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; }
-.hero3-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hero3-body { padding: var(--sp-4) var(--sp-5) var(--sp-5); }
-.hero3-title {
+.bento-card:hover { background: var(--surface-2); border-color: var(--text-strong); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
+.bento-card.big { grid-column: span 2; grid-row: span 2; }
+.bento-link { display: flex; flex-direction: column; flex: 1 1 auto; min-width: 0; color: inherit; text-decoration: none; }
+.bento-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; flex: 0 0 auto; }
+.bento-card.big .bento-thumb { flex: 1 1 auto; aspect-ratio: auto; }
+.bento-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.bento-body { padding: var(--sp-4) var(--sp-5) var(--sp-5); flex: 1 1 auto; }
+.bento-title {
   margin: 0 0 8px; font-size: .92rem; font-weight: 700; color: var(--text-strong);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
-.hero3-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
-.hero3-price { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
-.hero3-price .row-cur { font-size: 1.2rem; }
-
-/* まもなく終了: 横スクロールカードは一覧性が悪いため使わず、他セクションと同じ
-   縦リストのまま「残り日数の表示サイズ」で差別化する。赤は本日〜3日以内の
-   緊急表示にのみ使う（それ以外の判定色は使わない）。 */
-.tag-expiry.big {
-  padding: 2px 8px; border-radius: 4px; font-size: .82rem; font-weight: 800;
-  color: var(--text-strong); background: var(--panel2); border: 1px solid var(--line);
-  white-space: nowrap;
+.bento-card.big .bento-title { font-size: 1.15rem; -webkit-line-clamp: 3; }
+.bento-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.bento-price { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+.bento-price .row-cur { font-size: 1.2rem; }
+.bento-card.big .bento-price .row-cur { font-size: 1.75rem; }
+@media (max-width: 880px) {
+  .bento-grid { grid-template-columns: repeat(2, 1fr); }
+  .bento-card.big { grid-row: span 1; }
+  .bento-card.big .bento-thumb { flex: 0 0 auto; aspect-ratio: 400 / 230; }
 }
-.tag-expiry.big.urgent { color: var(--bad-solid-fg); background: var(--bad-solid-bg); border-color: var(--bad-solid-bg); }
-/* 緊急度（残り3日以内）はセクション/行の背景に色を敷かず、左端のアクセントラインと
-   「本日終了」バッジの2箇所だけで表現する（背景着色はダークテーマで濁って見えるため
-   廃止）。.row.row-urgent で詳細度を1段上げ、new_low/tied_low等の左バー色より確実に勝つ。 */
-.row.row-urgent::before { background: var(--bad); width: 4px; }
+@media (max-width: 480px) {
+  .bento-grid { grid-template-columns: 1fr; gap: var(--sp-3); }
+  .bento-card.big { grid-column: span 1; }
+}
 
-/* トップページのチャートセクション（人気/値下げ率/まもなく終了） */
-.chart-section, #verdict { scroll-margin-top: calc(var(--header-h) + 14px); }
+/* まもなく終了: 縦の順位リストではなく、折り返す横並びの帯（コンパクトなピル）。
+   横スクロールは使わない＝カルーセルと同じ「隠れる」問題を避け、件数がいくつでも
+   最初から全件が見える。緊急度（残り3日以内）は枠線の色だけで示し、背景は塗らない。 */
+.ending-section { margin: var(--sp-9) 0 0; }
+.ending-strip { list-style: none; margin: var(--sp-5) 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--sp-3); }
+.ending-pill { flex: 1 1 220px; max-width: 300px; }
+.ending-pill-link {
+  display: flex; align-items: center; gap: 10px; height: 100%; box-sizing: border-box;
+  background: var(--surface-1); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px;
+  color: inherit; text-decoration: none; transition: background .15s ease, border-color .15s ease;
+}
+.ending-pill-link:hover { background: var(--surface-2); border-color: var(--line-strong); }
+.ending-pill.urgent .ending-pill-link { border-color: var(--bad-border); }
+.ending-pill-thumb { width: 48px; aspect-ratio: 400 / 230; border-radius: 6px; overflow: hidden; flex: 0 0 auto; background: var(--panel2); }
+.ending-pill-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.ending-pill-body { min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.ending-pill-title {
+  font-size: .85rem; font-weight: 700; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.ending-pill-meta { display: flex; align-items: center; gap: 8px; }
+.ending-pill-price { font-size: .8rem; font-weight: 800; color: var(--text-strong); font-variant-numeric: tabular-nums; }
+.ending-pill-days { font: var(--text-micro); color: var(--muted); display: inline-flex; align-items: center; gap: 3px; white-space: nowrap; }
+.ending-pill-days.urgent { color: var(--bad); font-weight: 700; }
+
+/* 管理情報（セール中○本・最終更新など）はページ最下部に集約する。トップページの
+   主役は「買い時かどうか」であって収集数ではないため、判定情報より明確に控えめにする。 */
+.meta-bar {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center;
+  margin: var(--sp-8) 0 0; padding-top: var(--sp-6); border-top: 1px solid var(--line);
+  font-size: .78rem; color: var(--muted); text-align: center;
+}
+.meta-bar a { color: var(--muted); }
+.meta-bar a:hover { color: var(--text-strong); }
+
+/* トップページのチャートセクション（人気/値下げ率）。見出し下の一文は日時の
+   括弧書きをやめ、.section-lede（.metaより一段大きく本文色に近い）で読ませる。
+   数字などの強調は<strong>の太さのみで示す（色は判定バッジ・主要導線専用のため）。 */
+.chart-section, .bento-section, .ending-section, #verdict { scroll-margin-top: calc(var(--header-h) + 14px); }
 .chart-section { margin: var(--sp-9) 0 0; }
+/* 値下げ率ランキングは人気ゲームのセールと同じ「数字で見せる」役割の続きのため、
+   通常より詰めて隣接させる（セクション同士の距離で情報の関係性を示す）。 */
+.chart-section.tight { margin-top: var(--sp-6); }
 .section-head { margin: 0 0 var(--sp-6); }
+.section-lede { margin: 4px 0 0; padding-left: 12px; font-size: .95rem; color: var(--text); line-height: 1.6; }
+.section-lede strong { font-weight: 800; color: var(--text-strong); }
 .section-head h2 {
   margin: 0 0 4px; font: var(--text-h2); letter-spacing: -.01em;
   padding-left: 12px; border-left: 3px solid var(--line-strong);
 }
-.section-head .meta { margin: 0; padding-left: 12px; }
 .empty { text-align: center; color: var(--muted); padding: 36px 12px; }
 .empty p { margin: 0 0 14px; }
 .js-warn {

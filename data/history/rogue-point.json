@@ -1,0 +1,51 @@
+{
+  "slug": "rogue-point",
+  "updated_at": "2026-08-17T12:56:31Z",
+  "history": [
+    {
+      "date": "2026-02-12",
+      "amount": 1615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 1425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 950,
+      "shop": "Steam"
+    }
+  ]
+}

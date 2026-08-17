@@ -1,6 +1,6 @@
 {
   "slug": "disco-elysium-the-final-cut",
-  "updated_at": "2026-08-17T00:16:27Z",
+  "updated_at": "2026-08-17T12:56:31Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -68,6 +68,11 @@
       "shop": "Steam"
     },
     {
+      "date": "2025-06-27",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
       "date": "2025-07-10",
       "amount": 4100,
       "shop": "Steam"
@@ -100,6 +105,11 @@
     {
       "date": "2025-12-02",
       "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 410,
       "shop": "Steam"
     },
     {
@@ -155,6 +165,11 @@
     {
       "date": "2026-06-05",
       "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 460,
       "shop": "Steam"
     },
     {

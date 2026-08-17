@@ -1,0 +1,81 @@
+{
+  "slug": "bittersweet-birthday",
+  "updated_at": "2026-08-17T12:56:31Z",
+  "history": [
+    {
+      "date": "2025-11-11",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-18",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1000,
+      "shop": "Steam"
+    }
+  ]
+}

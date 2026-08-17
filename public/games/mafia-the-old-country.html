@@ -80,6 +80,7 @@
     </div>
     <div class="price-current">
       <div class="price-current-value">¥4,158<span class="card-cut">-40%</span></div>
+      
       <p class="verdict-detail">過去最安より ¥499 高い</p>
       <p class="expiry-detail">セール終了日：未定</p>
       <div class="price-current-meta">
@@ -145,7 +146,7 @@
 <div class="list-head" aria-hidden="true"><span class="lh-rank"></span><span class="lh-thumb"></span><span class="lh-title">ゲーム</span><span class="lh-timing">買い時</span><span class="lh-amount">価格</span></div>
 <ul class="list">
 <li class="row row-v-watch" data-slug="metro-2033-redux" data-title="metro 2033 redux メトロ2033 リダックス" data-cut="90" data-price="238"
-  data-verdict-rank="3" data-expiry-ts="1787677200.0" data-jp="0" data-onsale="1"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
   data-reviews="93991" data-genres="アクション" data-shop="Steam">
   <div class="row-rank"></div>
   <div class="row-thumb">
@@ -160,7 +161,7 @@
   </div>
 </li>
 <li class="row row-v-watch" data-slug="far-cry-5" data-title="far cry 5 far cry® 5" data-cut="85" data-price="1188"
-  data-verdict-rank="3" data-expiry-ts="1786986000.0" data-jp="1" data-onsale="1"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
   data-reviews="172200" data-genres="アクション,アドベンチャー" data-shop="Steam">
   <div class="row-rank"></div>
   <div class="row-thumb">
@@ -168,7 +169,7 @@
     <button type="button" class="fav-btn" data-fav-slug="far-cry-5" aria-pressed="false" aria-label="お気に入りに追加" title="お気に入りに追加">★</button>
   </div>
   <h3 class="row-title"><a href="../games/far-cry-5.html" class="stretched-link">Far Cry® 5</a></h3>
-  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="tag-expiry urgent"><svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 本日終了</span><span class="row-timing">過去最安より ¥396 高い</span></div>
+  <div class="row-timing-col"><span class="badge v-watch" title="過去最安値より5%を超えて高い（それ以上の優劣は付けない中立表示）">最安値より高い</span><span class="row-timing">過去最安より ¥396 高い</span></div>
   <div class="row-amount">
     <div class="row-amount-top"><span class="row-regular"><span class="row-regular-label">定価</span><span class="row-regular-price">¥7,920</span></span><span class="row-cut">-85%</span></div>
     <span class="row-cur">¥1,188</span>
@@ -190,7 +191,7 @@
   </div>
 </li>
 <li class="row row-v-watch" data-slug="metro-last-light-redux" data-title="metro last light redux メトロ ラストライト リダックス" data-cut="90" data-price="238"
-  data-verdict-rank="3" data-expiry-ts="1787677200.0" data-jp="0" data-onsale="1"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="0" data-onsale="1"
   data-reviews="70687" data-genres="アクション" data-shop="Steam">
   <div class="row-rank"></div>
   <div class="row-thumb">
@@ -206,13 +207,14 @@
 </li></ul>
 <p class="see-all"><a class="btn-outline" href="../genre/action.html">アクションのセールをもっと見る →</a></p>
 
-<p class="meta">最終更新: 2026年8月17日 09:16（日本時間）</p>
+<p class="meta">最終更新: 2026年8月17日 21:56（日本時間）</p>
 
 </main>
 <footer class="site-footer">
   <p>価格データ提供: <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>（Steamほか各ストアの価格情報を集約）</p>
   <p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載価格は保存済みデータのため、購入前に必ずストア側の価格をご確認ください。</p>
-  <p>毎朝6時ごろ自動更新 ・ <a href="../about.html">このサイトについて</a></p>
+  <p>毎朝6時ごろ自動更新 ・ <a href="../about.html">このサイトについて</a>
+     ・ <a href="../privacy.html">プライバシーポリシー</a></p>
 </footer>
 <button type="button" id="back-to-top" class="back-to-top" aria-label="ページの先頭に戻る"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg></button>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8c81e274f13457d80d3e8484503fdf2"}'></script><!-- End Cloudflare Web Analytics -->
@@ -271,37 +273,6 @@
     });
     onScroll();
   }
-
-  // --- 横スクロールカルーセル（本日イチ押し等）の矢印ボタン。ネイティブの
-  //     overflow-x scrollで動くのでJSはボタン操作の補助のみ（スマホのスワイプは
-  //     このJS無しでも動く）。ページに無ければ何もしない。 ---
-  Array.prototype.slice.call(document.querySelectorAll(".carousel-wrap")).forEach(function (wrap) {
-    var track = wrap.querySelector(".carousel-track");
-    var prev = wrap.querySelector(".carousel-arrow.prev");
-    var next = wrap.querySelector(".carousel-arrow.next");
-    if (!track || !prev || !next) return;
-    function step() {
-      var card = track.querySelector(":scope > *");
-      return card ? card.getBoundingClientRect().width + 14 : track.clientWidth * 0.9;
-    }
-    function updateArrows() {
-      prev.disabled = track.scrollLeft <= 4;
-      next.disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 4;
-    }
-    prev.addEventListener("click", function () {
-      track.scrollBy({ left: -step(), behavior: reduceMotion ? "auto" : "smooth" });
-    });
-    next.addEventListener("click", function () {
-      track.scrollBy({ left: step(), behavior: reduceMotion ? "auto" : "smooth" });
-    });
-    track.addEventListener("scroll", function () {
-      if (!wrap._ticking) {
-        wrap._ticking = true;
-        window.requestAnimationFrame(function () { updateArrows(); wrap._ticking = false; });
-      }
-    }, { passive: true });
-    updateArrows();
-  });
 
   // --- 期間切り替え（1年/全期間）: ページ内に複数あってもよいよう、ボタン群ごとに
   //     data-period-target で対応する表示ブロックを出し分ける。 ---

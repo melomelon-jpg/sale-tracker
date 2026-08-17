@@ -1,0 +1,51 @@
+{
+  "slug": "lovish",
+  "updated_at": "2026-08-17T12:56:31Z",
+  "history": [
+    {
+      "date": "2026-02-05",
+      "amount": 1530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1190,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "nice-day-for-fishing",
+  "updated_at": "2026-08-17T12:56:31Z",
+  "history": [
+    {
+      "date": "2025-05-08",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-30",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-24",
+      "amount": 2062,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-29",
+      "amount": 1787,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-04",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 935,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 935,
+      "shop": "Steam"
+    }
+  ]
+}

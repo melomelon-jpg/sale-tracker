@@ -80,6 +80,7 @@
     </div>
     <div class="price-current">
       <div class="price-current-value">¥123<span class="card-cut">-94%</span></div>
+      
       <p class="verdict-detail">この価格になるのは4回目</p>
       <p class="expiry-detail">セール終了日：未定</p>
       <div class="price-current-meta">
@@ -142,13 +143,14 @@
 
 
 
-<p class="meta">最終更新: 2026年8月17日 09:16（日本時間）</p>
+<p class="meta">最終更新: 2026年8月17日 21:56（日本時間）</p>
 
 </main>
 <footer class="site-footer">
   <p>価格データ提供: <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>（Steamほか各ストアの価格情報を集約）</p>
   <p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載価格は保存済みデータのため、購入前に必ずストア側の価格をご確認ください。</p>
-  <p>毎朝6時ごろ自動更新 ・ <a href="../about.html">このサイトについて</a></p>
+  <p>毎朝6時ごろ自動更新 ・ <a href="../about.html">このサイトについて</a>
+     ・ <a href="../privacy.html">プライバシーポリシー</a></p>
 </footer>
 <button type="button" id="back-to-top" class="back-to-top" aria-label="ページの先頭に戻る"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg></button>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8c81e274f13457d80d3e8484503fdf2"}'></script><!-- End Cloudflare Web Analytics -->
@@ -207,37 +209,6 @@
     });
     onScroll();
   }
-
-  // --- 横スクロールカルーセル（本日イチ押し等）の矢印ボタン。ネイティブの
-  //     overflow-x scrollで動くのでJSはボタン操作の補助のみ（スマホのスワイプは
-  //     このJS無しでも動く）。ページに無ければ何もしない。 ---
-  Array.prototype.slice.call(document.querySelectorAll(".carousel-wrap")).forEach(function (wrap) {
-    var track = wrap.querySelector(".carousel-track");
-    var prev = wrap.querySelector(".carousel-arrow.prev");
-    var next = wrap.querySelector(".carousel-arrow.next");
-    if (!track || !prev || !next) return;
-    function step() {
-      var card = track.querySelector(":scope > *");
-      return card ? card.getBoundingClientRect().width + 14 : track.clientWidth * 0.9;
-    }
-    function updateArrows() {
-      prev.disabled = track.scrollLeft <= 4;
-      next.disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 4;
-    }
-    prev.addEventListener("click", function () {
-      track.scrollBy({ left: -step(), behavior: reduceMotion ? "auto" : "smooth" });
-    });
-    next.addEventListener("click", function () {
-      track.scrollBy({ left: step(), behavior: reduceMotion ? "auto" : "smooth" });
-    });
-    track.addEventListener("scroll", function () {
-      if (!wrap._ticking) {
-        wrap._ticking = true;
-        window.requestAnimationFrame(function () { updateArrows(); wrap._ticking = false; });
-      }
-    }, { passive: true });
-    updateArrows();
-  });
 
   // --- 期間切り替え（1年/全期間）: ページ内に複数あってもよいよう、ボタン群ごとに
   //     data-period-target で対応する表示ブロックを出し分ける。 ---

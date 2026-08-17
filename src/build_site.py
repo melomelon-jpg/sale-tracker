@@ -129,6 +129,9 @@ def is_featured_eligible(g):
 SITE_NAME = "ゲーム最安隊"
 # 独自ドメインに移行する際はここだけ書き換えればよい（OGP/canonical/sitemap.xmlで使用）。
 SITE_URL = "https://sale-tracker-368.pages.dev"
+# お問い合わせ先が決まるまでの仮表示。決まったらここを書き換えるだけで
+# プライバシーポリシーページ（build_privacy）に反映される。
+CONTACT_INFO = "準備中"
 SITE_DESCRIPTION = (
     "Steamのセール情報を毎日自動収集し、過去最安値と比較した「買い時」判定バッジで"
     "今狙うべきセールが一目でわかる非公式の価格追跡サイト。"
@@ -281,12 +284,9 @@ ICON_CLOCK = ('<svg class="icon-clock" viewBox="0 0 24 24" width="13" height="13
 ICON_CHEVRON_UP = ('<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" '
                     'stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
                     '<polyline points="18 15 12 9 6 15"/></svg>')
-ICON_CHEVRON_LEFT = ('<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" '
-                      'stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
-                      '<polyline points="15 18 9 12 15 6"/></svg>')
-ICON_CHEVRON_RIGHT = ('<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" '
-                       'stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
-                       '<polyline points="9 6 15 12 9 18"/></svg>')
+ICON_SEARCH = ('<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" '
+               'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+               '<circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>')
 
 # テーマ切替ボタンのアイコン。data-theme に応じてCSS側で片方だけ表示する。
 ICON_SUN = ('<svg class="icon-sun" viewBox="0 0 24 24" width="17" height="17" fill="none" '
@@ -388,7 +388,7 @@ def page(title, body, rel_root=".", active="", path="", description=None,
     canonical_url = f"{SITE_URL}/{path}" if path else f"{SITE_URL}/"
     desc = description or SITE_DESCRIPTION
     og_t = og_title or full_title
-    og_img = og_image or f"{SITE_URL}/og-default.png"
+    og_img = og_image or f"{SITE_URL}/og-default.jpg"
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -457,7 +457,8 @@ def page(title, body, rel_root=".", active="", path="", description=None,
 <footer class="site-footer">
   <p>価格データ提供: <a href="https://isthereanydeal.com/" target="_blank" rel="noopener noreferrer">IsThereAnyDeal</a>（Steamほか各ストアの価格情報を集約）</p>
   <p>本サイトはValve/Steamおよび各ストアの公式サイトではありません。掲載価格は保存済みデータのため、購入前に必ずストア側の価格をご確認ください。</p>
-  <p>毎朝6時ごろ自動更新 ・ <a href="{rel_root}/about.html">このサイトについて</a></p>
+  <p>毎朝6時ごろ自動更新 ・ <a href="{rel_root}/about.html">このサイトについて</a>
+     ・ <a href="{rel_root}/privacy.html">プライバシーポリシー</a></p>
 </footer>
 <button type="button" id="back-to-top" class="back-to-top" aria-label="ページの先頭に戻る">{ICON_CHEVRON_UP}</button>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "c8c81e274f13457d80d3e8484503fdf2"}}'></script><!-- End Cloudflare Web Analytics -->
@@ -516,37 +517,6 @@ def page(title, body, rel_root=".", active="", path="", description=None,
     }});
     onScroll();
   }}
-
-  // --- 横スクロールカルーセル（本日イチ押し等）の矢印ボタン。ネイティブの
-  //     overflow-x scrollで動くのでJSはボタン操作の補助のみ（スマホのスワイプは
-  //     このJS無しでも動く）。ページに無ければ何もしない。 ---
-  Array.prototype.slice.call(document.querySelectorAll(".carousel-wrap")).forEach(function (wrap) {{
-    var track = wrap.querySelector(".carousel-track");
-    var prev = wrap.querySelector(".carousel-arrow.prev");
-    var next = wrap.querySelector(".carousel-arrow.next");
-    if (!track || !prev || !next) return;
-    function step() {{
-      var card = track.querySelector(":scope > *");
-      return card ? card.getBoundingClientRect().width + 14 : track.clientWidth * 0.9;
-    }}
-    function updateArrows() {{
-      prev.disabled = track.scrollLeft <= 4;
-      next.disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 4;
-    }}
-    prev.addEventListener("click", function () {{
-      track.scrollBy({{ left: -step(), behavior: reduceMotion ? "auto" : "smooth" }});
-    }});
-    next.addEventListener("click", function () {{
-      track.scrollBy({{ left: step(), behavior: reduceMotion ? "auto" : "smooth" }});
-    }});
-    track.addEventListener("scroll", function () {{
-      if (!wrap._ticking) {{
-        wrap._ticking = true;
-        window.requestAnimationFrame(function () {{ updateArrows(); wrap._ticking = false; }});
-      }}
-    }}, {{ passive: true }});
-    updateArrows();
-  }});
 
   // --- 期間切り替え（1年/全期間）: ページ内に複数あってもよいよう、ボタン群ごとに
   //     data-period-target で対応する表示ブロックを出し分ける。 ---
@@ -725,7 +695,7 @@ FEATURED_COUNT = 30
 # ---------------------------------------------------------------------------
 # ゲームカード（トップページ・全件ページ共通）
 # ---------------------------------------------------------------------------
-def game_row(g, rank=None, link_prefix="", big_expiry=False, lazy=True):
+def game_row(g, rank=None, link_prefix="", lazy=True):
     """1ゲーム分の一覧行HTML。data-* 属性は all.html の検索/並び替え/絞り込みJS用。
 
     Steamのセールチャートのような固定カラムのテーブル構造（順位・画像・タイトル・
@@ -733,12 +703,12 @@ def game_row(g, rank=None, link_prefix="", big_expiry=False, lazy=True):
     game_row() が唯一の生成元となり、CSS側の .row グリッドと1対1で対応する。
     判定を一覧の主役にするため、過去最安に到達している行（new_low/tied_low）だけ
     左端のアクセントバーで強調する（行の明るさ自体は全行で揃え、above_low を沈める処理はしない）。
+    「まもなく終了」は縦リストではなく ending_section() の折り返しピルで見せるため、
+    ここでの終了間近表示は控えめな .tag-expiry.urgent のみ（大表示バリアントは持たない）。
 
     rank: 指定するとSteamチャート風の順位数字を左端に表示する（ランキング専用）。
     link_prefix: ゲーム/ジャンルへのリンクの相対パス接頭辞（詳細ページ内の関連ゲーム欄など
                  サイトルート以外から呼ぶ場合は "../" を渡す）。
-    big_expiry: 「まもなく終了」セクション用。残り日数を買い時列に大きく常時表示し、
-                3日以内なら行の左端を警告色でハイライトする。
     """
     cur = g.get("current") or {}
     low = g.get("lowest") or {}
@@ -771,11 +741,7 @@ def game_row(g, rank=None, link_prefix="", big_expiry=False, lazy=True):
     timing_cls = "row-timing save" if code in ("new_low", "tied_low") else "row-timing"
 
     timing_bits = [verdict_badge(v)]
-    if big_expiry and exp:
-        cls = "tag-expiry big urgent" if exp["urgent"] else "tag-expiry big"
-        timing_bits.append(f'<span class="{cls}">{ICON_CLOCK} '
-                            f'{esc(days_left_text(exp["days_left"]))}</span>')
-    elif exp and exp["urgent"]:
+    if exp and exp["urgent"]:
         timing_bits.append(f'<span class="tag-expiry urgent">{ICON_CLOCK} '
                             f'{esc(days_left_text(exp["days_left"]))}</span>')
     if timing_txt:
@@ -808,8 +774,6 @@ def game_row(g, rank=None, link_prefix="", big_expiry=False, lazy=True):
 
     href = f"{link_prefix}games/{esc(g['slug'])}.html"
     row_cls = f"row row-{VERDICT_CLASS.get(v.get('code'), 'v-unknown')}"
-    if big_expiry and exp and exp["urgent"]:
-        row_cls += " row-urgent"
 
     return f"""
 <li class="{row_cls}" data-slug="{esc(g['slug'])}" data-title="{title_norm}" data-cut="{d_cut}" data-price="{d_price}"
@@ -870,12 +834,14 @@ def _record_low_count(picks):
 
 
 def _popular_lead(picks):
-    """「人気ゲームのセール」の冒頭一言。データから自動生成する。"""
+    """「人気ゲームのセール」の冒頭一言。数字は色ではなく<strong>の太さで強調する
+    （色は判定バッジと主要導線だけに使うルールを保つため）。日時は入れない
+    （最終更新はページ最下部の.meta-barに一度だけ出す）。"""
     n = len(picks)
     record_n = _record_low_count(picks)
     if record_n:
-        return f"人気タイトル{n}本のうち{record_n}本が過去最安値。"
-    return f"レビュー数の多い定番タイトル{n}本が値下げ中。"
+        return f"定番タイトルが軒並み値下げ中。{n}本中<strong>{record_n}本</strong>が過去最安値。"
+    return f"レビュー数の多い定番タイトル<strong>{n}本</strong>が値下げ中。"
 
 
 def _discount_lead(picks):
@@ -883,7 +849,9 @@ def _discount_lead(picks):
     n = len(picks)
     max_cut = max(((g.get("current") or {}).get("discount_pct") or 0 for g in picks), default=0)
     record_n = _record_low_count(picks)
-    return f"最大-{max_cut}%、{n}本中{record_n}本が過去最安値で購入可能。"
+    if record_n:
+        return f"最大<strong>-{max_cut}%</strong>。{n}本中{record_n}本は過去最安値でも狙える。"
+    return f"最大<strong>-{max_cut}%</strong>の値下げ中、{n}本。"
 
 
 def _ending_lead(picks):
@@ -894,26 +862,28 @@ def _ending_lead(picks):
         if (exp := expiry_info((g.get("current") or {}).get("expiry")))
     ]
     if not days_list:
-        return f"セール終了が近いタイトル{n}本。"
+        return f"セール終了が近いタイトル<strong>{n}本</strong>。"
     min_days = min(days_list)
     if min_days <= 0:
-        return f"本日中に終了するセールが{n}本。買うなら今日。"
-    return f"最短であと{min_days}日でセールが終了する{n}本。"
+        return f"本日中に終了するセールが<strong>{n}本</strong>。買うなら今日。"
+    return f"最短あと<strong>{min_days}日</strong>。逃すと次のセールまで待つことになる{n}本。"
 
 
-def _chart_section(anchor, title, desc, picks, more_href, ranked=True, big_expiry=False):
+def _chart_section(anchor, title, desc, picks, more_href, ranked=True, tight=False):
+    """desc はリード文生成関数が返す、既に安全な<strong>だけを含むHTML片（escしない）。"""
     if not picks:
         return ""
     if ranked:
-        rows = "".join(game_row(g, rank=i, big_expiry=big_expiry, lazy=False) for i, g in enumerate(picks, 1))
+        rows = "".join(game_row(g, rank=i, lazy=False) for i, g in enumerate(picks, 1))
     else:
-        rows = "".join(game_row(g, big_expiry=big_expiry, lazy=False) for g in picks)
+        rows = "".join(game_row(g, lazy=False) for g in picks)
     list_cls = "list ranked" if ranked else "list"
+    section_cls = "chart-section tight" if tight else "chart-section"
     return f"""
-<section class="chart-section" id="{anchor}">
+<section class="{section_cls}" id="{anchor}">
   <div class="section-head">
     <h2>{esc(title)}</h2>
-    <p class="meta">{esc(desc)}</p>
+    <p class="section-lede">{desc}</p>
   </div>
   {LIST_HEAD_HTML}
   <ul class="{list_cls}">{rows}</ul>
@@ -921,58 +891,57 @@ def _chart_section(anchor, title, desc, picks, more_href, ranked=True, big_expir
 </section>"""
 
 
-def hero_carousel_section(picks):
-    """トップページ最上部の横スクロールカルーセル（総合スコア上位10本）。
-    カードは全て同一サイズにし（1枚だけ拡大しない）、情報の階層は色数を増やさず
-    文字サイズ・太さで表現する（現在価格が最大・最太、定価は最小・細字）。
-    ネイティブの overflow-x + scroll-snap でスマホのスワイプに対応し、
-    左右の矢印ボタンは補助（動作は共通スクリプト側の .carousel-* 汎用ロジック）。"""
-    if not picks:
-        return ""
-    cards = []
-    for i, g in enumerate(picks, 1):
-        cur = g.get("current") or {}
-        reg = g.get("regular") or {}
-        v = g["verdict"]
-        title = display_title(g)
-        thumb = game_image(g.get("assets"), ["banner400", "banner300", "boxart"],
-                            "hero3-thumb-img", title, dims=(400, 230), lazy=False)
-        cur_amt, reg_amt = cur.get("amount"), reg.get("amount")
-        cut = cur.get("discount_pct")
-        on_sale = bool(g.get("on_sale"))
-        price_top_bits = []
-        if on_sale and reg_amt is not None and cur_amt is not None and reg_amt > cur_amt:
-            price_top_bits.append(f'<span class="row-regular"><span class="row-regular-label">定価</span>'
-                               f'<span class="row-regular-price">{yen(reg_amt)}</span></span>')
-        if on_sale and cut:
-            price_top_bits.append(f'<span class="row-cut">-{cut}%</span>')
-        price_top_html = f'<div class="row-amount-top">{"".join(price_top_bits)}</div>' if price_top_bits else ""
-        cards.append(f"""
-    <li class="hero3-card">
-      <span class="hero3-rank">{i}</span>
-      <a href="games/{esc(g['slug'])}.html" class="hero3-link">
-        <div class="hero3-thumb">{thumb}</div>
-        <div class="hero3-body">
-          <h3 class="hero3-title">{esc(title)}</h3>
-          <div class="hero3-tags">{verdict_badge(v)}</div>
-          <div class="hero3-price">
+def _bento_card(g, big=False):
+    """ベントーグリッドの1枚。big=True の1位だけ2×2の大枠（CSS側の.bento-card.bigで拡大）。
+    情報の階層は色数を増やさず文字サイズ・太さで表す（現在価格が最大・最太）。"""
+    cur = g.get("current") or {}
+    reg = g.get("regular") or {}
+    v = g["verdict"]
+    title = display_title(g)
+    thumb = game_image(g.get("assets"), ["banner400", "banner300", "boxart"],
+                        "bento-thumb-img", title, dims=(400, 230), lazy=False)
+    cur_amt, reg_amt = cur.get("amount"), reg.get("amount")
+    cut = cur.get("discount_pct")
+    on_sale = bool(g.get("on_sale"))
+    price_top_bits = []
+    if on_sale and reg_amt is not None and cur_amt is not None and reg_amt > cur_amt:
+        price_top_bits.append(f'<span class="row-regular"><span class="row-regular-label">定価</span>'
+                           f'<span class="row-regular-price">{yen(reg_amt)}</span></span>')
+    if on_sale and cut:
+        price_top_bits.append(f'<span class="row-cut">-{cut}%</span>')
+    price_top_html = f'<div class="row-amount-top">{"".join(price_top_bits)}</div>' if price_top_bits else ""
+    cls = "bento-card big" if big else "bento-card"
+    return f"""
+    <li class="{cls}">
+      <a href="games/{esc(g['slug'])}.html" class="bento-link">
+        <div class="bento-thumb">{thumb}</div>
+        <div class="bento-body">
+          <h3 class="bento-title">{esc(title)}</h3>
+          <div class="bento-tags">{verdict_badge(v)}</div>
+          <div class="bento-price">
             {price_top_html}
             <span class="row-cur">{yen(cur_amt)}</span>
           </div>
         </div>
       </a>
-    </li>""")
+    </li>"""
+
+
+def bento_section(picks):
+    """トップページ「本日のセール」。カルーセルではなくベントーグリッドで
+    総合スコア上位10本を一度に見せる（2枚目以降が隠れるカルーセルの問題を避ける）。
+    1位だけ2×2の大枠にし、grid-auto-flow: dense（CSS側）で残り9本を自動的に
+    敷き詰める。スマホは2列→1列に自然に折り返す。"""
+    if not picks:
+        return ""
+    cards = "".join(_bento_card(g, big=(i == 1)) for i, g in enumerate(picks, 1))
     return f"""
-<section class="hero-top3">
+<section class="bento-section" id="today">
   <div class="section-head">
-    <h2 class="hero-top3-heading">本日イチ押しのセール</h2>
-    <p class="meta">割引率とレビュー数（人気度）から算出したスコアが高い順</p>
+    <h2>本日のセール</h2>
+    <p class="section-lede">割引率と人気度から算出したスコアが高い順。</p>
   </div>
-  <div class="carousel-wrap">
-    <button type="button" class="carousel-arrow prev" aria-label="前へ">{ICON_CHEVRON_LEFT}</button>
-    <ul class="carousel-track">{''.join(cards)}</ul>
-    <button type="button" class="carousel-arrow next" aria-label="次へ">{ICON_CHEVRON_RIGHT}</button>
-  </div>
+  <ul class="bento-grid">{cards}</ul>
 </section>"""
 
 
@@ -1008,50 +977,151 @@ def _genre_chips(games):
     return f'<div class="chip-row"><span class="chip-row-label">ジャンルから探す</span>{chips}</div>'
 
 
-# 買い時の核となる3つの判定（過去最安値±5%以内）。above_low/unknownは含めない
-# （「買い時」を名乗る以上、根拠の薄いものまで水増ししない）。
-BUY_NOW_CODES = ("new_low", "tied_low", "near_low")
+HERO_PICK_COUNT = 3
 
 
-def _hero_stat_section(games, sale_count, pool_count, updated):
-    """導入部: 「何本を毎朝チェックしていて、何本が今買い時か」を、数字そのものを
-    ページ内最大の要素として見せる。数字の大きさだけで語らせ、罫線・背景色・
-    アイコンなどの装飾は足さない（見出しはこの数字ブロック自体がh1を兼ねる）。
-    """
-    total = len(games)
-    buy_now = sum(1 for g in games if g.get("on_sale") and g["verdict"]["code"] in BUY_NOW_CODES)
+def _hero_picks(pool):
+    """ヒーロー直下に添える「本日の数本」。過去最安値に到達している
+    （new_low/tied_low）ものを人気順で選ぶ。0件の日は「最安値に近い」ものに
+    フォールバックする（空欄でヒーローの説得力が落ちないように）。
+    new_low/tied_lowを1つの見出しにまとめても、個々のカードのバッジが
+    「更新」か「同額」かを正確に示すため、誤認は起きない。"""
+    record = sorted(
+        (g for g in pool if g["verdict"]["code"] in ("new_low", "tied_low")),
+        key=lambda g: -(g.get("review_count") or 0),
+    )
+    if record:
+        picks = record[:HERO_PICK_COUNT]
+        return f"本日、過去最安値の{len(picks)}本", picks
+    near = sorted(
+        (g for g in pool if g["verdict"]["code"] == "near_low"),
+        key=lambda g: -(g.get("review_count") or 0),
+    )
+    if near:
+        picks = near[:HERO_PICK_COUNT]
+        return f"本日、最安値に近い{len(picks)}本", picks
+    return "", []
+
+
+def _hero_pick_card(g):
+    cur = g.get("current") or {}
+    v = g["verdict"]
+    title = display_title(g)
+    thumb = game_image(g.get("assets"), ["banner400", "banner300", "boxart"],
+                        "hero-pick-thumb-img", title, dims=(400, 230), lazy=False)
     return f"""
-<section class="hero hero-stat">
-  <h1 class="hero-stat-row">
-    <span class="hero-stat-item">
-      <span class="hero-stat-num">{total}</span>
-      <span class="hero-stat-label">本のセールを<br class="hero-stat-br">毎朝チェック</span>
-    </span>
-    <span class="hero-stat-item">
-      <span class="hero-stat-num">{buy_now}</span>
-      <span class="hero-stat-label">本が今<span class="hero-stat-accent">買い時</span></span>
-    </span>
-  </h1>
-  <p class="meta hero-stat-sub">Steamでセール中の人気タイトルを毎朝自動収集。
-    過去最安値と同額か、その5%以内まで値下がりしている{buy_now}本を「買い時」としています。</p>
-  <p class="meta hero-stat-meta">セール中 {sale_count} / {total} 本（厳選対象 {pool_count} 本） ・
-    最終更新 {esc(updated)} ・ <a href="about.html#verdict">買い時判定の基準について</a></p>
-  {STEAM_NOTE}
+    <li class="hero-pick-card">
+      <a href="games/{esc(g['slug'])}.html" class="hero-pick-link">
+        <div class="hero-pick-thumb">{thumb}</div>
+        <div class="hero-pick-body">
+          <h3 class="hero-pick-title">{esc(title)}</h3>
+          {verdict_badge(v)}
+          <div class="hero-pick-price">{yen(cur.get('amount'))}</div>
+        </div>
+      </a>
+    </li>"""
+
+
+def hero_section(pool):
+    """トップページの主役（検索＋本日の目玉）。「303本／182本」のような収集数の
+    誇示はやめ、検索窓で「自分の欲しいゲームが今買い時か」に即答できる状態を
+    最優先にする。管理情報（セール中○本・最終更新）は最下部の.meta-barへ移した。"""
+    label, picks = _hero_picks(pool)
+    picks_html = ""
+    if picks:
+        cards = "".join(_hero_pick_card(g) for g in picks)
+        picks_html = f"""
+  <div class="hero-picks">
+    <p class="hero-picks-label">{esc(label)}</p>
+    <ul class="hero-picks-grid">{cards}</ul>
+  </div>"""
+    return f"""
+<section class="hero-search">
+  <h1>そのゲーム、今が買い時？</h1>
+  <p class="hero-search-sub">過去の最安値と比較して、買うべきタイミングかを一瞬で判定します。</p>
+  <form class="hero-searchbox" action="all.html" method="get" role="search">
+    <label class="sr-only" for="hero-q">ゲーム名で検索</label>
+    {ICON_SEARCH}
+    <input type="search" id="hero-q" name="q" placeholder="ゲーム名で検索（例: バルダーズ・ゲート3）" autocomplete="off" aria-label="ゲーム名で検索">
+  </form>{picks_html}
+</section>"""
+
+
+def _ending_pill(g):
+    cur = g.get("current") or {}
+    title = display_title(g)
+    thumb = game_image(g.get("assets"), ["banner145", "banner300", "boxart"],
+                        "ending-pill-thumb-img", title, dims=(400, 230), lazy=False)
+    exp = expiry_info(cur.get("expiry"))
+    urgent = bool(exp and exp["urgent"])
+    days_txt = days_left_text(exp["days_left"]) if exp else ""
+    cls = "ending-pill urgent" if urgent else "ending-pill"
+    days_cls = "ending-pill-days urgent" if urgent else "ending-pill-days"
+    return f"""
+    <li class="{cls}">
+      <a href="games/{esc(g['slug'])}.html" class="ending-pill-link">
+        <span class="ending-pill-thumb">{thumb}</span>
+        <span class="ending-pill-body">
+          <span class="ending-pill-title">{esc(title)}</span>
+          <span class="ending-pill-meta">
+            <span class="ending-pill-price">{yen(cur.get('amount'))}</span>
+            <span class="{days_cls}">{ICON_CLOCK} {esc(days_txt)}</span>
+          </span>
+        </span>
+      </a>
+    </li>"""
+
+
+def ending_section(picks, desc, more_href):
+    """まもなく終了: 縦の順位リストではなく、折り返す横並びの帯（コンパクトなピル）
+    で見せる。横スクロールは使わない（カルーセルと同じ「隠れる」問題を避けるため）
+    ため、件数がいくつでも最初から全件が見える。緊急度（残り3日以内）は
+    枠線の色だけで示し、背景着色はしない。"""
+    if not picks:
+        return ""
+    pills = "".join(_ending_pill(g) for g in picks)
+    return f"""
+<section class="ending-section" id="ending">
+  <div class="section-head">
+    <h2>まもなく終了</h2>
+    <p class="section-lede">{desc}</p>
+  </div>
+  <ul class="ending-strip">{pills}</ul>
+  <p class="see-all"><a class="btn-outline" href="{esc(more_href)}">もっと見る →</a></p>
 </section>"""
 
 
 def _explore_section(games):
-    """ジャンル・価格帯チップを、導入部から切り離した独立セクションとして表示する。"""
+    """ジャンル・価格帯チップを、導入部から切り離した独立セクションとして表示する。
+    ページ末尾に近い「静かに手がかりを渡す」役割のため、他セクションより主張を弱くする。"""
     body = _genre_chips(games) + _price_chips()
     if not body.strip():
         return ""
     return f"""
 <section class="explore-section">
   <div class="section-head">
-    <h2>ジャンル・価格帯から探す</h2>
+    <h2 class="explore-heading">ジャンル・価格帯から探す</h2>
   </div>
   {body}
 </section>"""
+
+
+def meta_bar_section(sale_count, total, pool_count, updated):
+    """管理情報（セール中○本・最終更新など）はページ最下部に集約する。
+    トップページの主役は「買い時かどうか」であって収集数ではないため、
+    ここでは判定情報より明確に目立たない扱いにする。"""
+    return f"""
+<div class="meta-bar">
+  <span>セール中 {sale_count} / {total}本</span>
+  <span aria-hidden="true">・</span>
+  <span>厳選対象 {pool_count}本</span>
+  <span aria-hidden="true">・</span>
+  <span>最終更新 {esc(updated)}</span>
+  <span aria-hidden="true">・</span>
+  <span>価格はすべて Steam ストアの表示です</span>
+  <span aria-hidden="true">・</span>
+  <a href="about.html#verdict">買い時判定の基準について</a>
+</div>"""
 
 
 def build_featured(latest):
@@ -1061,7 +1131,7 @@ def build_featured(latest):
     sale_count = sum(1 for g in games if g.get("on_sale"))
     mr = _reviews_bucket()
 
-    # 本日イチ押しカルーセルに使うゲームは、下の3セクション（人気/値下げ率/まもなく終了）の
+    # 「本日のセール」ベントーグリッドに使うゲームは、下の3セクション（人気/値下げ率/まもなく終了）の
     # 割り当てから除外する。以降「まもなく終了 ＞ 人気ゲームのセール ＞ 値下げ率ランキング」
     # の優先度で1ゲーム1セクションに割り当てる（表示順は人気→値下げ率→まもなく終了）。
     top10 = sorted(pool, key=lambda g: -popularity_score(g.get("review_count"),
@@ -1088,31 +1158,32 @@ def build_featured(latest):
     )
     discounted = [g for g in discounted_all if g["slug"] not in used][:10]
 
-    # セクション下の一言は毎回のビルドでデータから再計算される（＝生成日ごとに変わりうる）ため、
-    # いつ時点の集計かを明記する（データと文言が乖離して見えないように）。
-    date_suffix = f"（{updated}時点）"
+    # 訪問者の読む順に沿って密度の強弱をつける: 画像で見せる（ベントー）→
+    # 数字で見せる（人気/値下げ率、この2つだけ隣接させて詰める）→ 急かす
+    # （まもなく終了の帯）→ 静かに手がかりを渡す（ジャンル・価格帯）→ 管理情報。
+    # 各セクションの見出し下の一言に日時は入れない（最終更新は.meta-barに一度だけ）。
     sections = (
         _chart_section("popular", "人気ゲームのセール",
-                       _popular_lead(popular) + date_suffix, popular,
+                       _popular_lead(popular), popular,
                        _all_link({"sort": "reviews_desc", "reviews": mr, "onsale": 1})) +
         _chart_section("discount", "値下げ率ランキング",
-                       _discount_lead(discounted) + date_suffix, discounted,
-                       _all_link({"sort": "cut_desc", "reviews": mr, "onsale": 1})) +
-        _chart_section("ending", "まもなく終了",
-                        _ending_lead(ending) + date_suffix, ending,
-                        _all_link({"sort": "expiry", "reviews": mr, "onsale": 1}),
-                        ranked=False, big_expiry=True)
+                       _discount_lead(discounted), discounted,
+                       _all_link({"sort": "cut_desc", "reviews": mr, "onsale": 1}),
+                       tight=True) +
+        ending_section(ending, _ending_lead(ending),
+                       _all_link({"sort": "expiry", "reviews": mr, "onsale": 1}))
     )
     empty = ('<p class="empty">現在、条件に合うセールはありません。'
              'しきい値は<a href="about.html#verdict">このサイトについて</a>のページで確認できます。</p>') if not pool else ""
 
     body = f"""
-{_hero_stat_section(games, sale_count, len(pool), updated)}
-{_explore_section(games)}
-{hero_carousel_section(top10)}
+{hero_section(pool)}
+{bento_section(top10)}
 {sections}
 {empty}
+{_explore_section(games)}
 <p class="see-all"><a class="btn-outline" href="all.html">すべてのセール（{len(games)}本）を見る →</a></p>
+{meta_bar_section(sale_count, len(games), len(pool), updated)}
 """
     description = (
         f"{SITE_NAME}がレビュー数と割引率から選ぶ、今買うべきSteamセール。"
@@ -1220,7 +1291,11 @@ def build_all(latest):
 </div>
 <p class="load-more-wrap"><button type="button" id="load-more" class="btn-outline" hidden>もっと見る</button></p>
 """
-    description = f"Steamで配信中のセール全{len(games)}本を検索・絞り込みで一覧表示。価格帯・割引率・日本語対応の有無で絞り込めます。"
+    sale_n = sum(1 for g in games if g.get("on_sale"))
+    description = (
+        f"Steamの主要タイトルを追跡する全{len(games)}本（うちセール中{sale_n}本）を"
+        f"検索・絞り込みで一覧表示。価格帯・割引率・日本語対応の有無で絞り込めます。"
+    )
     (PUBLIC_DIR / "all.html").write_text(
         page("すべてのセール", body, active="all", path="all.html", description=description),
         encoding="utf-8",
@@ -1260,7 +1335,10 @@ def build_genre_pages(latest):
 <ul class="list">{rows}</ul>
 <p class="see-all"><a class="btn-outline" href="../all.html?genre={esc(quote(genre))}">すべてのセールで絞り込み表示 →</a></p>
 """
-        description = f"Steamで配信中の{genre}ジャンルのセールを{len(members)}本掲載。割引率が高い順に一覧表示します。"
+        description = (
+            f"Steamの{genre}ジャンルの主要タイトルを{len(members)}本掲載"
+            f"（うちセール中{on_sale_n}本）。割引率が高い順に一覧表示します。"
+        )
         (genre_dir / f"{slug}.html").write_text(
             page(f"{genre}のセール一覧", body, rel_root="..", active="", path=f"genre/{slug}.html",
                  description=description),
@@ -1335,6 +1413,72 @@ def build_about(latest):
 
 
 # ---------------------------------------------------------------------------
+# プライバシーポリシー（アクセス解析の利用・広告掲載の可能性を開示する信頼性ページ）
+# ---------------------------------------------------------------------------
+def build_privacy(latest):
+    updated = fmt_dt(latest.get("generated_at", ""))
+    body = f"""
+<section class="hero">
+  <h1>プライバシーポリシー</h1>
+  <p class="meta">最終更新 {esc(updated)}</p>
+</section>
+
+<h2>個人情報の取得について</h2>
+<p>{esc(SITE_NAME)}（以下「本サイト」）は、現時点で会員登録やお問い合わせフォーム等を通じた
+氏名・メールアドレスなどの個人情報の取得は行っていません。将来的に会員登録機能などを追加する場合は、
+取得する情報の範囲・利用目的をあらためて本ページに明記します。</p>
+
+<h2>アクセス解析ツールについて</h2>
+<p>本サイトは、利用状況を把握するために <strong>Cloudflare Web Analytics</strong> を利用しています。
+このツールはCookieを使用せず、個人を特定する情報を収集しない方式でアクセス状況（閲覧ページ・
+おおよその地域・利用端末の種類など）を集計します。詳細は
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer">Cloudflareのプライバシーポリシー</a>
+をご確認ください。</p>
+
+<h2>広告について</h2>
+<p>本サイトは現時点で第三者配信の広告サービスを利用していませんが、将来的に
+Google AdSenseなど第三者配信の広告サービスを利用する場合があります。その場合、広告配信事業者は
+Cookie等を使用して本サイトや他サイトへのアクセス情報に基づき広告を配信することがあります。
+利用を開始する際は本ページで改めてお知らせします。</p>
+
+<h2>免責事項</h2>
+<p>本サイトが掲載する価格・セール情報の正確性・最新性は保証できません。
+詳しくは<a href="about.html">このサイトについて</a>をご確認ください。</p>
+
+<h2>お問い合わせ</h2>
+<p>本ポリシーに関するお問い合わせ: {esc(CONTACT_INFO)}</p>
+
+<h2>本ポリシーの改定</h2>
+<p>本サイトは、法令の変更やサービス内容の変更に応じて、本ポリシーの内容を予告なく変更することがあります。
+変更後の内容は本ページに掲載した時点から効力を持ちます。</p>
+"""
+    description = f"{SITE_NAME}のプライバシーポリシー。アクセス解析（Cloudflare Web Analytics）の利用状況と個人情報の取り扱いについて。"
+    (PUBLIC_DIR / "privacy.html").write_text(
+        page("プライバシーポリシー", body, active="", path="privacy.html", description=description),
+        encoding="utf-8",
+    )
+
+
+# ---------------------------------------------------------------------------
+# 404ページ（Cloudflare Pagesは public/404.html を自動で見つけて使う）
+# ---------------------------------------------------------------------------
+def build_404():
+    body = f"""
+<section class="hero">
+  <h1>ページが見つかりません</h1>
+  <p class="meta">お探しのページは移動または削除された可能性があります。URLをご確認ください。</p>
+</section>
+<p><a class="btn-outline" href="index.html">トップページに戻る →</a></p>
+<p class="see-all"><a href="all.html">すべてのセールを見る</a></p>
+"""
+    description = f"{SITE_NAME}: お探しのページが見つかりませんでした。"
+    (PUBLIC_DIR / "404.html").write_text(
+        page("ページが見つかりません", body, active="", path="404.html", description=description),
+        encoding="utf-8",
+    )
+
+
+# ---------------------------------------------------------------------------
 # robots.txt / sitemap.xml（検索エンジン向け）
 # ---------------------------------------------------------------------------
 def build_robots():
@@ -1345,7 +1489,7 @@ def build_robots():
 def build_sitemap(latest, genre_slugs=()):
     games = latest.get("games", [])
     today = date.today().isoformat()
-    paths = (["", "all.html", "about.html"]
+    paths = (["", "all.html", "about.html", "privacy.html"]
              + [f"genre/{slug}.html" for slug in genre_slugs]
              + [f"games/{g['slug']}.html" for g in games])
 
@@ -1607,6 +1751,7 @@ def build_game_page(game, latest):
         pct = f"（{disc}%オフ）" if disc else ""
         save_txt = f"定価より {yen(reg_amt - cur_amt)} お得{pct}"
     cut_html = f'<span class="card-cut">-{disc}%</span>' if (on_sale and disc) else ""
+    not_on_sale_note = "" if on_sale else '<p class="card-sub">現在は定価です</p>'
 
     # 履歴テーブル（直近20件を新しい順）。ストアは全件Steamのため列を出さない。
     # 直近5件だけ常時表示し、残りは<details>で展開する（20行以上の常時表示は冗長なため）。
@@ -1659,6 +1804,7 @@ def build_game_page(game, latest):
     </div>
     <div class="price-current">
       <div class="price-current-value">{yen(cur.get('amount'))}{cut_html}</div>
+      {not_on_sale_note}
       {f'<p class="verdict-detail">{esc(timing_txt)}</p>' if timing_txt else ''}
       {expiry_detail}
       <div class="price-current-meta">
@@ -1933,30 +2079,53 @@ a:hover { text-decoration-color: currentColor; }
 .hero h1 { padding-left: 14px; border-left: 3px solid var(--line-strong); font: var(--text-display); }
 .meta { color: var(--muted); font-size: .85rem; margin: 2px 0; }
 
-/* 導入部（トップページ冒頭）: 「何本を毎朝チェックしていて、何本が今買い時か」を
-   数字そのものをページ内最大の要素として見せる。罫線・背景色・アイコンなどの
-   装飾は足さず、数字の大きさと数字/説明文のサイズ差だけで語らせる。 */
-.hero-stat-row {
-  display: flex; flex-direction: column; gap: var(--sp-6);
-  margin: 0; padding: 0; border: none; font: inherit;
+/* ヒーロー（検索が主役。旧「303本／182本」の数字誇示は廃止し、管理情報は
+   ページ最下部の.meta-barへ移した）。他ページの.heroカード（罫線・背景付き）とは
+   あえて分け、トップページだけ開けた見た目の見出しにする。 */
+.hero-search { padding: var(--sp-9) var(--sp-5) var(--sp-7); text-align: center; }
+.hero-search h1 {
+  margin: 0 0 14px; font: var(--text-display); font-size: clamp(1.85rem, 5vw, 2.5rem);
+  letter-spacing: -.01em; text-wrap: balance;
 }
-@media (min-width: 640px) {
-  .hero-stat-row { flex-direction: row; align-items: baseline; flex-wrap: wrap; gap: var(--sp-9); }
+.hero-search-sub { margin: 0 0 var(--sp-6); font-size: 1rem; color: var(--muted); }
+.hero-searchbox {
+  max-width: 560px; margin: 0 auto; display: flex; align-items: center; gap: 10px;
+  background: var(--surface-1); border: 1.5px solid var(--line-strong); border-radius: 14px;
+  padding: 14px 18px; box-shadow: 0 6px 24px rgba(20,20,25,.06);
+  transition: border-color .15s ease;
 }
-.hero-stat-item { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
-.hero-stat-num {
-  display: block; font-weight: 800; letter-spacing: -.03em; line-height: .92;
-  font-size: clamp(3.4rem, 16vw, 6.5rem);
-  color: var(--text-strong); font-variant-numeric: tabular-nums;
+.hero-searchbox:focus-within { border-color: var(--accent); }
+.hero-searchbox svg { flex-shrink: 0; color: var(--muted); }
+.hero-searchbox input {
+  border: none; outline: none; background: none; width: 100%; min-width: 0;
+  font-size: 1rem; color: var(--text); font-family: var(--font);
 }
-.hero-stat-label { font-size: 1rem; font-weight: 700; color: var(--muted); }
-@media (min-width: 640px) { .hero-stat-label { font-size: 1.15rem; } .hero-stat-br { display: none; } }
-/* サイトの核となる価値（買い時）だけ、購入導線と同じアクセントカラーを例外的に使う */
-.hero-stat-accent { color: var(--accent); font-weight: 800; }
-.hero-stat-meta { margin-top: var(--sp-5); }
+.hero-searchbox input::placeholder { color: var(--muted); }
 
-/* ジャンル / 価格帯チップ（導入部から独立した「探す」セクション） */
+/* ヒーロー直下の「本日の数本」。カードのバッジが個々の正確な状態（更新/同額/近い）を
+   示すため、ここは横並びの3枚に留め、詳しい理由は書き添えない。 */
+.hero-picks { max-width: 900px; margin: var(--sp-7) auto 0; text-align: left; }
+.hero-picks-label { margin: 0 0 var(--sp-3); font-size: .85rem; font-weight: 700; color: var(--muted); }
+.hero-picks-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--sp-4); }
+@media (max-width: 720px) { .hero-picks-grid { grid-template-columns: 1fr; } }
+.hero-pick-card {
+  background: var(--surface-1); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+  transition: background .16s ease, border-color .16s ease;
+}
+.hero-pick-card:hover { background: var(--surface-2); border-color: var(--line-strong); }
+.hero-pick-link { display: block; color: inherit; text-decoration: none; }
+.hero-pick-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; }
+.hero-pick-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hero-pick-body { padding: var(--sp-3) var(--sp-4) var(--sp-4); display: flex; flex-direction: column; align-items: flex-start; gap: 6px; }
+.hero-pick-title {
+  margin: 0; width: 100%; font-size: .88rem; font-weight: 700; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.hero-pick-price { font: var(--text-price); font-size: 1.1rem; color: var(--text-strong); font-variant-numeric: tabular-nums; }
+
+/* ジャンル / 価格帯チップ（ページ末尾寄りの「静かに手がかりを渡す」セクション） */
 .explore-section { margin: var(--sp-8) 0 0; }
+.explore-heading { font-size: 1.05rem; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 12px 0 0; padding-left: 14px; }
 .chip-row-label { color: var(--muted); font-size: .78rem; font-weight: 700; margin-right: 2px; }
 .chip {
@@ -1970,81 +2139,95 @@ a:hover { text-decoration-color: currentColor; }
   background: var(--surface-3);
 }
 
-/* トップ3ヒーロー */
-.hero-top3 { margin: var(--sp-9) 0 0; }
-.hero-top3 .section-head { margin: 0 0 var(--sp-5); }
-
-/* 汎用の横スクロールカルーセル（本日イチ押し・詳細ページのグラフ期間切替でも使う
-   ため用途非依存の命名にする）。ネイティブの overflow-x + scroll-snap で
-   スマホのスワイプに対応し、矢印ボタンはその補助として左右に添える。 */
-.carousel-wrap { display: flex; align-items: stretch; gap: var(--sp-3); }
-.carousel-track {
-  list-style: none; margin: 0; padding: 2px 2px 10px; display: flex; gap: var(--sp-4);
-  overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+/* 本日のセール（ベントーグリッド）: 1位だけ2×2の大枠、残り9本は1×1。
+   grid-auto-flow: dense により、大枠を先頭に置くだけで残りが自動的に隙間なく詰まる
+   （手動配置は不要）。カルーセルと違い、10本全部が最初からスクロールなしで見える。 */
+.bento-section { margin: var(--sp-9) 0 0; }
+.bento-grid {
+  list-style: none; margin: var(--sp-5) 0 0; padding: 0;
+  display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-flow: dense; gap: var(--sp-4);
 }
-.carousel-track > li { scroll-snap-align: start; flex: 0 0 auto; }
-.carousel-arrow {
-  flex: 0 0 auto; display: none; align-items: center; justify-content: center;
-  width: 36px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel2);
-  color: var(--text-strong); cursor: pointer;
-  transition: background .15s ease, border-color .15s ease, opacity .15s ease;
-}
-@media (min-width: 720px) { .carousel-arrow { display: flex; } }
-.carousel-arrow:hover { background: var(--surface-2); border-color: var(--line-strong); }
-.carousel-arrow:disabled { opacity: .35; cursor: default; }
-.carousel-arrow:disabled:hover { background: var(--panel2); border-color: var(--line); }
-
-/* カードは全て同一サイズ（1枚だけ拡大しない＝10枚が同格）。情報の階層は色数を
-   増やさず文字サイズ・太さで表す: 現在価格が最大・最太、タイトルは中間、
-   定価は最小・細字（row-cur/row-regularの既定スタイルをそのまま使う）。 */
-.hero3-card {
-  position: relative; width: 220px; background: var(--surface-1); border: 1px solid var(--line-strong);
-  border-radius: 14px; overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
+.bento-card {
+  display: flex; background: var(--surface-1); border: 1px solid var(--line-strong); border-radius: 14px;
+  overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
   transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
 }
-.hero3-card:hover { background: var(--surface-2); border-color: var(--text-strong); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
-.hero3-link { display: block; color: inherit; text-decoration: none; }
-.hero3-rank {
-  position: absolute; top: 10px; left: 10px; z-index: 1;
-  width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
-  background: rgba(16,19,26,.78); border: 1px solid rgba(255,255,255,.5); color: #fff;
-  font-weight: 800; font-size: .95rem; font-variant-numeric: tabular-nums;
-}
-.hero3-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; }
-.hero3-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hero3-body { padding: var(--sp-4) var(--sp-5) var(--sp-5); }
-.hero3-title {
+.bento-card:hover { background: var(--surface-2); border-color: var(--text-strong); box-shadow: 0 4px 12px rgba(0,0,0,.1); }
+.bento-card.big { grid-column: span 2; grid-row: span 2; }
+.bento-link { display: flex; flex-direction: column; flex: 1 1 auto; min-width: 0; color: inherit; text-decoration: none; }
+.bento-thumb { width: 100%; aspect-ratio: 400 / 230; background: var(--panel2); overflow: hidden; flex: 0 0 auto; }
+.bento-card.big .bento-thumb { flex: 1 1 auto; aspect-ratio: auto; }
+.bento-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.bento-body { padding: var(--sp-4) var(--sp-5) var(--sp-5); flex: 1 1 auto; }
+.bento-title {
   margin: 0 0 8px; font-size: .92rem; font-weight: 700; color: var(--text-strong);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
-.hero3-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
-.hero3-price { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
-.hero3-price .row-cur { font-size: 1.2rem; }
-
-/* まもなく終了: 横スクロールカードは一覧性が悪いため使わず、他セクションと同じ
-   縦リストのまま「残り日数の表示サイズ」で差別化する。赤は本日〜3日以内の
-   緊急表示にのみ使う（それ以外の判定色は使わない）。 */
-.tag-expiry.big {
-  padding: 2px 8px; border-radius: 4px; font-size: .82rem; font-weight: 800;
-  color: var(--text-strong); background: var(--panel2); border: 1px solid var(--line);
-  white-space: nowrap;
+.bento-card.big .bento-title { font-size: 1.15rem; -webkit-line-clamp: 3; }
+.bento-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.bento-price { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+.bento-price .row-cur { font-size: 1.2rem; }
+.bento-card.big .bento-price .row-cur { font-size: 1.75rem; }
+@media (max-width: 880px) {
+  .bento-grid { grid-template-columns: repeat(2, 1fr); }
+  .bento-card.big { grid-row: span 1; }
+  .bento-card.big .bento-thumb { flex: 0 0 auto; aspect-ratio: 400 / 230; }
 }
-.tag-expiry.big.urgent { color: var(--bad-solid-fg); background: var(--bad-solid-bg); border-color: var(--bad-solid-bg); }
-/* 緊急度（残り3日以内）はセクション/行の背景に色を敷かず、左端のアクセントラインと
-   「本日終了」バッジの2箇所だけで表現する（背景着色はダークテーマで濁って見えるため
-   廃止）。.row.row-urgent で詳細度を1段上げ、new_low/tied_low等の左バー色より確実に勝つ。 */
-.row.row-urgent::before { background: var(--bad); width: 4px; }
+@media (max-width: 480px) {
+  .bento-grid { grid-template-columns: 1fr; gap: var(--sp-3); }
+  .bento-card.big { grid-column: span 1; }
+}
 
-/* トップページのチャートセクション（人気/値下げ率/まもなく終了） */
-.chart-section, #verdict { scroll-margin-top: calc(var(--header-h) + 14px); }
+/* まもなく終了: 縦の順位リストではなく、折り返す横並びの帯（コンパクトなピル）。
+   横スクロールは使わない＝カルーセルと同じ「隠れる」問題を避け、件数がいくつでも
+   最初から全件が見える。緊急度（残り3日以内）は枠線の色だけで示し、背景は塗らない。 */
+.ending-section { margin: var(--sp-9) 0 0; }
+.ending-strip { list-style: none; margin: var(--sp-5) 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--sp-3); }
+.ending-pill { flex: 1 1 220px; max-width: 300px; }
+.ending-pill-link {
+  display: flex; align-items: center; gap: 10px; height: 100%; box-sizing: border-box;
+  background: var(--surface-1); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px;
+  color: inherit; text-decoration: none; transition: background .15s ease, border-color .15s ease;
+}
+.ending-pill-link:hover { background: var(--surface-2); border-color: var(--line-strong); }
+.ending-pill.urgent .ending-pill-link { border-color: var(--bad-border); }
+.ending-pill-thumb { width: 48px; aspect-ratio: 400 / 230; border-radius: 6px; overflow: hidden; flex: 0 0 auto; background: var(--panel2); }
+.ending-pill-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.ending-pill-body { min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.ending-pill-title {
+  font-size: .85rem; font-weight: 700; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.ending-pill-meta { display: flex; align-items: center; gap: 8px; }
+.ending-pill-price { font-size: .8rem; font-weight: 800; color: var(--text-strong); font-variant-numeric: tabular-nums; }
+.ending-pill-days { font: var(--text-micro); color: var(--muted); display: inline-flex; align-items: center; gap: 3px; white-space: nowrap; }
+.ending-pill-days.urgent { color: var(--bad); font-weight: 700; }
+
+/* 管理情報（セール中○本・最終更新など）はページ最下部に集約する。トップページの
+   主役は「買い時かどうか」であって収集数ではないため、判定情報より明確に控えめにする。 */
+.meta-bar {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center;
+  margin: var(--sp-8) 0 0; padding-top: var(--sp-6); border-top: 1px solid var(--line);
+  font-size: .78rem; color: var(--muted); text-align: center;
+}
+.meta-bar a { color: var(--muted); }
+.meta-bar a:hover { color: var(--text-strong); }
+
+/* トップページのチャートセクション（人気/値下げ率）。見出し下の一文は日時の
+   括弧書きをやめ、.section-lede（.metaより一段大きく本文色に近い）で読ませる。
+   数字などの強調は<strong>の太さのみで示す（色は判定バッジ・主要導線専用のため）。 */
+.chart-section, .bento-section, .ending-section, #verdict { scroll-margin-top: calc(var(--header-h) + 14px); }
 .chart-section { margin: var(--sp-9) 0 0; }
+/* 値下げ率ランキングは人気ゲームのセールと同じ「数字で見せる」役割の続きのため、
+   通常より詰めて隣接させる（セクション同士の距離で情報の関係性を示す）。 */
+.chart-section.tight { margin-top: var(--sp-6); }
 .section-head { margin: 0 0 var(--sp-6); }
+.section-lede { margin: 4px 0 0; padding-left: 12px; font-size: .95rem; color: var(--text); line-height: 1.6; }
+.section-lede strong { font-weight: 800; color: var(--text-strong); }
 .section-head h2 {
   margin: 0 0 4px; font: var(--text-h2); letter-spacing: -.01em;
   padding-left: 12px; border-left: 3px solid var(--line-strong);
 }
-.section-head .meta { margin: 0; padding-left: 12px; }
 .empty { text-align: center; color: var(--muted); padding: 36px 12px; }
 .empty p { margin: 0 0 14px; }
 .js-warn {
@@ -2730,6 +2913,8 @@ def main():
     build_featured(latest)
     build_all(latest)
     build_about(latest)
+    build_privacy(latest)
+    build_404()
     build_robots()
     genre_slugs = build_genre_pages(latest)
     build_sitemap(latest, genre_slugs)

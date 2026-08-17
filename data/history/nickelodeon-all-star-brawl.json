@@ -1,9 +1,119 @@
 {
   "slug": "nickelodeon-all-star-brawl",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-17T12:56:31Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-18",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-23",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-07",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-27",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-08",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-23",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-22",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 515,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-25",
+      "amount": 515,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-09",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-09",
       "amount": 257,
       "shop": "Steam"
     },
