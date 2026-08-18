@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-08-18T09:25:09Z",
+  "currency": "JPY",
+  "games": [
+    {
+      "slug": "hollow-knight",
+      "title": "Hollow Knight",
+      "nsuid": "70010000003209",
+      "regular": 1480,
+      "current": 1480,
+      "on_sale": false
+    },
+    {
+      "slug": "dead-cells",
+      "title": "Dead Cells",
+      "nsuid": "70010000013175",
+      "regular": 2480,
+      "current": 1240,
+      "on_sale": true
+    },
+    {
+      "slug": "terraria",
+      "title": "Terraria",
+      "nsuid": "70010000023877",
+      "regular": 4180,
+      "current": 4180,
+      "on_sale": false
+    },
+    {
+      "slug": "cuphead",
+      "title": "Cuphead",
+      "nsuid": "70010000016331",
+      "regular": 1980,
+      "current": 1980,
+      "on_sale": false
+    },
+    {
+      "slug": "stardew-valley",
+      "title": "Stardew Valley",
+      "nsuid": "70010000005423",
+      "regular": 1480,
+      "current": 1480,
+      "on_sale": false
+    },
+    {
+      "slug": "slay-the-spire",
+      "title": "Slay the Spire",
+      "nsuid": "70010000012390",
+      "regular": 2570,
+      "current": 2570,
+      "on_sale": false
+    },
+    {
+      "slug": "ori-and-the-blind-forest-definitive-edition",
+      "title": "Ori and the Blind Forest: Definitive Edition",
+      "nsuid": "70010000018711",
+      "regular": 2052,
+      "current": 2052,
+      "on_sale": false
+    },
+    {
+      "slug": "octopath-traveler",
+      "title": "OCTOPATH TRAVELER",
+      "nsuid": "70010000001596",
+      "regular": 5478,
+      "current": 5478,
+      "on_sale": false
+    }
+  ]
+}

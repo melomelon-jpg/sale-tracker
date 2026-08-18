@@ -28,6 +28,9 @@ jobs:
       - name: サイト生成
         run: python src/build_site.py
 
+      - name: コンソール版価格の記録（Nintendo Switch、表示はまだ無し）
+        run: python src/fetch_console_data.py
+
       - name: 変更をコミット
         run: |
           git config user.name "github-actions[bot]"
