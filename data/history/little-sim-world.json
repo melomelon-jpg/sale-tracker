@@ -1,0 +1,86 @@
+{
+  "slug": "little-sim-world",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2025-05-01",
+      "amount": 2160,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-14",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1080,
+      "shop": "Steam"
+    }
+  ]
+}

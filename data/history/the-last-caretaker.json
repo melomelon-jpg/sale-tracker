@@ -1,0 +1,56 @@
+{
+  "slug": "the-last-caretaker",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2025-11-06",
+      "amount": 3383,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-13",
+      "amount": 3759,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3195,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3759,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3007,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3759,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 3007,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 3759,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3007,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3759,
+      "shop": "Steam"
+    }
+  ]
+}

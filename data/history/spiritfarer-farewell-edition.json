@@ -1,9 +1,109 @@
 {
   "slug": "spiritfarer-farewell-edition",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-25",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-10",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-14",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-18",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
       "amount": 3400,
       "shop": "Steam"
     },

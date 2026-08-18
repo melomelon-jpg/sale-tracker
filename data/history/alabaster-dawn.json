@@ -1,0 +1,26 @@
+{
+  "slug": "alabaster-dawn",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2026-05-07",
+      "amount": 2677,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2677,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3150,
+      "shop": "Steam"
+    }
+  ]
+}

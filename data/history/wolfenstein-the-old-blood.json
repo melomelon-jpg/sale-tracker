@@ -1,9 +1,119 @@
 {
   "slug": "wolfenstein-the-old-blood",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-27",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-02",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-30",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-13",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-09",
+      "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-16",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-13",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
       "amount": 1980,
       "shop": "Steam"
     },

@@ -1,0 +1,36 @@
+{
+  "slug": "my-summer-car",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-08",
+      "amount": 1213,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-15",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 932,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-05",
+      "amount": 1500,
+      "shop": "Steam"
+    }
+  ]
+}

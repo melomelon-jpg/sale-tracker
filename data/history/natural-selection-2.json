@@ -1,0 +1,76 @@
+{
+  "slug": "natural-selection-2",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 388,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 116,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 145,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 116,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 580,
+      "shop": "Steam"
+    }
+  ]
+}

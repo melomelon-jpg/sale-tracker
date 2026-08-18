@@ -1,9 +1,99 @@
 {
   "slug": "grand-theft-auto-v-enhanced",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2025-03-04",
+      "amount": 2373,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-04",
+      "amount": 4747,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-21",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-14",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-28",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-20",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-22",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
       "amount": 4380,
       "shop": "Steam"
     },

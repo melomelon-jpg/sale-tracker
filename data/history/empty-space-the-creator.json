@@ -1,6 +1,6 @@
 {
   "slug": "empty-space-the-creator",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
       "date": "2025-09-02",
@@ -15,6 +15,11 @@
     {
       "date": "2026-08-04",
       "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

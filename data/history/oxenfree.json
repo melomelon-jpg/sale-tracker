@@ -1,0 +1,31 @@
+{
+  "slug": "oxenfree",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-15",
+      "amount": 360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-29",
+      "amount": 1200,
+      "shop": "Steam"
+    }
+  ]
+}

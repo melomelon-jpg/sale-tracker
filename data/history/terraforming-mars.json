@@ -1,6 +1,6 @@
 {
   "slug": "terraforming-mars",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-08-04",
       "amount": 805,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

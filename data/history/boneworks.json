@@ -1,0 +1,81 @@
+{
+  "slug": "boneworks",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-01",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3400,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "dead-as-disco",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2026-05-05",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 3150,
+      "shop": "Steam"
+    }
+  ]
+}

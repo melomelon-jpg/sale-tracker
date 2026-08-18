@@ -1,0 +1,76 @@
+{
+  "slug": "minecraft-legends",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-21",
+      "amount": 1584,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 2112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 2112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 2112,
+      "shop": "Steam"
+    }
+  ]
+}

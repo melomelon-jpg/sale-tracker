@@ -1,6 +1,6 @@
 {
   "slug": "the-wolf-among-us",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-18T21:49:39Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-10",
       "amount": 760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1520,
       "shop": "Steam"
     }
   ]

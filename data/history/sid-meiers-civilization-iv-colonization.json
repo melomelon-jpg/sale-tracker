@@ -1,0 +1,91 @@
+{
+  "slug": "sid-meiers-civilization-iv-colonization",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-06",
+      "amount": 851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-20",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-30",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    }
+  ]
+}

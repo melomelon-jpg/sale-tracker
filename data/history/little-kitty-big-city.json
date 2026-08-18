@@ -1,0 +1,131 @@
+{
+  "slug": "little-kitty-big-city",
+  "updated_at": "2026-08-18T21:49:39Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-26",
+      "amount": 1690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-09",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-15",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-28",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-27",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-03",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2600,
+      "shop": "Steam"
+    }
+  ]
+}
