@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-rogue-trader",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-08-13",
       "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 6500,
       "shop": "Steam"
     }
   ]

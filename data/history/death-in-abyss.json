@@ -1,0 +1,91 @@
+{
+  "slug": "death-in-abyss",
+  "updated_at": "2026-08-19T21:55:00Z",
+  "history": [
+    {
+      "date": "2025-11-28",
+      "amount": 2070,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1955,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-30",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-06",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 1150,
+      "shop": "Steam"
+    }
+  ]
+}

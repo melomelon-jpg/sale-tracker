@@ -1,0 +1,56 @@
+{
+  "slug": "nuclear-throne",
+  "updated_at": "2026-08-19T21:55:00Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-12",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-05",
+      "amount": 610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 976,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 915,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 915,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1220,
+      "shop": "Steam"
+    }
+  ]
+}

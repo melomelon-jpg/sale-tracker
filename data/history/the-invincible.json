@@ -1,9 +1,139 @@
 {
   "slug": "the-invincible",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 2794,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-18",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2794,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 2579,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-03",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-05",
+      "amount": 2579,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-24",
+      "amount": 2579,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-09",
+      "amount": 2364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-23",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-28",
+      "amount": 2149,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-17",
+      "amount": 2149,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-29",
+      "amount": 2149,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-08",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 1934,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-18",
+      "amount": 1934,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-01",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-06",
+      "amount": 1719,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-05",
       "amount": 1719,
       "shop": "Steam"
     },

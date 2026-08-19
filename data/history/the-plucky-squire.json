@@ -1,9 +1,109 @@
 {
   "slug": "the-plucky-squire",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-11",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-10",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-01",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-14",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-17",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-12",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
       "amount": 3400,
       "shop": "Steam"
     },

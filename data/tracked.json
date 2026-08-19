@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -9063,10 +9063,19 @@
       "title": "Killer is Dead - Nightmare Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 464,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-1edc-7258-bb8f-e593bb1ad16a/boxart.jpg?t=1787007330",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-1edc-7258-bb8f-e593bb1ad16a/banner145.jpg?t=1787007330",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-1edc-7258-bb8f-e593bb1ad16a/banner300.jpg?t=1787007330",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-1edc-7258-bb8f-e593bb1ad16a/banner400.jpg?t=1787007330",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-1edc-7258-bb8f-e593bb1ad16a/banner600.jpg?t=1787007330"
+      },
+      "appid": 261110,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 238,
+        "date": "2024-12-07"
+      }
     },
     {
       "id": "01900c88-cec4-7115-9387-a48bf8d67eae",
@@ -11020,10 +11029,19 @@
       "title": "Rogue Legacy",
       "first_seen": "2026-08-17",
       "popularity_rank": 566,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3644-70b9-8ba4-77cd53f88932/boxart.jpg?t=1787076021",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3644-70b9-8ba4-77cd53f88932/banner145.jpg?t=1787076021",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3644-70b9-8ba4-77cd53f88932/banner300.jpg?t=1787076021",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3644-70b9-8ba4-77cd53f88932/banner400.jpg?t=1787076021",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3644-70b9-8ba4-77cd53f88932/banner600.jpg?t=1787076021"
+      },
+      "appid": 241600,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 170,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937e-ea45-71c7-84fa-91cf40cca4de",
@@ -11444,10 +11462,19 @@
       "title": "Thronefall",
       "first_seen": "2026-08-17",
       "popularity_rank": 588,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6/boxart.jpg?t=1786655159",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6/banner145.jpg?t=1786655159",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6/banner300.jpg?t=1786655159",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6/banner400.jpg?t=1786655159",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6/banner600.jpg?t=1786655159"
+      },
+      "appid": 2239150,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 975,
+        "date": "2025-09-29"
+      }
     },
     {
       "id": "018d937f-0ea6-732e-866d-75df62546c6b",
@@ -11475,10 +11502,19 @@
       "title": "Warhammer 40,000: Rogue Trader",
       "first_seen": "2026-08-17",
       "popularity_rank": 590,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/boxart.jpg?t=1786644393",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner145.jpg?t=1786644393",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner300.jpg?t=1786644393",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner400.jpg?t=1786644393",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-66c4-73c9-996f-9034adea22e2/banner600.jpg?t=1786644393"
+      },
+      "appid": 2186680,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2600,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-1eb1-73fa-bf78-c6c797badb06",
@@ -12902,10 +12938,19 @@
       "title": "SUPERHOT: MIND CONTROL DELETE",
       "first_seen": "2026-08-17",
       "popularity_rank": 665,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-1598-71da-ba8a-2ea93feba7b8/boxart.jpg?t=1786133451",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-1598-71da-ba8a-2ea93feba7b8/banner145.jpg?t=1786133451",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-1598-71da-ba8a-2ea93feba7b8/banner300.jpg?t=1786133451",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-1598-71da-ba8a-2ea93feba7b8/banner400.jpg?t=1786133451",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-1598-71da-ba8a-2ea93feba7b8/banner600.jpg?t=1786133451"
+      },
+      "appid": 690040,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 999,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018d937e-f030-70ab-9906-580febf9b1c3",
@@ -14908,10 +14953,19 @@
       "title": "Total War: THREE KINGDOMS",
       "first_seen": "2026-08-17",
       "popularity_rank": 769,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ea1c-71e7-9b12-dd4a7c394475/boxart.jpg?t=1786833324",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ea1c-71e7-9b12-dd4a7c394475/banner145.jpg?t=1786833324",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ea1c-71e7-9b12-dd4a7c394475/banner300.jpg?t=1786833324",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ea1c-71e7-9b12-dd4a7c394475/banner400.jpg?t=1786833324",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ea1c-71e7-9b12-dd4a7c394475/banner600.jpg?t=1786833324"
+      },
+      "appid": 779340,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1316,
+        "date": "2025-09-29"
+      }
     },
     {
       "id": "018d937f-1157-7291-9e2a-5542fc78d1af",
@@ -16757,10 +16811,19 @@
       "title": "Dino D-Day",
       "first_seen": "2026-08-17",
       "popularity_rank": 866,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-105a-7179-a0f6-a3e9e3126b21/boxart.png?t=1732760517",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-105a-7179-a0f6-a3e9e3126b21/banner145.jpg?t=1732760518",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-105a-7179-a0f6-a3e9e3126b21/banner300.jpg?t=1732760518",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-105a-7179-a0f6-a3e9e3126b21/banner400.jpg?t=1732760518",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-105a-7179-a0f6-a3e9e3126b21/banner600.jpg?t=1732760518"
+      },
+      "appid": 70000,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 98,
+        "date": "2024-12-09"
+      }
     },
     {
       "id": "018d937f-4959-7012-9cc1-33534c9d44de",
@@ -16768,10 +16831,19 @@
       "title": "Sun Haven",
       "first_seen": "2026-08-17",
       "popularity_rank": 867,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4959-7012-9cc1-33534c9d44de/boxart.jpg?t=1786210642",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4959-7012-9cc1-33534c9d44de/banner145.jpg?t=1786210642",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4959-7012-9cc1-33534c9d44de/banner300.jpg?t=1786210642",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4959-7012-9cc1-33534c9d44de/banner400.jpg?t=1786210642",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4959-7012-9cc1-33534c9d44de/banner600.jpg?t=1786210642"
+      },
+      "appid": 1432860,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 840,
+        "date": "2025-12-04"
+      }
     },
     {
       "id": "018d937f-082f-734f-8523-9ce27dfd120e",
@@ -16779,10 +16851,19 @@
       "title": "System Shock: Enhanced Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 868,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-082f-734f-8523-9ce27dfd120e/boxart.jpg?t=1774276522",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-082f-734f-8523-9ce27dfd120e/banner145.jpg?t=1774276523",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-082f-734f-8523-9ce27dfd120e/banner300.jpg?t=1774276523",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-082f-734f-8523-9ce27dfd120e/banner400.jpg?t=1774276523",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-082f-734f-8523-9ce27dfd120e/banner600.jpg?t=1774276523"
+      },
+      "appid": 410710,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 196,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-05a7-733b-8999-dafab5a10c58",
@@ -16790,10 +16871,19 @@
       "title": "HASTE",
       "first_seen": "2026-08-17",
       "popularity_rank": 869,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-05a7-733b-8999-dafab5a10c58/boxart.jpg?t=1786555850",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-05a7-733b-8999-dafab5a10c58/banner145.jpg?t=1786555850",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-05a7-733b-8999-dafab5a10c58/banner300.jpg?t=1786555850",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-05a7-733b-8999-dafab5a10c58/banner400.jpg?t=1786555850",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-05a7-733b-8999-dafab5a10c58/banner600.jpg?t=1786555850"
+      },
+      "appid": 1796470,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1380,
+        "date": "2026-04-17"
+      }
     },
     {
       "id": "018d937f-0152-70ef-84c2-0d4eb32b25f1",
@@ -16801,10 +16891,19 @@
       "title": "Invisible, Inc.",
       "first_seen": "2026-08-17",
       "popularity_rank": 870,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0152-70ef-84c2-0d4eb32b25f1/boxart.jpg?t=1786395692",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0152-70ef-84c2-0d4eb32b25f1/banner145.jpg?t=1786395692",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0152-70ef-84c2-0d4eb32b25f1/banner300.jpg?t=1786395692",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0152-70ef-84c2-0d4eb32b25f1/banner400.jpg?t=1786395692",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0152-70ef-84c2-0d4eb32b25f1/banner600.jpg?t=1786395692"
+      },
+      "appid": 243970,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 495,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-12d3-72a3-acae-ed2350c9ce29",
@@ -16812,9 +16911,15 @@
       "title": "Far Cry 3: Blood Dragon",
       "first_seen": "2026-08-17",
       "popularity_rank": 871,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-12d3-72a3-acae-ed2350c9ce29/boxart.png?t=1786478158",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-12d3-72a3-acae-ed2350c9ce29/banner145.jpg?t=1786478158",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-12d3-72a3-acae-ed2350c9ce29/banner300.jpg?t=1786478158",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-12d3-72a3-acae-ed2350c9ce29/banner400.jpg?t=1786478158",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-12d3-72a3-acae-ed2350c9ce29/banner600.jpg?t=1786478158"
+      },
+      "appid": 233270,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -16823,10 +16928,19 @@
       "title": "Blazblue Entropy Effect",
       "first_seen": "2026-08-17",
       "popularity_rank": 872,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6ef0-711f-89fb-8d7483407588/boxart.jpg?t=1786599019",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6ef0-711f-89fb-8d7483407588/banner145.jpg?t=1786599019",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6ef0-711f-89fb-8d7483407588/banner300.jpg?t=1786599020",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6ef0-711f-89fb-8d7483407588/banner400.jpg?t=1786599020",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6ef0-711f-89fb-8d7483407588/banner600.jpg?t=1786599020"
+      },
+      "appid": 2273430,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1380,
+        "date": "2026-08-03"
+      }
     },
     {
       "id": "019cbe84-ba34-715b-b61b-3f46a25d5d39",
@@ -16834,9 +16948,15 @@
       "title": "FINAL FANTASY VII (2013)",
       "first_seen": "2026-08-17",
       "popularity_rank": 873,
-      "assets": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/019cbe84-ba34-715b-b61b-3f46a25d5d39/boxart.jpg?t=1780286111",
+        "banner145": "https://assets.isthereanydeal.com/019cbe84-ba34-715b-b61b-3f46a25d5d39/banner145.jpg?t=1780286111",
+        "banner300": "https://assets.isthereanydeal.com/019cbe84-ba34-715b-b61b-3f46a25d5d39/banner300.jpg?t=1780286111",
+        "banner400": "https://assets.isthereanydeal.com/019cbe84-ba34-715b-b61b-3f46a25d5d39/banner400.jpg?t=1780286111",
+        "banner600": "https://assets.isthereanydeal.com/019cbe84-ba34-715b-b61b-3f46a25d5d39/banner600.jpg?t=1780286111"
+      },
       "appid": null,
-      "info_fetched": false,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -16845,9 +16965,9 @@
       "title": "Planetary Annihilation",
       "first_seen": "2026-08-17",
       "popularity_rank": 874,
-      "assets": null,
+      "assets": {},
       "appid": null,
-      "info_fetched": false,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -16856,10 +16976,19 @@
       "title": "RuneScape: Dragonwilds",
       "first_seen": "2026-08-17",
       "popularity_rank": 875,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/0195ecee-bd3d-73fa-bde4-eb222a9493fe/boxart.jpg?t=1786579826",
+        "banner145": "https://assets.isthereanydeal.com/0195ecee-bd3d-73fa-bde4-eb222a9493fe/banner145.jpg?t=1786579826",
+        "banner300": "https://assets.isthereanydeal.com/0195ecee-bd3d-73fa-bde4-eb222a9493fe/banner300.jpg?t=1786579826",
+        "banner400": "https://assets.isthereanydeal.com/0195ecee-bd3d-73fa-bde4-eb222a9493fe/banner400.jpg?t=1786579826",
+        "banner600": "https://assets.isthereanydeal.com/0195ecee-bd3d-73fa-bde4-eb222a9493fe/banner600.jpg?t=1786579826"
+      },
+      "appid": 1374490,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2380,
+        "date": "2025-12-15"
+      }
     },
     {
       "id": "018d937e-fa13-72c8-b9cd-9e54b24cc356",
@@ -16867,10 +16996,19 @@
       "title": "The Incredible Adventures of Van Helsing",
       "first_seen": "2026-08-17",
       "popularity_rank": 876,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fa13-72c8-b9cd-9e54b24cc356/boxart.jpg?t=1761589373",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fa13-72c8-b9cd-9e54b24cc356/banner145.jpg?t=1761589373",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fa13-72c8-b9cd-9e54b24cc356/banner300.jpg?t=1761589373",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fa13-72c8-b9cd-9e54b24cc356/banner400.jpg?t=1761589374",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fa13-72c8-b9cd-9e54b24cc356/banner600.jpg?t=1761589374"
+      },
+      "appid": 215530,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 170,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-262c-707a-b4eb-3f345a3dcef1",
@@ -16878,10 +17016,19 @@
       "title": "SteamWorld Dig 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 877,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-262c-707a-b4eb-3f345a3dcef1/boxart.jpg?t=1786820135",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-262c-707a-b4eb-3f345a3dcef1/banner145.jpg?t=1786820135",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-262c-707a-b4eb-3f345a3dcef1/banner300.jpg?t=1786820135",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-262c-707a-b4eb-3f345a3dcef1/banner400.jpg?t=1786820135",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-262c-707a-b4eb-3f345a3dcef1/banner600.jpg?t=1786820135"
+      },
+      "appid": 571310,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 123,
+        "date": "2025-06-23"
+      }
     },
     {
       "id": "018d937f-4385-73cd-abfc-dc95e5e04166",
@@ -16889,10 +17036,19 @@
       "title": "The Outlast Trials",
       "first_seen": "2026-08-17",
       "popularity_rank": 878,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4385-73cd-abfc-dc95e5e04166/boxart.jpg?t=1784124311",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4385-73cd-abfc-dc95e5e04166/banner145.jpg?t=1784124311",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4385-73cd-abfc-dc95e5e04166/banner300.jpg?t=1784124311",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4385-73cd-abfc-dc95e5e04166/banner400.jpg?t=1784124311",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4385-73cd-abfc-dc95e5e04166/banner600.jpg?t=1784124311"
+      },
+      "appid": 1304930,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1350,
+        "date": "2025-09-09"
+      }
     },
     {
       "id": "018d937e-f8b9-702f-ab65-2b3ba5da16e6",
@@ -16900,9 +17056,15 @@
       "title": "The Sims 4",
       "first_seen": "2026-08-17",
       "popularity_rank": 879,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f8b9-702f-ab65-2b3ba5da16e6/boxart.jpg?t=1786134735",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f8b9-702f-ab65-2b3ba5da16e6/banner145.jpg?t=1786134735",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f8b9-702f-ab65-2b3ba5da16e6/banner300.jpg?t=1786134735",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f8b9-702f-ab65-2b3ba5da16e6/banner400.jpg?t=1786134735",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f8b9-702f-ab65-2b3ba5da16e6/banner600.jpg?t=1786134735"
+      },
+      "appid": 1222670,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -16911,10 +17073,19 @@
       "title": "STAR WARS Zero Company™",
       "first_seen": "2026-08-17",
       "popularity_rank": 880,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/01964d1d-d815-72b0-b6fc-74f5633798cd/boxart.jpg?t=1787063412",
+        "banner145": "https://assets.isthereanydeal.com/01964d1d-d815-72b0-b6fc-74f5633798cd/banner145.jpg?t=1787063412",
+        "banner300": "https://assets.isthereanydeal.com/01964d1d-d815-72b0-b6fc-74f5633798cd/banner300.jpg?t=1787063412",
+        "banner400": "https://assets.isthereanydeal.com/01964d1d-d815-72b0-b6fc-74f5633798cd/banner400.jpg?t=1787063412",
+        "banner600": "https://assets.isthereanydeal.com/01964d1d-d815-72b0-b6fc-74f5633798cd/banner600.jpg?t=1787063413"
+      },
+      "appid": 2075800,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 6900,
+        "date": "2026-06-06"
+      }
     },
     {
       "id": "018d937f-2b0a-712e-8eb0-59b07942e8a6",
@@ -16922,10 +17093,19 @@
       "title": "Divinity II Developer's Cut",
       "first_seen": "2026-08-17",
       "popularity_rank": 881,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2b0a-712e-8eb0-59b07942e8a6/boxart.jpg?t=1786384936",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2b0a-712e-8eb0-59b07942e8a6/banner145.jpg?t=1786384936",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2b0a-712e-8eb0-59b07942e8a6/banner300.jpg?t=1786384936",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2b0a-712e-8eb0-59b07942e8a6/banner400.jpg?t=1786384936",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2b0a-712e-8eb0-59b07942e8a6/banner600.jpg?t=1786384936"
+      },
+      "appid": 219780,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 198,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-6eef-70ab-8e44-34ec0d37bf23",
@@ -16933,10 +17113,19 @@
       "title": "Another Crab's Treasure",
       "first_seen": "2026-08-17",
       "popularity_rank": 882,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6eef-70ab-8e44-34ec0d37bf23/boxart.jpg?t=1787108116",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6eef-70ab-8e44-34ec0d37bf23/banner145.jpg?t=1787108116",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6eef-70ab-8e44-34ec0d37bf23/banner300.jpg?t=1787108116",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6eef-70ab-8e44-34ec0d37bf23/banner400.jpg?t=1787108116",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6eef-70ab-8e44-34ec0d37bf23/banner600.jpg?t=1787108116"
+      },
+      "appid": 1887840,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1320,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-1a9f-7026-9c0c-8dab9a1dbd4f",
@@ -16944,10 +17133,19 @@
       "title": "Book of Demons",
       "first_seen": "2026-08-17",
       "popularity_rank": 883,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-1a9f-7026-9c0c-8dab9a1dbd4f/boxart.jpg?t=1761591429",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-1a9f-7026-9c0c-8dab9a1dbd4f/banner145.jpg?t=1761591429",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-1a9f-7026-9c0c-8dab9a1dbd4f/banner300.jpg?t=1761591429",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-1a9f-7026-9c0c-8dab9a1dbd4f/banner400.jpg?t=1761591429",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-1a9f-7026-9c0c-8dab9a1dbd4f/banner600.jpg?t=1761591429"
+      },
+      "appid": 449960,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 385,
+        "date": "2025-04-26"
+      }
     },
     {
       "id": "018d937f-6ee2-70f6-940c-6212ac74369e",
@@ -16977,10 +17175,19 @@
       "title": "Persona 4 Revival",
       "first_seen": "2026-08-17",
       "popularity_rank": 886,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/019818f6-ff3e-7139-87ab-960b293dee9e/boxart.jpg?t=1786179041",
+        "banner145": "https://assets.isthereanydeal.com/019818f6-ff3e-7139-87ab-960b293dee9e/banner145.jpg?t=1786179041",
+        "banner300": "https://assets.isthereanydeal.com/019818f6-ff3e-7139-87ab-960b293dee9e/banner300.jpg?t=1786179041",
+        "banner400": "https://assets.isthereanydeal.com/019818f6-ff3e-7139-87ab-960b293dee9e/banner400.jpg?t=1786179041",
+        "banner600": "https://assets.isthereanydeal.com/019818f6-ff3e-7139-87ab-960b293dee9e/banner600.jpg?t=1786179041"
+      },
+      "appid": 2963950,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 9900,
+        "date": "2026-06-08"
+      }
     },
     {
       "id": "018d937f-03e9-70b1-aa25-6a314c8629d4",
@@ -16988,10 +17195,19 @@
       "title": "Stealth Inc. 2: A Game of Clones",
       "first_seen": "2026-08-17",
       "popularity_rank": 887,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-03e9-70b1-aa25-6a314c8629d4/boxart.jpg?t=1786666826",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-03e9-70b1-aa25-6a314c8629d4/banner145.jpg?t=1786666826",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-03e9-70b1-aa25-6a314c8629d4/banner300.jpg?t=1786666826",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-03e9-70b1-aa25-6a314c8629d4/banner400.jpg?t=1786666826",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-03e9-70b1-aa25-6a314c8629d4/banner600.jpg?t=1786666826"
+      },
+      "appid": 329380,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 148,
+        "date": "2024-12-07"
+      }
     },
     {
       "id": "018d937f-09d9-72aa-8b32-b195eb430996",
@@ -16999,10 +17215,19 @@
       "title": "Kynseed",
       "first_seen": "2026-08-17",
       "popularity_rank": 888,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-09d9-72aa-8b32-b195eb430996/boxart.jpg?t=1786470938",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-09d9-72aa-8b32-b195eb430996/banner145.jpg?t=1786470938",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-09d9-72aa-8b32-b195eb430996/banner300.jpg?t=1786470938",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-09d9-72aa-8b32-b195eb430996/banner400.jpg?t=1786470938",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-09d9-72aa-8b32-b195eb430996/banner600.jpg?t=1786470939"
+      },
+      "appid": 758870,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 700,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-0a1d-7114-bee5-c9d70e37be5f",
@@ -17021,10 +17246,19 @@
       "title": "Uplink",
       "first_seen": "2026-08-17",
       "popularity_rank": 890,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0606-7359-bdff-9af5a53396f3/boxart.jpg?t=1786210850",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0606-7359-bdff-9af5a53396f3/banner145.jpg?t=1786210850",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0606-7359-bdff-9af5a53396f3/banner300.jpg?t=1786210850",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0606-7359-bdff-9af5a53396f3/banner400.jpg?t=1786210850",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0606-7359-bdff-9af5a53396f3/banner600.jpg?t=1786210850"
+      },
+      "appid": 1510,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 280,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "01973dc5-7692-728a-b675-5bb399bb6801",
@@ -17032,10 +17266,19 @@
       "title": "Nioh 3",
       "first_seen": "2026-08-17",
       "popularity_rank": 891,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/01973dc5-7692-728a-b675-5bb399bb6801/boxart.jpg?t=1786383347",
+        "banner145": "https://assets.isthereanydeal.com/01973dc5-7692-728a-b675-5bb399bb6801/banner145.jpg?t=1786383347",
+        "banner300": "https://assets.isthereanydeal.com/01973dc5-7692-728a-b675-5bb399bb6801/banner300.jpg?t=1786383347",
+        "banner400": "https://assets.isthereanydeal.com/01973dc5-7692-728a-b675-5bb399bb6801/banner400.jpg?t=1786383347",
+        "banner600": "https://assets.isthereanydeal.com/01973dc5-7692-728a-b675-5bb399bb6801/banner600.jpg?t=1786383347"
+      },
+      "appid": 3681010,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 6195,
+        "date": "2026-07-27"
+      }
     },
     {
       "id": "018d937e-f8e4-7086-8618-580ce8669153",
@@ -17043,10 +17286,19 @@
       "title": "Secret of Mana",
       "first_seen": "2026-08-17",
       "popularity_rank": 892,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f8e4-7086-8618-580ce8669153/boxart.jpg?t=1786468811",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f8e4-7086-8618-580ce8669153/banner145.jpg?t=1786468811",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f8e4-7086-8618-580ce8669153/banner300.jpg?t=1786468811",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f8e4-7086-8618-580ce8669153/banner400.jpg?t=1786468811",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f8e4-7086-8618-580ce8669153/banner600.jpg?t=1786468811"
+      },
+      "appid": 637670,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1848,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-342c-722a-b304-59e00b2b3524",
@@ -17054,10 +17306,19 @@
       "title": "Nuclear Throne",
       "first_seen": "2026-08-17",
       "popularity_rank": 893,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-342c-722a-b304-59e00b2b3524/boxart.jpg?t=1786557912",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-342c-722a-b304-59e00b2b3524/banner145.jpg?t=1786557912",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-342c-722a-b304-59e00b2b3524/banner300.jpg?t=1786557912",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-342c-722a-b304-59e00b2b3524/banner400.jpg?t=1786557912",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-342c-722a-b304-59e00b2b3524/banner600.jpg?t=1786557912"
+      },
+      "appid": 242680,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 610,
+        "date": "2024-12-07"
+      }
     },
     {
       "id": "018d937f-2bbc-72fb-b107-1db38a676e3e",
@@ -17065,10 +17326,19 @@
       "title": "One Finger Death Punch",
       "first_seen": "2026-08-17",
       "popularity_rank": 894,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2bbc-72fb-b107-1db38a676e3e/boxart.jpg?t=1763086353",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2bbc-72fb-b107-1db38a676e3e/banner145.jpg?t=1763086353",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2bbc-72fb-b107-1db38a676e3e/banner300.jpg?t=1763086353",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2bbc-72fb-b107-1db38a676e3e/banner400.jpg?t=1763086353",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2bbc-72fb-b107-1db38a676e3e/banner600.jpg?t=1763086353"
+      },
+      "appid": 264200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 125,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-2d18-73af-9685-ec3b80fc1b4c",
@@ -17076,10 +17346,19 @@
       "title": "ICARUS",
       "first_seen": "2026-08-17",
       "popularity_rank": 895,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2d18-73af-9685-ec3b80fc1b4c/boxart.jpg?t=1784745328",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2d18-73af-9685-ec3b80fc1b4c/banner145.jpg?t=1784745328",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2d18-73af-9685-ec3b80fc1b4c/banner300.jpg?t=1784745329",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2d18-73af-9685-ec3b80fc1b4c/banner400.jpg?t=1784745329",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2d18-73af-9685-ec3b80fc1b4c/banner600.jpg?t=1784745329"
+      },
+      "appid": 1149460,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 390,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-0650-7041-83bd-528b3190f299",
@@ -17087,9 +17366,15 @@
       "title": "Max Payne",
       "first_seen": "2026-08-17",
       "popularity_rank": 896,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0650-7041-83bd-528b3190f299/boxart.jpg?t=1760982947",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0650-7041-83bd-528b3190f299/banner145.jpg?t=1760982947",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0650-7041-83bd-528b3190f299/banner300.jpg?t=1760982947",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0650-7041-83bd-528b3190f299/banner400.jpg?t=1760982947",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0650-7041-83bd-528b3190f299/banner600.jpg?t=1760982947"
+      },
+      "appid": 202570,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17098,10 +17383,19 @@
       "title": "shapez 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 897,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde30a17b63/boxart.jpg?t=1783117212",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde30a17b63/banner145.jpg?t=1783117212",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde30a17b63/banner300.jpg?t=1783117212",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde30a17b63/banner400.jpg?t=1783117212",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6ee4-73f5-858c-2fde30a17b63/banner600.jpg?t=1783117212"
+      },
+      "appid": 2162800,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1680,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937e-f509-71d5-be88-0d246ac80e8f",
@@ -17109,9 +17403,15 @@
       "title": "NiGHTS into dreams...",
       "first_seen": "2026-08-17",
       "popularity_rank": 898,
-      "assets": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f509-71d5-be88-0d246ac80e8f/boxart.jpg?t=1769721315",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f509-71d5-be88-0d246ac80e8f/banner145.jpg?t=1769721315",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f509-71d5-be88-0d246ac80e8f/banner300.jpg?t=1769721315",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f509-71d5-be88-0d246ac80e8f/banner400.jpg?t=1769721315",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f509-71d5-be88-0d246ac80e8f/banner600.jpg?t=1769721315"
+      },
       "appid": null,
-      "info_fetched": false,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17120,10 +17420,19 @@
       "title": "Assassin's Creed Syndicate",
       "first_seen": "2026-08-17",
       "popularity_rank": 899,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fdd8-73fc-b6f2-669d6969f960/boxart.jpg?t=1786633532",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fdd8-73fc-b6f2-669d6969f960/banner145.jpg?t=1786633532",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fdd8-73fc-b6f2-669d6969f960/banner300.jpg?t=1786633532",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fdd8-73fc-b6f2-669d6969f960/banner400.jpg?t=1786633532",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fdd8-73fc-b6f2-669d6969f960/banner600.jpg?t=1786633532"
+      },
+      "appid": 368500,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 792,
+        "date": "2025-09-01"
+      }
     },
     {
       "id": "018d937f-479c-72b8-a632-a3fda1f30d42",
@@ -17131,10 +17440,19 @@
       "title": "The Invincible",
       "first_seen": "2026-08-17",
       "popularity_rank": 900,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-479c-72b8-a632-a3fda1f30d42/boxart.jpg?t=1782460534",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-479c-72b8-a632-a3fda1f30d42/banner145.jpg?t=1782460534",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-479c-72b8-a632-a3fda1f30d42/banner300.jpg?t=1782460534",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-479c-72b8-a632-a3fda1f30d42/banner400.jpg?t=1782460534",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-479c-72b8-a632-a3fda1f30d42/banner600.jpg?t=1782460534"
+      },
+      "appid": 731040,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 429,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-2612-7371-bff9-0dcb31088640",
@@ -17142,10 +17460,19 @@
       "title": "Star Wars Republic Commando™",
       "first_seen": "2026-08-17",
       "popularity_rank": 901,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2612-7371-bff9-0dcb31088640/boxart.jpg?t=1761597429",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2612-7371-bff9-0dcb31088640/banner145.jpg?t=1761597430",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2612-7371-bff9-0dcb31088640/banner300.jpg?t=1761597430",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2612-7371-bff9-0dcb31088640/banner400.jpg?t=1761597430",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2612-7371-bff9-0dcb31088640/banner600.jpg?t=1761597430"
+      },
+      "appid": 6000,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 300,
+        "date": "2025-04-28"
+      }
     },
     {
       "id": "018d937f-4d16-7170-9805-0fa68c149225",
@@ -17153,10 +17480,19 @@
       "title": "Anger foot",
       "first_seen": "2026-08-17",
       "popularity_rank": 902,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4d16-7170-9805-0fa68c149225/boxart.jpg?t=1786642809",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4d16-7170-9805-0fa68c149225/banner145.jpg?t=1786642809",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4d16-7170-9805-0fa68c149225/banner300.jpg?t=1786642809",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4d16-7170-9805-0fa68c149225/banner400.jpg?t=1786642809",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4d16-7170-9805-0fa68c149225/banner600.jpg?t=1786642809"
+      },
+      "appid": 1978590,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 920,
+        "date": "2026-03-12"
+      }
     },
     {
       "id": "018d937f-11b0-73d5-bed8-c23a24b8966f",
@@ -17164,10 +17500,19 @@
       "title": "BIT.TRIP RUNNER",
       "first_seen": "2026-08-17",
       "popularity_rank": 903,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-11b0-73d5-bed8-c23a24b8966f/boxart.jpg?t=1761597344",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-11b0-73d5-bed8-c23a24b8966f/banner145.jpg?t=1761597344",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-11b0-73d5-bed8-c23a24b8966f/banner300.jpg?t=1761597344",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-11b0-73d5-bed8-c23a24b8966f/banner400.jpg?t=1761597344",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-11b0-73d5-bed8-c23a24b8966f/banner600.jpg?t=1761597344"
+      },
+      "appid": 63710,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 245,
+        "date": "2025-11-03"
+      }
     },
     {
       "id": "018d937f-6ee6-7204-89da-b33d2995cb6f",
@@ -17175,10 +17520,19 @@
       "title": "Banishers: Ghosts of New Eden",
       "first_seen": "2026-08-17",
       "popularity_rank": 904,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6ee6-7204-89da-b33d2995cb6f/boxart.jpg?t=1766093411",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6ee6-7204-89da-b33d2995cb6f/banner145.jpg?t=1766093411",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6ee6-7204-89da-b33d2995cb6f/banner300.jpg?t=1766093411",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6ee6-7204-89da-b33d2995cb6f/banner400.jpg?t=1766093411",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6ee6-7204-89da-b33d2995cb6f/banner600.jpg?t=1766093411"
+      },
+      "appid": 1493640,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2394,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937e-f4b2-7138-a5f6-73a577f9899d",
@@ -17186,9 +17540,15 @@
       "title": "Warhammer® 40,000®: Dawn of War® II - Chaos Rising",
       "first_seen": "2026-08-17",
       "popularity_rank": 905,
-      "assets": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f4b2-7138-a5f6-73a577f9899d/boxart.jpg?t=1769721325",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f4b2-7138-a5f6-73a577f9899d/banner145.jpg?t=1769721325",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f4b2-7138-a5f6-73a577f9899d/banner300.jpg?t=1769721325",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f4b2-7138-a5f6-73a577f9899d/banner400.jpg?t=1769721325",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f4b2-7138-a5f6-73a577f9899d/banner600.jpg?t=1769721325"
+      },
       "appid": null,
-      "info_fetched": false,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17197,10 +17557,19 @@
       "title": "Trails in the Sky 1st Chapter",
       "first_seen": "2026-08-17",
       "popularity_rank": 906,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/0193f596-f2ee-70d3-98e6-b2fe295a3203/boxart.jpg?t=1777573229",
+        "banner145": "https://assets.isthereanydeal.com/0193f596-f2ee-70d3-98e6-b2fe295a3203/banner145.jpg?t=1777573229",
+        "banner300": "https://assets.isthereanydeal.com/0193f596-f2ee-70d3-98e6-b2fe295a3203/banner300.jpg?t=1777573229",
+        "banner400": "https://assets.isthereanydeal.com/0193f596-f2ee-70d3-98e6-b2fe295a3203/banner400.jpg?t=1777573229",
+        "banner600": "https://assets.isthereanydeal.com/0193f596-f2ee-70d3-98e6-b2fe295a3203/banner600.jpg?t=1777573229"
+      },
+      "appid": 3375780,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 4400,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-3104-711d-8fb8-ea342bf69092",
@@ -17208,9 +17577,15 @@
       "title": "PlanetSide 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 907,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3104-711d-8fb8-ea342bf69092/boxart.jpg?t=1765524009",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3104-711d-8fb8-ea342bf69092/banner145.jpg?t=1765524009",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3104-711d-8fb8-ea342bf69092/banner300.jpg?t=1765524009",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3104-711d-8fb8-ea342bf69092/banner400.jpg?t=1765524009",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3104-711d-8fb8-ea342bf69092/banner600.jpg?t=1765524010"
+      },
+      "appid": 218230,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17219,10 +17594,19 @@
       "title": "Visions of Mana",
       "first_seen": "2026-08-17",
       "popularity_rank": 908,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7b14-716d-a5f4-67ff85a7b858/boxart.jpg?t=1786469425",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7b14-716d-a5f4-67ff85a7b858/banner145.jpg?t=1786469425",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7b14-716d-a5f4-67ff85a7b858/banner300.jpg?t=1786469425",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7b14-716d-a5f4-67ff85a7b858/banner400.jpg?t=1786469425",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7b14-716d-a5f4-67ff85a7b858/banner600.jpg?t=1786469426"
+      },
+      "appid": 2490990,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 3511,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-2ed1-7268-a330-a02b70043f44",
@@ -17230,10 +17614,19 @@
       "title": "Remnant: From the Ashes",
       "first_seen": "2026-08-17",
       "popularity_rank": 909,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2ed1-7268-a330-a02b70043f44/boxart.jpg?t=1786136744",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2ed1-7268-a330-a02b70043f44/banner145.jpg?t=1786136744",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2ed1-7268-a330-a02b70043f44/banner300.jpg?t=1786136744",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2ed1-7268-a330-a02b70043f44/banner400.jpg?t=1786136744",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2ed1-7268-a330-a02b70043f44/banner600.jpg?t=1786136744"
+      },
+      "appid": 617290,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 410,
+        "date": "2026-03-12"
+      }
     },
     {
       "id": "018d937f-0a25-705b-b686-e1d971a36e90",
@@ -17241,10 +17634,19 @@
       "title": "DISTRAINT: Deluxe Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 910,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0a25-705b-b686-e1d971a36e90/boxart.jpg?t=1786641606",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0a25-705b-b686-e1d971a36e90/banner145.jpg?t=1786641606",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0a25-705b-b686-e1d971a36e90/banner300.jpg?t=1786641606",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0a25-705b-b686-e1d971a36e90/banner400.jpg?t=1786641606",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0a25-705b-b686-e1d971a36e90/banner600.jpg?t=1786641606"
+      },
+      "appid": 395170,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 81,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018d937f-701d-7262-bfce-91908d4a68bf",
@@ -17252,10 +17654,19 @@
       "title": "Death Must Die",
       "first_seen": "2026-08-17",
       "popularity_rank": 911,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-701d-7262-bfce-91908d4a68bf/boxart.jpg?t=1761618062",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-701d-7262-bfce-91908d4a68bf/banner145.jpg?t=1761618062",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-701d-7262-bfce-91908d4a68bf/banner300.jpg?t=1761618062",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-701d-7262-bfce-91908d4a68bf/banner400.jpg?t=1761618062",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-701d-7262-bfce-91908d4a68bf/banner600.jpg?t=1761618062"
+      },
+      "appid": 2334730,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 680,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-05e1-710d-93fa-4e1f1b80de6e",
@@ -17263,10 +17674,19 @@
       "title": "Hammerwatch",
       "first_seen": "2026-08-17",
       "popularity_rank": 912,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-05e1-710d-93fa-4e1f1b80de6e/boxart.jpg?t=1786390560",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-05e1-710d-93fa-4e1f1b80de6e/banner145.jpg?t=1786390560",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-05e1-710d-93fa-4e1f1b80de6e/banner300.jpg?t=1786390560",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-05e1-710d-93fa-4e1f1b80de6e/banner400.jpg?t=1786390560",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-05e1-710d-93fa-4e1f1b80de6e/banner600.jpg?t=1786390560"
+      },
+      "appid": 239070,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 240,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937e-f969-72ed-a245-152dad151e29",
@@ -17274,10 +17694,19 @@
       "title": "Kingdom: Two Crowns",
       "first_seen": "2026-08-17",
       "popularity_rank": 913,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f969-72ed-a245-152dad151e29/boxart.jpg?t=1783613418",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f969-72ed-a245-152dad151e29/banner145.jpg?t=1783613418",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f969-72ed-a245-152dad151e29/banner300.jpg?t=1783613418",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f969-72ed-a245-152dad151e29/banner400.jpg?t=1783613418",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f969-72ed-a245-152dad151e29/banner600.jpg?t=1783613418"
+      },
+      "appid": 701160,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 460,
+        "date": "2025-10-09"
+      }
     },
     {
       "id": "018d937f-12d9-703d-baad-f6d5319c280e",
@@ -17285,10 +17714,19 @@
       "title": "I am Setsuna",
       "first_seen": "2026-08-17",
       "popularity_rank": 914,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-12d9-703d-baad-f6d5319c280e/boxart.jpg?t=1786469418",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-12d9-703d-baad-f6d5319c280e/banner145.jpg?t=1786469418",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-12d9-703d-baad-f6d5319c280e/banner300.jpg?t=1786469418",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-12d9-703d-baad-f6d5319c280e/banner400.jpg?t=1786469418",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-12d9-703d-baad-f6d5319c280e/banner600.jpg?t=1786469418"
+      },
+      "appid": 441830,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1466,
+        "date": "2024-12-16"
+      }
     },
     {
       "id": "018d937e-f984-725f-9f1b-8e1f731990a3",
@@ -17296,9 +17734,15 @@
       "title": "Sleeping Dogs",
       "first_seen": "2026-08-17",
       "popularity_rank": 915,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f984-725f-9f1b-8e1f731990a3/boxart.jpg?t=1786479633",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f984-725f-9f1b-8e1f731990a3/banner145.jpg?t=1786479633",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f984-725f-9f1b-8e1f731990a3/banner300.jpg?t=1786479633",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f984-725f-9f1b-8e1f731990a3/banner400.jpg?t=1786479633",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f984-725f-9f1b-8e1f731990a3/banner600.jpg?t=1786479633"
+      },
+      "appid": 202170,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17307,10 +17751,19 @@
       "title": "Devil May Cry HD Collection",
       "first_seen": "2026-08-17",
       "popularity_rank": 916,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-11e9-737d-b387-56c67ec8a1c6/boxart.jpg?t=1768874408",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-11e9-737d-b387-56c67ec8a1c6/banner145.jpg?t=1768874408",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-11e9-737d-b387-56c67ec8a1c6/banner300.jpg?t=1768874408",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-11e9-737d-b387-56c67ec8a1c6/banner400.jpg?t=1768874408",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-11e9-737d-b387-56c67ec8a1c6/banner600.jpg?t=1768874408"
+      },
+      "appid": 631510,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 448,
+        "date": "2026-05-11"
+      }
     },
     {
       "id": "018d937e-f021-706f-995a-e04645b48b0c",
@@ -17318,9 +17771,15 @@
       "title": "Enslaved: Odyssey to the West Premium Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 917,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f021-706f-995a-e04645b48b0c/boxart.png?t=1732848020",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f021-706f-995a-e04645b48b0c/banner145.jpg?t=1732848020",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f021-706f-995a-e04645b48b0c/banner300.jpg?t=1732848021",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f021-706f-995a-e04645b48b0c/banner400.jpg?t=1732848021",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f021-706f-995a-e04645b48b0c/banner600.jpg?t=1732848021"
+      },
+      "appid": 245280,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17329,10 +17788,19 @@
       "title": "Axiom Verge",
       "first_seen": "2026-08-17",
       "popularity_rank": 918,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-e9c9-7215-b6b1-7ac0834feedc/boxart.jpg?t=1786209608",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-e9c9-7215-b6b1-7ac0834feedc/banner145.jpg?t=1786209608",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-e9c9-7215-b6b1-7ac0834feedc/banner300.jpg?t=1786209608",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-e9c9-7215-b6b1-7ac0834feedc/banner400.jpg?t=1786209608",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-e9c9-7215-b6b1-7ac0834feedc/banner600.jpg?t=1786209608"
+      },
+      "appid": 332200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 297,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-1775-7390-8ad5-8a3d0ae6007a",
@@ -17340,10 +17808,19 @@
       "title": "Arma 3",
       "first_seen": "2026-08-17",
       "popularity_rank": 919,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-1775-7390-8ad5-8a3d0ae6007a/boxart.jpg?t=1786460738",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-1775-7390-8ad5-8a3d0ae6007a/banner145.jpg?t=1786460738",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-1775-7390-8ad5-8a3d0ae6007a/banner300.jpg?t=1786460738",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-1775-7390-8ad5-8a3d0ae6007a/banner400.jpg?t=1786460738",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-1775-7390-8ad5-8a3d0ae6007a/banner600.jpg?t=1786460738"
+      },
+      "appid": 107410,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 360,
+        "date": "2025-06-26"
+      }
     },
     {
       "id": "018d937f-2071-73da-9943-7757996d7a47",
@@ -17351,10 +17828,19 @@
       "title": "Evoland Legendary Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 920,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2071-73da-9943-7757996d7a47/boxart.jpg?t=1787021462",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2071-73da-9943-7757996d7a47/banner145.jpg?t=1787021462",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2071-73da-9943-7757996d7a47/banner300.jpg?t=1787021462",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2071-73da-9943-7757996d7a47/banner400.jpg?t=1787021462",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2071-73da-9943-7757996d7a47/banner600.jpg?t=1787021463"
+      },
+      "appid": 1020470,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 396,
+        "date": "2025-06-27"
+      }
     },
     {
       "id": "0194fc66-d62b-7007-8f8f-4d6432f4a8b9",
@@ -17362,9 +17848,15 @@
       "title": "Tides of Annihilation",
       "first_seen": "2026-08-17",
       "popularity_rank": 921,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/0194fc66-d62b-7007-8f8f-4d6432f4a8b9/boxart.jpg?t=1786506312",
+        "banner145": "https://assets.isthereanydeal.com/0194fc66-d62b-7007-8f8f-4d6432f4a8b9/banner145.jpg?t=1786506312",
+        "banner300": "https://assets.isthereanydeal.com/0194fc66-d62b-7007-8f8f-4d6432f4a8b9/banner300.jpg?t=1786506312",
+        "banner400": "https://assets.isthereanydeal.com/0194fc66-d62b-7007-8f8f-4d6432f4a8b9/banner400.jpg?t=1786506312",
+        "banner600": "https://assets.isthereanydeal.com/0194fc66-d62b-7007-8f8f-4d6432f4a8b9/banner600.jpg?t=1786506313"
+      },
+      "appid": 3292470,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17373,10 +17865,19 @@
       "title": "Mount & Blade",
       "first_seen": "2026-08-17",
       "popularity_rank": 922,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-07e1-72f7-9945-ea0b199a87cb/boxart.jpg?t=1761601848",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-07e1-72f7-9945-ea0b199a87cb/banner145.jpg?t=1761601848",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-07e1-72f7-9945-ea0b199a87cb/banner300.jpg?t=1761601848",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-07e1-72f7-9945-ea0b199a87cb/banner400.jpg?t=1761601848",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-07e1-72f7-9945-ea0b199a87cb/banner600.jpg?t=1761601849"
+      },
+      "appid": 22100,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 325,
+        "date": "2024-12-12"
+      }
     },
     {
       "id": "018d937f-7ae8-7083-8d7a-1174766fee2e",
@@ -17384,10 +17885,19 @@
       "title": "Solarpunk",
       "first_seen": "2026-08-17",
       "popularity_rank": 923,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7ae8-7083-8d7a-1174766fee2e/boxart.jpg?t=1786626610",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7ae8-7083-8d7a-1174766fee2e/banner145.jpg?t=1786626610",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7ae8-7083-8d7a-1174766fee2e/banner300.jpg?t=1786626610",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7ae8-7083-8d7a-1174766fee2e/banner400.jpg?t=1786626610",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7ae8-7083-8d7a-1174766fee2e/banner600.jpg?t=1786626610"
+      },
+      "appid": 1805110,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2318,
+        "date": "2026-07-13"
+      }
     },
     {
       "id": "018d937f-0990-729f-99f8-08da754a7173",
@@ -17395,9 +17905,15 @@
       "title": "Doki Doki Literature Club",
       "first_seen": "2026-08-17",
       "popularity_rank": 924,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0990-729f-99f8-08da754a7173/boxart.jpg?t=1763066142",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0990-729f-99f8-08da754a7173/banner145.jpg?t=1763066142",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0990-729f-99f8-08da754a7173/banner300.jpg?t=1763066142",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0990-729f-99f8-08da754a7173/banner400.jpg?t=1763066142",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0990-729f-99f8-08da754a7173/banner600.jpg?t=1763066142"
+      },
+      "appid": 698780,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17406,10 +17922,19 @@
       "title": "DYNASTY WARRIORS: ORIGINS",
       "first_seen": "2026-08-17",
       "popularity_rank": 925,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018fce43-a1a3-712f-ada5-1e27bba5ea64/boxart.jpg?t=1786433131",
+        "banner145": "https://assets.isthereanydeal.com/018fce43-a1a3-712f-ada5-1e27bba5ea64/banner145.jpg?t=1786433131",
+        "banner300": "https://assets.isthereanydeal.com/018fce43-a1a3-712f-ada5-1e27bba5ea64/banner300.jpg?t=1786433131",
+        "banner400": "https://assets.isthereanydeal.com/018fce43-a1a3-712f-ada5-1e27bba5ea64/banner400.jpg?t=1786433131",
+        "banner600": "https://assets.isthereanydeal.com/018fce43-a1a3-712f-ada5-1e27bba5ea64/banner600.jpg?t=1786433131"
+      },
+      "appid": 2384580,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 6776,
+        "date": "2026-02-09"
+      }
     },
     {
       "id": "018d937f-33e5-710e-96a6-8f82427ff7a7",
@@ -17417,10 +17942,19 @@
       "title": "The Legend of Heroes: Trails in the Sky",
       "first_seen": "2026-08-17",
       "popularity_rank": 926,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-33e5-710e-96a6-8f82427ff7a7/boxart.jpg?t=1763203560",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-33e5-710e-96a6-8f82427ff7a7/banner145.jpg?t=1763203560",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-33e5-710e-96a6-8f82427ff7a7/banner300.jpg?t=1763203560",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-33e5-710e-96a6-8f82427ff7a7/banner400.jpg?t=1763203560",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-33e5-710e-96a6-8f82427ff7a7/banner600.jpg?t=1763203560"
+      },
+      "appid": 251150,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 990,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-08bb-72d1-9a4a-d63dd4fa1df2",
@@ -17428,9 +17962,15 @@
       "title": "Paladins",
       "first_seen": "2026-08-17",
       "popularity_rank": 927,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-08bb-72d1-9a4a-d63dd4fa1df2/boxart.jpg?t=1763068995",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-08bb-72d1-9a4a-d63dd4fa1df2/banner145.jpg?t=1763068995",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-08bb-72d1-9a4a-d63dd4fa1df2/banner300.jpg?t=1763068995",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-08bb-72d1-9a4a-d63dd4fa1df2/banner400.jpg?t=1763068995",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-08bb-72d1-9a4a-d63dd4fa1df2/banner600.jpg?t=1763068995"
+      },
+      "appid": 444090,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17450,10 +17990,19 @@
       "title": "Dustforce DX",
       "first_seen": "2026-08-17",
       "popularity_rank": 929,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-081d-7280-af82-3596d8b4fd69/boxart.png?t=1733520022",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-081d-7280-af82-3596d8b4fd69/banner145.jpg?t=1733520022",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-081d-7280-af82-3596d8b4fd69/banner300.jpg?t=1733520022",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-081d-7280-af82-3596d8b4fd69/banner400.jpg?t=1733520022",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-081d-7280-af82-3596d8b4fd69/banner600.jpg?t=1733520022"
+      },
+      "appid": 65300,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 600,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-3862-70db-8fdd-e01f189fdb5e",
@@ -17461,10 +18010,19 @@
       "title": "Mini Motorways",
       "first_seen": "2026-08-17",
       "popularity_rank": 930,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3862-70db-8fdd-e01f189fdb5e/boxart.jpg?t=1783626309",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3862-70db-8fdd-e01f189fdb5e/banner145.jpg?t=1783626310",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3862-70db-8fdd-e01f189fdb5e/banner300.jpg?t=1783626310",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3862-70db-8fdd-e01f189fdb5e/banner400.jpg?t=1783626310",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3862-70db-8fdd-e01f189fdb5e/banner600.jpg?t=1783626310"
+      },
+      "appid": 1127500,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 707,
+        "date": "2025-08-27"
+      }
     },
     {
       "id": "018d937e-f562-73f9-9b39-cd5617096c73",
@@ -17472,10 +18030,19 @@
       "title": "PAC-MAN™ Championship Edition 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 931,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f562-73f9-9b39-cd5617096c73/boxart.png?t=1732809641",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f562-73f9-9b39-cd5617096c73/banner145.jpg?t=1732809641",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f562-73f9-9b39-cd5617096c73/banner300.jpg?t=1732809641",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f562-73f9-9b39-cd5617096c73/banner400.jpg?t=1732809641",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f562-73f9-9b39-cd5617096c73/banner600.jpg?t=1732809642"
+      },
+      "appid": 441380,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 264,
+        "date": "2024-12-12"
+      }
     },
     {
       "id": "018e1643-e844-7109-9d9e-e8fc1095eec3",
@@ -17483,10 +18050,19 @@
       "title": "Kunitsu-Gami: Path of the Goddess",
       "first_seen": "2026-08-17",
       "popularity_rank": 932,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018e1643-e844-7109-9d9e-e8fc1095eec3/boxart.jpg?t=1763200821",
+        "banner145": "https://assets.isthereanydeal.com/018e1643-e844-7109-9d9e-e8fc1095eec3/banner145.jpg?t=1763200821",
+        "banner300": "https://assets.isthereanydeal.com/018e1643-e844-7109-9d9e-e8fc1095eec3/banner300.jpg?t=1763200821",
+        "banner400": "https://assets.isthereanydeal.com/018e1643-e844-7109-9d9e-e8fc1095eec3/banner400.jpg?t=1763200821",
+        "banner600": "https://assets.isthereanydeal.com/018e1643-e844-7109-9d9e-e8fc1095eec3/banner600.jpg?t=1763200821"
+      },
+      "appid": 2510710,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2992,
+        "date": "2025-11-18"
+      }
     },
     {
       "id": "018d937e-ea55-72a0-bb18-9bb2a7ac73d7",
@@ -17494,10 +18070,19 @@
       "title": "Sid Meier's Pirates!",
       "first_seen": "2026-08-17",
       "popularity_rank": 933,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ea55-72a0-bb18-9bb2a7ac73d7/boxart.jpg?t=1777585814",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ea55-72a0-bb18-9bb2a7ac73d7/banner145.jpg?t=1777585814",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ea55-72a0-bb18-9bb2a7ac73d7/banner300.jpg?t=1777585814",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ea55-72a0-bb18-9bb2a7ac73d7/banner400.jpg?t=1777585814",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ea55-72a0-bb18-9bb2a7ac73d7/banner600.jpg?t=1777585815"
+      },
+      "appid": 3920,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 245,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-3311-71ab-8e98-0fad79fb4c6d",
@@ -17505,10 +18090,19 @@
       "title": "My Time At Portia",
       "first_seen": "2026-08-17",
       "popularity_rank": 934,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3311-71ab-8e98-0fad79fb4c6d/boxart.jpg?t=1773300023",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3311-71ab-8e98-0fad79fb4c6d/banner145.jpg?t=1773300023",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3311-71ab-8e98-0fad79fb4c6d/banner300.jpg?t=1773300023",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3311-71ab-8e98-0fad79fb4c6d/banner400.jpg?t=1773300023",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3311-71ab-8e98-0fad79fb4c6d/banner600.jpg?t=1773300024"
+      },
+      "appid": 666140,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 996,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018eece7-a264-7119-823e-6b772d1e2708",
@@ -17516,10 +18110,19 @@
       "title": "MULLET MADJACK",
       "first_seen": "2026-08-17",
       "popularity_rank": 935,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018eece7-a264-7119-823e-6b772d1e2708/boxart.jpg?t=1787096124",
+        "banner145": "https://assets.isthereanydeal.com/018eece7-a264-7119-823e-6b772d1e2708/banner145.jpg?t=1787096124",
+        "banner300": "https://assets.isthereanydeal.com/018eece7-a264-7119-823e-6b772d1e2708/banner300.jpg?t=1787096125",
+        "banner400": "https://assets.isthereanydeal.com/018eece7-a264-7119-823e-6b772d1e2708/banner400.jpg?t=1787096125",
+        "banner600": "https://assets.isthereanydeal.com/018eece7-a264-7119-823e-6b772d1e2708/banner600.jpg?t=1787096125"
+      },
+      "appid": 2111190,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1361,
+        "date": "2026-05-13"
+      }
     },
     {
       "id": "018d937f-07c4-7038-ba6f-56a5acdb7ef8",
@@ -17527,10 +18130,19 @@
       "title": "Sonic Adventure DX",
       "first_seen": "2026-08-17",
       "popularity_rank": 936,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-07c4-7038-ba6f-56a5acdb7ef8/boxart.jpg?t=1786651530",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-07c4-7038-ba6f-56a5acdb7ef8/banner145.jpg?t=1786651530",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-07c4-7038-ba6f-56a5acdb7ef8/banner300.jpg?t=1786651530",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-07c4-7038-ba6f-56a5acdb7ef8/banner400.jpg?t=1786651530",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-07c4-7038-ba6f-56a5acdb7ef8/banner600.jpg?t=1786651530"
+      },
+      "appid": 71250,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 395,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-0bee-7058-9922-77c7666e760a",
@@ -17538,10 +18150,19 @@
       "title": "Colony Ship: A Post-Earth Role Playing Game",
       "first_seen": "2026-08-17",
       "popularity_rank": 937,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0bee-7058-9922-77c7666e760a/boxart.jpg?t=1786209909",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0bee-7058-9922-77c7666e760a/banner145.jpg?t=1786209909",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0bee-7058-9922-77c7666e760a/banner300.jpg?t=1786209909",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0bee-7058-9922-77c7666e760a/banner400.jpg?t=1786209909",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0bee-7058-9922-77c7666e760a/banner600.jpg?t=1786209909"
+      },
+      "appid": 648410,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1999,
+        "date": "2026-08-03"
+      }
     },
     {
       "id": "018d937e-fce3-7094-bf5f-033ef388a6e3",
@@ -17549,10 +18170,19 @@
       "title": "Tiny & Big: Grandpa's Leftovers",
       "first_seen": "2026-08-17",
       "popularity_rank": 938,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fce3-7094-bf5f-033ef388a6e3/boxart.jpg?t=1760983821",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fce3-7094-bf5f-033ef388a6e3/banner145.jpg?t=1760983822",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fce3-7094-bf5f-033ef388a6e3/banner300.jpg?t=1760983822",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fce3-7094-bf5f-033ef388a6e3/banner400.jpg?t=1760983822",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fce3-7094-bf5f-033ef388a6e3/banner600.jpg?t=1760983822"
+      },
+      "appid": 205910,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 140,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-105f-7304-b58f-ee292db5937d",
@@ -17560,10 +18190,19 @@
       "title": "Cook, Serve, Delicious!",
       "first_seen": "2026-08-17",
       "popularity_rank": 939,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-105f-7304-b58f-ee292db5937d/boxart.jpg?t=1786558258",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-105f-7304-b58f-ee292db5937d/banner145.jpg?t=1786558258",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-105f-7304-b58f-ee292db5937d/banner300.jpg?t=1786558258",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-105f-7304-b58f-ee292db5937d/banner400.jpg?t=1786558258",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-105f-7304-b58f-ee292db5937d/banner600.jpg?t=1786558258"
+      },
+      "appid": 247020,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 245,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-61b4-735e-9048-12c5781cdca5",
@@ -17571,10 +18210,19 @@
       "title": "The Plucky Squire",
       "first_seen": "2026-08-17",
       "popularity_rank": 940,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-61b4-735e-9048-12c5781cdca5/boxart.jpg?t=1786641928",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-61b4-735e-9048-12c5781cdca5/banner145.jpg?t=1786641928",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-61b4-735e-9048-12c5781cdca5/banner300.jpg?t=1786641928",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-61b4-735e-9048-12c5781cdca5/banner400.jpg?t=1786641928",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-61b4-735e-9048-12c5781cdca5/banner600.jpg?t=1786641928"
+      },
+      "appid": 1627570,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1122,
+        "date": "2026-03-12"
+      }
     },
     {
       "id": "018d937f-2b35-72da-b450-6bde24754e0e",
@@ -17582,10 +18230,19 @@
       "title": "GreedFall",
       "first_seen": "2026-08-17",
       "popularity_rank": 941,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2b35-72da-b450-6bde24754e0e/boxart.jpg?t=1786384588",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2b35-72da-b450-6bde24754e0e/banner145.jpg?t=1786384588",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2b35-72da-b450-6bde24754e0e/banner300.jpg?t=1786384588",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2b35-72da-b450-6bde24754e0e/banner400.jpg?t=1786384588",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2b35-72da-b450-6bde24754e0e/banner600.jpg?t=1786384588"
+      },
+      "appid": 606880,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 580,
+        "date": "2025-09-29"
+      }
     },
     {
       "id": "018d937f-07fc-72ed-8517-d8e24cb1eb22",
@@ -17593,10 +18250,19 @@
       "title": "Europa Universalis IV",
       "first_seen": "2026-08-17",
       "popularity_rank": 942,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-07fc-72ed-8517-d8e24cb1eb22/boxart.jpg?t=1778250005",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-07fc-72ed-8517-d8e24cb1eb22/banner145.jpg?t=1778250005",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-07fc-72ed-8517-d8e24cb1eb22/banner300.jpg?t=1778250005",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-07fc-72ed-8517-d8e24cb1eb22/banner400.jpg?t=1778250005",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-07fc-72ed-8517-d8e24cb1eb22/banner600.jpg?t=1778250005"
+      },
+      "appid": 236850,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 699,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "0193b9ab-4050-727f-b2bc-7ac12738caa2",
@@ -17604,10 +18270,19 @@
       "title": "Escape From Duckov",
       "first_seen": "2026-08-17",
       "popularity_rank": 943,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/0193b9ab-4050-727f-b2bc-7ac12738caa2/boxart.jpg?t=1783322705",
+        "banner145": "https://assets.isthereanydeal.com/0193b9ab-4050-727f-b2bc-7ac12738caa2/banner145.jpg?t=1783322705",
+        "banner300": "https://assets.isthereanydeal.com/0193b9ab-4050-727f-b2bc-7ac12738caa2/banner300.jpg?t=1783322706",
+        "banner400": "https://assets.isthereanydeal.com/0193b9ab-4050-727f-b2bc-7ac12738caa2/banner400.jpg?t=1783322706",
+        "banner600": "https://assets.isthereanydeal.com/0193b9ab-4050-727f-b2bc-7ac12738caa2/banner600.jpg?t=1783322706"
+      },
+      "appid": 3167020,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1350,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-0a4c-73ef-80cb-a65c0bc5e6e1",
@@ -17615,10 +18290,19 @@
       "title": "Vampyr",
       "first_seen": "2026-08-17",
       "popularity_rank": 944,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0a4c-73ef-80cb-a65c0bc5e6e1/boxart.jpg?t=1773670805",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0a4c-73ef-80cb-a65c0bc5e6e1/banner145.jpg?t=1773670805",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0a4c-73ef-80cb-a65c0bc5e6e1/banner300.jpg?t=1773670805",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0a4c-73ef-80cb-a65c0bc5e6e1/banner400.jpg?t=1773670805",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0a4c-73ef-80cb-a65c0bc5e6e1/banner600.jpg?t=1773670805"
+      },
+      "appid": 427290,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 648,
+        "date": "2026-02-27"
+      }
     },
     {
       "id": "019c5431-0ec5-732f-8ec3-06dd5622983e",
@@ -17626,10 +18310,19 @@
       "title": "Castlevania: Belmont's Curse",
       "first_seen": "2026-08-17",
       "popularity_rank": 945,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/019c5431-0ec5-732f-8ec3-06dd5622983e/boxart.jpg?t=1785459921",
+        "banner145": "https://assets.isthereanydeal.com/019c5431-0ec5-732f-8ec3-06dd5622983e/banner145.jpg?t=1785459921",
+        "banner300": "https://assets.isthereanydeal.com/019c5431-0ec5-732f-8ec3-06dd5622983e/banner300.jpg?t=1785459921",
+        "banner400": "https://assets.isthereanydeal.com/019c5431-0ec5-732f-8ec3-06dd5622983e/banner400.jpg?t=1785459921",
+        "banner600": "https://assets.isthereanydeal.com/019c5431-0ec5-732f-8ec3-06dd5622983e/banner600.jpg?t=1785459921"
+      },
+      "appid": 4231820,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 3850,
+        "date": "2026-06-07"
+      }
     },
     {
       "id": "018d937f-2e65-7357-80f2-e38326359664",
@@ -17637,10 +18330,19 @@
       "title": "DEFCON",
       "first_seen": "2026-08-17",
       "popularity_rank": 946,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2e65-7357-80f2-e38326359664/boxart.jpg?t=1786387254",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2e65-7357-80f2-e38326359664/banner145.jpg?t=1786387254",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2e65-7357-80f2-e38326359664/banner300.jpg?t=1786387254",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2e65-7357-80f2-e38326359664/banner400.jpg?t=1786387254",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2e65-7357-80f2-e38326359664/banner600.jpg?t=1786387254"
+      },
+      "appid": 1520,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 280,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-3e2a-7327-890d-7fcf62b1917b",
@@ -17648,10 +18350,19 @@
       "title": "Door Kickers 2: Task Force North",
       "first_seen": "2026-08-17",
       "popularity_rank": 947,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3e2a-7327-890d-7fcf62b1917b/boxart.jpg?t=1761598218",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3e2a-7327-890d-7fcf62b1917b/banner145.jpg?t=1761598218",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3e2a-7327-890d-7fcf62b1917b/banner300.jpg?t=1761598218",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3e2a-7327-890d-7fcf62b1917b/banner400.jpg?t=1761598218",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3e2a-7327-890d-7fcf62b1917b/banner600.jpg?t=1761598218"
+      },
+      "appid": 1239080,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1680,
+        "date": "2026-05-25"
+      }
     },
     {
       "id": "018d937f-267f-730f-bba4-2d6b52801740",
@@ -17659,10 +18370,19 @@
       "title": "Titanfall® 2: Ultimate Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 948,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-267f-730f-bba4-2d6b52801740/boxart.jpg?t=1786645272",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-267f-730f-bba4-2d6b52801740/banner145.jpg?t=1786645272",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-267f-730f-bba4-2d6b52801740/banner300.jpg?t=1786645272",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-267f-730f-bba4-2d6b52801740/banner400.jpg?t=1786645272",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-267f-730f-bba4-2d6b52801740/banner600.jpg?t=1786645272"
+      },
+      "appid": 1237970,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 300,
+        "date": "2024-12-11"
+      }
     },
     {
       "id": "018d937f-65f2-73ff-9da2-7b422ba45745",
@@ -17670,10 +18390,19 @@
       "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 949,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-65f2-73ff-9da2-7b422ba45745/boxart.jpg?t=1786212623",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-65f2-73ff-9da2-7b422ba45745/banner145.jpg?t=1786212623",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-65f2-73ff-9da2-7b422ba45745/banner300.jpg?t=1786212623",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-65f2-73ff-9da2-7b422ba45745/banner400.jpg?t=1786212623",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-65f2-73ff-9da2-7b422ba45745/banner600.jpg?t=1786212623"
+      },
+      "appid": 1184370,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 518,
+        "date": "2025-03-13"
+      }
     },
     {
       "id": "018d937e-e9b9-7017-be46-d6fe15c0ddd8",
@@ -17681,10 +18410,19 @@
       "title": "Enclave",
       "first_seen": "2026-08-17",
       "popularity_rank": 950,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-e9b9-7017-be46-d6fe15c0ddd8/boxart.jpg?t=1761311103",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-e9b9-7017-be46-d6fe15c0ddd8/banner145.jpg?t=1761311104",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-e9b9-7017-be46-d6fe15c0ddd8/banner300.jpg?t=1761311104",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-e9b9-7017-be46-d6fe15c0ddd8/banner400.jpg?t=1761311104",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-e9b9-7017-be46-d6fe15c0ddd8/banner600.jpg?t=1761311105"
+      },
+      "appid": 253980,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 480,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-6449-7233-bfbc-a2e0c6d21bba",
@@ -17692,10 +18430,19 @@
       "title": "High On Life",
       "first_seen": "2026-08-17",
       "popularity_rank": 951,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/boxart.jpg?t=1784210701",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner145.jpg?t=1784210701",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner300.jpg?t=1784210701",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner400.jpg?t=1784210701",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6449-7233-bfbc-a2e0c6d21bba/banner600.jpg?t=1784210701"
+      },
+      "appid": 1583230,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1125,
+        "date": "2025-09-29"
+      }
     },
     {
       "id": "018d937e-f06b-7284-bf6c-c4e440623880",
@@ -17703,10 +18450,19 @@
       "title": "Tom Clancy's Ghost Recon® Wildlands",
       "first_seen": "2026-08-17",
       "popularity_rank": 952,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/boxart.jpg?t=1786923035",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner145.jpg?t=1786923035",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner300.jpg?t=1786923035",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner400.jpg?t=1786923035",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f06b-7284-bf6c-c4e440623880/banner600.jpg?t=1786923036"
+      },
+      "appid": 460930,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 330,
+        "date": "2026-08-06"
+      }
     },
     {
       "id": "018d937f-2072-73fb-bb97-ac720e17b5e0",
@@ -17714,10 +18470,19 @@
       "title": "Pony Island",
       "first_seen": "2026-08-17",
       "popularity_rank": 953,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2072-73fb-bb97-ac720e17b5e0/boxart.jpg?t=1784911806",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2072-73fb-bb97-ac720e17b5e0/banner145.jpg?t=1784911806",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2072-73fb-bb97-ac720e17b5e0/banner300.jpg?t=1784911806",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2072-73fb-bb97-ac720e17b5e0/banner400.jpg?t=1784911806",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2072-73fb-bb97-ac720e17b5e0/banner600.jpg?t=1784911807"
+      },
+      "appid": 405640,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 87,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018d937f-1e89-70c6-9ea4-7ab887d061ca",
@@ -17725,10 +18490,19 @@
       "title": "Twelve Minutes",
       "first_seen": "2026-08-17",
       "popularity_rank": 954,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-1e89-70c6-9ea4-7ab887d061ca/boxart.jpg?t=1763730315",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-1e89-70c6-9ea4-7ab887d061ca/banner145.jpg?t=1763730315",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-1e89-70c6-9ea4-7ab887d061ca/banner300.jpg?t=1763730315",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-1e89-70c6-9ea4-7ab887d061ca/banner400.jpg?t=1763730315",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-1e89-70c6-9ea4-7ab887d061ca/banner600.jpg?t=1763730316"
+      },
+      "appid": 1097200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 870,
+        "date": "2026-02-22"
+      }
     },
     {
       "id": "018d937e-ff54-72a0-a5d7-ed10118f50d8",
@@ -17736,9 +18510,15 @@
       "title": "Remember Me",
       "first_seen": "2026-08-17",
       "popularity_rank": 955,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ff54-72a0-a5d7-ed10118f50d8/boxart.jpg?t=1779340806",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ff54-72a0-a5d7-ed10118f50d8/banner145.jpg?t=1779340806",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ff54-72a0-a5d7-ed10118f50d8/banner300.jpg?t=1779340806",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ff54-72a0-a5d7-ed10118f50d8/banner400.jpg?t=1779340806",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ff54-72a0-a5d7-ed10118f50d8/banner600.jpg?t=1779340807"
+      },
+      "appid": 228300,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17747,10 +18527,19 @@
       "title": "Vanquish",
       "first_seen": "2026-08-17",
       "popularity_rank": 956,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0bd1-726f-87ea-0e5450d67481/boxart.jpg?t=1763686532",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0bd1-726f-87ea-0e5450d67481/banner145.jpg?t=1763686532",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0bd1-726f-87ea-0e5450d67481/banner300.jpg?t=1763686532",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0bd1-726f-87ea-0e5450d67481/banner400.jpg?t=1763686532",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0bd1-726f-87ea-0e5450d67481/banner600.jpg?t=1763686532"
+      },
+      "appid": 460810,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 654,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018d937f-22ac-7384-9821-5624846e916f",
@@ -17758,10 +18547,19 @@
       "title": "Beat Hazard",
       "first_seen": "2026-08-17",
       "popularity_rank": 957,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-22ac-7384-9821-5624846e916f/boxart.jpg?t=1760376117",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-22ac-7384-9821-5624846e916f/banner145.jpg?t=1760376117",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-22ac-7384-9821-5624846e916f/banner300.jpg?t=1760376117",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-22ac-7384-9821-5624846e916f/banner400.jpg?t=1760376117",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-22ac-7384-9821-5624846e916f/banner600.jpg?t=1760376118"
+      },
+      "appid": 49600,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 120,
+        "date": "2025-04-11"
+      }
     },
     {
       "id": "018d937f-4a20-71f0-9583-233e75ffbf87",
@@ -17769,10 +18567,19 @@
       "title": "Mortal Sin",
       "first_seen": "2026-08-17",
       "popularity_rank": 958,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4a20-71f0-9583-233e75ffbf87/boxart.jpg?t=1786556427",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4a20-71f0-9583-233e75ffbf87/banner145.jpg?t=1786556427",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4a20-71f0-9583-233e75ffbf87/banner300.jpg?t=1786556427",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4a20-71f0-9583-233e75ffbf87/banner400.jpg?t=1786556427",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4a20-71f0-9583-233e75ffbf87/banner600.jpg?t=1786556427"
+      },
+      "appid": 1494810,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1380,
+        "date": "2025-03-13"
+      }
     },
     {
       "id": "018d937f-089f-73ea-b66e-3167274fdfe7",
@@ -17780,10 +18587,19 @@
       "title": "DOOM 3",
       "first_seen": "2026-08-17",
       "popularity_rank": 959,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-089f-73ea-b66e-3167274fdfe7/boxart.jpg?t=1786692032",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-089f-73ea-b66e-3167274fdfe7/banner145.jpg?t=1786692032",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-089f-73ea-b66e-3167274fdfe7/banner300.jpg?t=1786692032",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-089f-73ea-b66e-3167274fdfe7/banner400.jpg?t=1786692032",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-089f-73ea-b66e-3167274fdfe7/banner600.jpg?t=1786692033"
+      },
+      "appid": 208200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 363,
+        "date": "2026-02-02"
+      }
     },
     {
       "id": "018d937e-f878-71bb-a764-129847a73e53",
@@ -17791,10 +18607,19 @@
       "title": "Pit People",
       "first_seen": "2026-08-17",
       "popularity_rank": 960,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f878-71bb-a764-129847a73e53/boxart.jpg?t=1767726061",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f878-71bb-a764-129847a73e53/banner145.jpg?t=1767726061",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f878-71bb-a764-129847a73e53/banner300.jpg?t=1767726061",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f878-71bb-a764-129847a73e53/banner400.jpg?t=1767726061",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f878-71bb-a764-129847a73e53/banner600.jpg?t=1767726061"
+      },
+      "appid": 291860,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 615,
+        "date": "2026-02-09"
+      }
     },
     {
       "id": "018d937f-26e9-7058-9337-3957883a16b7",
@@ -17802,10 +18627,19 @@
       "title": "Max Payne 2: The Fall of Max Payne",
       "first_seen": "2026-08-17",
       "popularity_rank": 961,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-26e9-7058-9337-3957883a16b7/boxart.jpg?t=1760980940",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-26e9-7058-9337-3957883a16b7/banner145.jpg?t=1760980940",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-26e9-7058-9337-3957883a16b7/banner300.jpg?t=1760980940",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-26e9-7058-9337-3957883a16b7/banner400.jpg?t=1760980940",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-26e9-7058-9337-3957883a16b7/banner600.jpg?t=1760980941"
+      },
+      "appid": 12150,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 245,
+        "date": "2025-01-23"
+      }
     },
     {
       "id": "01922ea2-147b-737e-8e8e-2327fdfc2874",
@@ -17813,9 +18647,15 @@
       "title": "Threads of Time",
       "first_seen": "2026-08-17",
       "popularity_rank": 962,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/01922ea2-147b-737e-8e8e-2327fdfc2874/boxart.jpg?t=1786742126",
+        "banner145": "https://assets.isthereanydeal.com/01922ea2-147b-737e-8e8e-2327fdfc2874/banner145.jpg?t=1786742126",
+        "banner300": "https://assets.isthereanydeal.com/01922ea2-147b-737e-8e8e-2327fdfc2874/banner300.jpg?t=1786742126",
+        "banner400": "https://assets.isthereanydeal.com/01922ea2-147b-737e-8e8e-2327fdfc2874/banner400.jpg?t=1786742126",
+        "banner600": "https://assets.isthereanydeal.com/01922ea2-147b-737e-8e8e-2327fdfc2874/banner600.jpg?t=1786742127"
+      },
+      "appid": 2090210,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17824,10 +18664,19 @@
       "title": "Day of the Tentacle Remastered",
       "first_seen": "2026-08-17",
       "popularity_rank": 963,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2940-7236-871c-cd61721f01d0/boxart.jpg?t=1763123390",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2940-7236-871c-cd61721f01d0/banner145.jpg?t=1763123390",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2940-7236-871c-cd61721f01d0/banner300.jpg?t=1763123390",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2940-7236-871c-cd61721f01d0/banner400.jpg?t=1763123390",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2940-7236-871c-cd61721f01d0/banner600.jpg?t=1763123390"
+      },
+      "appid": 388210,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 296,
+        "date": "2025-03-13"
+      }
     },
     {
       "id": "018d937f-577e-71a0-ad53-619eec0c8533",
@@ -17835,10 +18684,19 @@
       "title": "The Midnight Walk",
       "first_seen": "2026-08-17",
       "popularity_rank": 964,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-577e-71a0-ad53-619eec0c8533/boxart.jpg?t=1768309511",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-577e-71a0-ad53-619eec0c8533/banner145.jpg?t=1768309511",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-577e-71a0-ad53-619eec0c8533/banner300.jpg?t=1768309511",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-577e-71a0-ad53-619eec0c8533/banner400.jpg?t=1768309511",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-577e-71a0-ad53-619eec0c8533/banner600.jpg?t=1768309511"
+      },
+      "appid": 2863640,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1700,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937e-f05c-7388-88ac-876ead826585",
@@ -17846,10 +18704,19 @@
       "title": "Shadow Warrior 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 965,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f05c-7388-88ac-876ead826585/boxart.jpg?t=1761605212",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f05c-7388-88ac-876ead826585/banner145.jpg?t=1761605212",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f05c-7388-88ac-876ead826585/banner300.jpg?t=1761605212",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f05c-7388-88ac-876ead826585/banner400.jpg?t=1761605212",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f05c-7388-88ac-876ead826585/banner600.jpg?t=1761605212"
+      },
+      "appid": 324800,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 340,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-07fe-729b-910f-3823f4b4911a",
@@ -17857,10 +18724,19 @@
       "title": "Eastshade",
       "first_seen": "2026-08-17",
       "popularity_rank": 966,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-07fe-729b-910f-3823f4b4911a/boxart.jpg?t=1787041837",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-07fe-729b-910f-3823f4b4911a/banner145.jpg?t=1787041838",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-07fe-729b-910f-3823f4b4911a/banner300.jpg?t=1787041839",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-07fe-729b-910f-3823f4b4911a/banner400.jpg?t=1787041839",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-07fe-729b-910f-3823f4b4911a/banner600.jpg?t=1787041840"
+      },
+      "appid": 715560,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 700,
+        "date": "2026-04-08"
+      }
     },
     {
       "id": "018d937f-00c3-718f-a69d-f91c0396aa87",
@@ -17868,10 +18744,19 @@
       "title": "Darkwood",
       "first_seen": "2026-08-17",
       "popularity_rank": 967,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-00c3-718f-a69d-f91c0396aa87/boxart.jpg?t=1786637414",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-00c3-718f-a69d-f91c0396aa87/banner145.jpg?t=1786637414",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-00c3-718f-a69d-f91c0396aa87/banner300.jpg?t=1786637414",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-00c3-718f-a69d-f91c0396aa87/banner400.jpg?t=1786637414",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-00c3-718f-a69d-f91c0396aa87/banner600.jpg?t=1786637415"
+      },
+      "appid": 274520,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 296,
+        "date": "2026-02-27"
+      }
     },
     {
       "id": "018d937e-fa46-720f-a299-70210e5a88f5",
@@ -17879,10 +18764,19 @@
       "title": "Homeworld Remastered Collection",
       "first_seen": "2026-08-17",
       "popularity_rank": 968,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fa46-720f-a299-70210e5a88f5/boxart.jpg?t=1781820319",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fa46-720f-a299-70210e5a88f5/banner145.jpg?t=1781820319",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fa46-720f-a299-70210e5a88f5/banner300.jpg?t=1781820319",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fa46-720f-a299-70210e5a88f5/banner400.jpg?t=1781820319",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fa46-720f-a299-70210e5a88f5/banner600.jpg?t=1781820320"
+      },
+      "appid": 244160,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 348,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-7b69-73cb-9999-7b8554f43f2d",
@@ -17890,10 +18784,19 @@
       "title": "SONIC X SHADOW GENERATIONS",
       "first_seen": "2026-08-17",
       "popularity_rank": 969,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7b69-73cb-9999-7b8554f43f2d/boxart.jpg?t=1786693805",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7b69-73cb-9999-7b8554f43f2d/banner145.jpg?t=1786693805",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7b69-73cb-9999-7b8554f43f2d/banner300.jpg?t=1786693805",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7b69-73cb-9999-7b8554f43f2d/banner400.jpg?t=1786693805",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7b69-73cb-9999-7b8554f43f2d/banner600.jpg?t=1786693805"
+      },
+      "appid": 2513280,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1976,
+        "date": "2026-06-18"
+      }
     },
     {
       "id": "018d937f-03cd-735b-9c8f-c12d2f446601",
@@ -17901,9 +18804,15 @@
       "title": "The Ship: Murder Party",
       "first_seen": "2026-08-17",
       "popularity_rank": 970,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-03cd-735b-9c8f-c12d2f446601/boxart.png?t=1731983738",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-03cd-735b-9c8f-c12d2f446601/banner145.jpg?t=1731983738",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-03cd-735b-9c8f-c12d2f446601/banner300.jpg?t=1731983738",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-03cd-735b-9c8f-c12d2f446601/banner400.jpg?t=1731983738",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-03cd-735b-9c8f-c12d2f446601/banner600.jpg?t=1731983739"
+      },
+      "appid": 2400,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17912,10 +18821,19 @@
       "title": "LIGHTNING RETURNS: FINAL FANTASY XIII",
       "first_seen": "2026-08-17",
       "popularity_rank": 971,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-03f0-7096-8860-582bb708c15a/boxart.png?t=1786473950",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-03f0-7096-8860-582bb708c15a/banner145.jpg?t=1786473950",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-03f0-7096-8860-582bb708c15a/banner300.jpg?t=1786473950",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-03f0-7096-8860-582bb708c15a/banner400.jpg?t=1786473950",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-03f0-7096-8860-582bb708c15a/banner600.jpg?t=1786473951"
+      },
+      "appid": 345350,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 896,
+        "date": "2024-12-16"
+      }
     },
     {
       "id": "018d937e-fa59-735e-aba7-44858e0cfa81",
@@ -17923,9 +18841,15 @@
       "title": "Tales of Berseria",
       "first_seen": "2026-08-17",
       "popularity_rank": 972,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-fa59-735e-aba7-44858e0cfa81/boxart.jpg?t=1763585114",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-fa59-735e-aba7-44858e0cfa81/banner145.jpg?t=1763585115",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-fa59-735e-aba7-44858e0cfa81/banner300.jpg?t=1763585115",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-fa59-735e-aba7-44858e0cfa81/banner400.jpg?t=1763585115",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-fa59-735e-aba7-44858e0cfa81/banner600.jpg?t=1763585115"
+      },
+      "appid": 429660,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -17934,10 +18858,19 @@
       "title": "Costume Quest",
       "first_seen": "2026-08-17",
       "popularity_rank": 973,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2855-7369-96bd-511551b27d03/boxart.jpg?t=1776379805",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2855-7369-96bd-511551b27d03/banner145.jpg?t=1776379805",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2855-7369-96bd-511551b27d03/banner300.jpg?t=1776379805",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2855-7369-96bd-511551b27d03/banner400.jpg?t=1776379805",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2855-7369-96bd-511551b27d03/banner600.jpg?t=1776379806"
+      },
+      "appid": 115100,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 147,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-7672-724a-bc87-ca1652823893",
@@ -17945,10 +18878,19 @@
       "title": "Crow Country",
       "first_seen": "2026-08-17",
       "popularity_rank": 974,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7672-724a-bc87-ca1652823893/boxart.jpg?t=1787006743",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7672-724a-bc87-ca1652823893/banner145.jpg?t=1787006743",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7672-724a-bc87-ca1652823893/banner300.jpg?t=1787006743",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7672-724a-bc87-ca1652823893/banner400.jpg?t=1787006743",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7672-724a-bc87-ca1652823893/banner600.jpg?t=1787006743"
+      },
+      "appid": 1996010,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 690,
+        "date": "2026-07-15"
+      }
     },
     {
       "id": "018d937f-6993-7288-8655-db3300f50295",
@@ -17956,10 +18898,19 @@
       "title": "HITMAN World of Assassination",
       "first_seen": "2026-08-17",
       "popularity_rank": 975,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6993-7288-8655-db3300f50295/boxart.jpg?t=1786734019",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6993-7288-8655-db3300f50295/banner145.jpg?t=1786734020",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6993-7288-8655-db3300f50295/banner300.jpg?t=1786734020",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6993-7288-8655-db3300f50295/banner400.jpg?t=1786734020",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6993-7288-8655-db3300f50295/banner600.jpg?t=1786734020"
+      },
+      "appid": 1659040,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 3040,
+        "date": "2024-12-12"
+      }
     },
     {
       "id": "018d937f-00f3-70e3-b3ff-eeb615b10226",
@@ -17967,10 +18918,19 @@
       "title": "The Last Spell",
       "first_seen": "2026-08-17",
       "popularity_rank": 976,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-00f3-70e3-b3ff-eeb615b10226/boxart.jpg?t=1786557035",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-00f3-70e3-b3ff-eeb615b10226/banner145.jpg?t=1786557036",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-00f3-70e3-b3ff-eeb615b10226/banner300.jpg?t=1786557036",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-00f3-70e3-b3ff-eeb615b10226/banner400.jpg?t=1786557036",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-00f3-70e3-b3ff-eeb615b10226/banner600.jpg?t=1786557036"
+      },
+      "appid": 1105670,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 280,
+        "date": "2026-03-19"
+      }
     },
     {
       "id": "018d937e-f02b-70f6-bbc6-8bc38f8a7a73",
@@ -17978,10 +18938,19 @@
       "title": "Fahrenheit: Indigo Prophecy Remastered",
       "first_seen": "2026-08-17",
       "popularity_rank": 977,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f02b-70f6-bbc6-8bc38f8a7a73/boxart.png?t=1786420819",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f02b-70f6-bbc6-8bc38f8a7a73/banner145.jpg?t=1786420819",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f02b-70f6-bbc6-8bc38f8a7a73/banner300.jpg?t=1786420819",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f02b-70f6-bbc6-8bc38f8a7a73/banner400.jpg?t=1786420819",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f02b-70f6-bbc6-8bc38f8a7a73/banner600.jpg?t=1786420819"
+      },
+      "appid": 312840,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 120,
+        "date": "2025-12-01"
+      }
     },
     {
       "id": "018d937f-17aa-71a9-bce1-95081f2c8fa6",
@@ -17989,10 +18958,19 @@
       "title": "STEINS;GATE",
       "first_seen": "2026-08-17",
       "popularity_rank": 978,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-17aa-71a9-bce1-95081f2c8fa6/boxart.jpg?t=1787152809",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-17aa-71a9-bce1-95081f2c8fa6/banner145.jpg?t=1787152809",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-17aa-71a9-bce1-95081f2c8fa6/banner300.jpg?t=1787152809",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-17aa-71a9-bce1-95081f2c8fa6/banner400.jpg?t=1787152809",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-17aa-71a9-bce1-95081f2c8fa6/banner600.jpg?t=1787152809"
+      },
+      "appid": 412830,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 298,
+        "date": "2025-06-27"
+      }
     },
     {
       "id": "018d937f-0c7c-7341-82c7-251c2509385c",
@@ -18000,10 +18978,19 @@
       "title": "Puzzle Agent 2",
       "first_seen": "2026-08-17",
       "popularity_rank": 979,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0c7c-7341-82c7-251c2509385c/boxart.jpg?t=1760376696",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0c7c-7341-82c7-251c2509385c/banner145.jpg?t=1760376696",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0c7c-7341-82c7-251c2509385c/banner300.jpg?t=1760376696",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0c7c-7341-82c7-251c2509385c/banner400.jpg?t=1760376696",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0c7c-7341-82c7-251c2509385c/banner600.jpg?t=1760376697"
+      },
+      "appid": 94590,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 137,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-7b1a-728b-8c90-012b9d8b3031",
@@ -18011,10 +18998,19 @@
       "title": "AI Limit",
       "first_seen": "2026-08-17",
       "popularity_rank": 980,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7b1a-728b-8c90-012b9d8b3031/boxart.jpg?t=1777569653",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7b1a-728b-8c90-012b9d8b3031/banner145.jpg?t=1777569653",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7b1a-728b-8c90-012b9d8b3031/banner300.jpg?t=1777569653",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7b1a-728b-8c90-012b9d8b3031/banner400.jpg?t=1777569653",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7b1a-728b-8c90-012b9d8b3031/banner600.jpg?t=1777569653"
+      },
+      "appid": 2407270,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 3311,
+        "date": "2026-03-19"
+      }
     },
     {
       "id": "018d937f-4052-73ad-903f-e585737c0b87",
@@ -18022,9 +19018,15 @@
       "title": "Falling Frontier",
       "first_seen": "2026-08-17",
       "popularity_rank": 981,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4052-73ad-903f-e585737c0b87/boxart.jpg?t=1786639826",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4052-73ad-903f-e585737c0b87/banner145.jpg?t=1786639826",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4052-73ad-903f-e585737c0b87/banner300.jpg?t=1786639826",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4052-73ad-903f-e585737c0b87/banner400.jpg?t=1786639826",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4052-73ad-903f-e585737c0b87/banner600.jpg?t=1786639826"
+      },
+      "appid": 1280190,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -18033,9 +19035,15 @@
       "title": "F1 2018",
       "first_seen": "2026-08-17",
       "popularity_rank": 982,
-      "assets": null,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3402-7331-9655-ad9c5042c688/boxart.jpg?t=1769731805",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3402-7331-9655-ad9c5042c688/banner145.jpg?t=1769731805",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3402-7331-9655-ad9c5042c688/banner300.jpg?t=1769731806",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3402-7331-9655-ad9c5042c688/banner400.jpg?t=1769731806",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3402-7331-9655-ad9c5042c688/banner600.jpg?t=1769731806"
+      },
       "appid": null,
-      "info_fetched": false,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -18044,10 +19052,19 @@
       "title": "FINAL FANTASY XIII",
       "first_seen": "2026-08-17",
       "popularity_rank": 983,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0120-723c-be2b-6037706890d2/boxart.jpg?t=1786478708",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0120-723c-be2b-6037706890d2/banner145.jpg?t=1786478708",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0120-723c-be2b-6037706890d2/banner300.jpg?t=1786478708",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0120-723c-be2b-6037706890d2/banner400.jpg?t=1786478708",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0120-723c-be2b-6037706890d2/banner600.jpg?t=1786478708"
+      },
+      "appid": 292120,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 733,
+        "date": "2024-12-16"
+      }
     },
     {
       "id": "018d9573-86c4-70ce-b106-a885d3eb3759",
@@ -18055,10 +19072,19 @@
       "title": "Tomb Raider I (1996)",
       "first_seen": "2026-08-17",
       "popularity_rank": 984,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d9573-86c4-70ce-b106-a885d3eb3759/boxart.jpg?t=1763064623",
+        "banner145": "https://assets.isthereanydeal.com/018d9573-86c4-70ce-b106-a885d3eb3759/banner145.jpg?t=1763064623",
+        "banner300": "https://assets.isthereanydeal.com/018d9573-86c4-70ce-b106-a885d3eb3759/banner300.jpg?t=1763064623",
+        "banner400": "https://assets.isthereanydeal.com/018d9573-86c4-70ce-b106-a885d3eb3759/banner400.jpg?t=1763064623",
+        "banner600": "https://assets.isthereanydeal.com/018d9573-86c4-70ce-b106-a885d3eb3759/banner600.jpg?t=1763064624"
+      },
+      "appid": 224960,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 485,
+        "date": "2025-12-11"
+      }
     },
     {
       "id": "018d937f-278b-70cd-9886-3f06164a6690",
@@ -18066,10 +19092,19 @@
       "title": "Rhythm Doctor",
       "first_seen": "2026-08-17",
       "popularity_rank": 985,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-278b-70cd-9886-3f06164a6690/boxart.jpg?t=1786551616",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-278b-70cd-9886-3f06164a6690/banner145.jpg?t=1786551616",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-278b-70cd-9886-3f06164a6690/banner300.jpg?t=1786551616",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-278b-70cd-9886-3f06164a6690/banner400.jpg?t=1786551616",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-278b-70cd-9886-3f06164a6690/banner600.jpg?t=1786551616"
+      },
+      "appid": 774181,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1530,
+        "date": "2025-09-25"
+      }
     },
     {
       "id": "018d937f-084c-705b-b1e9-14f3959b00da",
@@ -18077,10 +19112,19 @@
       "title": "Quiplash",
       "first_seen": "2026-08-17",
       "popularity_rank": 986,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-084c-705b-b1e9-14f3959b00da/boxart.jpg?t=1760030451",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-084c-705b-b1e9-14f3959b00da/banner145.jpg?t=1760030451",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-084c-705b-b1e9-14f3959b00da/banner300.jpg?t=1760030451",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-084c-705b-b1e9-14f3959b00da/banner400.jpg?t=1760030451",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-084c-705b-b1e9-14f3959b00da/banner600.jpg?t=1760030451"
+      },
+      "appid": 351510,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 420,
+        "date": "2025-08-21"
+      }
     },
     {
       "id": "018d937e-ff09-7073-ad85-039cd1a4448e",
@@ -18088,10 +19132,19 @@
       "title": "Bully: Scholarship Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 987,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ff09-7073-ad85-039cd1a4448e/boxart.jpg?t=1761845415",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ff09-7073-ad85-039cd1a4448e/banner145.jpg?t=1761845415",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ff09-7073-ad85-039cd1a4448e/banner300.jpg?t=1761845415",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ff09-7073-ad85-039cd1a4448e/banner400.jpg?t=1761845416",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ff09-7073-ad85-039cd1a4448e/banner600.jpg?t=1761845416"
+      },
+      "appid": 12200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 518,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937e-f481-72b8-a90a-80bac41eeca7",
@@ -18099,9 +19152,15 @@
       "title": "Warlock: Master of the Arcane",
       "first_seen": "2026-08-17",
       "popularity_rank": 988,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f481-72b8-a90a-80bac41eeca7/boxart.png?t=1731954967",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f481-72b8-a90a-80bac41eeca7/banner145.jpg?t=1731954967",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f481-72b8-a90a-80bac41eeca7/banner300.jpg?t=1731954967",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f481-72b8-a90a-80bac41eeca7/banner400.jpg?t=1731954967",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f481-72b8-a90a-80bac41eeca7/banner600.jpg?t=1731954967"
+      },
+      "appid": 203630,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -18110,10 +19169,19 @@
       "title": "Bomb Rush Cyberfunk",
       "first_seen": "2026-08-17",
       "popularity_rank": 989,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-443d-7383-bede-c4e0d42b7cfd/boxart.jpg?t=1786383045",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-443d-7383-bede-c4e0d42b7cfd/banner145.jpg?t=1786383045",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-443d-7383-bede-c4e0d42b7cfd/banner300.jpg?t=1786383045",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-443d-7383-bede-c4e0d42b7cfd/banner400.jpg?t=1786383045",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-443d-7383-bede-c4e0d42b7cfd/banner600.jpg?t=1786383046"
+      },
+      "appid": 1353230,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1800,
+        "date": "2026-08-03"
+      }
     },
     {
       "id": "018d937f-23f7-73eb-942d-0c843bebaf76",
@@ -18121,10 +19189,19 @@
       "title": "Furi",
       "first_seen": "2026-08-17",
       "popularity_rank": 990,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-23f7-73eb-942d-0c843bebaf76/boxart.jpg?t=1769718919",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-23f7-73eb-942d-0c843bebaf76/banner145.jpg?t=1769718919",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-23f7-73eb-942d-0c843bebaf76/banner300.jpg?t=1769718919",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-23f7-73eb-942d-0c843bebaf76/banner400.jpg?t=1769718919",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-23f7-73eb-942d-0c843bebaf76/banner600.jpg?t=1769718919"
+      },
+      "appid": 423230,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 230,
+        "date": "2025-06-20"
+      }
     },
     {
       "id": "018d937f-6ee7-7261-93d8-0a6c535397dd",
@@ -18132,9 +19209,15 @@
       "title": "Blight: Survival",
       "first_seen": "2026-08-17",
       "popularity_rank": 991,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c535397dd/boxart.jpg?t=1770904213",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c535397dd/banner145.jpg?t=1770904213",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c535397dd/banner300.jpg?t=1770904213",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c535397dd/banner400.jpg?t=1770904213",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-6ee7-7261-93d8-0a6c535397dd/banner600.jpg?t=1770904214"
+      },
+      "appid": 1774880,
+      "info_fetched": true,
       "lowest": null
     },
     {
@@ -18143,10 +19226,19 @@
       "title": "Rage",
       "first_seen": "2026-08-17",
       "popularity_rank": 992,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-2289-7210-bfa9-1140416412f3/boxart.jpg?t=1786648856",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-2289-7210-bfa9-1140416412f3/banner145.jpg?t=1786648856",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-2289-7210-bfa9-1140416412f3/banner300.jpg?t=1786648856",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-2289-7210-bfa9-1140416412f3/banner400.jpg?t=1786648856",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-2289-7210-bfa9-1140416412f3/banner600.jpg?t=1786648856"
+      },
+      "appid": 9200,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 330,
+        "date": "2026-02-02"
+      }
     },
     {
       "id": "018d937f-7399-7084-89e1-af18b086f6b9",
@@ -18154,10 +19246,19 @@
       "title": "MiSide",
       "first_seen": "2026-08-17",
       "popularity_rank": 993,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7399-7084-89e1-af18b086f6b9/boxart.jpg?t=1786210825",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7399-7084-89e1-af18b086f6b9/banner145.jpg?t=1786210825",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7399-7084-89e1-af18b086f6b9/banner300.jpg?t=1786210825",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7399-7084-89e1-af18b086f6b9/banner400.jpg?t=1786210825",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7399-7084-89e1-af18b086f6b9/banner600.jpg?t=1786210825"
+      },
+      "appid": 2527500,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1360,
+        "date": "2025-10-27"
+      }
     },
     {
       "id": "018d937f-5256-73e1-bba6-66fd461a55c7",
@@ -18165,10 +19266,19 @@
       "title": "RoboCop: Rogue City",
       "first_seen": "2026-08-17",
       "popularity_rank": 994,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd461a55c7/boxart.jpg?t=1786392097",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd461a55c7/banner145.jpg?t=1786392097",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd461a55c7/banner300.jpg?t=1786392097",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd461a55c7/banner400.jpg?t=1786392097",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5256-73e1-bba6-66fd461a55c7/banner600.jpg?t=1786392097"
+      },
+      "appid": 1681430,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 450,
+        "date": "2025-12-07"
+      }
     },
     {
       "id": "018d9573-86f5-70ae-b7a2-c82924d055c3",
@@ -18176,10 +19286,19 @@
       "title": "Tomb Raider II (1997)",
       "first_seen": "2026-08-17",
       "popularity_rank": 995,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d9573-86f5-70ae-b7a2-c82924d055c3/boxart.jpg?t=1763191133",
+        "banner145": "https://assets.isthereanydeal.com/018d9573-86f5-70ae-b7a2-c82924d055c3/banner145.jpg?t=1763191133",
+        "banner300": "https://assets.isthereanydeal.com/018d9573-86f5-70ae-b7a2-c82924d055c3/banner300.jpg?t=1763191133",
+        "banner400": "https://assets.isthereanydeal.com/018d9573-86f5-70ae-b7a2-c82924d055c3/banner400.jpg?t=1763191133",
+        "banner600": "https://assets.isthereanydeal.com/018d9573-86f5-70ae-b7a2-c82924d055c3/banner600.jpg?t=1763191134"
+      },
+      "appid": 225300,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 485,
+        "date": "2025-12-11"
+      }
     },
     {
       "id": "018d937f-010c-7126-bd87-f9cf88280ee1",
@@ -18187,10 +19306,19 @@
       "title": "Ys VIII: Lacrimosa of Dana",
       "first_seen": "2026-08-17",
       "popularity_rank": 996,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-010c-7126-bd87-f9cf88280ee1/boxart.jpg?t=1761597637",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-010c-7126-bd87-f9cf88280ee1/banner145.jpg?t=1761597637",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-010c-7126-bd87-f9cf88280ee1/banner300.jpg?t=1761597637",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-010c-7126-bd87-f9cf88280ee1/banner400.jpg?t=1761597637",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-010c-7126-bd87-f9cf88280ee1/banner600.jpg?t=1761597637"
+      },
+      "appid": 579180,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2131,
+        "date": "2024-12-20"
+      }
     },
     {
       "id": "018d937f-5328-7260-89d5-ac0c11f0826d",
@@ -18198,10 +19326,19 @@
       "title": "Dread Delusion",
       "first_seen": "2026-08-17",
       "popularity_rank": 997,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5328-7260-89d5-ac0c11f0826d/boxart.jpg?t=1773845424",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5328-7260-89d5-ac0c11f0826d/banner145.jpg?t=1773845424",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5328-7260-89d5-ac0c11f0826d/banner300.jpg?t=1773845424",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5328-7260-89d5-ac0c11f0826d/banner400.jpg?t=1773845424",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5328-7260-89d5-ac0c11f0826d/banner600.jpg?t=1773845424"
+      },
+      "appid": 1574240,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1025,
+        "date": "2026-03-12"
+      }
     },
     {
       "id": "018d937f-0fc0-7310-a1b7-300e83cccf14",
@@ -18209,10 +19346,19 @@
       "title": "The Banner Saga",
       "first_seen": "2026-08-17",
       "popularity_rank": 998,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0fc0-7310-a1b7-300e83cccf14/boxart.jpg?t=1761597319",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0fc0-7310-a1b7-300e83cccf14/banner145.jpg?t=1761597319",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0fc0-7310-a1b7-300e83cccf14/banner300.jpg?t=1761597319",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0fc0-7310-a1b7-300e83cccf14/banner400.jpg?t=1761597319",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0fc0-7310-a1b7-300e83cccf14/banner600.jpg?t=1761597320"
+      },
+      "appid": 237990,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 371,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-5987-7187-8071-0a5609b454d9",
@@ -18220,10 +19366,19 @@
       "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
       "first_seen": "2026-08-17",
       "popularity_rank": 999,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5987-7187-8071-0a5609b454d9/boxart.jpg?t=1763236264",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5987-7187-8071-0a5609b454d9/banner145.jpg?t=1763236264",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5987-7187-8071-0a5609b454d9/banner300.jpg?t=1763236265",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5987-7187-8071-0a5609b454d9/banner400.jpg?t=1763236265",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5987-7187-8071-0a5609b454d9/banner600.jpg?t=1763236265"
+      },
+      "appid": 1712840,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 550,
+        "date": "2024-12-20"
+      }
     }
   ]
 }

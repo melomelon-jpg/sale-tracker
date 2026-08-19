@@ -1,9 +1,154 @@
 {
   "slug": "tom-clancys-ghost-recon-wildlands",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-08",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-15",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-19",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-26",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-20",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-27",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-27",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-03",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-26",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-02",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-06",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-24",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
       "amount": 1320,
       "shop": "Steam"
     },
@@ -25,6 +170,11 @@
     {
       "date": "2026-08-06",
       "amount": 330,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-16",
+      "amount": 6600,
       "shop": "Steam"
     }
   ]

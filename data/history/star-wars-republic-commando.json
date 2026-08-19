@@ -1,0 +1,71 @@
+{
+  "slug": "star-wars-republic-commando",
+  "updated_at": "2026-08-19T21:55:00Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-28",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-12",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    }
+  ]
+}

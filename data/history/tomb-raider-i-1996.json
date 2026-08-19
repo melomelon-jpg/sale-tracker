@@ -1,0 +1,61 @@
+{
+  "slug": "tomb-raider-i-1996",
+  "updated_at": "2026-08-19T21:55:00Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 970,
+      "shop": "Steam"
+    }
+  ]
+}

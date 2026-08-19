@@ -1,6 +1,6 @@
 {
   "slug": "fahrenheit-indigo-prophecy-remastered",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-08-10",
       "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

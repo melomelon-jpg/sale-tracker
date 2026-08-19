@@ -1,0 +1,81 @@
+{
+  "slug": "cloudheim",
+  "updated_at": "2026-08-19T21:55:00Z",
+  "history": [
+    {
+      "date": "2025-12-04",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-21",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-28",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-04",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 2244,
+      "shop": "Steam"
+    }
+  ]
+}

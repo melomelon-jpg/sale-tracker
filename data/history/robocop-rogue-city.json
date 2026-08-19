@@ -1,9 +1,149 @@
 {
   "slug": "robocop-rogue-city",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-08-19T21:55:00Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2632,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-06",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-15",
+      "amount": 1316,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-29",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 658,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-14",
+      "amount": 658,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-21",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-10",
+      "amount": 658,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-24",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 658,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-24",
+      "amount": 658,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-07",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-07",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-11",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
       "amount": 4500,
       "shop": "Steam"
     },
