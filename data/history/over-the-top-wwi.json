@@ -1,0 +1,51 @@
+{
+  "slug": "over-the-top-wwi",
+  "updated_at": "2026-08-20T21:57:37Z",
+  "history": [
+    {
+      "date": "2026-03-06",
+      "amount": 1954,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-20",
+      "amount": 2299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 1793,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 2299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 1609,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 2299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1379,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "repterra",
+  "updated_at": "2026-08-20T21:57:37Z",
+  "history": [
+    {
+      "date": "2026-04-28",
+      "amount": 2080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 2080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1742,
+      "shop": "Steam"
+    }
+  ]
+}

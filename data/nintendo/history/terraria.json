@@ -2,7 +2,7 @@
   "slug": "terraria",
   "title": "Terraria",
   "nsuid": "70010000023877",
-  "updated_at": "2026-08-19T22:16:27Z",
+  "updated_at": "2026-08-20T22:19:25Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -11,6 +11,11 @@
     },
     {
       "date": "2026-08-19",
+      "regular": 4180,
+      "current": 4180
+    },
+    {
+      "date": "2026-08-20",
       "regular": 4180,
       "current": 4180
     }

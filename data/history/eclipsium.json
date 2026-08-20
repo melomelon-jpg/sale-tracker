@@ -1,0 +1,101 @@
+{
+  "slug": "eclipsium",
+  "updated_at": "2026-08-20T21:57:37Z",
+  "history": [
+    {
+      "date": "2025-09-19",
+      "amount": 1349,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-03",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-02",
+      "amount": 1199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-09",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 1199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 1199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-10",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1124,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 1124,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1124,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1049,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 1049,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 974,
+      "shop": "Steam"
+    }
+  ]
+}
