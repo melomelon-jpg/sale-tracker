@@ -1,6 +1,6 @@
 {
   "slug": "baldurs-gate-enhanced-edition",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-08-21T21:53:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-13",
       "amount": 690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

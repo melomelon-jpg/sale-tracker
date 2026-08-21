@@ -1,6 +1,6 @@
 {
   "slug": "untitled-goose-game",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-08-21T21:53:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-04",
       "amount": 770,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 2200,
       "shop": "Steam"
     }
   ]
