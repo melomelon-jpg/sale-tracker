@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-22T21:44:39Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -9324,10 +9324,19 @@
       "title": "Golf With Your Friends",
       "first_seen": "2026-08-17",
       "popularity_rank": 477,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-0a99-7191-b55c-99ef40ebcc36/boxart.jpg?t=1786212647",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-0a99-7191-b55c-99ef40ebcc36/banner145.jpg?t=1786212647",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-0a99-7191-b55c-99ef40ebcc36/banner300.jpg?t=1786212647",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-0a99-7191-b55c-99ef40ebcc36/banner400.jpg?t=1786212647",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-0a99-7191-b55c-99ef40ebcc36/banner600.jpg?t=1786212647"
+      },
+      "appid": 431240,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 152,
+        "date": "2025-12-18"
+      }
     },
     {
       "id": "018d937f-4382-707a-85b5-cdf1984ea8a8",
@@ -12923,10 +12932,19 @@
       "title": "CARRION",
       "first_seen": "2026-08-17",
       "popularity_rank": 662,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f858-7329-9ce7-73c2ab23434e/boxart.jpg?t=1786747228",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f858-7329-9ce7-73c2ab23434e/banner145.jpg?t=1786747228",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f858-7329-9ce7-73c2ab23434e/banner300.jpg?t=1786747228",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f858-7329-9ce7-73c2ab23434e/banner400.jpg?t=1786747228",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f858-7329-9ce7-73c2ab23434e/banner600.jpg?t=1786747229"
+      },
+      "appid": 953490,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 230,
+        "date": "2026-06-11"
+      }
     },
     {
       "id": "018d937e-f8c5-7010-a344-8bec557ebd6a",
@@ -16459,10 +16477,19 @@
       "title": "Total War: Medieval II - Definitive Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 843,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-f4df-7308-b77b-1a2f45158d8b/boxart.jpg?t=1786830911",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-f4df-7308-b77b-1a2f45158d8b/banner145.jpg?t=1786830911",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-f4df-7308-b77b-1a2f45158d8b/banner300.jpg?t=1786830911",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-f4df-7308-b77b-1a2f45158d8b/banner400.jpg?t=1786830911",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-f4df-7308-b77b-1a2f45158d8b/banner600.jpg?t=1786830911"
+      },
+      "appid": 4700,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 548,
+        "date": "2025-06-12"
+      }
     },
     {
       "id": "018d937f-6ff1-733e-8c1d-7de69d1fd2b9",

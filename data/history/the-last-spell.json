@@ -1,6 +1,6 @@
 {
   "slug": "the-last-spell",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-22T21:44:39Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-07-13",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 700,
       "shop": "Steam"
     }
   ]

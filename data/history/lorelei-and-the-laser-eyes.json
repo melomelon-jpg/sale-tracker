@@ -1,6 +1,6 @@
 {
   "slug": "lorelei-and-the-laser-eyes",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-22T21:44:39Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-07-23",
       "amount": 3250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 1625,
       "shop": "Steam"
     }
   ]

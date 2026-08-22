@@ -1,6 +1,6 @@
 {
   "slug": "wanderstop",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-22T21:44:39Z",
   "history": [
     {
       "date": "2025-03-11",
@@ -120,6 +120,11 @@
     {
       "date": "2026-07-23",
       "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 1740,
       "shop": "Steam"
     }
   ]

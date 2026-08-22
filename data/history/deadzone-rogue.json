@@ -1,0 +1,131 @@
+{
+  "slug": "deadzone-rogue",
+  "updated_at": "2026-08-22T21:44:39Z",
+  "history": [
+    {
+      "date": "2025-04-29",
+      "amount": 2188,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-13",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2188,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 2188,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2188,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 2051,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-08",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-15",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 1777,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1777,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-03",
+      "amount": 1777,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 1777,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 1367,
+      "shop": "Steam"
+    }
+  ]
+}

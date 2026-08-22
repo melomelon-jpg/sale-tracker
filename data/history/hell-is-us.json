@@ -1,6 +1,6 @@
 {
   "slug": "hell-is-us",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-08-22T21:44:39Z",
   "history": [
     {
       "date": "2025-02-13",
@@ -70,6 +70,11 @@
     {
       "date": "2026-07-09",
       "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 2632,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,91 @@
+{
+  "slug": "super-fantasy-kingdom",
+  "updated_at": "2026-08-22T21:44:39Z",
+  "history": [
+    {
+      "date": "2025-10-24",
+      "amount": 962,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-07",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 962,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-08",
+      "amount": 962,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-22",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-24",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-10",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 990,
+      "shop": "Steam"
+    }
+  ]
+}

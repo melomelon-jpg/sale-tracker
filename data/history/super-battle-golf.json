@@ -1,0 +1,61 @@
+{
+  "slug": "super-battle-golf",
+  "updated_at": "2026-08-22T21:44:39Z",
+  "history": [
+    {
+      "date": "2026-02-19",
+      "amount": 760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 665,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-14",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 665,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 665,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 665,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 975,
+      "shop": "Steam"
+    }
+  ]
+}
