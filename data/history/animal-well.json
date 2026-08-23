@@ -1,6 +1,6 @@
 {
   "slug": "animal-well",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-08-23T21:43:31Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-09",
       "amount": 2065,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 2950,
       "shop": "Steam"
     }
   ]

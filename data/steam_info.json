@@ -49,6 +49,27 @@
     "name": "The Undisputables : Online Multiplayer Shooter",
     "review_count": null
   },
+  "1002260": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Ruffy and the Riverside",
+    "review_count": 169
+  },
   "1004640": {
     "categories": [
       "シングルプレイヤー",
@@ -194,6 +215,24 @@
     "jp_support": false,
     "name": "I Need Spirit: Off Road Edition",
     "review_count": null
+  },
+  "1016790": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "West of Dead",
+    "review_count": 1286
   },
   "1018160": {
     "categories": [
@@ -490,6 +529,21 @@
     "name": "Where are My Pipes?",
     "review_count": null
   },
+  "1037930": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Era of Miracles",
+    "review_count": 108
+  },
   "1040420": {
     "categories": [
       "シングルプレイヤー",
@@ -509,6 +563,24 @@
     "jp_support": true,
     "name": "Dreamscaper",
     "review_count": 2538
+  },
+  "1042490": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Call of the Sea",
+    "review_count": 4485
   },
   "1043810": {
     "categories": [
@@ -611,6 +683,28 @@
     "jp_support": true,
     "name": "Superliminal",
     "review_count": 28216
+  },
+  "1051200": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Trover Saves the Universe",
+    "review_count": 2802
   },
   "105600": {
     "categories": [
@@ -787,6 +881,24 @@
     "jp_support": true,
     "name": "Dinkum(ディンカム)",
     "review_count": 24568
+  },
+  "1069160": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "SKALD: Against the Black Priory",
+    "review_count": 3298
   },
   "1069540": {
     "categories": [
@@ -2480,6 +2592,21 @@
     "name": "Gloomwood",
     "review_count": 7439
   },
+  "1150990": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Cemetery Warrior 4",
+    "review_count": null
+  },
   "115100": {
     "categories": [
       "シングルプレイヤー",
@@ -2723,6 +2850,23 @@
     "jp_support": true,
     "name": "Trepang2",
     "review_count": 15496
+  },
+  "1166580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Best Plumber",
+    "review_count": 113
   },
   "1167630": {
     "categories": [
@@ -2974,6 +3118,20 @@
     "name": "Red Dead Redemption 2",
     "review_count": 835809
   },
+  "1176160": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Space Wars",
+    "review_count": 106
+  },
   "1176470": {
     "categories": [
       "シングルプレイヤー",
@@ -3185,6 +3343,25 @@
     "name": "Mainframe Defenders メインフレーム・ディフェンダーズ",
     "review_count": 717
   },
+  "1186640": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Pumpkin Jack (パンプキン・ジャック)",
+    "review_count": 7354
+  },
   "1189290": {
     "categories": [
       "シングルプレイヤー",
@@ -3371,6 +3548,21 @@
     "name": "Enshrouded~霧の王国~",
     "review_count": 92457
   },
+  "1203670": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Demolish & Build 3",
+    "review_count": 256
+  },
   "1205450": {
     "categories": [
       "シングルプレイヤー",
@@ -3542,6 +3734,32 @@
     "name": "Infferno",
     "review_count": null
   },
+  "1214670": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Mr. Sun's Hatbox",
+    "review_count": 410
+  },
   "12150": {
     "categories": [
       "シングルプレイヤー",
@@ -3657,6 +3875,42 @@
     "jp_support": false,
     "name": "Grand Theft Auto IV: The Complete Edition",
     "review_count": 178809
+  },
+  "1221240": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Tavern Cards",
+    "review_count": 145
+  },
+  "1221250": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "NORCO",
+    "review_count": 2741
   },
   "1222140": {
     "categories": [
@@ -3775,6 +4029,21 @@
     "jp_support": false,
     "name": "ULTRAKILL",
     "review_count": 210975
+  },
+  "1230140": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "ATRI -My Dear Moments-",
+    "review_count": 21204
   },
   "1231130": {
     "categories": [
@@ -3973,6 +4242,23 @@
     "jp_support": true,
     "name": "ELDEN RING",
     "review_count": 827255
+  },
+  "1249040": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "American Arcadia",
+    "review_count": 3081
   },
   "1249970": {
     "categories": [
@@ -4251,6 +4537,32 @@
     "name": "Party Animals",
     "review_count": 57563
   },
+  "1262060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "バトルラム",
+    "review_count": 2199
+  },
   "1262350": {
     "categories": [
       "シングルプレイヤー",
@@ -4396,6 +4708,28 @@
     "jp_support": true,
     "name": "The Last Faith",
     "review_count": 4629
+  },
+  "1276660": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Tinkertown",
+    "review_count": 981
   },
   "1279240": {
     "categories": [
@@ -5029,6 +5363,35 @@
     "name": "Cult of the Lamb",
     "review_count": 110118
   },
+  "1314000": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Achilles: Legends Untold",
+    "review_count": 2106
+  },
   "1316910": {
     "categories": [
       "シングルプレイヤー",
@@ -5147,6 +5510,23 @@
     "name": "Mass Effect™ Legendary Edition",
     "review_count": 61694
   },
+  "1328840": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Lost in Play",
+    "review_count": 7856
+  },
   "1329420": {
     "categories": [
       "シングルプレイヤー",
@@ -5198,6 +5578,26 @@
     "name": "Becastled",
     "review_count": 5319
   },
+  "1331210": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Wolfstride",
+    "review_count": 776
+  },
   "1332010": {
     "categories": [
       "シングルプレイヤー",
@@ -5232,6 +5632,48 @@
     "jp_support": false,
     "name": "Silenthead: Ducks hunt",
     "review_count": null
+  },
+  "1334000": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Wordle",
+    "review_count": 1145
+  },
+  "1334010": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Last Room",
+    "review_count": 1053
   },
   "1336490": {
     "categories": [
@@ -5809,6 +6251,25 @@
     "name": "ペルソナ5 スクランブル ザ ファントム ストライカーズ",
     "review_count": 12811
   },
+  "1386730": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Wordle 2",
+    "review_count": 384
+  },
   "1386900": {
     "categories": [
       "シングルプレイヤー",
@@ -5969,6 +6430,28 @@
     "jp_support": false,
     "name": "Broken Roads",
     "review_count": 344
+  },
+  "1409830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Sons of Valhalla サンズ・オブ・ヴァルハラ",
+    "review_count": 835
   },
   "1413480": {
     "categories": [
@@ -6196,6 +6679,24 @@
     "name": "Wobbledogs",
     "review_count": 13630
   },
+  "1425250": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "重力場",
+    "review_count": 896
+  },
   "1426210": {
     "categories": [
       "マルチプレイヤー",
@@ -6247,6 +6748,25 @@
     "jp_support": true,
     "name": "Instruments of Destruction",
     "review_count": 1426
+  },
+  "1428820": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Wordle 3",
+    "review_count": 607
   },
   "1429500": {
     "categories": [
@@ -6727,6 +7247,23 @@
     "name": "FINAL FANTASY VII REMAKE INTERGRADE",
     "review_count": 42576
   },
+  "1464610": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Dark Side of War",
+    "review_count": null
+  },
   "1465550": {
     "categories": [
       "シングルプレイヤー",
@@ -6825,6 +7362,25 @@
     "jp_support": false,
     "name": "Royal Roads 2 The Magic Box",
     "review_count": null
+  },
+  "1477020": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Wordle 4",
+    "review_count": 415
   },
   "1487270": {
     "categories": [
@@ -7425,6 +7981,21 @@
     "name": "Predator: Hunting Grounds",
     "review_count": 4568
   },
+  "1557230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Rabbit Riot",
+    "review_count": null
+  },
   "1557860": {
     "categories": [
       "シングルプレイヤー",
@@ -7819,6 +8390,20 @@
     "jp_support": true,
     "name": "Cairn",
     "review_count": 17791
+  },
+  "1590130": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Car Drive",
+    "review_count": null
   },
   "1592280": {
     "categories": [
@@ -9565,6 +10150,21 @@
     "name": "Starfield",
     "review_count": 114855
   },
+  "1717120": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Endless mahjong",
+    "review_count": null
+  },
   "1717510": {
     "categories": [
       "シングルプレイヤー",
@@ -9669,6 +10269,24 @@
     "name": "Visual Novel Sisters",
     "review_count": 191
   },
+  "1736090": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Demolish & Build VR",
+    "review_count": null
+  },
   "1740720": {
     "categories": [
       "シングルプレイヤー",
@@ -9731,6 +10349,24 @@
     "jp_support": false,
     "name": "HYPER DEMON",
     "review_count": 3062
+  },
+  "1750030": {
+    "categories": [
+      "シングルプレイヤー",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Post Trauma",
+    "review_count": 562
   },
   "1750710": {
     "categories": [
@@ -10846,6 +11482,24 @@
     "name": "Dragonkin: The Banished",
     "review_count": 2189
   },
+  "1867190": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Wordle 5",
+    "review_count": 242
+  },
   "1867510": {
     "categories": [
       "シングルプレイヤー",
@@ -11448,6 +12102,29 @@
     "jp_support": true,
     "name": "Garden Life: A Cozy Simulator",
     "review_count": 883
+  },
+  "1919040": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Winter",
+    "review_count": 345
   },
   "1919470": {
     "categories": [
@@ -12263,6 +12940,22 @@
     "name": "LaserPoint",
     "review_count": null
   },
+  "1995110": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Slime Dungeon",
+    "review_count": null
+  },
   "1996010": {
     "categories": [
       "シングルプレイヤー",
@@ -12635,6 +13328,24 @@
     "jp_support": true,
     "name": "Boxes: Lost Fragments",
     "review_count": 3189
+  },
+  "2020710": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Havendock",
+    "review_count": 1491
   },
   "202170": {
     "categories": [
@@ -14628,6 +15339,44 @@
     "name": "Hotline Miami",
     "review_count": 108908
   },
+  "2195410": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ソングス・オブ・サイレンス",
+    "review_count": 2347
+  },
   "219640": {
     "categories": [
       "マルチプレイヤー",
@@ -14894,6 +15643,38 @@
     "jp_support": false,
     "name": "DmC: Devil May Cry",
     "review_count": 20801
+  },
+  "2206460": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steam入力APIサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Furry Killer",
+    "review_count": 237
+  },
+  "2207060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Nanali in another world",
+    "review_count": null
   },
   "2207070": {
     "categories": [
@@ -16330,6 +17111,26 @@
     "name": "Company of Heroes 2",
     "review_count": 68798
   },
+  "2315400": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Knights in Tight Spaces",
+    "review_count": 827
+  },
   "232090": {
     "categories": [
       "シングルプレイヤー",
@@ -16766,6 +17567,37 @@
     "jp_support": false,
     "name": "Tropico 3",
     "review_count": 838
+  },
+  "2350270": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Primal Planet",
+    "review_count": 597
   },
   "2350790": {
     "categories": [
@@ -19857,6 +20689,30 @@
     "jp_support": false,
     "name": "The Walking Dead: Season Two",
     "review_count": 26768
+  },
+  "2610650": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Don't Stop, Girlypop!",
+    "review_count": 498
   },
   "261110": {
     "categories": [
@@ -23213,6 +24069,90 @@
     "name": "Skin Deep",
     "review_count": 1653
   },
+  "3015100": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Apocalyptic cat",
+    "review_count": 105
+  },
+  "3015110": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Backrooms Cats and Lava",
+    "review_count": 108
+  },
+  "3015120": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Cyber Assasin",
+    "review_count": null
+  },
+  "3015130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Digital Meow",
+    "review_count": 105
+  },
+  "3015140": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Dungeon Digger",
+    "review_count": 101
+  },
+  "3015190": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Rap Pop Jump Core",
+    "review_count": null
+  },
   "301640": {
     "categories": [
       "シングルプレイヤー",
@@ -23317,6 +24257,34 @@
     "name": "Ryse: Son of Rome",
     "review_count": 37890
   },
+  "3028280": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Drag and Drop Medieval",
+    "review_count": null
+  },
+  "3028300": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Happy Souls",
+    "review_count": null
+  },
   "3028700": {
     "categories": [
       "シングルプレイヤー",
@@ -23348,6 +24316,90 @@
     "jp_support": false,
     "name": "The Beginner's Guide",
     "review_count": 19795
+  },
+  "3032560": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Jam Jump",
+    "review_count": null
+  },
+  "3032580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "LEVEL UP 80",
+    "review_count": 102
+  },
+  "3032590": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Pixel Golf Club",
+    "review_count": null
+  },
+  "3032600": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "レース"
+    ],
+    "jp_support": true,
+    "name": "Raceborn",
+    "review_count": null
+  },
+  "3032610": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Space Gray X",
+    "review_count": null
+  },
+  "3032660": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Sus Virus Amogus",
+    "review_count": null
   },
   "3041230": {
     "categories": [
@@ -23594,6 +24646,20 @@
     "name": "龍が如く８外伝 Pirates in Hawaii",
     "review_count": 6478
   },
+  "3064750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Wrong Bullet",
+    "review_count": null
+  },
   "306760": {
     "categories": [
       "シングルプレイヤー",
@@ -23716,6 +24782,21 @@
     "name": "Lootbound",
     "review_count": 619
   },
+  "3100910": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Play with my balls",
+    "review_count": null
+  },
   "3105440": {
     "categories": [
       "シングルプレイヤー",
@@ -23809,6 +24890,49 @@
     "jp_support": true,
     "name": "METAL GEAR SOLID V: GROUND ZEROES",
     "review_count": 13431
+  },
+  "3113500": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "KILL KILL KILL KILL",
+    "review_count": null
+  },
+  "3113510": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Skidaddle Skidoodle",
+    "review_count": null
+  },
+  "3113780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Grab and Guts",
+    "review_count": null
   },
   "311690": {
     "categories": [
@@ -23985,6 +25109,20 @@
     "jp_support": false,
     "name": "Microsoft Flight Simulator X: Steam Edition",
     "review_count": 23260
+  },
+  "3144130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Pitty Meaty",
+    "review_count": 122
   },
   "315210": {
     "categories": [
@@ -25793,6 +26931,104 @@
     "name": "Wolfenstein: The Old Blood",
     "review_count": 17916
   },
+  "3505820": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Cyber Tower 2048",
+    "review_count": null
+  },
+  "3505830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Kitty's Hungry Adventure",
+    "review_count": null
+  },
+  "3505840": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Magic Tiny Lands",
+    "review_count": null
+  },
+  "3505850": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Schizo Dark",
+    "review_count": null
+  },
+  "3505880": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "SNAKE GAME ULTRA CORE",
+    "review_count": null
+  },
+  "3505890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "Tech Blast",
+    "review_count": null
+  },
+  "3505910": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Unusual and not safe experiments",
+    "review_count": null
+  },
   "350640": {
     "categories": [
       "シングルプレイヤー",
@@ -26264,6 +27500,34 @@
     "name": "Elite Dangerous",
     "review_count": 82029
   },
+  "359510": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Tangle Tower",
+    "review_count": 6316
+  },
   "3595270": {
     "categories": [
       "シングルプレイヤー",
@@ -26548,6 +27812,25 @@
     "jp_support": false,
     "name": "Kona",
     "review_count": 2760
+  },
+  "365360": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Battle Brothers",
+    "review_count": 25897
   },
   "365450": {
     "categories": [
@@ -27205,6 +28488,19 @@
     "jp_support": false,
     "name": "Divinity: Original Sin - Enhanced Edition",
     "review_count": 27277
+  },
+  "3735100": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": false,
+    "name": "Realm",
+    "review_count": null
   },
   "374320": {
     "categories": [
@@ -28450,6 +29746,34 @@
     "name": "Garry's Mod",
     "review_count": 1087465
   },
+  "4001890": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "How to Fish",
+    "review_count": 9983
+  },
   "400910": {
     "categories": [
       "シングルプレイヤー",
@@ -28640,6 +29964,28 @@
     ],
     "jp_support": false,
     "name": "Robot Squad Simulator 2017",
+    "review_count": null
+  },
+  "4066650": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "データ",
+      "ファミリーシェアリング",
+      "Steamタイムライン"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "レース",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Real Car Parking Simulator",
     "review_count": null
   },
   "4069520": {
@@ -30724,6 +32070,19 @@
     "jp_support": false,
     "name": "Total War: MEDIEVAL II – Definitive Edition",
     "review_count": 27159
+  },
+  "470740": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Demolish & Build 2017",
+    "review_count": 301
   },
   "471010": {
     "categories": [
@@ -34086,6 +35445,24 @@
     "name": "Quake Champions",
     "review_count": 6342
   },
+  "612390": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Dandara: Trials of Fear Edition",
+    "review_count": 850
+  },
   "612880": {
     "categories": [
       "シングルプレイヤー",
@@ -34976,6 +36353,27 @@
     "name": "Ashen",
     "review_count": 3272
   },
+  "651670": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Star Renegades",
+    "review_count": 2662
+  },
   "652880": {
     "categories": [
       "シングルプレイヤー",
@@ -35441,6 +36839,28 @@
     "jp_support": false,
     "name": "RollerCoaster Tycoon® Classic",
     "review_count": 2635
+  },
+  "684410": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Bridge Constructor Portal",
+    "review_count": 6587
   },
   "684450": {
     "categories": [
@@ -36511,6 +37931,41 @@
     "jp_support": false,
     "name": "DEPLOYMENT",
     "review_count": 1021
+  },
+  "757310": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Sable",
+    "review_count": 5323
+  },
+  "757320": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Atomicrops",
+    "review_count": 5108
   },
   "758870": {
     "categories": [
@@ -37686,6 +39141,23 @@
     "jp_support": true,
     "name": "SAVANNA SHOT VR",
     "review_count": null
+  },
+  "865610": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Tails Noir",
+    "review_count": 2579
   },
   "866800": {
     "categories": [
@@ -39065,6 +40537,24 @@
     "jp_support": true,
     "name": "ホグワーツ・レガシー",
     "review_count": 272781
+  },
+  "991170": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-08-23T21:43:31Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Barn Finders",
+    "review_count": 3960
   },
   "992300": {
     "categories": [

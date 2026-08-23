@@ -1,0 +1,71 @@
+{
+  "slug": "don-t-stop-girlypop",
+  "updated_at": "2026-08-23T21:43:31Z",
+  "history": [
+    {
+      "date": "2026-01-29",
+      "amount": 2070,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-08",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 1380,
+      "shop": "Steam"
+    }
+  ]
+}

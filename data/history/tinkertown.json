@@ -1,0 +1,231 @@
+{
+  "slug": "tinkertown",
+  "updated_at": "2026-08-23T21:43:31Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-12",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-11",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-18",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 228,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-24",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-26",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-02",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-19",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-18",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-24",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 228,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-31",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-03",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-12",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-12",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-26",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-25",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-08",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-22",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-21",
+      "amount": 247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-07",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 228,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-06",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-20",
+      "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 171,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 171,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 190,
+      "shop": "Steam"
+    }
+  ]
+}

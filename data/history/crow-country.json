@@ -1,6 +1,6 @@
 {
   "slug": "crow-country",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-08-23T21:43:31Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-07-22",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 1150,
       "shop": "Steam"
     }
   ]
