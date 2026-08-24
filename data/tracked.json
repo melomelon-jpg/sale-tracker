@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -3038,8 +3038,8 @@
       "appid": 2054970,
       "info_fetched": true,
       "lowest": {
-        "amount": 3775,
-        "date": "2025-06-05"
+        "amount": 3742,
+        "date": "2026-08-24"
       }
     },
     {
@@ -6273,10 +6273,19 @@
       "title": "Dredge",
       "first_seen": "2026-08-17",
       "popularity_rank": 318,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5288-7397-8712-586d47b31fab/boxart.jpg?t=1786385476",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5288-7397-8712-586d47b31fab/banner145.jpg?t=1786385476",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5288-7397-8712-586d47b31fab/banner300.jpg?t=1786385476",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5288-7397-8712-586d47b31fab/banner400.jpg?t=1786385476",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5288-7397-8712-586d47b31fab/banner600.jpg?t=1786385476"
+      },
+      "appid": 1562430,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1120,
+        "date": "2025-10-20"
+      }
     },
     {
       "id": "018d937f-11d2-70c4-9b73-0a6cf0e6f35e",
@@ -6395,10 +6404,19 @@
       "title": "Persona 5 Royal",
       "first_seen": "2026-08-17",
       "popularity_rank": 325,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/boxart.jpg?t=1786395642",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner145.jpg?t=1786395642",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner300.jpg?t=1786395642",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner400.jpg?t=1786395642",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4adb-73a6-a9e5-94ff62f6265b/banner600.jpg?t=1786395642"
+      },
+      "appid": 1687950,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1535,
+        "date": "2026-04-23"
+      }
     },
     {
       "id": "0190378e-1a64-720e-8971-4595157e24f3",
@@ -7727,10 +7745,19 @@
       "title": "Alien: Isolation",
       "first_seen": "2026-08-17",
       "popularity_rank": 394,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937e-ff11-7011-8841-547a2015c0f1/boxart.jpg?t=1787004660",
+        "banner145": "https://assets.isthereanydeal.com/018d937e-ff11-7011-8841-547a2015c0f1/banner145.jpg?t=1787004660",
+        "banner300": "https://assets.isthereanydeal.com/018d937e-ff11-7011-8841-547a2015c0f1/banner300.jpg?t=1787004660",
+        "banner400": "https://assets.isthereanydeal.com/018d937e-ff11-7011-8841-547a2015c0f1/banner400.jpg?t=1787004660",
+        "banner600": "https://assets.isthereanydeal.com/018d937e-ff11-7011-8841-547a2015c0f1/banner600.jpg?t=1787004660"
+      },
+      "appid": 214490,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 796,
+        "date": "2025-04-24"
+      }
     },
     {
       "id": "018d937f-0c79-7287-a46c-67c271e0c562",
@@ -9041,10 +9068,19 @@
       "title": "Lords of the Fallen",
       "first_seen": "2026-08-17",
       "popularity_rank": 462,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-18f6-727f-b84d-7870e7ccc341/boxart.jpg?t=1786952721",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-18f6-727f-b84d-7870e7ccc341/banner145.jpg?t=1786952721",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-18f6-727f-b84d-7870e7ccc341/banner300.jpg?t=1786952721",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-18f6-727f-b84d-7870e7ccc341/banner400.jpg?t=1786952721",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-18f6-727f-b84d-7870e7ccc341/banner600.jpg?t=1786952721"
+      },
+      "appid": 1501750,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1402,
+        "date": "2026-03-16"
+      }
     },
     {
       "id": "018d937f-35b5-7152-ae42-b522bf174b0a",
@@ -9344,10 +9380,19 @@
       "title": "Persona 4 Golden",
       "first_seen": "2026-08-17",
       "popularity_rank": 478,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4382-707a-85b5-cdf1984ea8a8/boxart.jpg?t=1786383020",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4382-707a-85b5-cdf1984ea8a8/banner145.jpg?t=1786383020",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4382-707a-85b5-cdf1984ea8a8/banner300.jpg?t=1786383021",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4382-707a-85b5-cdf1984ea8a8/banner400.jpg?t=1786383021",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4382-707a-85b5-cdf1984ea8a8/banner600.jpg?t=1786383021"
+      },
+      "appid": 1113000,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 990,
+        "date": "2025-04-24"
+      }
     },
     {
       "id": "018d937f-35f0-737f-b2ce-be4dedf644e4",
@@ -13152,10 +13197,19 @@
       "title": "Like a Dragon: Pirate Yakuza in Hawaii",
       "first_seen": "2026-08-17",
       "popularity_rank": 673,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/01920f27-372f-735d-ac2c-aecacd8ba1b9/boxart.jpg?t=1786652728",
+        "banner145": "https://assets.isthereanydeal.com/01920f27-372f-735d-ac2c-aecacd8ba1b9/banner145.jpg?t=1786652728",
+        "banner300": "https://assets.isthereanydeal.com/01920f27-372f-735d-ac2c-aecacd8ba1b9/banner300.jpg?t=1786652728",
+        "banner400": "https://assets.isthereanydeal.com/01920f27-372f-735d-ac2c-aecacd8ba1b9/banner400.jpg?t=1786652728",
+        "banner600": "https://assets.isthereanydeal.com/01920f27-372f-735d-ac2c-aecacd8ba1b9/banner600.jpg?t=1786652728"
+      },
+      "appid": 3061810,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 1732,
+        "date": "2026-06-04"
+      }
     },
     {
       "id": "018d937f-1caf-70bb-ab3c-94639021eb9c",
@@ -13280,10 +13334,19 @@
       "title": "Crusader Kings III",
       "first_seen": "2026-08-17",
       "popularity_rank": 680,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-3a2c-706d-9bc5-6eb0d04e3857/boxart.jpg?t=1786661115",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-3a2c-706d-9bc5-6eb0d04e3857/banner145.jpg?t=1786661115",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-3a2c-706d-9bc5-6eb0d04e3857/banner300.jpg?t=1786661115",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-3a2c-706d-9bc5-6eb0d04e3857/banner400.jpg?t=1786661115",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-3a2c-706d-9bc5-6eb0d04e3857/banner600.jpg?t=1786661115"
+      },
+      "appid": 1158310,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2097,
+        "date": "2024-12-19"
+      }
     },
     {
       "id": "018d937f-2b26-73ef-b354-de774dc0dbc9",
@@ -16654,10 +16717,19 @@
       "title": "Two Point Museum",
       "first_seen": "2026-08-17",
       "popularity_rank": 852,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/boxart.jpg?t=1787237436",
+        "banner145": "https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/banner145.jpg?t=1787237436",
+        "banner300": "https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/banner300.jpg?t=1787237436",
+        "banner400": "https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/banner400.jpg?t=1787237436",
+        "banner600": "https://assets.isthereanydeal.com/01915130-8a02-7145-a090-fed280414ae8/banner600.jpg?t=1787237436"
+      },
+      "appid": 2185060,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2604,
+        "date": "2026-06-16"
+      }
     },
     {
       "id": "018d937f-1aec-7102-83f9-35f468f6cc40",
@@ -18114,10 +18186,19 @@
       "title": "Shin Megami Tensei V: Vengeance",
       "first_seen": "2026-08-17",
       "popularity_rank": 928,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018deb4b-fc79-712e-a822-7612a09aaf89/boxart.jpg?t=1786386343",
+        "banner145": "https://assets.isthereanydeal.com/018deb4b-fc79-712e-a822-7612a09aaf89/banner145.jpg?t=1786386343",
+        "banner300": "https://assets.isthereanydeal.com/018deb4b-fc79-712e-a822-7612a09aaf89/banner300.jpg?t=1786386343",
+        "banner400": "https://assets.isthereanydeal.com/018deb4b-fc79-712e-a822-7612a09aaf89/banner400.jpg?t=1786386343",
+        "banner600": "https://assets.isthereanydeal.com/018deb4b-fc79-712e-a822-7612a09aaf89/banner600.jpg?t=1786386343"
+      },
+      "appid": 1875830,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2963,
+        "date": "2026-06-25"
+      }
     },
     {
       "id": "018d937f-081d-7280-af82-3596d8b4fd69",

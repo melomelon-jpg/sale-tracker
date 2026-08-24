@@ -1,6 +1,6 @@
 {
   "slug": "alan-wakes-american-nightmare",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-07-09",
       "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 100,
       "shop": "Steam"
     }
   ]

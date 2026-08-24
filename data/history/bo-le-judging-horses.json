@@ -1,0 +1,76 @@
+{
+  "slug": "bo-le-judging-horses",
+  "updated_at": "2026-08-24T21:57:09Z",
+  "history": [
+    {
+      "date": "2026-02-16",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 266,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 266,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 367,
+      "shop": "Steam"
+    }
+  ]
+}

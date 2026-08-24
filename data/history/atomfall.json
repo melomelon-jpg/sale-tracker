@@ -1,6 +1,6 @@
 {
   "slug": "atomfall",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -85,6 +85,11 @@
     {
       "date": "2026-07-09",
       "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2200,
       "shop": "Steam"
     }
   ]

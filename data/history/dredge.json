@@ -1,6 +1,6 @@
 {
   "slug": "dredge",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-08-10",
       "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,106 @@
+{
+  "slug": "eriksholm-the-stolen-dream",
+  "updated_at": "2026-08-24T21:57:09Z",
+  "history": [
+    {
+      "date": "2025-07-15",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 4799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 4499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-09",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 4499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-13",
+      "amount": 4499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-25",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 4199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 4199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-26",
+      "amount": 4199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 3599,
+      "shop": "Steam"
+    }
+  ]
+}

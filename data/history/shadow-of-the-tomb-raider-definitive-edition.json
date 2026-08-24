@@ -1,6 +1,6 @@
 {
   "slug": "shadow-of-the-tomb-raider-definitive-edition",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-16",
       "amount": 5540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 831,
       "shop": "Steam"
     }
   ]

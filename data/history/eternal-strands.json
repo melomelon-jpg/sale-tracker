@@ -1,0 +1,121 @@
+{
+  "slug": "eternal-strands",
+  "updated_at": "2026-08-24T21:57:09Z",
+  "history": [
+    {
+      "date": "2025-01-28",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-15",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-22",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 4499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1349,
+      "shop": "Steam"
+    }
+  ]
+}

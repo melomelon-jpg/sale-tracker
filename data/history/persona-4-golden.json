@@ -1,6 +1,6 @@
 {
   "slug": "persona-4-golden",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-08-24T21:57:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-08-10",
       "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]
