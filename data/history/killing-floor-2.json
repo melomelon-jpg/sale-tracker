@@ -1,6 +1,6 @@
 {
   "slug": "killing-floor-2",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-08-25T21:56:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": 298,
       "shop": "Steam"
     }
   ]

@@ -2,7 +2,7 @@
   "slug": "octopath-traveler",
   "title": "OCTOPATH TRAVELER",
   "nsuid": "70010000001596",
-  "updated_at": "2026-08-24T22:22:24Z",
+  "updated_at": "2026-08-25T22:13:55Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -36,6 +36,11 @@
     },
     {
       "date": "2026-08-24",
+      "regular": 5478,
+      "current": 5478
+    },
+    {
+      "date": "2026-08-25",
       "regular": 5478,
       "current": 5478
     }

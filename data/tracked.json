@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-25T21:56:12Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -1385,9 +1385,15 @@
       "title": "Cult of the Lamb",
       "first_seen": "2026-08-17",
       "popularity_rank": 70,
-      "assets": {},
-      "appid": null,
-      "info_fetched": false,
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/boxart.jpg?t=1786556447",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner145.jpg?t=1786556447",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner300.jpg?t=1786556447",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner400.jpg?t=1786556447",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-5ccf-7344-a579-d8feb6ba83cf/banner600.jpg?t=1786556447"
+      },
+      "appid": 1313140,
+      "info_fetched": true,
       "lowest": {
         "amount": 1028,
         "date": "2026-01-22"
@@ -1446,8 +1452,8 @@
       "appid": 3321460,
       "info_fetched": true,
       "lowest": {
-        "amount": 9680,
-        "date": "2025-09-25"
+        "amount": 7744,
+        "date": "2026-08-25"
       }
     },
     {
@@ -8317,8 +8323,8 @@
       "appid": 2483190,
       "info_fetched": true,
       "lowest": {
-        "amount": 9800,
-        "date": "2026-01-22"
+        "amount": 8330,
+        "date": "2026-08-25"
       }
     },
     {
@@ -10485,10 +10491,19 @@
       "title": "Like a Dragon: Infinite Wealth",
       "first_seen": "2026-08-17",
       "popularity_rank": 534,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-7515-714c-a729-3ee2fa98effc/boxart.jpg?t=1786650690",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-7515-714c-a729-3ee2fa98effc/banner145.jpg?t=1786650690",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-7515-714c-a729-3ee2fa98effc/banner300.jpg?t=1786650690",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-7515-714c-a729-3ee2fa98effc/banner400.jpg?t=1786650690",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-7515-714c-a729-3ee2fa98effc/banner600.jpg?t=1786650690"
+      },
+      "appid": 2072450,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 2420,
+        "date": "2026-06-04"
+      }
     },
     {
       "id": "018d937e-fd08-732e-a1d1-cee1c7d920d5",

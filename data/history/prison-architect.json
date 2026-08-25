@@ -1,6 +1,6 @@
 {
   "slug": "prison-architect",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-25T21:56:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-07-19",
       "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": 798,
       "shop": "Steam"
     }
   ]

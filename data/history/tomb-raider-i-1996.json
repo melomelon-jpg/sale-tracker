@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-i-1996",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-08-25T21:56:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -55,6 +55,11 @@
     {
       "date": "2026-07-16",
       "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 485,
       "shop": "Steam"
     }
   ]

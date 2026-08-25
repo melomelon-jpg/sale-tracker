@@ -2,7 +2,7 @@
   "slug": "cuphead",
   "title": "Cuphead",
   "nsuid": "70010000016331",
-  "updated_at": "2026-08-24T22:22:11Z",
+  "updated_at": "2026-08-25T22:13:43Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -36,6 +36,11 @@
     },
     {
       "date": "2026-08-24",
+      "regular": 1980,
+      "current": 1980
+    },
+    {
+      "date": "2026-08-25",
       "regular": 1980,
       "current": 1980
     }
