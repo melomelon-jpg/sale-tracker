@@ -1,0 +1,101 @@
+{
+  "slug": "lego-voyagers",
+  "updated_at": "2026-08-28T22:00:25Z",
+  "history": [
+    {
+      "date": "2025-09-15",
+      "amount": 2610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-25",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-09",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-28",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-08",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-10",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-18",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-02",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 1740,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "the-binding-of-isaac",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-08-28T22:00:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -225,6 +225,11 @@
     {
       "date": "2026-08-21",
       "amount": 249,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 498,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "mafia-ii-definitive-edition",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-08-28T22:00:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-08-14",
       "amount": 660,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 3300,
       "shop": "Steam"
     }
   ]

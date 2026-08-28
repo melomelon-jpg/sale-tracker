@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-08-28T22:00:25Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -6359,10 +6359,19 @@
       "title": "Mafia: The Old Country",
       "first_seen": "2026-08-17",
       "popularity_rank": 322,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/0191716e-0f12-7015-8a6a-ed2950f0519b/boxart.jpg?t=1786752036",
+        "banner145": "https://assets.isthereanydeal.com/0191716e-0f12-7015-8a6a-ed2950f0519b/banner145.jpg?t=1786752036",
+        "banner300": "https://assets.isthereanydeal.com/0191716e-0f12-7015-8a6a-ed2950f0519b/banner300.jpg?t=1786752036",
+        "banner400": "https://assets.isthereanydeal.com/0191716e-0f12-7015-8a6a-ed2950f0519b/banner400.jpg?t=1786752036",
+        "banner600": "https://assets.isthereanydeal.com/0191716e-0f12-7015-8a6a-ed2950f0519b/banner600.jpg?t=1786752036"
+      },
+      "appid": 1941540,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 4158,
+        "date": "2026-08-14"
+      }
     },
     {
       "id": "018d937f-03d3-7232-90a1-d6ae64153f13",
@@ -10040,10 +10049,19 @@
       "title": "Mafia II: Definitive Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 511,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4292-724a-a13a-1f1da1e0ad6c/boxart.jpg?t=1786746040",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4292-724a-a13a-1f1da1e0ad6c/banner145.jpg?t=1786746040",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4292-724a-a13a-1f1da1e0ad6c/banner300.jpg?t=1786746040",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4292-724a-a13a-1f1da1e0ad6c/banner400.jpg?t=1786746040",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4292-724a-a13a-1f1da1e0ad6c/banner600.jpg?t=1786746040"
+      },
+      "appid": 1030830,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 660,
+        "date": "2025-05-08"
+      }
     },
     {
       "id": "018d937f-4b67-7020-aac6-246767f92aa6",
@@ -12371,10 +12389,19 @@
       "title": "Mafia: Definitive Edition",
       "first_seen": "2026-08-17",
       "popularity_rank": 630,
-      "assets": null,
-      "appid": null,
-      "info_fetched": false,
-      "lowest": null
+      "assets": {
+        "boxart": "https://assets.isthereanydeal.com/018d937f-4293-7217-a8d5-41fbae8f2929/boxart.jpg?t=1786741531",
+        "banner145": "https://assets.isthereanydeal.com/018d937f-4293-7217-a8d5-41fbae8f2929/banner145.jpg?t=1786741531",
+        "banner300": "https://assets.isthereanydeal.com/018d937f-4293-7217-a8d5-41fbae8f2929/banner300.jpg?t=1786741531",
+        "banner400": "https://assets.isthereanydeal.com/018d937f-4293-7217-a8d5-41fbae8f2929/banner400.jpg?t=1786741531",
+        "banner600": "https://assets.isthereanydeal.com/018d937f-4293-7217-a8d5-41fbae8f2929/banner600.jpg?t=1786741531"
+      },
+      "appid": 1030840,
+      "info_fetched": true,
+      "lowest": {
+        "amount": 742,
+        "date": "2025-05-08"
+      }
     },
     {
       "id": "018d937e-f8c5-7010-a344-8bec5817cdea",

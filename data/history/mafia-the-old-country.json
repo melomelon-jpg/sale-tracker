@@ -1,6 +1,6 @@
 {
   "slug": "mafia-the-old-country",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-08-28T22:00:25Z",
   "history": [
     {
       "date": "2025-05-08",
@@ -70,6 +70,11 @@
     {
       "date": "2026-08-14",
       "amount": 4158,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 6930,
       "shop": "Steam"
     }
   ]

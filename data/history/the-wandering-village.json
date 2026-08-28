@@ -1,6 +1,6 @@
 {
   "slug": "the-wandering-village",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-28T22:00:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-07-29",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]
