@@ -1,0 +1,201 @@
+{
+  "slug": "railgrade",
+  "updated_at": "2026-08-28T02:25:02Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-18",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-17",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-31",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-02",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-12",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-11",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-25",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-25",
+      "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-08",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1312,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-14",
+      "amount": 1082,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-21",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-20",
+      "amount": 1082,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-03",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1082,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-19",
+      "amount": 1082,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-03",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-18",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-04",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-03",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 984,
+      "shop": "Steam"
+    }
+  ]
+}

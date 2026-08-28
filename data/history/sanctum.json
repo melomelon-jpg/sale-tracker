@@ -1,6 +1,6 @@
 {
   "slug": "sanctum",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-07-20",
       "amount": 1390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 278,
       "shop": "Steam"
     }
   ]

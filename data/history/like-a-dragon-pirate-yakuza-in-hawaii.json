@@ -1,6 +1,6 @@
 {
   "slug": "like-a-dragon-pirate-yakuza-in-hawaii",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-08-13",
       "amount": 1732,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 6930,
       "shop": "Steam"
     }
   ]

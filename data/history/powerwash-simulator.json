@@ -1,6 +1,6 @@
 {
   "slug": "powerwash-simulator",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-07-09",
       "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1188,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "dayz",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-07-27",
       "amount": 6200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 3100,
       "shop": "Steam"
     }
   ]

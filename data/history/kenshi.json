@@ -1,6 +1,6 @@
 {
   "slug": "kenshi",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-07-27",
       "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1400,
       "shop": "Steam"
     }
   ]

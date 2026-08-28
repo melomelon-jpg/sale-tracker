@@ -1,6 +1,6 @@
 {
   "slug": "bellwright",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-07-09",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 2244,
       "shop": "Steam"
     }
   ]

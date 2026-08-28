@@ -1,6 +1,6 @@
 {
   "slug": "kingdom-two-crowns",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-07-23",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 460,
       "shop": "Steam"
     }
   ]

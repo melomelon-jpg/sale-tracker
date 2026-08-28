@@ -1,6 +1,6 @@
 {
   "slug": "xcom-2",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-08-28T02:25:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-08-13",
       "amount": 447,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2980,
       "shop": "Steam"
     }
   ]
