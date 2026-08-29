@@ -1,6 +1,6 @@
 {
   "slug": "ixion",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-08-29T21:03:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 1170,
       "shop": "Steam"
     }
   ]

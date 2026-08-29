@@ -1,0 +1,76 @@
+{
+  "slug": "season-a-letter-to-the-future",
+  "updated_at": "2026-08-29T21:03:27Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-08",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-24",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 1400,
+      "shop": "Steam"
+    }
+  ]
+}

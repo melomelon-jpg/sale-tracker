@@ -1,6 +1,6 @@
 {
   "slug": "thronefall",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-08-29T21:03:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-08-15",
       "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 1500,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-08-29T21:03:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-23",
       "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 550,
       "shop": "Steam"
     }
   ]

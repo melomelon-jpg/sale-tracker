@@ -1,6 +1,6 @@
 {
   "slug": "deponia",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-29T21:03:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-20",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 98,
       "shop": "Steam"
     }
   ]

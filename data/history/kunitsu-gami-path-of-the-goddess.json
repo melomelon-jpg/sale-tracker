@@ -1,6 +1,6 @@
 {
   "slug": "kunitsu-gami-path-of-the-goddess",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-08-29T21:03:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -100,6 +100,11 @@
     {
       "date": "2026-07-23",
       "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2992,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "slug": "the-occultist",
+  "updated_at": "2026-08-29T21:03:27Z",
+  "history": [
+    {
+      "date": "2026-04-08",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 2640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 2310,
+      "shop": "Steam"
+    }
+  ]
+}
