@@ -1,0 +1,61 @@
+{
+  "slug": "qian-deng-xiang-thousand-lantern-lane2",
+  "updated_at": "2026-08-30T21:03:42Z",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "amount": 376,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-11",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-21",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-16",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 11000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-19",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-02",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-30",
+      "amount": 1100,
+      "shop": "Steam"
+    }
+  ]
+}

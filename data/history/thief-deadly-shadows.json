@@ -1,6 +1,6 @@
 {
   "slug": "thief-deadly-shadows",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-08-30T21:03:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-07-16",
       "amount": 1250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 250,
       "shop": "Steam"
     }
   ]

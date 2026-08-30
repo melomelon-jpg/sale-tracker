@@ -1,6 +1,6 @@
 {
   "slug": "strider-sutoraida-fei-long",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-08-30T21:03:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-07-23",
       "amount": 2037,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 611,
       "shop": "Steam"
     }
   ]

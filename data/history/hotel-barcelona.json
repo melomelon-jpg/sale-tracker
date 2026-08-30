@@ -1,0 +1,91 @@
+{
+  "slug": "hotel-barcelona",
+  "updated_at": "2026-08-30T21:03:42Z",
+  "history": [
+    {
+      "date": "2025-09-26",
+      "amount": 3192,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-10",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 3192,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-01",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3192,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 2593,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2593,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 2593,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2593,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 2793,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-30",
+      "amount": 2593,
+      "shop": "Steam"
+    }
+  ]
+}
