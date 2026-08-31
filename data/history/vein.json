@@ -1,0 +1,56 @@
+{
+  "slug": "vein",
+  "updated_at": "2026-08-31T21:03:21Z",
+  "history": [
+    {
+      "date": "2025-10-24",
+      "amount": 2070,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-02",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1955,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-28",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 1742,
+      "shop": "Steam"
+    }
+  ]
+}

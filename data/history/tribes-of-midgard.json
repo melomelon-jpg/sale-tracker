@@ -1,0 +1,171 @@
+{
+  "slug": "tribes-of-midgard",
+  "updated_at": "2026-08-31T21:03:21Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-06",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-20",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-24",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-07",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-12",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-27",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-07",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-08",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-06",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 512,
+      "shop": "Steam"
+    }
+  ]
+}

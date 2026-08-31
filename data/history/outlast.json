@@ -1,6 +1,6 @@
 {
   "slug": "outlast",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-07-21",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 425,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,46 @@
+{
+  "slug": "soulmask",
+  "updated_at": "2026-08-31T21:03:21Z",
+  "history": [
+    {
+      "date": "2026-05-12",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 3120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2535,
+      "shop": "Steam"
+    }
+  ]
+}

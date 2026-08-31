@@ -1,6 +1,6 @@
 {
   "slug": "project-zomboid",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -110,6 +110,11 @@
     {
       "date": "2026-07-29",
       "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2110,
       "shop": "Steam"
     }
   ]

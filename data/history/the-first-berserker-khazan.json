@@ -1,6 +1,6 @@
 {
   "slug": "the-first-berserker-khazan",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-13",
@@ -75,6 +75,11 @@
     {
       "date": "2026-08-24",
       "amount": 4554,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 7590,
       "shop": "Steam"
     }
   ]

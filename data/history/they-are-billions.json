@@ -1,6 +1,6 @@
 {
   "slug": "they-are-billions",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-08-24",
       "amount": 2691,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2990,
       "shop": "Steam"
     }
   ]

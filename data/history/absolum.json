@@ -1,6 +1,6 @@
 {
   "slug": "absolum",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2025-10-09",
@@ -80,6 +80,11 @@
     {
       "date": "2026-07-27",
       "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2227,
       "shop": "Steam"
     }
   ]

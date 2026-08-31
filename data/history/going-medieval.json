@@ -1,6 +1,6 @@
 {
   "slug": "going-medieval",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-07-23",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": 2550,
       "shop": "Steam"
     }
   ]

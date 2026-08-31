@@ -1,6 +1,6 @@
 {
   "slug": "scrap-mechanic",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-08-31T21:03:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -85,6 +85,11 @@
     {
       "date": "2026-07-24",
       "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2579,
       "shop": "Steam"
     }
   ]

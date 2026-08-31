@@ -1,0 +1,71 @@
+{
+  "slug": "marvel-cosmic-invasion",
+  "updated_at": "2026-08-31T21:03:21Z",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "amount": 3366,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-15",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 2805,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2431,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 2431,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2431,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 2431,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2431,
+      "shop": "Steam"
+    }
+  ]
+}

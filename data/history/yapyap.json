@@ -1,0 +1,61 @@
+{
+  "slug": "yapyap",
+  "updated_at": "2026-08-31T21:03:21Z",
+  "history": [
+    {
+      "date": "2026-02-03",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-17",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 840,
+      "shop": "Steam"
+    }
+  ]
+}
