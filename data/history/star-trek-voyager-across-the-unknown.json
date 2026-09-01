@@ -1,0 +1,61 @@
+{
+  "slug": "star-trek-voyager-across-the-unknown",
+  "updated_at": "2026-09-01T21:06:13Z",
+  "history": [
+    {
+      "date": "2026-02-18",
+      "amount": 4410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-04",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-04",
+      "amount": 3920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-18",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 3920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3675,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 3430,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 3430,
+      "shop": "Steam"
+    }
+  ]
+}

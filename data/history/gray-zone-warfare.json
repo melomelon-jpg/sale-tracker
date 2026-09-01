@@ -1,0 +1,56 @@
+{
+  "slug": "gray-zone-warfare",
+  "updated_at": "2026-09-01T21:06:13Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-22",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3618,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 4050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3618,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 3780,
+      "shop": "Steam"
+    }
+  ]
+}

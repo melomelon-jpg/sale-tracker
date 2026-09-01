@@ -1,0 +1,46 @@
+{
+  "slug": "darwins-paradox",
+  "updated_at": "2026-09-01T21:06:13Z",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2376,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 1584,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 1584,
+      "shop": "Steam"
+    }
+  ]
+}

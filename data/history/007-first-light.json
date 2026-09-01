@@ -1,10 +1,15 @@
 {
   "slug": "007-first-light",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-09-01T21:06:13Z",
   "history": [
     {
       "date": "2026-05-27",
       "amount": 8910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 7128,
       "shop": "Steam"
     }
   ]

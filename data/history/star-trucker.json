@@ -1,0 +1,216 @@
+{
+  "slug": "star-trucker",
+  "updated_at": "2026-09-01T21:06:13Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-11",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-18",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-17",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-24",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-27",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-06",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-07",
+      "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-19",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-31",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-31",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-11",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-11",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-29",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-28",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-14",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 840,
+      "shop": "Steam"
+    }
+  ]
+}

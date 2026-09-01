@@ -1,6 +1,6 @@
 {
   "slug": "total-war-warhammer-ii",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-09-01T21:06:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-13",
       "amount": 1645,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 6580,
       "shop": "Steam"
     }
   ]
