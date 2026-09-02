@@ -1,6 +1,6 @@
 {
   "slug": "travellers-rest",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-07-27",
       "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1500,
       "shop": "Steam"
     }
   ]

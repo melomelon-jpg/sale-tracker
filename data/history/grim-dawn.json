@@ -1,6 +1,6 @@
 {
   "slug": "grim-dawn",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-21",
       "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 472,
       "shop": "Steam"
     }
   ]

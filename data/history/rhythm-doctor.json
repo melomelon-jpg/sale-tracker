@@ -1,6 +1,6 @@
 {
   "slug": "rhythm-doctor",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
       "amount": 2300,
       "shop": "Steam"
     }

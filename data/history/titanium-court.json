@@ -1,0 +1,51 @@
+{
+  "slug": "titanium-court",
+  "updated_at": "2026-09-02T21:06:03Z",
+  "history": [
+    {
+      "date": "2026-04-23",
+      "amount": 1208,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 1208,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-20",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1208,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 755,
+      "shop": "Steam"
+    }
+  ]
+}

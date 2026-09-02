@@ -1,6 +1,6 @@
 {
   "slug": "menace",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2026-02-05",
@@ -40,6 +40,11 @@
     {
       "date": "2026-07-21",
       "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 2985,
       "shop": "Steam"
     }
   ]

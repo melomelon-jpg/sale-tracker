@@ -1,6 +1,6 @@
 {
   "slug": "layers-of-fear-2016",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -55,6 +55,11 @@
     {
       "date": "2026-07-23",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 198,
       "shop": "Steam"
     }
   ]

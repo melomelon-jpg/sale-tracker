@@ -1,6 +1,6 @@
 {
   "slug": "kingdom-new-lands",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-07-23",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 170,
       "shop": "Steam"
     }
   ]

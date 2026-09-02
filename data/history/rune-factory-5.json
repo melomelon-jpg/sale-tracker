@@ -1,9 +1,104 @@
 {
   "slug": "rune-factory-5",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 2392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-05",
+      "amount": 2392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-12",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-13",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-27",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-10",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2093,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
       "amount": 2093,
       "shop": "Steam"
     },
@@ -20,6 +115,11 @@
     {
       "date": "2026-07-09",
       "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 2093,
       "shop": "Steam"
     }
   ]

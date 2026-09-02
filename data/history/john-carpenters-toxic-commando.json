@@ -1,0 +1,36 @@
+{
+  "slug": "john-carpenters-toxic-commando",
+  "updated_at": "2026-09-02T21:06:03Z",
+  "history": [
+    {
+      "date": "2025-12-12",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 4784,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 4485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 4186,
+      "shop": "Steam"
+    }
+  ]
+}

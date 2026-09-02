@@ -1,6 +1,6 @@
 {
   "slug": "potionomics",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-07-09",
       "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 1788,
       "shop": "Steam"
     }
   ]

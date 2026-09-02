@@ -1,6 +1,6 @@
 {
   "slug": "moonlighter-2-the-endless-vault",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2025-11-19",
@@ -70,6 +70,11 @@
     {
       "date": "2026-08-01",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 2380,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "sonic-x-shadow-generations",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-08-13",
       "amount": 1976,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 6589,
       "shop": "Steam"
     }
   ]

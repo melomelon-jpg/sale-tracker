@@ -1,6 +1,6 @@
 {
   "slug": "peglin",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-09-02T21:06:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-17",
       "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]
