@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:21:28Z",
+  "generated_at": "2026-09-03T21:23:05Z",
   "currency": "JPY",
   "games": [
     {
@@ -15,8 +15,8 @@
       "title": "Dead Cells",
       "nsuid": "70010000013175",
       "regular": 2480,
-      "current": 1240,
-      "on_sale": true
+      "current": 2480,
+      "on_sale": false
     },
     {
       "slug": "terraria",

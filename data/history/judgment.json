@@ -1,6 +1,6 @@
 {
   "slug": "judgment",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-13",
       "amount": 745,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2980,
       "shop": "Steam"
     }
   ]

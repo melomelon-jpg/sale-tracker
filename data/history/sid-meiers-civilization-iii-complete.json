@@ -1,6 +1,6 @@
 {
   "slug": "sid-meiers-civilization-iii-complete",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-07-09",
       "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 464,
       "shop": "Steam"
     }
   ]

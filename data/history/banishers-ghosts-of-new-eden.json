@@ -1,6 +1,6 @@
 {
   "slug": "banishers-ghosts-of-new-eden",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-07-23",
       "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 2394,
       "shop": "Steam"
     }
   ]

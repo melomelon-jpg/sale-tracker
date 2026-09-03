@@ -1,6 +1,6 @@
 {
   "slug": "chants-of-sennaar",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-07-30",
       "amount": 2480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 1240,
       "shop": "Steam"
     }
   ]

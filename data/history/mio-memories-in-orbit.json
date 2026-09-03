@@ -1,6 +1,6 @@
 {
   "slug": "mio-memories-in-orbit",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2025-12-04",
@@ -60,6 +60,11 @@
     {
       "date": "2026-07-30",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 1610,
       "shop": "Steam"
     }
   ]

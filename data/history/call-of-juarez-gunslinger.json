@@ -1,6 +1,6 @@
 {
   "slug": "call-of-juarez-gunslinger",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-04",
       "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 320,
       "shop": "Steam"
     }
   ]

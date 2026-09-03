@@ -1,6 +1,6 @@
 {
   "slug": "timberborn",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-08-03",
       "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 2730,
       "shop": "Steam"
     }
   ]

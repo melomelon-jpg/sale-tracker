@@ -1,6 +1,6 @@
 {
   "slug": "tales-from-the-borderlands",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-03T21:06:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-08-10",
       "amount": 577,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2310,
       "shop": "Steam"
     }
   ]
