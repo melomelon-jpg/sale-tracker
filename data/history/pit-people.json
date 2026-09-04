@@ -1,6 +1,6 @@
 {
   "slug": "pit-people",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-04T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-04",
+      "amount": 615,
       "shop": "Steam"
     }
   ]

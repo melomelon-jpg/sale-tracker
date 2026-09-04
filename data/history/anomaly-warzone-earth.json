@@ -1,6 +1,6 @@
 {
   "slug": "anomaly-warzone-earth",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-09-04T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-07-27",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 196,
       "shop": "Steam"
     }
   ]

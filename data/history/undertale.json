@@ -1,6 +1,6 @@
 {
   "slug": "undertale",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-09-04T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-08-05",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-04",
+      "amount": 245,
       "shop": "Steam"
     }
   ]

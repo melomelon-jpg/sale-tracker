@@ -303,6 +303,28 @@
     "name": "West of Dead",
     "review_count": 1286
   },
+  "1016800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Chernobylite Complete Edition",
+    "review_count": 12538
+  },
   "1016920": {
     "categories": [
       "シングルプレイヤー",
@@ -4015,6 +4037,29 @@
     "name": "Dune: Awakening デューン：アウェイクニング",
     "review_count": 66481
   },
+  "1173740": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Woodle Tree 2: Deluxe+",
+    "review_count": null
+  },
   "1173820": {
     "categories": [
       "シングルプレイヤー",
@@ -7007,6 +7052,33 @@
     "name": "たべごろ！スーパーモンキーボール 1＆2リメイク",
     "review_count": 1307
   },
+  "1318690": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "字幕オプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "shapez",
+    "review_count": 14192
+  },
   "1321450": {
     "categories": [
       "シングルプレイヤー",
@@ -8147,6 +8219,25 @@
     "name": "Umami Grove",
     "review_count": null
   },
+  "1394960": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Winter Survival - ウィンター・サバイバル",
+    "review_count": 595
+  },
   "1395030": {
     "categories": [
       "シングルプレイヤー",
@@ -9052,6 +9143,25 @@
     "jp_support": true,
     "name": "The Outer Worlds 2",
     "review_count": 8377
+  },
+  "1449200": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "AI：ソムニウムファイル ニルヴァーナ イニシアチブ",
+    "review_count": 3566
   },
   "1449280": {
     "categories": [
@@ -11472,6 +11582,31 @@
     "name": "Mail Time",
     "review_count": 1088
   },
+  "1607680": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Bread & Fred",
+    "review_count": 4206
+  },
   "1608070": {
     "categories": [
       "シングルプレイヤー",
@@ -11553,6 +11688,22 @@
     "jp_support": false,
     "name": "WARNO",
     "review_count": 14353
+  },
+  "1611890": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "レース"
+    ],
+    "jp_support": true,
+    "name": "Retrowave Road",
+    "review_count": null
   },
   "1611910": {
     "categories": [
@@ -16014,6 +16165,32 @@
     "name": "Horticular: Build a Garden, Attract Wildlife",
     "review_count": 389
   },
+  "1928690": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース"
+    ],
+    "jp_support": true,
+    "name": "Bionic Bay / バイオニックベイ",
+    "review_count": 732
+  },
   "1928870": {
     "categories": [
       "シングルプレイヤー",
@@ -16373,6 +16550,33 @@
     "jp_support": true,
     "name": "マフィア：オリジン ～裏切りの祖国",
     "review_count": 20024
+  },
+  "1942280": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Brotato",
+    "review_count": 110934
   },
   "1942510": {
     "categories": [
@@ -21999,6 +22203,30 @@
     "name": "TerraScape",
     "review_count": 2047
   },
+  "2292800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "いつでもセーブ可能",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Blacksmith Master ブラックスミス・マスター",
+    "review_count": 2511
+  },
   "2296080": {
     "categories": [
       "シングルプレイヤー",
@@ -22205,6 +22433,35 @@
     "jp_support": false,
     "name": "Miami Horizon 2077",
     "review_count": null
+  },
+  "2305840": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": " キャットクエスト3",
+    "review_count": 3088
   },
   "2306960": {
     "categories": [
@@ -23613,6 +23870,28 @@
     "jp_support": true,
     "name": "BattleBlock Theater®",
     "review_count": 55722
+  },
+  "2386310": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Ultros",
+    "review_count": 786
   },
   "2388980": {
     "categories": [
@@ -27081,6 +27360,26 @@
     "name": "The Elder Scrolls IV: Oblivion Remastered",
     "review_count": 59327
   },
+  "2631250": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "野狗子: Slitterhead",
+    "review_count": 1146
+  },
   "2634890": {
     "categories": [
       "シングルプレイヤー",
@@ -29868,6 +30167,26 @@
     "name": "Armello",
     "review_count": 11002
   },
+  "2903950": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "超探偵事件簿 レインコード プラス",
+    "review_count": 2087
+  },
   "2909400": {
     "categories": [
       "シングルプレイヤー",
@@ -31773,6 +32092,22 @@
     "jp_support": false,
     "name": "Alabaster Dawn",
     "review_count": 2117
+  },
+  "311240": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Zero Escape: Zero Time Dilemma",
+    "review_count": 4652
   },
   "311340": {
     "categories": [
@@ -39529,6 +39864,23 @@
     "name": "Planar Conquest",
     "review_count": 376
   },
+  "449680": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "SAMOLIOTIK",
+    "review_count": 1280
+  },
   "449960": {
     "categories": [
       "シングルプレイヤー",
@@ -40299,6 +40651,25 @@
     "name": "Pan-Pan",
     "review_count": 213
   },
+  "473950": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Manifold Garden",
+    "review_count": 7689
+  },
   "47400": {
     "categories": [
       "シングルプレイヤー",
@@ -40435,6 +40806,24 @@
     "jp_support": true,
     "name": "Human Fall Flat",
     "review_count": 174437
+  },
+  "477740": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Zero Escape: The Nonary Games",
+    "review_count": 6976
   },
   "477770": {
     "categories": [
@@ -45893,6 +46282,25 @@
     "name": "Super Farming Boy",
     "review_count": null
   },
+  "65980": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Sid Meier's Civilization®: Beyond Earth™",
+    "review_count": 14027
+  },
   "663300": {
     "categories": [
       "シングルプレイヤー",
@@ -50705,6 +51113,26 @@
     "jp_support": false,
     "name": "Saints Row 2",
     "review_count": 12747
+  },
+  "948740": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-04T21:05:57Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "AI: ソムニウム ファイル",
+    "review_count": 8855
   },
   "949230": {
     "categories": [
