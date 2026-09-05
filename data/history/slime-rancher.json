@@ -1,6 +1,6 @@
 {
   "slug": "slime-rancher",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-09-05T21:05:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-06",
       "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 550,
       "shop": "Steam"
     }
   ]

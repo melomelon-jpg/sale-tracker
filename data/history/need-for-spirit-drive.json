@@ -1,0 +1,56 @@
+{
+  "slug": "need-for-spirit-drive",
+  "updated_at": "2026-09-05T21:05:29Z",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 128,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-29",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 154,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 154,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 154,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 154,
+      "shop": "Steam"
+    }
+  ]
+}

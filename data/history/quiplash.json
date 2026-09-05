@@ -1,6 +1,6 @@
 {
   "slug": "quiplash",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-09-05T21:05:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-08-27",
       "amount": 660,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

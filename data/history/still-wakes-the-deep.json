@@ -1,6 +1,6 @@
 {
   "slug": "still-wakes-the-deep",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-05T21:05:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-22",
       "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 3900,
       "shop": "Steam"
     }
   ]

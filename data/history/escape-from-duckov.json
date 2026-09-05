@@ -1,6 +1,6 @@
 {
   "slug": "escape-from-duckov",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-09-05T21:05:29Z",
   "history": [
     {
       "date": "2025-10-16",
@@ -65,6 +65,11 @@
     {
       "date": "2026-08-26",
       "amount": 1440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 1800,
       "shop": "Steam"
     }
   ]

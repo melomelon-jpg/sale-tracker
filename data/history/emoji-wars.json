@@ -1,0 +1,51 @@
+{
+  "slug": "emoji-wars",
+  "updated_at": "2026-09-05T21:05:29Z",
+  "history": [
+    {
+      "date": "2026-03-15",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-29",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 96,
+      "shop": "Steam"
+    }
+  ]
+}

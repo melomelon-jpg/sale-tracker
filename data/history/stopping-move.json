@@ -1,0 +1,21 @@
+{
+  "slug": "stopping-move",
+  "updated_at": "2026-09-05T21:05:29Z",
+  "history": [
+    {
+      "date": "2026-07-14",
+      "amount": 810,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 108,
+      "shop": "Steam"
+    }
+  ]
+}

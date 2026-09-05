@@ -1,0 +1,111 @@
+{
+  "slug": "skullbreaker",
+  "updated_at": "2026-09-05T21:05:29Z",
+  "history": [
+    {
+      "date": "2025-10-11",
+      "amount": 2040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-18",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-16",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-17",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-31",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-09",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 170,
+      "shop": "Steam"
+    }
+  ]
+}
