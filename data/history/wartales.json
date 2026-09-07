@@ -1,6 +1,6 @@
 {
   "slug": "wartales",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-07-13",
       "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1008,
       "shop": "Steam"
     }
   ]

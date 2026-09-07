@@ -1,0 +1,51 @@
+{
+  "slug": "gamble-with-your-friends",
+  "updated_at": "2026-09-07T21:06:24Z",
+  "history": [
+    {
+      "date": "2026-05-01",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-07",
+      "amount": 736,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 570,
+      "shop": "Steam"
+    }
+  ]
+}

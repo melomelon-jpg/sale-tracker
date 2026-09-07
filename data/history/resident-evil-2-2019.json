@@ -1,6 +1,6 @@
 {
   "slug": "resident-evil-2-2019",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-08-03",
       "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 798,
       "shop": "Steam"
     }
   ]

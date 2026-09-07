@@ -1,6 +1,6 @@
 {
   "slug": "ark-the-survival-of-the-fittest",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-24",
       "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

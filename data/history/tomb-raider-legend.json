@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-legend",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-24",
       "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 970,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "slug": "resident-evil-2-1999",
+  "updated_at": "2026-09-07T21:06:24Z",
+  "history": [
+    {
+      "date": "2026-04-02",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 500,
+      "shop": "Steam"
+    }
+  ]
+}

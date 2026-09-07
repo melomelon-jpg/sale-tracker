@@ -1,0 +1,86 @@
+{
+  "slug": "battlefield-6",
+  "updated_at": "2026-09-07T21:06:24Z",
+  "history": [
+    {
+      "date": "2025-07-31",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-20",
+      "amount": 8330,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 6860,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-11",
+      "amount": 6370,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-25",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 5880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 5880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 4900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-08",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 4900,
+      "shop": "Steam"
+    }
+  ]
+}

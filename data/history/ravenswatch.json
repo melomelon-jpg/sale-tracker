@@ -1,6 +1,6 @@
 {
   "slug": "ravenswatch",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-08-22",
       "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]

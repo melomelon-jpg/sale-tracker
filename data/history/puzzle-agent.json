@@ -1,6 +1,6 @@
 {
   "slug": "puzzle-agent",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-08-03",
       "amount": 689,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 275,
       "shop": "Steam"
     }
   ]

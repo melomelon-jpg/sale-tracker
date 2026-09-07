@@ -1,6 +1,6 @@
 {
   "slug": "enclave",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-09-07T21:06:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-08-04",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 600,
       "shop": "Steam"
     }
   ]

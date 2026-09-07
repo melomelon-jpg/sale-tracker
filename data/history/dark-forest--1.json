@@ -1,0 +1,91 @@
+{
+  "slug": "dark-forest--1",
+  "updated_at": "2026-09-07T21:06:24Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-03",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 89,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-29",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 89,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 89,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 89,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 89,
+      "shop": "Steam"
+    }
+  ]
+}
