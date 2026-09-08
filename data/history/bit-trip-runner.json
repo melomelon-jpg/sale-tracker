@@ -1,6 +1,6 @@
 {
   "slug": "bit-trip-runner",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-08-03",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 490,
       "shop": "Steam"
     }
   ]

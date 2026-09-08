@@ -1,0 +1,61 @@
+{
+  "slug": "1348-ex-voto",
+  "updated_at": "2026-09-08T21:05:51Z",
+  "history": [
+    {
+      "date": "2026-03-12",
+      "amount": 2700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 2700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-14",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1800,
+      "shop": "Steam"
+    }
+  ]
+}

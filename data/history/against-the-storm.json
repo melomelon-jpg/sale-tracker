@@ -1,6 +1,6 @@
 {
   "slug": "against-the-storm",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-22",
       "amount": 894,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2980,
       "shop": "Steam"
     }
   ]

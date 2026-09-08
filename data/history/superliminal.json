@@ -1,6 +1,6 @@
 {
   "slug": "superliminal",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-24",
       "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

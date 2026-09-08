@@ -1,6 +1,6 @@
 {
   "slug": "ready-or-not",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-08-09",
       "amount": 7150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 3575,
       "shop": "Steam"
     }
   ]

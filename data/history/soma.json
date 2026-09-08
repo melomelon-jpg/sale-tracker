@@ -1,6 +1,6 @@
 {
   "slug": "soma",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-25",
       "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]

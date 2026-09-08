@@ -1,0 +1,56 @@
+{
+  "slug": "dinogore",
+  "updated_at": "2026-09-08T21:05:51Z",
+  "history": [
+    {
+      "date": "2025-09-19",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-28",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-05",
+      "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-19",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 108,
+      "shop": "Steam"
+    }
+  ]
+}

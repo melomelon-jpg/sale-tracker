@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-vermintide-2",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-09-08T21:05:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-08-25",
       "amount": 618,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 3090,
       "shop": "Steam"
     }
   ]
