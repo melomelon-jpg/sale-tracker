@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:22:13Z",
+  "generated_at": "2026-09-09T21:22:18Z",
   "currency": "JPY",
   "games": [
     {
@@ -31,8 +31,8 @@
       "title": "Cuphead",
       "nsuid": "70010000016331",
       "regular": 1980,
-      "current": 1385,
-      "on_sale": true
+      "current": 1980,
+      "on_sale": false
     },
     {
       "slug": "stardew-valley",
@@ -47,8 +47,8 @@
       "title": "Slay the Spire",
       "nsuid": "70010000012390",
       "regular": 2570,
-      "current": 642,
-      "on_sale": true
+      "current": 2570,
+      "on_sale": false
     },
     {
       "slug": "ori-and-the-blind-forest-definitive-edition",

@@ -1,6 +1,6 @@
 {
   "slug": "deep-rock-galactic-survivor",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-09T21:05:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-08-25",
       "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

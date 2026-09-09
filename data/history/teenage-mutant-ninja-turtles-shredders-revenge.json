@@ -1,6 +1,6 @@
 {
   "slug": "teenage-mutant-ninja-turtles-shredders-revenge",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-09-09T21:05:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-08-31",
       "amount": 1039,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2599,
       "shop": "Steam"
     }
   ]
