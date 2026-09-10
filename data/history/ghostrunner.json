@@ -1,6 +1,6 @@
 {
   "slug": "ghostrunner",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-09-10T21:05:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-10",
       "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 995,
       "shop": "Steam"
     }
   ]

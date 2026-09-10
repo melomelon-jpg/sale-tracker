@@ -1,6 +1,6 @@
 {
   "slug": "battleblock-theater",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-09-10T21:05:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,16 @@
     },
     {
       "date": "2026-07-09",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-04",
+      "amount": 444,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-09",
       "amount": 1480,
       "shop": "Steam"
     }

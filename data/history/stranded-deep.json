@@ -1,6 +1,6 @@
 {
   "slug": "stranded-deep",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-10T21:05:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -70,6 +70,11 @@
     {
       "date": "2026-08-31",
       "amount": 1040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2080,
       "shop": "Steam"
     }
   ]

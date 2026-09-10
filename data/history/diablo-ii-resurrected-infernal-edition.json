@@ -1,0 +1,36 @@
+{
+  "slug": "diablo-ii-resurrected-infernal-edition",
+  "updated_at": "2026-09-10T21:05:53Z",
+  "history": [
+    {
+      "date": "2026-02-11",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3360,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "manor-lords",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-09-10T21:05:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-27",
       "amount": 2587,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3980,
       "shop": "Steam"
     }
   ]
