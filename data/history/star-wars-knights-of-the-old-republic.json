@@ -1,6 +1,6 @@
 {
   "slug": "star-wars-knights-of-the-old-republic",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-09-11T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -75,6 +75,11 @@
     {
       "date": "2026-07-09",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 480,
       "shop": "Steam"
     }
   ]

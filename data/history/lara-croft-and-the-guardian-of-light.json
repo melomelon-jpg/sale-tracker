@@ -1,6 +1,6 @@
 {
   "slug": "lara-croft-and-the-guardian-of-light",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-09-11T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-24",
       "amount": 207,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1380,
       "shop": "Steam"
     }
   ]
