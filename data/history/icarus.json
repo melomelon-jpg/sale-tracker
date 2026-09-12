@@ -1,6 +1,6 @@
 {
   "slug": "icarus",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-09-12T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -100,6 +100,11 @@
     {
       "date": "2026-08-29",
       "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 3900,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "sins-of-a-solar-empire-rebellion",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-09-12T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-07-20",
       "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 780,
       "shop": "Steam"
     }
   ]

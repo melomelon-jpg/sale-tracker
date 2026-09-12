@@ -1,6 +1,6 @@
 {
   "slug": "the-last-caretaker",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-09-12T21:05:57Z",
   "history": [
     {
       "date": "2025-11-06",
@@ -55,6 +55,11 @@
     {
       "date": "2026-08-31",
       "amount": 3007,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 3759,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "among-us",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-09-12T21:05:57Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-26",
       "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 500,
       "shop": "Steam"
     }
   ]
