@@ -1,6 +1,6 @@
 {
   "slug": "control-ultimate-edition",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-09-13T21:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-08-24",
       "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 4500,
       "shop": "Steam"
     }
   ]

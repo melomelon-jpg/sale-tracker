@@ -1,6 +1,6 @@
 {
   "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-09-13T21:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -80,6 +80,11 @@
     {
       "date": "2026-09-11",
       "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

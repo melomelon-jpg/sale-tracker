@@ -1,0 +1,81 @@
+{
+  "slug": "wall-world-2",
+  "updated_at": "2026-09-13T21:05:42Z",
+  "history": [
+    {
+      "date": "2025-11-11",
+      "amount": 1260,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-18",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-28",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-11",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 770,
+      "shop": "Steam"
+    }
+  ]
+}
