@@ -1,6 +1,6 @@
 {
   "slug": "my-time-at-portia",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-09-03",
       "amount": 996,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 4980,
       "shop": "Steam"
     }
   ]

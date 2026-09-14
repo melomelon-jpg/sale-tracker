@@ -1,6 +1,6 @@
 {
   "slug": "tropico-4",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-31",
       "amount": 599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 1998,
       "shop": "Steam"
     }
   ]

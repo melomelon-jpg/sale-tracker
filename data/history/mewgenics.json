@@ -1,6 +1,6 @@
 {
   "slug": "mewgenics",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2026-02-10",
@@ -40,6 +40,11 @@
     {
       "date": "2026-07-13",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2550,
       "shop": "Steam"
     }
   ]

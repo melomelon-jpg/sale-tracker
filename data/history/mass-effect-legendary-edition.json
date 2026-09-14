@@ -1,6 +1,6 @@
 {
   "slug": "mass-effect-legendary-edition",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-08-13",
       "amount": 8700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2175,
       "shop": "Steam"
     }
   ]

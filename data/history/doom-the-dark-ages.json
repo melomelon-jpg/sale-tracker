@@ -1,6 +1,6 @@
 {
   "slug": "doom-the-dark-ages",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2025-01-23",
@@ -95,6 +95,11 @@
     {
       "date": "2026-08-13",
       "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 6050,
       "shop": "Steam"
     }
   ]

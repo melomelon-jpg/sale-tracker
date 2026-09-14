@@ -1,6 +1,6 @@
 {
   "slug": "the-alters",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-14T21:06:15Z",
   "history": [
     {
       "date": "2025-06-13",
@@ -125,6 +125,11 @@
     {
       "date": "2026-08-31",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 3960,
       "shop": "Steam"
     }
   ]
