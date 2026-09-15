@@ -1,6 +1,6 @@
 {
   "slug": "silent-hill-f",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-09-15T21:06:14Z",
   "history": [
     {
       "date": "2025-06-05",
@@ -80,6 +80,11 @@
     {
       "date": "2026-09-01",
       "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 8580,
       "shop": "Steam"
     }
   ]
