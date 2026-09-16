@@ -1,6 +1,6 @@
 {
   "slug": "the-red-solstice",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-09-16T23:28:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 101,
       "shop": "Steam"
     }
   ]

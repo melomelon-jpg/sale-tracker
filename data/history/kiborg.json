@@ -1,6 +1,6 @@
 {
   "slug": "kiborg",
-  "updated_at": "2026-08-17T12:56:31Z",
+  "updated_at": "2026-09-16T23:28:02Z",
   "history": [
     {
       "date": "2025-04-30",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-08-03",
+      "amount": 1755,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 2700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
       "amount": 1755,
       "shop": "Steam"
     }

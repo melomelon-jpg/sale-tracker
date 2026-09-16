@@ -1,6 +1,6 @@
 {
   "slug": "vampire-survivors",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-09-16T23:28:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-08-28",
       "amount": 374,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 499,
       "shop": "Steam"
     }
   ]

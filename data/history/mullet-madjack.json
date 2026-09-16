@@ -1,6 +1,6 @@
 {
   "slug": "mullet-madjack",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-09-16T23:28:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-07-25",
       "amount": 2095,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 1361,
       "shop": "Steam"
     }
   ]

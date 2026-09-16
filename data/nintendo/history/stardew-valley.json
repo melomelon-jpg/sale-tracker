@@ -2,7 +2,7 @@
   "slug": "stardew-valley",
   "title": "Stardew Valley",
   "nsuid": "70010000005423",
-  "updated_at": "2026-09-15T21:24:32Z",
+  "updated_at": "2026-09-16T23:43:10Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -136,6 +136,11 @@
     },
     {
       "date": "2026-09-15",
+      "regular": 1480,
+      "current": 1480
+    },
+    {
+      "date": "2026-09-16",
       "regular": 1480,
       "current": 1480
     }

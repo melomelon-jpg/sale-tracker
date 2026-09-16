@@ -1,6 +1,6 @@
 {
   "slug": "guacamelee-gold-edition",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-09-16T23:28:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-08-17",
       "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 475,
       "shop": "Steam"
     }
   ]
