@@ -1,6 +1,6 @@
 {
   "slug": "system-shock",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-07-20",
       "amount": 4689,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1406,
       "shop": "Steam"
     }
   ]

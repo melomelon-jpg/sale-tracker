@@ -1,6 +1,6 @@
 {
   "slug": "company-of-heroes-tales-of-valor",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-08-07",
       "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 470,
       "shop": "Steam"
     }
   ]

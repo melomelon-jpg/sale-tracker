@@ -1,0 +1,156 @@
+{
+  "slug": "mugsters",
+  "updated_at": "2026-09-17T23:18:38Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-10",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-24",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-31",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-14",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-12",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-28",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-13",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 138,
+      "shop": "Steam"
+    }
+  ]
+}

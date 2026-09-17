@@ -1,6 +1,6 @@
 {
   "slug": "overcooked-2",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-17",
       "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 642,
       "shop": "Steam"
     }
   ]

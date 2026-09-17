@@ -1,6 +1,6 @@
 {
   "slug": "south-park-the-fractured-but-whole",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-07-27",
       "amount": 4180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1254,
       "shop": "Steam"
     }
   ]

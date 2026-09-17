@@ -1,6 +1,6 @@
 {
   "slug": "megabonk",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2025-09-18",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-18",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 720,
       "shop": "Steam"
     }
   ]

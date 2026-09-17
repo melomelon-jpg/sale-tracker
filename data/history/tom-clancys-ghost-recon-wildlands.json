@@ -1,6 +1,6 @@
 {
   "slug": "tom-clancys-ghost-recon-wildlands",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-08-16",
       "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1320,
       "shop": "Steam"
     }
   ]

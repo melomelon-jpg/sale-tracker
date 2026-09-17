@@ -1,6 +1,6 @@
 {
   "slug": "watch-dogs-2",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-07-17",
       "amount": 7920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 396,
       "shop": "Steam"
     }
   ]

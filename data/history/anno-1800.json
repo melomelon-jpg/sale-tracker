@@ -1,6 +1,6 @@
 {
   "slug": "anno-1800",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-17T23:18:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-07-27",
       "amount": 7920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]
