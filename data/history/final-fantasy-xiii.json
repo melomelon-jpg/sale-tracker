@@ -1,6 +1,6 @@
 {
   "slug": "final-fantasy-xiii",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-11",
       "amount": 1834,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 733,
       "shop": "Steam"
     }
   ]

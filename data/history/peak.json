@@ -1,6 +1,6 @@
 {
   "slug": "peak",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2025-06-16",
@@ -105,6 +105,16 @@
     {
       "date": "2026-08-04",
       "amount": 440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 545,
       "shop": "Steam"
     }
   ]

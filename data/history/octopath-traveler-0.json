@@ -1,0 +1,66 @@
+{
+  "slug": "octopath-traveler-0",
+  "updated_at": "2026-09-18T22:57:28Z",
+  "history": [
+    {
+      "date": "2025-07-31",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-22",
+      "amount": 6142,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-04",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 5758,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 5374,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 4606,
+      "shop": "Steam"
+    }
+  ]
+}

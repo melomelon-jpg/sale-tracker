@@ -1,6 +1,6 @@
 {
   "slug": "keep-driving",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2025-02-06",
@@ -130,6 +130,11 @@
     {
       "date": "2026-08-31",
       "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2000,
       "shop": "Steam"
     }
   ]

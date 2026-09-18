@@ -1,6 +1,6 @@
 {
   "slug": "star-wars-jedi-knight-jedi-academy",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -90,6 +90,11 @@
     {
       "date": "2026-09-11",
       "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "age-of-wonders-4",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-19",
       "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 3495,
       "shop": "Steam"
     }
   ]

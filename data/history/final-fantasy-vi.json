@@ -1,6 +1,6 @@
 {
   "slug": "final-fantasy-vi",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-11",
       "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1320,
       "shop": "Steam"
     }
   ]

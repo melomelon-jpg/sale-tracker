@@ -1,6 +1,6 @@
 {
   "slug": "lightning-returns-final-fantasy-xiii",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-18T22:57:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-11",
       "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 896,
       "shop": "Steam"
     }
   ]

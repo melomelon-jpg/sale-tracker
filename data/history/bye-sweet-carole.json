@@ -1,0 +1,111 @@
+{
+  "slug": "bye-sweet-carole",
+  "updated_at": "2026-09-18T22:57:28Z",
+  "history": [
+    {
+      "date": "2025-10-09",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-01",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1400,
+      "shop": "Steam"
+    }
+  ]
+}
