@@ -1,0 +1,36 @@
+{
+  "slug": "fishing-star-world-tour",
+  "updated_at": "2026-09-19T22:36:27Z",
+  "history": [
+    {
+      "date": "2026-04-15",
+      "amount": 2730,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1365,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 2730,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1365,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2730,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 273,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "fjn-roulette-cup",
+  "updated_at": "2026-09-19T22:36:27Z",
+  "history": [
+    {
+      "date": "2026-02-12",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

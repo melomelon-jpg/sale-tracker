@@ -1,6 +1,6 @@
 {
   "slug": "little-nightmares-ii",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-09-03",
       "amount": 1306,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 3960,
       "shop": "Steam"
     }
   ]

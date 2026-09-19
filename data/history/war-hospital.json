@@ -1,9 +1,134 @@
 {
   "slug": "war-hospital",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-06",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-12",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-19",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-11",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-24",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-29",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-13",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-12",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-17",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-16",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-11",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-06",
       "amount": 340,
       "shop": "Steam"
     },
@@ -35,6 +160,11 @@
     {
       "date": "2026-08-08",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 170,
       "shop": "Steam"
     }
   ]

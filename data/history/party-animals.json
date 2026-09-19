@@ -1,6 +1,6 @@
 {
   "slug": "party-animals",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-07-09",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1400,
       "shop": "Steam"
     }
   ]

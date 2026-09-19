@@ -1,6 +1,6 @@
 {
   "slug": "reus",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 392,
       "shop": "Steam"
     }
   ]

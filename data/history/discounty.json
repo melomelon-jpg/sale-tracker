@@ -1,6 +1,6 @@
 {
   "slug": "discounty",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2025-08-21",
@@ -95,6 +95,16 @@
     {
       "date": "2026-08-05",
       "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 2502,
       "shop": "Steam"
     }
   ]

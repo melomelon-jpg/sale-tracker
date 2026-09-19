@@ -1,6 +1,6 @@
 {
   "slug": "amnesia-a-machine-for-pigs",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-09-09",
       "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

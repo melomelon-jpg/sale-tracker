@@ -1,6 +1,6 @@
 {
   "slug": "hitman-2-silent-assassin",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-09-01",
       "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 1120,
       "shop": "Steam"
     }
   ]

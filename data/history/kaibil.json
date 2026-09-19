@@ -1,0 +1,46 @@
+{
+  "slug": "kaibil",
+  "updated_at": "2026-09-19T22:36:27Z",
+  "history": [
+    {
+      "date": "2026-03-06",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

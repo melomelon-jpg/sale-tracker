@@ -1,0 +1,91 @@
+{
+  "slug": "vex-mage",
+  "updated_at": "2026-09-19T22:36:27Z",
+  "history": [
+    {
+      "date": "2025-10-21",
+      "amount": 1080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-28",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-10",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

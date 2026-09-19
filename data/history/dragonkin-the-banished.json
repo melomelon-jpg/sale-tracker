@@ -1,6 +1,6 @@
 {
   "slug": "dragonkin-the-banished",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-19T22:36:27Z",
   "history": [
     {
       "date": "2025-03-06",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-19",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1960,
       "shop": "Steam"
     }
   ]
