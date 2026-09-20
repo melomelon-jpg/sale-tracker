@@ -1020,6 +1020,26 @@
     "name": "Dreamscaper",
     "review_count": 2538
   },
+  "1041520": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "カジュアル",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "World of Aircraft: Glider Simulator",
+    "review_count": null
+  },
   "1041920": {
     "categories": [
       "シングルプレイヤー",
@@ -3115,6 +3135,24 @@
     "jp_support": true,
     "name": "Astria Ascending",
     "review_count": 302
+  },
+  "1122280": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Witchcrafty",
+    "review_count": null
   },
   "1122680": {
     "categories": [
@@ -6090,6 +6128,29 @@
     "jp_support": false,
     "name": "Command & Conquer™ Remastered Collection",
     "review_count": 31493
+  },
+  "1213230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "レインパレード: イタズラ雲の冒険 !",
+    "review_count": 727
   },
   "1214670": {
     "categories": [
@@ -14220,6 +14281,24 @@
     "name": "METAL SLUG TACTICS",
     "review_count": 1143
   },
+  "1590910": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Forgive Me Father",
+    "review_count": 3713
+  },
   "1592280": {
     "categories": [
       "シングルプレイヤー",
@@ -16586,6 +16665,25 @@
     "jp_support": true,
     "name": "BLEACH Rebirth of Souls",
     "review_count": 4784
+  },
+  "1691190": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Rogue Waters",
+    "review_count": 956
   },
   "1693980": {
     "categories": [
@@ -22683,6 +22781,21 @@
     "jp_support": true,
     "name": "The Oregon Trail",
     "review_count": 1210
+  },
+  "2013770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Worker Riot",
+    "review_count": null
   },
   "201420": {
     "categories": [
@@ -34435,6 +34548,25 @@
     "jp_support": true,
     "name": "Dispatch",
     "review_count": 173004
+  },
+  "2593370": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "飢えた子羊",
+    "review_count": 49772
   },
   "2596420": {
     "categories": [
@@ -51073,6 +51205,28 @@
     "name": "Team Fortress 2",
     "review_count": 47710
   },
+  "4406480": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "FLOW",
+    "review_count": null
+  },
   "440650": {
     "categories": [
       "シングルプレイヤー",
@@ -51986,6 +52140,30 @@
     "name": "Beat Cop",
     "review_count": 4839
   },
+  "4620430": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Meet Me In The Well",
+    "review_count": null
+  },
   "462250": {
     "categories": [
       "シングルプレイヤー",
@@ -52198,6 +52376,26 @@
     "jp_support": true,
     "name": "Fury Unleashed",
     "review_count": 1997
+  },
+  "466130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "WHITEDAY～学校という名の迷宮～",
+    "review_count": 3815
   },
   "466160": {
     "categories": [
@@ -53632,6 +53830,34 @@
     "jp_support": true,
     "name": "Kingdom: New Lands",
     "review_count": 10114
+  },
+  "497730": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "The Wardrobe - Even Better Edition",
+    "review_count": 569
   },
   "498240": {
     "categories": [
@@ -58728,6 +58954,28 @@
     "name": "聖剣伝説2 SECRET of MANA",
     "review_count": 2422
   },
+  "638000": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "When Ski Lifts Go Wrong",
+    "review_count": 520
+  },
   "638230": {
     "categories": [
       "シングルプレイヤー",
@@ -59529,6 +59777,29 @@
     "name": "My Time at Portia",
     "review_count": 34813
   },
+  "666940": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Welcome Back To 2007",
+    "review_count": 227
+  },
   "667170": {
     "categories": [
       "シングルプレイヤー",
@@ -59718,6 +59989,34 @@
     "name": "Total Tank Simulator",
     "review_count": 7576
   },
+  "674520": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Fight'N Rage",
+    "review_count": 2557
+  },
   "674940": {
     "categories": [
       "マルチプレイヤー",
@@ -59855,6 +60154,23 @@
     "jp_support": true,
     "name": "CODE VEIN",
     "review_count": 46193
+  },
+  "679110": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Werewolf: The Apocalypse - Earthblood",
+    "review_count": 1466
   },
   "680030": {
     "categories": [
@@ -62686,6 +63002,22 @@
     "name": "Terraforming Mars",
     "review_count": 5181
   },
+  "801500": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "WannaMine",
+    "review_count": null
+  },
   "801800": {
     "categories": [
       "シングルプレイヤー",
@@ -63791,6 +64123,28 @@
     "name": "サブノーティカ：ビロウゼロ",
     "review_count": 99096
   },
+  "848550": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Welcome Back To 2007 Part II",
+    "review_count": null
+  },
   "849070": {
     "categories": [
       "シングルプレイヤー",
@@ -64187,6 +64541,20 @@
     "jp_support": true,
     "name": "Project Hospital",
     "review_count": 8305
+  },
+  "868550": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "What do you hear?? Yanny vs Laurel",
+    "review_count": null
   },
   "870780": {
     "categories": [
@@ -64908,6 +65276,27 @@
     "jp_support": true,
     "name": "The Walking Dead: Saints & Sinners",
     "review_count": 7589
+  },
+  "918950": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-20T22:52:33Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ウォーボーン",
+    "review_count": null
   },
   "9200": {
     "categories": [

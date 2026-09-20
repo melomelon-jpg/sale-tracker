@@ -1,0 +1,21 @@
+{
+  "slug": "meet-me-in-the-well",
+  "updated_at": "2026-09-20T22:52:33Z",
+  "history": [
+    {
+      "date": "2026-08-04",
+      "amount": 1147,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-20",
+      "amount": 135,
+      "shop": "Steam"
+    }
+  ]
+}

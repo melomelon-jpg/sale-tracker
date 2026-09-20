@@ -1,6 +1,6 @@
 {
   "slug": "red-faction-guerrilla-re-mars-tered",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-20T22:52:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-08-10",
       "amount": 2389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 477,
       "shop": "Steam"
     }
   ]

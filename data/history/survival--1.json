@@ -1,0 +1,51 @@
+{
+  "slug": "survival--1",
+  "updated_at": "2026-09-20T22:52:33Z",
+  "history": [
+    {
+      "date": "2026-03-25",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-20",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

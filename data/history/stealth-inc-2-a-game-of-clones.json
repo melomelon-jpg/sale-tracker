@@ -1,6 +1,6 @@
 {
   "slug": "stealth-inc-2-a-game-of-clones",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-09-20T22:52:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-08-13",
       "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 148,
       "shop": "Steam"
     }
   ]
