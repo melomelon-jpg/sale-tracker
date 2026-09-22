@@ -1,0 +1,106 @@
+{
+  "slug": "lunch-a-palooza",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-10",
+      "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 264,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-12",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-17",
+      "amount": 792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 105,
+      "shop": "Steam"
+    }
+  ]
+}

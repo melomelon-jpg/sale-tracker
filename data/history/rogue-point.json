@@ -1,6 +1,6 @@
 {
   "slug": "rogue-point",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2026-02-12",
@@ -44,6 +44,16 @@
     },
     {
       "date": "2026-08-04",
+      "amount": 950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-18",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
       "amount": 950,
       "shop": "Steam"
     }

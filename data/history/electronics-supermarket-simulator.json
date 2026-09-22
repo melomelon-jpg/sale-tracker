@@ -1,0 +1,91 @@
+{
+  "slug": "electronics-supermarket-simulator",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2025-10-03",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-10",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 160,
+      "shop": "Steam"
+    }
+  ]
+}

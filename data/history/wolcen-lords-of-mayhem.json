@@ -1,6 +1,6 @@
 {
   "slug": "wolcen-lords-of-mayhem",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,16 @@
     {
       "date": "2026-08-13",
       "amount": 200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 400,
       "shop": "Steam"
     }
   ]

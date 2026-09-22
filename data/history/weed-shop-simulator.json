@@ -1,0 +1,86 @@
+{
+  "slug": "weed-shop-simulator",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2025-08-14",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-30",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-30",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-06",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 150,
+      "shop": "Steam"
+    }
+  ]
+}

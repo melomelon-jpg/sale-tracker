@@ -1,6 +1,6 @@
 {
   "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-20",
       "amount": 7480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 2244,
       "shop": "Steam"
     }
   ]

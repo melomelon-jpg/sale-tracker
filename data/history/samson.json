@@ -1,0 +1,46 @@
+{
+  "slug": "samson",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2026-04-08",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 2345,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-26",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1750,
+      "shop": "Steam"
+    }
+  ]
+}

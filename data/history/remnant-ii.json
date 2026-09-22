@@ -1,6 +1,6 @@
 {
   "slug": "remnant-ii",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-14",
       "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1100,
       "shop": "Steam"
     }
   ]

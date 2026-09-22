@@ -1,0 +1,101 @@
+{
+  "slug": "lego-party",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2025-08-07",
+      "amount": 4455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-30",
+      "amount": 4455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-30",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-14",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-01",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-15",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-05",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-18",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 3465,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "gravitron",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2026-08-06",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 60,
+      "shop": "Steam"
+    }
+  ]
+}

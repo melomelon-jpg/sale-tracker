@@ -1,6 +1,6 @@
 {
   "slug": "rue-valley",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2025-11-11",
@@ -69,6 +69,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 849,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 1699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
       "amount": 849,
       "shop": "Steam"
     }

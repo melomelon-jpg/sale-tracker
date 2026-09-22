@@ -1,0 +1,91 @@
+{
+  "slug": "fellowship",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2025-10-16",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-22",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-02",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-29",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-30",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1400,
+      "shop": "Steam"
+    }
+  ]
+}

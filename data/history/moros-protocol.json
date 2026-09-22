@@ -1,0 +1,101 @@
+{
+  "slug": "moros-protocol",
+  "updated_at": "2026-09-21T23:45:58Z",
+  "history": [
+    {
+      "date": "2025-09-18",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-02",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 1875,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-12",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-27",
+      "amount": 1625,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-11",
+      "amount": 1250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 1500,
+      "shop": "Steam"
+    }
+  ]
+}

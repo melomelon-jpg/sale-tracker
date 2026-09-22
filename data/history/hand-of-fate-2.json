@@ -1,6 +1,6 @@
 {
   "slug": "hand-of-fate-2",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-09-21T23:45:58Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,16 @@
     {
       "date": "2026-08-10",
       "amount": 1545,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 3090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 618,
       "shop": "Steam"
     }
   ]
