@@ -1,6 +1,6 @@
 {
   "slug": "alba-a-wildlife-adventure",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-22T23:24:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,16 @@
     },
     {
       "date": "2026-08-09",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
       "amount": 400,
       "shop": "Steam"
     }

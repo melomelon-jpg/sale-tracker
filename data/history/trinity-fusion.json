@@ -1,6 +1,6 @@
 {
   "slug": "trinity-fusion",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-09-22T23:24:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,16 @@
     },
     {
       "date": "2026-08-16",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
       "amount": 575,
       "shop": "Steam"
     }
