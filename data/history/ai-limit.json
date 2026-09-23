@@ -1,6 +1,6 @@
 {
   "slug": "ai-limit",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-09-23T23:23:25Z",
   "history": [
     {
       "date": "2025-01-10",
@@ -125,6 +125,11 @@
     {
       "date": "2026-09-05",
       "amount": 3074,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 4730,
       "shop": "Steam"
     }
   ]

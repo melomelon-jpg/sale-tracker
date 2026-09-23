@@ -1,6 +1,6 @@
 {
   "slug": "resident-evil-3-2020",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-09-23T23:23:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-09-07",
       "amount": 798,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 3990,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "deck-of-haunts",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-23T23:23:25Z",
   "history": [
     {
       "date": "2025-05-07",
@@ -120,6 +120,16 @@
     {
       "date": "2026-08-10",
       "amount": 1035,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-23",
+      "amount": 920,
       "shop": "Steam"
     }
   ]

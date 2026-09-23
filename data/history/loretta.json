@@ -1,6 +1,6 @@
 {
   "slug": "loretta",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-23T23:23:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-23",
       "amount": 850,
       "shop": "Steam"
     }

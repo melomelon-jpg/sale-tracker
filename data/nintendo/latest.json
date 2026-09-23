@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:39:15Z",
+  "generated_at": "2026-09-23T23:41:55Z",
   "currency": "JPY",
   "games": [
     {
@@ -63,8 +63,8 @@
       "title": "OCTOPATH TRAVELER",
       "nsuid": "70010000001596",
       "regular": 5478,
-      "current": 3286,
-      "on_sale": true
+      "current": 5478,
+      "on_sale": false
     }
   ]
 }

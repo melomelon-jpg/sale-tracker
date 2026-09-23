@@ -1,6 +1,6 @@
 {
   "slug": "monaco-whats-yours-is-mine",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-09-23T23:23:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -110,6 +110,11 @@
     {
       "date": "2026-09-16",
       "amount": 296,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-23",
+      "amount": 1480,
       "shop": "Steam"
     }
   ]
