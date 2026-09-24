@@ -107,12 +107,22 @@
 </section>
 
 <h2>価格の推移</h2>
-<p class="chart-legend"><span class="chart-legend-item"><span class="chart-legend-swatch cur"></span>現在 ¥4,480</span><span class="chart-legend-item"><span class="chart-legend-swatch low"></span>最安 ¥3,584</span><span class="chart-legend-item">定価 ¥4,480</span></p><div class="table-wrap chart-scroll"><svg class="chart" viewBox="0 0 760 260" style="min-width:760px" role="img"
+<p class="chart-legend"><span class="chart-legend-item"><span class="chart-legend-swatch cur"></span>現在 ¥4,480</span><span class="chart-legend-item"><span class="chart-legend-swatch low"></span>最安 ¥3,584</span><span class="chart-legend-item">定価 ¥4,480</span></p>
+<div class="chart-period-toggle" data-period-buttons="price-chart">
+  <button type="button" class="chart-period-btn" data-period="1y" aria-pressed="true">1年</button>
+  <button type="button" class="chart-period-btn" data-period="all" aria-pressed="false">全期間</button>
+</div><div class="table-wrap chart-scroll" data-period-panel="price-chart" data-period="1y"><svg class="chart" viewBox="0 0 760 260" style="min-width:760px" role="img"
      aria-label="価格履歴グラフ（ステップチャート）">
   <line x1="64" y1="232.0" x2="744" y2="232.0" class="grid-line"/><text x="54" y="236.0" class="axis-y-label" text-anchor="end">¥0</text><line x1="64" y1="177.5" x2="744" y2="177.5" class="grid-line"/><text x="54" y="181.5" class="axis-y-label" text-anchor="end">¥2,000</text><line x1="64" y1="123.0" x2="744" y2="123.0" class="grid-line"/><text x="54" y="127.0" class="axis-y-label" text-anchor="end">¥4,000</text><line x1="64" y1="68.5" x2="744" y2="68.5" class="grid-line"/><text x="54" y="72.5" class="axis-y-label" text-anchor="end">¥6,000</text><line x1="64" y1="14.0" x2="744" y2="14.0" class="grid-line"/><text x="54" y="18.0" class="axis-y-label" text-anchor="end">¥8,000</text>
-  <path d="M 64.0,109.9 L 200.0,109.9 L 200.0,122.1 L 336.0,122.1 L 336.0,109.9 L 472.0,109.9 L 472.0,134.3 L 608.0,134.3 L 608.0,109.9 L 744.0,109.9 L 744.0,134.3 L 744.0,232.0 L 64.0,232.0 Z" class="price-area"/>
-  <path d="M 64.0,109.9 L 200.0,109.9 L 200.0,122.1 L 336.0,122.1 L 336.0,109.9 L 472.0,109.9 L 472.0,134.3 L 608.0,134.3 L 608.0,109.9 L 744.0,109.9 L 744.0,134.3" class="price-line"/>
-  <circle cx="64.0" cy="109.9" r="2.5" class="pt"/><circle cx="200.0" cy="122.1" r="2.5" class="pt"/><circle cx="336.0" cy="109.9" r="2.5" class="pt"/><circle cx="608.0" cy="109.9" r="2.5" class="pt"/><circle cx="744.0" cy="134.3" r="2.5" class="pt"/><circle cx="472.0" cy="134.3" r="4" class="pt-low"/><circle cx="744.0" cy="109.9" r="4" class="pt-current"/><text x="64.0" y="252.0" class="axis-x-label" text-anchor="start">2025/3</text><text x="200.0" y="252.0" class="axis-x-label" text-anchor="middle">2025/6</text><text x="336.0" y="252.0" class="axis-x-label" text-anchor="middle">2025/7</text><text x="472.0" y="252.0" class="axis-x-label" text-anchor="middle">2025/8</text><text x="608.0" y="252.0" class="axis-x-label" text-anchor="middle">2025/9</text><text x="744.0" y="252.0" class="axis-x-label" text-anchor="end">2026/9</text>
+  <path d="M 64.0,134.3 L 744.0,134.3 L 744.0,109.9 L 744.0,232.0 L 64.0,232.0 Z" class="price-area"/>
+  <path d="M 64.0,134.3 L 744.0,134.3 L 744.0,109.9" class="price-line"/>
+  <circle cx="744.0" cy="109.9" r="2.5" class="pt"/><circle cx="64.0" cy="134.3" r="4" class="pt-low"/><circle cx="744.0" cy="109.9" r="4" class="pt-current"/><text x="64.0" y="252.0" class="axis-x-label" text-anchor="start">2026/9</text><text x="744.0" y="252.0" class="axis-x-label" text-anchor="end">2026/9</text>
+</svg></div><div class="table-wrap chart-scroll" data-period-panel="price-chart" data-period="all" hidden><svg class="chart" viewBox="0 0 760 260" style="min-width:760px" role="img"
+     aria-label="価格履歴グラフ（ステップチャート）">
+  <line x1="64" y1="232.0" x2="744" y2="232.0" class="grid-line"/><text x="54" y="236.0" class="axis-y-label" text-anchor="end">¥0</text><line x1="64" y1="177.5" x2="744" y2="177.5" class="grid-line"/><text x="54" y="181.5" class="axis-y-label" text-anchor="end">¥2,000</text><line x1="64" y1="123.0" x2="744" y2="123.0" class="grid-line"/><text x="54" y="127.0" class="axis-y-label" text-anchor="end">¥4,000</text><line x1="64" y1="68.5" x2="744" y2="68.5" class="grid-line"/><text x="54" y="72.5" class="axis-y-label" text-anchor="end">¥6,000</text><line x1="64" y1="14.0" x2="744" y2="14.0" class="grid-line"/><text x="54" y="18.0" class="axis-y-label" text-anchor="end">¥8,000</text>
+  <path d="M 64.0,109.9 L 177.3,109.9 L 177.3,122.1 L 290.7,122.1 L 290.7,109.9 L 404.0,109.9 L 404.0,134.3 L 517.3,134.3 L 517.3,109.9 L 630.7,109.9 L 630.7,134.3 L 744.0,134.3 L 744.0,109.9 L 744.0,232.0 L 64.0,232.0 Z" class="price-area"/>
+  <path d="M 64.0,109.9 L 177.3,109.9 L 177.3,122.1 L 290.7,122.1 L 290.7,109.9 L 404.0,109.9 L 404.0,134.3 L 517.3,134.3 L 517.3,109.9 L 630.7,109.9 L 630.7,134.3 L 744.0,134.3 L 744.0,109.9" class="price-line"/>
+  <circle cx="64.0" cy="109.9" r="2.5" class="pt"/><circle cx="177.3" cy="122.1" r="2.5" class="pt"/><circle cx="290.7" cy="109.9" r="2.5" class="pt"/><circle cx="517.3" cy="109.9" r="2.5" class="pt"/><circle cx="630.7" cy="134.3" r="2.5" class="pt"/><circle cx="744.0" cy="109.9" r="2.5" class="pt"/><circle cx="404.0" cy="134.3" r="4" class="pt-low"/><circle cx="744.0" cy="109.9" r="4" class="pt-current"/><text x="64.0" y="252.0" class="axis-x-label" text-anchor="start">2025/3</text><text x="177.3" y="252.0" class="axis-x-label" text-anchor="middle">2025/6</text><text x="290.7" y="252.0" class="axis-x-label" text-anchor="middle">2025/7</text><text x="517.3" y="252.0" class="axis-x-label" text-anchor="middle">2025/9</text><text x="630.7" y="252.0" class="axis-x-label" text-anchor="middle">2026/9</text><text x="744.0" y="252.0" class="axis-x-label" text-anchor="end">2026/9</text>
 </svg></div>
 
 
@@ -126,10 +136,10 @@
 <div class="table-wrap">
 <table class="history">
   <thead><tr><th>日付</th><th>価格</th></tr></thead>
-  <tbody><tr><td>2026-09-11</td><td>¥3,584</td></tr><tr><td>2025-09-02</td><td>¥4,480</td></tr><tr><td>2025-08-19</td><td>¥3,584</td></tr><tr><td>2025-07-10</td><td>¥4,480</td></tr><tr><td>2025-06-12</td><td>¥4,032</td></tr></tbody>
+  <tbody><tr><td>2026-09-22</td><td>¥4,480</td></tr><tr><td>2026-09-11</td><td>¥3,584</td></tr><tr><td>2025-09-02</td><td>¥4,480</td></tr><tr><td>2025-08-19</td><td>¥3,584</td></tr><tr><td>2025-07-10</td><td>¥4,480</td></tr></tbody>
 </table>
 </div>
-<details class="hist-more"><summary>もっと見る（残り1件）</summary><table class="history"><tbody><tr><td>2025-03-28</td><td>¥4,480</td></tr></tbody></table></details>
+<details class="hist-more"><summary>もっと見る（残り2件）</summary><table class="history"><tbody><tr><td>2025-06-12</td><td>¥4,032</td></tr><tr><td>2025-03-28</td><td>¥4,480</td></tr></tbody></table></details>
 
 
 <h2>このゲームと同じジャンルのセール</h2>
@@ -181,7 +191,7 @@
   </div>
 </li>
 <li class="row row-v-watch" data-slug="far-cry-5" data-title="far cry 5 far cry® 5" data-cut="85" data-price="1188"
-  data-verdict-rank="3" data-expiry-ts="1790874000.0" data-jp="1" data-onsale="1"
+  data-verdict-rank="3" data-expiry-ts="9999999999" data-jp="1" data-onsale="1"
   data-reviews="172200" data-genres="アクション,アドベンチャー" data-shop="Steam">
   <div class="row-rank"></div>
   <div class="row-thumb">
@@ -197,7 +207,7 @@
 </li></ul>
 <p class="see-all"><a class="btn-outline" href="../genre/adventure.html">アドベンチャーのセールをもっと見る →</a></p>
 
-<p class="meta">最終更新: 2026年9月24日 08:23（日本時間）</p>
+<p class="meta">最終更新: 2026年9月25日 08:42（日本時間）</p>
 
 </main>
 <footer class="site-footer">

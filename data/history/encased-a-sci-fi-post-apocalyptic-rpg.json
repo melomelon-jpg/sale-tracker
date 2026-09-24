@@ -1,6 +1,6 @@
 {
   "slug": "encased-a-sci-fi-post-apocalyptic-rpg",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,16 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 358,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 3589,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
       "amount": 358,
       "shop": "Steam"
     }

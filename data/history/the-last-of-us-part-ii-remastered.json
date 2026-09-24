@@ -1,6 +1,6 @@
 {
   "slug": "the-last-of-us-part-ii-remastered",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2025-01-09",
@@ -75,6 +75,11 @@
     {
       "date": "2026-07-09",
       "amount": 5480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 3671,
       "shop": "Steam"
     }
   ]

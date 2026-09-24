@@ -1,6 +1,6 @@
 {
   "slug": "titan-quest-ii",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2025-08-01",
@@ -95,6 +95,11 @@
     {
       "date": "2026-08-14",
       "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 3465,
       "shop": "Steam"
     }
   ]

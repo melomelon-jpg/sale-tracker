@@ -1,0 +1,106 @@
+{
+  "slug": "ninja-gaiden-4",
+  "updated_at": "2026-09-24T23:42:38Z",
+  "history": [
+    {
+      "date": "2025-06-08",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-21",
+      "amount": 7120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-02",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 6230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-21",
+      "amount": 6230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-26",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 5785,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-11",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 5785,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 5340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 5340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 5340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 5340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 4450,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "terra-nil",
-  "updated_at": "2026-09-19T22:36:27Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-07-09",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 700,
       "shop": "Steam"
     }
   ]

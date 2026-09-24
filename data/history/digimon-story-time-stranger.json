@@ -1,6 +1,6 @@
 {
   "slug": "digimon-story-time-stranger",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2025-06-19",
@@ -70,6 +70,11 @@
     {
       "date": "2026-09-14",
       "amount": 5078,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 8910,
       "shop": "Steam"
     }
   ]

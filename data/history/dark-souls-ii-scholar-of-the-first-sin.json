@@ -1,6 +1,6 @@
 {
   "slug": "dark-souls-ii-scholar-of-the-first-sin",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -14,17 +14,12 @@
     },
     {
       "date": "2025-01-27",
-      "amount": 2310,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
       "date": "2025-01-27",
-      "amount": 2860,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-02-03",
-      "amount": 5720,
+      "amount": 2310,
       "shop": "Steam"
     },
     {
@@ -33,13 +28,18 @@
       "shop": "Steam"
     },
     {
-      "date": "2025-05-01",
-      "amount": 2310,
+      "date": "2025-02-03",
+      "amount": 5720,
       "shop": "Steam"
     },
     {
       "date": "2025-05-01",
       "amount": 2860,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-01",
+      "amount": 2310,
       "shop": "Steam"
     },
     {
@@ -74,17 +74,12 @@
     },
     {
       "date": "2025-11-20",
-      "amount": 2860,
+      "amount": 2310,
       "shop": "Steam"
     },
     {
       "date": "2025-11-20",
-      "amount": 2310,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-12-04",
-      "amount": 4620,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
@@ -93,13 +88,18 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-02-12",
-      "amount": 2860,
+      "date": "2025-12-04",
+      "amount": 4620,
       "shop": "Steam"
     },
     {
       "date": "2026-02-12",
       "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 2860,
       "shop": "Steam"
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "date": "2026-04-20",
-      "amount": 2860,
+      "amount": 2310,
       "shop": "Steam"
     },
     {
       "date": "2026-04-20",
-      "amount": 2310,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
@@ -130,6 +130,16 @@
     {
       "date": "2026-04-27",
       "amount": 4620,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2860,
       "shop": "Steam"
     }
   ]

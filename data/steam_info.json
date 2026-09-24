@@ -416,6 +416,26 @@
     "name": "Unrailed!",
     "review_count": 13751
   },
+  "1018010": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Castlevania Anniversary Collection",
+    "review_count": 1798
+  },
   "1018020": {
     "categories": [
       "シングルプレイヤー",
@@ -764,6 +784,27 @@
     "jp_support": true,
     "name": "Going Medieval - ゴーイング・メディーバル",
     "review_count": 16922
+  },
+  "1030210": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Torchlight III",
+    "review_count": 10402
   },
   "1030300": {
     "categories": [
@@ -14200,6 +14241,21 @@
     "jp_support": true,
     "name": "Forza Horizon 5",
     "review_count": 257943
+  },
+  "1552550": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Castlevania Advance Collection",
+    "review_count": 2157
   },
   "1553000": {
     "categories": [
@@ -31647,6 +31703,28 @@
     "name": "Jack Keane 2 - The Fire Within",
     "review_count": null
   },
+  "2369900": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "ゲームパッド推奨",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Castlevania Dominus Collection",
+    "review_count": 2371
+  },
   "2371890": {
     "categories": [
       "シングルプレイヤー",
@@ -44904,6 +44982,30 @@
     "name": "Logistics Company",
     "review_count": null
   },
+  "3287520": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "NINJA GAIDEN 2 Black",
+    "review_count": 3295
+  },
   "329050": {
     "categories": [
       "シングルプレイヤー",
@@ -53675,6 +53777,26 @@
     "name": "Emoji Wars",
     "review_count": null
   },
+  "443810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "This Is the Police",
+    "review_count": 9157
+  },
   "444090": {
     "categories": [
       "マルチプレイヤー",
@@ -54211,6 +54333,31 @@
     "jp_support": false,
     "name": "WRC 6 FIA World Rally Championship",
     "review_count": 1285
+  },
+  "459220": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Halo Wars: Definitive Edition",
+    "review_count": 8639
   },
   "459640": {
     "categories": [
@@ -60772,6 +60919,25 @@
     "name": "タワー・オブ・タイム",
     "review_count": 2321
   },
+  "617830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "SteamVRコレクティブル",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "SUPERHOT VR",
+    "review_count": 8838
+  },
   "618750": {
     "categories": [
       "シングルプレイヤー",
@@ -62004,6 +62170,25 @@
     "jp_support": false,
     "name": "Dustforce DX",
     "review_count": 1215
+  },
+  "653060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-24T23:42:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "The Siege and the Sandfox",
+    "review_count": 180
   },
   "653530": {
     "categories": [

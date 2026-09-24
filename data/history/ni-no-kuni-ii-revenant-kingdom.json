@@ -1,6 +1,6 @@
 {
   "slug": "ni-no-kuni-ii-revenant-kingdom",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-09-14",
       "amount": 1408,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 8800,
       "shop": "Steam"
     }
   ]

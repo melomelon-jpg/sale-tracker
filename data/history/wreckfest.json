@@ -1,6 +1,6 @@
 {
   "slug": "wreckfest",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-08-14",
       "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 875,
       "shop": "Steam"
     }
   ]

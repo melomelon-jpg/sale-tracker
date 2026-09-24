@@ -1,6 +1,6 @@
 {
   "slug": "raidou-remastered-the-mystery-of-the-soulless-army",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2025-03-27",
@@ -79,6 +79,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 3617,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 6578,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
       "amount": 3617,
       "shop": "Steam"
     }

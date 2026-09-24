@@ -1,6 +1,6 @@
 {
   "slug": "superhot",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-08-21",
       "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 749,
       "shop": "Steam"
     }
   ]

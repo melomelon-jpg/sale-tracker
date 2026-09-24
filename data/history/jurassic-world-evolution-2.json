@@ -1,6 +1,6 @@
 {
   "slug": "jurassic-world-evolution-2",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-08-18",
+      "amount": 1887,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": 6290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
       "amount": 1887,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "shin-megami-tensei-v-vengeance",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-24",
       "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2963,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "bloodstained-ritual-of-the-night",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-09-10",
       "amount": 1370,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 5480,
       "shop": "Steam"
     }
   ]

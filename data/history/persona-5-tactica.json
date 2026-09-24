@@ -1,6 +1,6 @@
 {
   "slug": "persona-5-tactica",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-24T23:42:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 2376,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 7920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
       "amount": 2376,
       "shop": "Steam"
     }
