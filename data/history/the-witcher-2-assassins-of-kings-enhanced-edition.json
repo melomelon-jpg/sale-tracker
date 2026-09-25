@@ -1,6 +1,6 @@
 {
   "slug": "the-witcher-2-assassins-of-kings-enhanced-edition",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-09-25T23:44:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-08-10",
       "amount": 2018,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 302,
       "shop": "Steam"
     }
   ]

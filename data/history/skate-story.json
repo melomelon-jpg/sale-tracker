@@ -1,0 +1,36 @@
+{
+  "slug": "skate-story",
+  "updated_at": "2026-09-25T23:44:47Z",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-09",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}

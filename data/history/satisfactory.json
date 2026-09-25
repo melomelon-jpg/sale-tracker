@@ -1,6 +1,6 @@
 {
   "slug": "satisfactory",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-09-25T23:44:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-07-26",
       "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 3150,
       "shop": "Steam"
     }
   ]

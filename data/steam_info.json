@@ -5058,6 +5058,21 @@
     "name": "Trepang2",
     "review_count": 15496
   },
+  "1165470": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-25T23:44:47Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": false,
+    "name": "TombStar",
+    "review_count": null
+  },
   "1166580": {
     "categories": [
       "シングルプレイヤー",
@@ -21606,6 +21621,32 @@
     "name": "Windblown",
     "review_count": 9016
   },
+  "1912380": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-25T23:44:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": false,
+    "name": "Soccer Story",
+    "review_count": 123
+  },
   "1912750": {
     "categories": [
       "シングルプレイヤー",
@@ -34178,6 +34219,22 @@
     "name": "ストレンジシード Strange Seed",
     "review_count": 420
   },
+  "246420": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-25T23:44:47Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Kingdom Rush  - Tower Defense",
+    "review_count": 14661
+  },
   "2464280": {
     "categories": [
       "シングルプレイヤー",
@@ -43340,6 +43397,28 @@
     "jp_support": true,
     "name": "Just Skill Shooter: Catacombs",
     "review_count": null
+  },
+  "3108510": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-25T23:44:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "FlyKnight Enhanced Edition",
+    "review_count": 10453
   },
   "311010": {
     "categories": [
@@ -69334,6 +69413,26 @@
     "jp_support": true,
     "name": "Prodeus",
     "review_count": 5505
+  },
+  "965230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-25T23:44:47Z",
+    "genres": [
+      "カジュアル",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "DORAEMON  STORY OF SEASONS",
+    "review_count": 1846
   },
   "965580": {
     "categories": [

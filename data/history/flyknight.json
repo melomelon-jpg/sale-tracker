@@ -1,0 +1,101 @@
+{
+  "slug": "flyknight",
+  "updated_at": "2026-09-25T23:44:47Z",
+  "history": [
+    {
+      "date": "2025-01-31",
+      "amount": 599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-07",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-08",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-13",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 532,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 666,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 466,
+      "shop": "Steam"
+    }
+  ]
+}

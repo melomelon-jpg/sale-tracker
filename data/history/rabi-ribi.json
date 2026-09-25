@@ -1,6 +1,6 @@
 {
   "slug": "rabi-ribi",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-09-25T23:44:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-19",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
       "amount": 1000,
       "shop": "Steam"
     }
