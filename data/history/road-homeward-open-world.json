@@ -1,6 +1,6 @@
 {
   "slug": "road-homeward-open-world",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-09-26T23:19:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -49,6 +49,16 @@
     },
     {
       "date": "2026-08-06",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
       "amount": 140,
       "shop": "Steam"
     }

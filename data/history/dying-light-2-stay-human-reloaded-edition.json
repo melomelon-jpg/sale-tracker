@@ -1,6 +1,6 @@
 {
   "slug": "dying-light-2-stay-human-reloaded-edition",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-09-26T23:19:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-09-14",
       "amount": 1618,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 8090,
       "shop": "Steam"
     }
   ]

@@ -1497,6 +1497,22 @@
     "name": "Terraria",
     "review_count": 1232324
   },
+  "1056510": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Root Letter Last Answer",
+    "review_count": 149
+  },
   "1056690": {
     "categories": [
       "シングルプレイヤー",
@@ -2243,6 +2259,22 @@
     "jp_support": true,
     "name": "バグ・フェイブルズ ～ムシたちとえいえんの若木～",
     "review_count": 5197
+  },
+  "1083070": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Sapper - Defuse The Bomb Simulator",
+    "review_count": null
   },
   "1084600": {
     "categories": [
@@ -4876,6 +4908,27 @@
     "jp_support": false,
     "name": "The Bloodline",
     "review_count": 3750
+  },
+  "1159420": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Robin Hood - Sherwood Builders",
+    "review_count": 1023
   },
   "1159690": {
     "categories": [
@@ -9083,6 +9136,23 @@
     "jp_support": false,
     "name": "Half-Life: Blue Shift",
     "review_count": 18551
+  },
+  "1304130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ReRoad",
+    "review_count": 104
   },
   "1304680": {
     "categories": [
@@ -20186,6 +20256,24 @@
     "name": "Rogue Point",
     "review_count": 922
   },
+  "1843940": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ブリガンダイン ルーナジア戦記",
+    "review_count": 1336
+  },
   "1845910": {
     "categories": [
       "シングルプレイヤー",
@@ -27338,6 +27426,19 @@
     "name": "Strayed Lights",
     "review_count": 297
   },
+  "216210": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Secret Files 3",
+    "review_count": 182
+  },
   "2162800": {
     "categories": [
       "シングルプレイヤー",
@@ -29834,6 +29935,30 @@
     "jp_support": true,
     "name": "明末：ウツロノハネ",
     "review_count": 44781
+  },
+  "2277720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Red Glare",
+    "review_count": null
   },
   "228200": {
     "categories": [
@@ -33430,6 +33555,22 @@
     "name": "Styx: Master of Shadows",
     "review_count": 9624
   },
+  "2426770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Runner Roy",
+    "review_count": null
+  },
   "242680": {
     "categories": [
       "シングルプレイヤー",
@@ -33621,6 +33762,36 @@
     "jp_support": false,
     "name": "Banished",
     "review_count": 37846
+  },
+  "2429270": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The RPG",
+    "review_count": 772
   },
   "2430660": {
     "categories": [
@@ -34984,6 +35155,21 @@
     "name": "Ursine Science",
     "review_count": null
   },
+  "2505530": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Ranphon",
+    "review_count": null
+  },
   "250620": {
     "categories": [
       "シングルプレイヤー",
@@ -36313,6 +36499,19 @@
     "jp_support": true,
     "name": "Woodo",
     "review_count": null
+  },
+  "257220": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Secret Files: Sam Peters",
+    "review_count": 205
   },
   "257350": {
     "categories": [
@@ -51341,6 +51540,19 @@
     "name": "Planetbase",
     "review_count": 9528
   },
+  "40330": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Secret Files: Tunguska",
+    "review_count": 374
+  },
   "403390": {
     "categories": [
       "シングルプレイヤー",
@@ -51353,6 +51565,19 @@
     "jp_support": false,
     "name": "Undercover Missions: Operation Kursk K-141",
     "review_count": null
+  },
+  "40340": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Secret Files 2: Puritas Cordis",
+    "review_count": 205
   },
   "403640": {
     "categories": [
@@ -52759,6 +52984,26 @@
     "jp_support": false,
     "name": "Devil Daggers",
     "review_count": 7390
+  },
+  "4230420": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Eggventure",
+    "review_count": null
   },
   "4231820": {
     "categories": [
@@ -63108,6 +63353,22 @@
     "name": "GRIS",
     "review_count": 83609
   },
+  "683770": {
+    "categories": [
+      "シングルプレイヤー",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Rover Builder",
+    "review_count": null
+  },
   "683900": {
     "categories": [
       "シングルプレイヤー",
@@ -64163,6 +64424,24 @@
     ],
     "jp_support": false,
     "name": "Orbital Racer",
+    "review_count": null
+  },
+  "726710": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "レース"
+    ],
+    "jp_support": true,
+    "name": "RAZED",
     "review_count": null
   },
   "727540": {
@@ -67995,6 +68274,24 @@
     "jp_support": true,
     "name": "Project Wingman",
     "review_count": 18399
+  },
+  "897380": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-09-26T23:19:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Reptiles: In Hunt",
+    "review_count": null
   },
   "897450": {
     "categories": [

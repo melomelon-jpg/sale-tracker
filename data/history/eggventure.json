@@ -1,0 +1,21 @@
+{
+  "slug": "eggventure",
+  "updated_at": "2026-09-26T23:19:28Z",
+  "history": [
+    {
+      "date": "2026-08-19",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 103,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "tank-mechanic-simulator",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-26T23:19:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
       "amount": 205,
       "shop": "Steam"
     }

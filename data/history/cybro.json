@@ -1,0 +1,41 @@
+{
+  "slug": "cybro",
+  "updated_at": "2026-09-26T23:19:28Z",
+  "history": [
+    {
+      "date": "2026-05-01",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 115,
+      "shop": "Steam"
+    }
+  ]
+}

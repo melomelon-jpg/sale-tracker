@@ -1,6 +1,6 @@
 {
   "slug": "deep-rock-galactic-rogue-core",
-  "updated_at": "2026-09-19T22:36:27Z",
+  "updated_at": "2026-09-26T23:19:28Z",
   "history": [
     {
       "date": "2026-05-20",
@@ -20,6 +20,11 @@
     {
       "date": "2026-09-07",
       "amount": 2720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]
