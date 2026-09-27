@@ -1,0 +1,46 @@
+{
+  "slug": "obscure",
+  "updated_at": "2026-09-27T23:32:09Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 698,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-28",
+      "amount": 349,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 698,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-13",
+      "amount": 174,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-22",
+      "amount": 698,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 237,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 698,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-27",
+      "amount": 174,
+      "shop": "Steam"
+    }
+  ]
+}

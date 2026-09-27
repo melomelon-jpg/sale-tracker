@@ -1,0 +1,41 @@
+{
+  "slug": "shantytown",
+  "updated_at": "2026-09-27T23:32:09Z",
+  "history": [
+    {
+      "date": "2026-04-16",
+      "amount": 1530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-01",
+      "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-27",
+      "amount": 850,
+      "shop": "Steam"
+    }
+  ]
+}

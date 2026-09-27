@@ -1,6 +1,6 @@
 {
   "slug": "lake",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-09-27T23:32:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 717,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
       "amount": 717,
       "shop": "Steam"
     }

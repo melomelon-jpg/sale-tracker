@@ -1,6 +1,6 @@
 {
   "slug": "children-of-morta",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-09-27T23:32:09Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-09-08",
       "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 2570,
       "shop": "Steam"
     }
   ]
