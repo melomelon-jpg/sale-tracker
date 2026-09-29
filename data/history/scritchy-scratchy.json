@@ -1,0 +1,61 @@
+{
+  "slug": "scritchy-scratchy",
+  "updated_at": "2026-09-29T00:46:29Z",
+  "history": [
+    {
+      "date": "2026-03-18",
+      "amount": 563,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-01",
+      "amount": 704,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 563,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-06",
+      "amount": 704,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 563,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 704,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 563,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 704,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 563,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 704,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 492,
+      "shop": "Steam"
+    }
+  ]
+}

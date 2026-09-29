@@ -1,6 +1,6 @@
 {
   "slug": "ninja-stealth",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-29T00:46:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-11",
+      "amount": 60,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-25",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
       "amount": 60,
       "shop": "Steam"
     }

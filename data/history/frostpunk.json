@@ -1,6 +1,6 @@
 {
   "slug": "frostpunk",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-09-29T00:46:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-09-14",
       "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]

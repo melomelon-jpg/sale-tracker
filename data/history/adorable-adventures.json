@@ -1,0 +1,41 @@
+{
+  "slug": "adorable-adventures",
+  "updated_at": "2026-09-29T00:46:29Z",
+  "history": [
+    {
+      "date": "2026-04-30",
+      "amount": 2560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 3200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-13",
+      "amount": 2560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 3200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 1600,
+      "shop": "Steam"
+    }
+  ]
+}

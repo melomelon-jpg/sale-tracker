@@ -1,6 +1,6 @@
 {
   "slug": "nurtopu",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-09-29T00:46:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-08-12",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
       "amount": 105,
       "shop": "Steam"
     }

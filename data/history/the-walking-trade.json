@@ -1,0 +1,56 @@
+{
+  "slug": "the-walking-trade",
+  "updated_at": "2026-09-29T00:46:29Z",
+  "history": [
+    {
+      "date": "2026-03-05",
+      "amount": 1080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-09",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 780,
+      "shop": "Steam"
+    }
+  ]
+}

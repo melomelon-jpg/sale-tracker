@@ -1,6 +1,6 @@
 {
   "slug": "american-truck-simulator",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-09-29T00:46:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-08-25",
       "amount": 2780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 695,
       "shop": "Steam"
     }
   ]

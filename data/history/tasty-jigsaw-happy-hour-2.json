@@ -1,0 +1,116 @@
+{
+  "slug": "tasty-jigsaw-happy-hour-2",
+  "updated_at": "2026-09-29T00:46:29Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-20",
+      "amount": 70,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-27",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-03",
+      "amount": 70,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-10",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 117,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-28",
+      "amount": 70,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-05",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-26",
+      "amount": 70,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 70,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 174,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 170,
+      "shop": "Steam"
+    }
+  ]
+}

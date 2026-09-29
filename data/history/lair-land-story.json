@@ -1,0 +1,86 @@
+{
+  "slug": "lair-land-story",
+  "updated_at": "2026-09-29T00:46:29Z",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "amount": 180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-01",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-13",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-27",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-02",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-02",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 190,
+      "shop": "Steam"
+    }
+  ]
+}
