@@ -1,0 +1,76 @@
+{
+  "slug": "kung-fu-strike-the-warriors-rise",
+  "updated_at": "2026-09-30T00:01:06Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 294,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-26",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-09",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-27",
+      "amount": 98,
+      "shop": "Steam"
+    }
+  ]
+}

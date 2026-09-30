@@ -1,6 +1,6 @@
 {
   "slug": "the-witcher-3-wild-hunt-complete-edition",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-09-30T00:01:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -24,22 +24,22 @@
     },
     {
       "date": "2024-12-18",
-      "amount": 5588,
+      "amount": 6600,
       "shop": "Steam"
     },
     {
       "date": "2024-12-18",
-      "amount": 6600,
-      "shop": "Steam"
-    },
-    {
-      "date": "2024-12-19",
-      "amount": 1117,
+      "amount": 5588,
       "shop": "Steam"
     },
     {
       "date": "2024-12-19",
       "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1117,
       "shop": "Steam"
     },
     {
@@ -54,12 +54,12 @@
     },
     {
       "date": "2025-01-24",
-      "amount": 1117,
+      "amount": 1320,
       "shop": "Steam"
     },
     {
       "date": "2025-01-24",
-      "amount": 1320,
+      "amount": 1117,
       "shop": "Steam"
     },
     {
@@ -70,11 +70,6 @@
     {
       "date": "2025-02-02",
       "amount": 6600,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-03-13",
-      "amount": 1320,
       "shop": "Steam"
     },
     {
@@ -83,6 +78,11 @@
       "shop": "Steam"
     },
     {
+      "date": "2025-03-13",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
       "date": "2025-03-27",
       "amount": 5588,
       "shop": "Steam"
@@ -90,11 +90,6 @@
     {
       "date": "2025-03-27",
       "amount": 6600,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-05-15",
-      "amount": 1320,
       "shop": "Steam"
     },
     {
@@ -103,13 +98,18 @@
       "shop": "Steam"
     },
     {
-      "date": "2025-05-25",
-      "amount": 6600,
+      "date": "2025-05-15",
+      "amount": 1320,
       "shop": "Steam"
     },
     {
       "date": "2025-05-25",
       "amount": 5588,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-25",
+      "amount": 6600,
       "shop": "Steam"
     },
     {
@@ -144,22 +144,22 @@
     },
     {
       "date": "2025-08-17",
-      "amount": 6600,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-08-17",
       "amount": 5588,
       "shop": "Steam"
     },
     {
-      "date": "2025-09-18",
-      "amount": 1117,
+      "date": "2025-08-17",
+      "amount": 6600,
       "shop": "Steam"
     },
     {
       "date": "2025-09-18",
       "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-18",
+      "amount": 1117,
       "shop": "Steam"
     },
     {
@@ -204,12 +204,12 @@
     },
     {
       "date": "2025-12-11",
-      "amount": 6600,
+      "amount": 5588,
       "shop": "Steam"
     },
     {
       "date": "2025-12-11",
-      "amount": 5588,
+      "amount": 6600,
       "shop": "Steam"
     },
     {
@@ -224,12 +224,12 @@
     },
     {
       "date": "2026-01-05",
-      "amount": 6600,
+      "amount": 5588,
       "shop": "Steam"
     },
     {
       "date": "2026-01-05",
-      "amount": 5588,
+      "amount": 6600,
       "shop": "Steam"
     },
     {
@@ -244,17 +244,12 @@
     },
     {
       "date": "2026-02-22",
-      "amount": 6600,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-02-22",
       "amount": 5588,
       "shop": "Steam"
     },
     {
-      "date": "2026-03-19",
-      "amount": 1117,
+      "date": "2026-02-22",
+      "amount": 6600,
       "shop": "Steam"
     },
     {
@@ -263,13 +258,18 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-03-26",
-      "amount": 6600,
+      "date": "2026-03-19",
+      "amount": 1117,
       "shop": "Steam"
     },
     {
       "date": "2026-03-26",
       "amount": 5588,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 6600,
       "shop": "Steam"
     },
     {
@@ -319,12 +319,12 @@
     },
     {
       "date": "2026-07-27",
-      "amount": 1320,
+      "amount": 1117,
       "shop": "Steam"
     },
     {
       "date": "2026-07-27",
-      "amount": 1117,
+      "amount": 1320,
       "shop": "Steam"
     },
     {

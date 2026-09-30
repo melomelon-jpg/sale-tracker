@@ -1,6 +1,6 @@
 {
   "slug": "hitman-absolution",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-09-30T00:01:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-09-15",
       "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 4104,
       "shop": "Steam"
     }
   ]
