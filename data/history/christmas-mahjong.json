@@ -1,6 +1,6 @@
 {
   "slug": "christmas-mahjong",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-10-01T00:18:16Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
       "amount": 170,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "super-block-boy-and-friends",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-01T00:18:16Z",
   "history": [
     {
       "date": "2025-03-28",
@@ -109,6 +109,16 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
       "amount": 108,
       "shop": "Steam"
     }

@@ -1,0 +1,31 @@
+{
+  "slug": "terrinoth-heroes-of-descent",
+  "updated_at": "2026-10-01T00:18:16Z",
+  "history": [
+    {
+      "date": "2026-06-07",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-21",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 3600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2160,
+      "shop": "Steam"
+    }
+  ]
+}
