@@ -1,6 +1,6 @@
 {
   "slug": "sword-of-the-sea",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2025-08-19",
@@ -45,6 +45,11 @@
     {
       "date": "2026-08-24",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2380,
       "shop": "Steam"
     }
   ]

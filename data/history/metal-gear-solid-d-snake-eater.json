@@ -1,6 +1,6 @@
 {
   "slug": "metal-gear-solid-d-snake-eater",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2025-02-13",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-13",
       "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3465,
       "shop": "Steam"
     }
   ]

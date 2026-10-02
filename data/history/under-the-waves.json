@@ -1,6 +1,6 @@
 {
   "slug": "under-the-waves",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,16 @@
     {
       "date": "2026-09-21",
       "amount": 327,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3278,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 163,
       "shop": "Steam"
     }
   ]

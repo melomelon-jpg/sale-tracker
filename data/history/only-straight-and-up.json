@@ -1,6 +1,6 @@
 {
   "slug": "only-straight-and-up",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-11",
@@ -179,6 +179,16 @@
     },
     {
       "date": "2026-09-12",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 130,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "via-mortis",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 117,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 117,
       "shop": "Steam"
     }

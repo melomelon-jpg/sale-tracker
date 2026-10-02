@@ -1,0 +1,21 @@
+{
+  "slug": "froggy-revenge",
+  "updated_at": "2026-10-02T00:25:12Z",
+  "history": [
+    {
+      "date": "2026-08-03",
+      "amount": 3720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 6200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 310,
+      "shop": "Steam"
+    }
+  ]
+}

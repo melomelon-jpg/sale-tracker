@@ -1,6 +1,6 @@
 {
   "slug": "everest-real-climbing-simulator",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2026-01-21",
@@ -69,6 +69,16 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 675,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 13500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 675,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "solarpunk",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2026-06-08",
@@ -15,6 +15,11 @@
     {
       "date": "2026-07-27",
       "amount": 2898,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2318,
       "shop": "Steam"
     }
   ]

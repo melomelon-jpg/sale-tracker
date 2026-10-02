@@ -1,6 +1,6 @@
 {
   "slug": "samoliotik",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 170,
       "shop": "Steam"
     }

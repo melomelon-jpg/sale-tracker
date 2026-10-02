@@ -1,6 +1,6 @@
 {
   "slug": "trepang2",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -134,6 +134,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 874,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 3499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 874,
       "shop": "Steam"
     }

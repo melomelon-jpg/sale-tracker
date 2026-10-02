@@ -1,9 +1,159 @@
 {
   "slug": "suicide-squad-kill-the-justice-league",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 987,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-26",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 987,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-02",
+      "amount": 987,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-13",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-02",
+      "amount": 987,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-09",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-01",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-16",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-22",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-29",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-13",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
       "amount": 9878,
       "shop": "Steam"
     },
@@ -25,6 +175,11 @@
     {
       "date": "2026-08-03",
       "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 493,
       "shop": "Steam"
     }
   ]

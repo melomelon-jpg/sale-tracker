@@ -1,6 +1,6 @@
 {
   "slug": "seek-love",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,16 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 367,
       "shop": "Steam"
     }

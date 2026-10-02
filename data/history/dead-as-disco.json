@@ -1,6 +1,6 @@
 {
   "slug": "dead-as-disco",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2026-05-05",
@@ -30,6 +30,11 @@
     {
       "date": "2026-08-17",
       "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2520,
       "shop": "Steam"
     }
   ]

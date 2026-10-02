@@ -1,6 +1,6 @@
 {
   "slug": "realm",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2025-08-28",
@@ -64,6 +64,16 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 170,
       "shop": "Steam"
     }

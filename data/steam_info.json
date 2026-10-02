@@ -16319,6 +16319,33 @@
     "name": "The Excrawlers",
     "review_count": 116
   },
+  "1599600": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "プレートアップ！",
+    "review_count": 18542
+  },
   "1599660": {
     "categories": [
       "シングルプレイヤー",
@@ -19401,6 +19428,21 @@
     "name": "Asterigos: Curse of the Stars",
     "review_count": 2550
   },
+  "1731360": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "中国战疫",
+    "review_count": null
+  },
   "1732190": {
     "categories": [
       "シングルプレイヤー",
@@ -19490,6 +19532,29 @@
     "jp_support": false,
     "name": "Crime O'Clock",
     "review_count": 401
+  },
+  "1737870": {
+    "categories": [
+      "シングルプレイヤー",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "REKA",
+    "review_count": 2995
   },
   "1739900": {
     "categories": [
@@ -28059,6 +28124,27 @@
     "jp_support": true,
     "name": "マリーのアトリエ Remake ～ザールブルグの錬金術士～",
     "review_count": 317
+  },
+  "2138710": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Sifu",
+    "review_count": 21704
   },
   "2138720": {
     "categories": [
@@ -42482,6 +42568,29 @@
     "name": "BobasQuest",
     "review_count": null
   },
+  "2898840": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "アプリ内購入",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "A Diamond Display",
+    "review_count": null
+  },
   "290300": {
     "categories": [
       "シングルプレイヤー",
@@ -43578,6 +43687,21 @@
     "name": "ミュータント タートルズ: スプリンターの運命",
     "review_count": 3983
   },
+  "2996430": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Urban",
+    "review_count": null
+  },
   "2999760": {
     "categories": [
       "シングルプレイヤー",
@@ -43785,6 +43909,25 @@
     "jp_support": false,
     "name": "Shadowrun: Dragonfall - Director's Cut",
     "review_count": 5399
+  },
+  "3006040": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "Asha Empire: Exodus",
+    "review_count": null
   },
   "3008130": {
     "categories": [
@@ -52180,6 +52323,27 @@
     "name": "Empty Space: The Creator",
     "review_count": null
   },
+  "3904000": {
+    "categories": [
+      "シングルプレイヤー",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "规则：醒来之后，请别叫我",
+    "review_count": null
+  },
   "3910": {
     "categories": [
       "シングルプレイヤー",
@@ -55896,6 +56060,36 @@
     "name": "Onechanbara Z2: Chaos",
     "review_count": 907
   },
+  "4466240": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "キャプション使用可能",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "タッチのみのオプション",
+      "部分的コントローラサポート",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Fox Shooter",
+    "review_count": null
+  },
   "446810": {
     "categories": [
       "シングルプレイヤー",
@@ -56410,6 +56604,20 @@
     "jp_support": true,
     "name": "Halo Wars: Definitive Edition",
     "review_count": 8639
+  },
+  "4593180": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Mad YU: Rural Idle",
+    "review_count": null
   },
   "459640": {
     "categories": [
@@ -57020,6 +57228,25 @@
     "jp_support": false,
     "name": "Neon Space",
     "review_count": 337
+  },
+  "4689160": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "水果贪食蛇",
+    "review_count": null
   },
   "468920": {
     "categories": [
@@ -57680,6 +57907,22 @@
     "jp_support": true,
     "name": "Prey",
     "review_count": 37551
+  },
+  "4808720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "2026 U.S. Election Simulator",
+    "review_count": null
   },
   "481110": {
     "categories": [
@@ -58459,6 +58702,20 @@
     "name": "Kingdom: New Lands",
     "review_count": 10114
   },
+  "4971970": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "FROGGY REVENGE",
+    "review_count": null
+  },
   "497730": {
     "categories": [
       "シングルプレイヤー",
@@ -58605,6 +58862,21 @@
     ],
     "jp_support": false,
     "name": "Take the Cake",
+    "review_count": null
+  },
+  "5010430": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "SPHERE ROLLER",
     "review_count": null
   },
   "501300": {
@@ -58788,6 +59060,21 @@
     "jp_support": false,
     "name": "Along the Edge",
     "review_count": 332
+  },
+  "5050720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Minesweeper 3D",
+    "review_count": null
   },
   "505210": {
     "categories": [
@@ -59603,6 +59890,25 @@
     "jp_support": true,
     "name": "Vampire: The Masquerade® - Bloodlines™ 2",
     "review_count": 10375
+  },
+  "534370": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Pure Farming 2018",
+    "review_count": 1059
   },
   "534380": {
     "categories": [
@@ -70066,6 +70372,34 @@
     "name": "Arise: A Simple Story",
     "review_count": 2719
   },
+  "866570": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "System Shock 2: 25th Anniversary Remaster",
+    "review_count": 1818
+  },
   "866800": {
     "categories": [
       "シングルプレイヤー",
@@ -71081,6 +71415,31 @@
     "jp_support": true,
     "name": "RAGE",
     "review_count": 12203
+  },
+  "920210": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "Remote Play Together",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-02T00:25:12Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "レゴ®スター・ウォーズ／スカイウォーカー・サーガ",
+    "review_count": 38324
   },
   "921570": {
     "categories": [

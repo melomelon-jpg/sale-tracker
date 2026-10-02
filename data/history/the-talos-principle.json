@@ -1,6 +1,6 @@
 {
   "slug": "the-talos-principle",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-07-09",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 510,
       "shop": "Steam"
     }
   ]

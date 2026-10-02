@@ -1,6 +1,6 @@
 {
   "slug": "split-fiction",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-13",
@@ -105,6 +105,11 @@
     {
       "date": "2026-09-28",
       "amount": 6900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 4485,
       "shop": "Steam"
     }
   ]

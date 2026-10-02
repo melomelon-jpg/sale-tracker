@@ -1,6 +1,6 @@
 {
   "slug": "total-war-warhammer",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-08-27",
       "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1645,
       "shop": "Steam"
     }
   ]

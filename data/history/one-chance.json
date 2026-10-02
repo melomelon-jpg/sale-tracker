@@ -1,6 +1,6 @@
 {
   "slug": "one-chance",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,16 @@
     },
     {
       "date": "2026-09-05",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 115,
       "shop": "Steam"
     }

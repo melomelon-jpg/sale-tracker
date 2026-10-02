@@ -1,6 +1,6 @@
 {
   "slug": "solar-ash",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1287,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1287,
       "shop": "Steam"
     }

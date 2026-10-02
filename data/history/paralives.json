@@ -1,6 +1,6 @@
 {
   "slug": "paralives",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2026-05-25",
@@ -30,6 +30,11 @@
     {
       "date": "2026-08-13",
       "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3600,
       "shop": "Steam"
     }
   ]

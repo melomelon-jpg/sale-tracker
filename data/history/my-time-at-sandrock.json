@@ -1,6 +1,6 @@
 {
   "slug": "my-time-at-sandrock",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,16 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 1782,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 5940,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1782,
       "shop": "Steam"
     }

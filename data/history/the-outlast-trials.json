@@ -1,6 +1,6 @@
 {
   "slug": "the-outlast-trials",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-07-21",
       "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 450,
       "shop": "Steam"
     }
   ]

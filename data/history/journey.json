@@ -1,6 +1,6 @@
 {
   "slug": "journey",
-  "updated_at": "2026-09-26T23:19:28Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-09-05",
       "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 500,
       "shop": "Steam"
     }
   ]

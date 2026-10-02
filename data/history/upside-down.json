@@ -1,6 +1,6 @@
 {
   "slug": "upside-down",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 170,
       "shop": "Steam"
     }

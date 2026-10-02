@@ -1,6 +1,6 @@
 {
   "slug": "emberstride",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2025-10-10",
@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-09-05",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 170,
       "shop": "Steam"
     }

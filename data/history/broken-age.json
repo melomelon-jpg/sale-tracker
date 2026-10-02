@@ -1,6 +1,6 @@
 {
   "slug": "broken-age",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-08-04",
       "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 304,
       "shop": "Steam"
     }
   ]

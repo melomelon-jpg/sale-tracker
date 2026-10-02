@@ -1,6 +1,6 @@
 {
   "slug": "monster-hunter-world",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-09-21",
       "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 777,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "blastforge-breach",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2025-05-15",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 225,
       "shop": "Steam"
     }

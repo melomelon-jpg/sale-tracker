@@ -1,6 +1,6 @@
 {
   "slug": "cairn",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2026-01-29",
@@ -70,6 +70,11 @@
     {
       "date": "2026-09-26",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 2550,
       "shop": "Steam"
     }
   ]

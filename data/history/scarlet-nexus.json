@@ -1,6 +1,6 @@
 {
   "slug": "scarlet-nexus",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-10-02T00:25:12Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-08-20",
+      "amount": 1443,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 9020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1443,
       "shop": "Steam"
     }
