@@ -1,6 +1,6 @@
 {
   "slug": "gray-zone-warfare",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-10-03T23:27:37Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -50,6 +50,16 @@
     {
       "date": "2026-09-01",
       "amount": 3780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3618,
       "shop": "Steam"
     }
   ]

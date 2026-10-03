@@ -1,6 +1,6 @@
 {
   "slug": "insurgency-sandstorm",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-10-03T23:27:37Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 996,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 4980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 996,
       "shop": "Steam"
     }
