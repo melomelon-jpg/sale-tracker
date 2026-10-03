@@ -7626,6 +7626,22 @@
     "name": "お姉チャンバラORIGIN",
     "review_count": 1218
   },
+  "1233570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード"
+    ],
+    "checked_at": "2026-10-03T00:05:49Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "ミラーズエッジ™ カタリスト",
+    "review_count": 14213
+  },
   "1235140": {
     "categories": [
       "シングルプレイヤー",
@@ -71537,6 +71553,26 @@
     "jp_support": true,
     "name": "Harold Halibut",
     "review_count": 1183
+  },
+  "924970": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-03T00:05:49Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Back 4 Blood",
+    "review_count": 55206
   },
   "924980": {
     "categories": [

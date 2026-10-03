@@ -1,6 +1,6 @@
 {
   "slug": "until-dawn",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -85,6 +85,11 @@
     {
       "date": "2026-07-09",
       "amount": 7980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3990,
       "shop": "Steam"
     }
   ]

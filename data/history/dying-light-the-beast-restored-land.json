@@ -1,6 +1,6 @@
 {
   "slug": "dying-light-the-beast-restored-land",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2025-06-07",
@@ -85,6 +85,11 @@
     {
       "date": "2026-09-26",
       "amount": 8090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 4045,
       "shop": "Steam"
     }
   ]

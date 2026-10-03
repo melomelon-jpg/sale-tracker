@@ -1,6 +1,6 @@
 {
   "slug": "the-elder-scrolls-iii-morrowind-game-of-the-year-edition",
-  "updated_at": "2026-09-26T23:19:28Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-08-13",
       "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 672,
       "shop": "Steam"
     }
   ]

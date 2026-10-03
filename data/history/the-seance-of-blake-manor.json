@@ -1,6 +1,6 @@
 {
   "slug": "the-seance-of-blake-manor",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2025-10-27",
@@ -94,6 +94,16 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1380,
       "shop": "Steam"
     }

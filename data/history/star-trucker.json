@@ -1,6 +1,6 @@
 {
   "slug": "star-trucker",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,16 @@
     },
     {
       "date": "2026-09-01",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 840,
       "shop": "Steam"
     }

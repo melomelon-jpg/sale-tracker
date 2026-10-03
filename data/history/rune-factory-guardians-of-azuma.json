@@ -1,6 +1,6 @@
 {
   "slug": "rune-factory-guardians-of-azuma",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2025-06-05",
@@ -89,6 +89,16 @@
     },
     {
       "date": "2026-09-02",
+      "amount": 4222,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 4222,
       "shop": "Steam"
     }

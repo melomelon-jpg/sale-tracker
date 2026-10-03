@@ -1,6 +1,6 @@
 {
   "slug": "titanfall-2-ultimate-edition",
-  "updated_at": "2026-09-26T23:19:28Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,16 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 450,
       "shop": "Steam"
     }

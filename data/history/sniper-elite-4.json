@@ -1,6 +1,6 @@
 {
   "slug": "sniper-elite-4",
-  "updated_at": "2026-09-26T23:19:28Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -115,6 +115,11 @@
     {
       "date": "2026-09-17",
       "amount": 6080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 608,
       "shop": "Steam"
     }
   ]

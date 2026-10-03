@@ -1,6 +1,6 @@
 {
   "slug": "dead-space-2023",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-03T00:05:49Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,16 @@
     {
       "date": "2026-09-14",
       "amount": 2175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 8700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1740,
       "shop": "Steam"
     }
   ]
