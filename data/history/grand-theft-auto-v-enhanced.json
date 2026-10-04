@@ -1,6 +1,6 @@
 {
   "slug": "grand-theft-auto-v-enhanced",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2025-03-04",
@@ -135,6 +135,11 @@
     {
       "date": "2026-09-21",
       "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2190,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "serial-cleaner",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,16 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 296,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 296,
       "shop": "Steam"
     }

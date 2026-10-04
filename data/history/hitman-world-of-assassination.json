@@ -1,6 +1,6 @@
 {
   "slug": "hitman-world-of-assassination",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-09-04",
       "amount": 7600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3040,
       "shop": "Steam"
     }
   ]

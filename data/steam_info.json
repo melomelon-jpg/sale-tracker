@@ -37680,6 +37680,29 @@
     "name": "Shadows: Heretic Kingdoms",
     "review_count": 287
   },
+  "2561580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-04T23:46:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Horizon Zero Dawn™ Remastered",
+    "review_count": 6946
+  },
   "256290": {
     "categories": [
       "シングルプレイヤー",
@@ -52684,6 +52707,26 @@
     "jp_support": true,
     "name": "Squad",
     "review_count": 179509
+  },
+  "393520": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-04T23:46:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Iconoclasts",
+    "review_count": 4174
   },
   "3937550": {
     "categories": [

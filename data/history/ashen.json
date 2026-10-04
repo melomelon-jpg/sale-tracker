@@ -1,6 +1,6 @@
 {
   "slug": "ashen",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1030,
       "shop": "Steam"
     }

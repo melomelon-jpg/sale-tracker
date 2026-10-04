@@ -1,6 +1,6 @@
 {
   "slug": "schedule-i",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2025-03-24",
@@ -80,6 +80,11 @@
     {
       "date": "2026-08-06",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1610,
       "shop": "Steam"
     }
   ]

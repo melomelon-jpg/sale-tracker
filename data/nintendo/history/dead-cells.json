@@ -2,7 +2,7 @@
   "slug": "dead-cells",
   "title": "Dead Cells",
   "nsuid": "70010000013175",
-  "updated_at": "2026-10-03T23:41:49Z",
+  "updated_at": "2026-10-04T23:58:13Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -244,6 +244,13 @@
     },
     {
       "date": "2026-10-03",
+      "regular": 2480,
+      "current": 1240,
+      "on_sale": true,
+      "sale_end": "2026-10-29T14:59:59Z"
+    },
+    {
+      "date": "2026-10-04",
       "regular": 2480,
       "current": 1240,
       "on_sale": true,

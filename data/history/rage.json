@@ -1,6 +1,6 @@
 {
   "slug": "rage",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -115,6 +115,11 @@
     {
       "date": "2026-08-13",
       "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 440,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "beat-saber",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -15,6 +15,11 @@
     {
       "date": "2026-09-22",
       "amount": 2325,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 3100,
       "shop": "Steam"
     }
   ]

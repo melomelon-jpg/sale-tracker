@@ -1,6 +1,6 @@
 {
   "slug": "dragon-age-the-veilguard",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 2940,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 8400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 2940,
       "shop": "Steam"
     }

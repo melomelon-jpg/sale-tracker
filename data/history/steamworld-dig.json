@@ -1,6 +1,6 @@
 {
   "slug": "steamworld-dig",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-09-25",
       "amount": 1010,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 202,
       "shop": "Steam"
     }
   ]

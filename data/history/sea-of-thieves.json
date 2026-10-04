@@ -1,6 +1,6 @@
 {
   "slug": "sea-of-thieves",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-04T23:46:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,16 @@
     {
       "date": "2026-09-27",
       "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 4780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1673,
       "shop": "Steam"
     }
   ]
