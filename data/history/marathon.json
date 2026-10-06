@@ -1,0 +1,56 @@
+{
+  "slug": "marathon",
+  "updated_at": "2026-10-06T01:37:42Z",
+  "history": [
+    {
+      "date": "2026-01-19",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 3584,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 3136,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3136,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-21",
+      "amount": 3136,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-04",
+      "amount": 4480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2688,
+      "shop": "Steam"
+    }
+  ]
+}

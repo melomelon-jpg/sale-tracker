@@ -1,6 +1,6 @@
 {
   "slug": "planet-of-lana",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,16 @@
     },
     {
       "date": "2026-09-11",
+      "amount": 440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 440,
       "shop": "Steam"
     }

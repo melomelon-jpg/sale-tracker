@@ -1,6 +1,6 @@
 {
   "slug": "sniper-ghost-warrior-contracts-2",
-  "updated_at": "2026-09-08T21:05:51Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 410,
       "shop": "Steam"
     }

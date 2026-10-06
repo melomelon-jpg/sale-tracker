@@ -8506,6 +8506,29 @@
     "name": "蘭島物語 レアランドストーリー 少女の約定 Remake",
     "review_count": 231
   },
+  "1268750": {
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Starship Troopers: Extermination",
+    "review_count": 29737
+  },
   "12710": {
     "categories": [
       "シングルプレイヤー",
@@ -35793,6 +35816,21 @@
     "name": "Cook, Serve, Delicious!",
     "review_count": 3712
   },
+  "2470370": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "WGW KT  传送门世界 王国传说 Warp Gate World Kingdom Tales",
+    "review_count": null
+  },
   "247080": {
     "categories": [
       "シングルプレイヤー",
@@ -36426,6 +36464,21 @@
     "jp_support": false,
     "name": "Ursine Science",
     "review_count": null
+  },
+  "250520": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "UnderRail",
+    "review_count": 6402
   },
   "2505530": {
     "categories": [
@@ -44826,6 +44879,37 @@
     "name": "Wrong Bullet",
     "review_count": null
   },
+  "3065800": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "タッチのみのオプション",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Marathon",
+    "review_count": 45111
+  },
   "306760": {
     "categories": [
       "シングルプレイヤー",
@@ -52779,6 +52863,32 @@
     "jp_support": true,
     "name": "Valhalla Hills: Two-Horned Helmet Edition",
     "review_count": null
+  },
+  "394510": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "DUALSHOCKコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Valveアンチチート有効",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "HELLDIVERS™ Dive Harder Edition",
+    "review_count": 25694
   },
   "394690": {
     "categories": [
@@ -63584,6 +63694,28 @@
     "jp_support": false,
     "name": "Outcast - Second Contact",
     "review_count": 737
+  },
+  "619820": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-06T01:37:42Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Heroes of Hammerwatch II",
+    "review_count": 5825
   },
   "620": {
     "categories": [

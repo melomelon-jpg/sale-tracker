@@ -1,6 +1,6 @@
 {
   "slug": "zero-parades-for-dead-spies",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2026-05-21",
@@ -29,6 +29,16 @@
     },
     {
       "date": "2026-09-21",
+      "amount": 3984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 4980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 3984,
       "shop": "Steam"
     }

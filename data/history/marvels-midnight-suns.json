@@ -1,6 +1,6 @@
 {
   "slug": "marvels-midnight-suns",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 1237,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 8250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1237,
       "shop": "Steam"
     }

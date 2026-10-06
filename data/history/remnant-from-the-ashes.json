@@ -1,6 +1,6 @@
 {
   "slug": "remnant-from-the-ashes",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-09-28",
       "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 615,
       "shop": "Steam"
     }
   ]

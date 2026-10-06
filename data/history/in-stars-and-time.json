@@ -1,6 +1,6 @@
 {
   "slug": "in-stars-and-time",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,16 @@
     {
       "date": "2026-08-15",
       "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1265,
       "shop": "Steam"
     }
   ]

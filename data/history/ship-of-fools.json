@@ -1,6 +1,6 @@
 {
   "slug": "ship-of-fools",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-10-06T01:37:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 625,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 625,
       "shop": "Steam"
     }
