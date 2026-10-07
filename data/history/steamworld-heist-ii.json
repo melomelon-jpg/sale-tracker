@@ -1,6 +1,6 @@
 {
   "slug": "steamworld-heist-ii",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-09-11",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 850,
       "shop": "Steam"
     }

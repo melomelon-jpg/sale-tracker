@@ -1,6 +1,6 @@
 {
   "slug": "total-war-warhammer-iii",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 7000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1050,
       "shop": "Steam"
     }

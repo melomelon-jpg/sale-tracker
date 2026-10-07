@@ -1,6 +1,6 @@
 {
   "slug": "whiskerwood",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2025-11-06",
@@ -84,6 +84,16 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 1490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1490,
       "shop": "Steam"
     }

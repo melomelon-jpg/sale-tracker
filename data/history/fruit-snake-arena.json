@@ -1,0 +1,31 @@
+{
+  "slug": "fruit-snake-arena",
+  "updated_at": "2026-10-07T00:18:05Z",
+  "history": [
+    {
+      "date": "2026-07-19",
+      "amount": 2310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-02",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 385,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 192,
+      "shop": "Steam"
+    }
+  ]
+}

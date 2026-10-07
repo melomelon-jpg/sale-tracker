@@ -1,6 +1,6 @@
 {
   "slug": "grow-song-of-the-evertree",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 834,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 834,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "to-the-moon",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-07-09",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 196,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "steelrising",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 515,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 515,
       "shop": "Steam"
     }

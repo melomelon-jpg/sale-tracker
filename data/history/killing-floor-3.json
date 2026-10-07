@@ -1,6 +1,6 @@
 {
   "slug": "killing-floor-3",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2025-01-31",
@@ -99,6 +99,16 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 2425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 4850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 2425,
       "shop": "Steam"
     }

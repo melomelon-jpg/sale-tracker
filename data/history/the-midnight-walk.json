@@ -1,6 +1,6 @@
 {
   "slug": "the-midnight-walk",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2025-05-08",
@@ -160,6 +160,11 @@
     {
       "date": "2026-09-21",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1530,
       "shop": "Steam"
     }
   ]

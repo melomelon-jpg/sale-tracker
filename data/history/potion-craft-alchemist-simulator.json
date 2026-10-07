@@ -1,6 +1,6 @@
 {
   "slug": "potion-craft-alchemist-simulator",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-09-28",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 920,
       "shop": "Steam"
     }
   ]

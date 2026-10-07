@@ -1,6 +1,6 @@
 {
   "slug": "machinarium",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-09-08",
       "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 720,
       "shop": "Steam"
     }
   ]

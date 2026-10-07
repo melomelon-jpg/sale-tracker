@@ -14153,6 +14153,32 @@
     "name": "Tchia",
     "review_count": 569
   },
+  "1496790": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-07T00:18:05Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Gotham Knights",
+    "review_count": 15721
+  },
   "1497360": {
     "categories": [
       "シングルプレイヤー",
@@ -39400,6 +39426,29 @@
     "name": "The First Berserker: Khazan",
     "review_count": 20667
   },
+  "268050": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "色のオプション",
+      "DUALSHOCKコントローラーサポート",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-07T00:18:05Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": false,
+    "name": "The Evil Within",
+    "review_count": 21547
+  },
   "2683150": {
     "categories": [
       "シングルプレイヤー",
@@ -43288,6 +43337,30 @@
     "jp_support": true,
     "name": "SILENT HILL f",
     "review_count": 18637
+  },
+  "2950340": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-07T00:18:05Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "LEGO® Harry Potter™ Collection",
+    "review_count": 1482
   },
   "2951790": {
     "categories": [
@@ -53660,6 +53733,29 @@
     "name": "Skullbreaker",
     "review_count": null
   },
+  "405310": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-07T00:18:05Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "LEGO® MARVEL's Avengers",
+    "review_count": 6030
+  },
   "405640": {
     "categories": [
       "シングルプレイヤー",
@@ -61795,6 +61891,28 @@
     "jp_support": true,
     "name": "PUBG: BATTLEGROUNDS",
     "review_count": 1762789
+  },
+  "578330": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-07T00:18:05Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "LEGO® City Undercover",
+    "review_count": 7436
   },
   "578830": {
     "categories": [

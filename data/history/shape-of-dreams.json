@@ -1,6 +1,6 @@
 {
   "slug": "shape-of-dreams",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-10-07T00:18:05Z",
   "history": [
     {
       "date": "2025-09-11",
@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
       "amount": 1960,
       "shop": "Steam"
     }
