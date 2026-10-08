@@ -1,6 +1,6 @@
 {
   "slug": "sorry-we-re-closed",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,16 @@
     {
       "date": "2026-09-03",
       "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1960,
       "shop": "Steam"
     }
   ]

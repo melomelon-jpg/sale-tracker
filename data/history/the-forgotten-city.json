@@ -1,6 +1,6 @@
 {
   "slug": "the-forgotten-city",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 560,
       "shop": "Steam"
     }

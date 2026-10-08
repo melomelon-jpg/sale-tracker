@@ -1,6 +1,6 @@
 {
   "slug": "humanitz",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,16 @@
     {
       "date": "2026-08-22",
       "amount": 1495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1380,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "the-precinct",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2025-05-13",
@@ -140,6 +140,11 @@
     {
       "date": "2026-08-17",
       "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2666,
       "shop": "Steam"
     }
   ]

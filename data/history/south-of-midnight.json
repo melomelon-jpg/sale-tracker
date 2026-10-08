@@ -1,6 +1,6 @@
 {
   "slug": "south-of-midnight",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2025-01-23",
@@ -89,17 +89,12 @@
     },
     {
       "date": "2025-12-02",
-      "amount": 7040,
+      "amount": 5390,
       "shop": "Steam"
     },
     {
       "date": "2025-12-02",
-      "amount": 5390,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-12-18",
-      "amount": 4042,
+      "amount": 7040,
       "shop": "Steam"
     },
     {
@@ -108,13 +103,18 @@
       "shop": "Steam"
     },
     {
-      "date": "2026-01-05",
-      "amount": 7040,
+      "date": "2025-12-18",
+      "amount": 4042,
       "shop": "Steam"
     },
     {
       "date": "2026-01-05",
       "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 7040,
       "shop": "Steam"
     },
     {
@@ -129,17 +129,12 @@
     },
     {
       "date": "2026-02-02",
-      "amount": 7040,
+      "amount": 5390,
       "shop": "Steam"
     },
     {
       "date": "2026-02-02",
-      "amount": 5390,
-      "shop": "Steam"
-    },
-    {
-      "date": "2026-03-31",
-      "amount": 5390,
+      "amount": 7040,
       "shop": "Steam"
     },
     {
@@ -160,6 +155,11 @@
     {
       "date": "2026-09-25",
       "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 3773,
       "shop": "Steam"
     }
   ]

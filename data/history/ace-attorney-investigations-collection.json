@@ -1,6 +1,6 @@
 {
   "slug": "ace-attorney-investigations-collection",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-10-08T00:39:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 2994,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 2994,
       "shop": "Steam"
     }
