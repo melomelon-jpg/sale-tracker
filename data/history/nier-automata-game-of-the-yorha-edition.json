@@ -1,6 +1,6 @@
 {
   "slug": "nier-automata-game-of-the-yorha-edition",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-09-18",
       "amount": 2112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5280,
       "shop": "Steam"
     }
   ]

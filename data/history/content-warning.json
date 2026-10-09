@@ -1,6 +1,6 @@
 {
   "slug": "content-warning",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 570,
       "shop": "Steam"
     }

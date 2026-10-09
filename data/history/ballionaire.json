@@ -1,6 +1,6 @@
 {
   "slug": "ballionaire",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-10",
@@ -179,6 +179,16 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 1234,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 493,
       "shop": "Steam"
     }

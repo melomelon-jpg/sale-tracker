@@ -1,9 +1,164 @@
 {
   "slug": "the-wraith-of-the-galaxy",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 85,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-16",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-29",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-28",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-14",
+      "amount": 115,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-02",
+      "amount": 3199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-20",
+      "amount": 3299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-04",
+      "amount": 6299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 314,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-24",
+      "amount": 6299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-23",
+      "amount": 314,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-06",
+      "amount": 6299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 314,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 6299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-20",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-03",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-20",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-07",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-07",
+      "amount": 238,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-20",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-05",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-19",
       "amount": 1400,
       "shop": "Steam"
     },
@@ -30,6 +185,26 @@
     {
       "date": "2026-07-23",
       "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 98,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 126,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "kittys-hungry-adventure",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-02-20",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 170,
       "shop": "Steam"
     }

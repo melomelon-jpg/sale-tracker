@@ -1,6 +1,6 @@
 {
   "slug": "yakuza-4-remastered",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1090,
       "shop": "Steam"
     }

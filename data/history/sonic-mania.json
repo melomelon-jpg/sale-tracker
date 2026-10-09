@@ -1,6 +1,6 @@
 {
   "slug": "sonic-mania",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 486,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1944,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 486,
       "shop": "Steam"
     }

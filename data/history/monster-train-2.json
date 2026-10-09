@@ -1,0 +1,126 @@
+{
+  "slug": "monster-train-2",
+  "updated_at": "2026-10-09T00:55:08Z",
+  "history": [
+    {
+      "date": "2025-05-21",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-17",
+      "amount": 2520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-21",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-10",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-17",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-05",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-11",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-11",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1960,
+      "shop": "Steam"
+    }
+  ]
+}

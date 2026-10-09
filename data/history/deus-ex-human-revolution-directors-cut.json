@@ -1,6 +1,6 @@
 {
   "slug": "deus-ex-human-revolution-directors-cut",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-09-17",
       "amount": 277,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2770,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "yakuza-kiwami-3-and-dark-ties",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-09-24",
@@ -40,6 +40,16 @@
     {
       "date": "2026-08-13",
       "amount": 5394,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 8990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4495,
       "shop": "Steam"
     }
   ]

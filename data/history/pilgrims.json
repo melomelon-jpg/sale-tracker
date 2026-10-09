@@ -1,6 +1,6 @@
 {
   "slug": "pilgrims",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,21 @@
     },
     {
       "date": "2026-08-29",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 255,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 170,
       "shop": "Steam"
     }

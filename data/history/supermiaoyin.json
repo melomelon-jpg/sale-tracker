@@ -1,0 +1,111 @@
+{
+  "slug": "supermiaoyin",
+  "updated_at": "2026-10-09T00:55:08Z",
+  "history": [
+    {
+      "date": "2025-05-26",
+      "amount": 999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-31",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 232,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-19",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-03",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 232,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 232,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-28",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-01",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 100,
+      "shop": "Steam"
+    }
+  ]
+}

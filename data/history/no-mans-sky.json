@@ -1,6 +1,6 @@
 {
   "slug": "no-mans-sky",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-01",
       "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6500,
       "shop": "Steam"
     }
   ]

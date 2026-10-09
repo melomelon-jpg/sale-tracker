@@ -1,6 +1,6 @@
 {
   "slug": "the-elder-scrolls-iv-oblivion-remastered",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-04-22",
@@ -130,6 +130,11 @@
     {
       "date": "2026-10-01",
       "amount": 4851,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6930,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "easy-delivery-co",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-09-18",
@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 1049,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1049,
       "shop": "Steam"
     }

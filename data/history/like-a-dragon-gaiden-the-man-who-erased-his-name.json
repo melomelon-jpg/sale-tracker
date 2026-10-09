@@ -1,6 +1,6 @@
 {
   "slug": "like-a-dragon-gaiden-the-man-who-erased-his-name",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 1485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 5940,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1485,
       "shop": "Steam"
     }

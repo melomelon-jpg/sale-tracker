@@ -1,6 +1,6 @@
 {
   "slug": "hatsune-miku-project-diva-mega-mix-plus",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-08-20",
+      "amount": 1716,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1716,
       "shop": "Steam"
     }

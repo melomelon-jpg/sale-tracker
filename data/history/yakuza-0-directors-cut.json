@@ -1,6 +1,6 @@
 {
   "slug": "yakuza-0-directors-cut",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-12-08",
@@ -60,6 +60,16 @@
     {
       "date": "2026-08-13",
       "amount": 3267,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 5940,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2970,
       "shop": "Steam"
     }
   ]

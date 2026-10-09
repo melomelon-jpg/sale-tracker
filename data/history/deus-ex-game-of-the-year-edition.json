@@ -1,6 +1,6 @@
 {
   "slug": "deus-ex-game-of-the-year-edition",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-09-17",
       "amount": 126,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 970,
       "shop": "Steam"
     }
   ]

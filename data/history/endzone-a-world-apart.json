@@ -1,6 +1,6 @@
 {
   "slug": "endzone-a-world-apart",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,16 @@
     },
     {
       "date": "2026-08-26",
+      "amount": 215,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 2690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 215,
       "shop": "Steam"
     }

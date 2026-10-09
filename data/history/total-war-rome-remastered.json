@@ -1,6 +1,6 @@
 {
   "slug": "total-war-rome-remastered",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,21 @@
     {
       "date": "2026-08-15",
       "amount": 699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 3499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 747,
       "shop": "Steam"
     }
   ]

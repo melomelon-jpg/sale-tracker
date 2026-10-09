@@ -1,6 +1,6 @@
 {
   "slug": "summer-in-mara",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,16 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 205,
       "shop": "Steam"
     }

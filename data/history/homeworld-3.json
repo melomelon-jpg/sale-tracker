@@ -1,6 +1,6 @@
 {
   "slug": "homeworld-3",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,16 @@
     {
       "date": "2026-08-24",
       "amount": 3795,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 7590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2504,
       "shop": "Steam"
     }
   ]

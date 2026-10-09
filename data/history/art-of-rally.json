@@ -1,6 +1,6 @@
 {
   "slug": "art-of-rally",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1575,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "payday-2",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-01",
       "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

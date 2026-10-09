@@ -1,6 +1,6 @@
 {
   "slug": "patapon-1-and-2-replay",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-07-11",
@@ -79,6 +79,16 @@
     },
     {
       "date": "2026-08-06",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1980,
       "shop": "Steam"
     }

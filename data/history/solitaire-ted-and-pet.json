@@ -1,0 +1,91 @@
+{
+  "slug": "solitaire-ted-and-pet",
+  "updated_at": "2026-10-09T00:55:08Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 116,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-21",
+      "amount": 87,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-24",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-21",
+      "amount": 87,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-28",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-15",
+      "amount": 174,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-19",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 174,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 170,
+      "shop": "Steam"
+    }
+  ]
+}

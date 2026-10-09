@@ -1,6 +1,6 @@
 {
   "slug": "kerbal-space-program",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-09-17",
       "amount": 1237,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4950,
       "shop": "Steam"
     }
   ]

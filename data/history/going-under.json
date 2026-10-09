@@ -1,6 +1,6 @@
 {
   "slug": "going-under",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,21 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 410,
       "shop": "Steam"
     }

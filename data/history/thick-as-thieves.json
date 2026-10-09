@@ -1,0 +1,41 @@
+{
+  "slug": "thick-as-thieves",
+  "updated_at": "2026-10-09T00:55:08Z",
+  "history": [
+    {
+      "date": "2026-05-20",
+      "amount": 655,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-19",
+      "amount": 524,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 655,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 524,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 655,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 491,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 458,
+      "shop": "Steam"
+    }
+  ]
+}

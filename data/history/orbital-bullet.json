@@ -1,6 +1,6 @@
 {
   "slug": "orbital-bullet",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1730,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 138,
       "shop": "Steam"
     }

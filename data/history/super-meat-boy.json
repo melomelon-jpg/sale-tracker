@@ -1,6 +1,6 @@
 {
   "slug": "super-meat-boy",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-01",
       "amount": 236,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1480,
       "shop": "Steam"
     }
   ]

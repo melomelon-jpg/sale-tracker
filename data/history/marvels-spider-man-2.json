@@ -1,6 +1,6 @@
 {
   "slug": "marvels-spider-man-2",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2025-01-30",
@@ -90,6 +90,11 @@
     {
       "date": "2026-10-01",
       "amount": 5085,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7590,
       "shop": "Steam"
     }
   ]

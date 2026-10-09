@@ -1,6 +1,6 @@
 {
   "slug": "norco",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 561,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 561,
       "shop": "Steam"
     }

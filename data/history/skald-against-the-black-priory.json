@@ -1,6 +1,6 @@
 {
   "slug": "skald-against-the-black-priory",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-10-09T00:55:08Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,16 @@
     {
       "date": "2026-08-23",
       "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 765,
       "shop": "Steam"
     }
   ]
