@@ -1,6 +1,6 @@
 {
   "slug": "sackboy-a-big-adventure",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -100,6 +100,11 @@
     {
       "date": "2026-10-01",
       "amount": 2504,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7590,
       "shop": "Steam"
     }
   ]

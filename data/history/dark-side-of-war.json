@@ -1,6 +1,6 @@
 {
   "slug": "dark-side-of-war",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 170,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "game-dev-tycoon",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-08-28",
+      "amount": 440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-09",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 440,
       "shop": "Steam"
     }

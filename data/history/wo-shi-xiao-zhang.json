@@ -1,0 +1,26 @@
+{
+  "slug": "wo-shi-xiao-zhang",
+  "updated_at": "2026-10-10T00:25:27Z",
+  "history": [
+    {
+      "date": "2026-08-02",
+      "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 235,
+      "shop": "Steam"
+    }
+  ]
+}

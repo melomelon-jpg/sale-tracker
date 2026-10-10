@@ -1,6 +1,6 @@
 {
   "slug": "we-were-here-together",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 570,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "yakuza-kiwami",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2025-12-11",
@@ -60,6 +60,16 @@
     {
       "date": "2026-08-13",
       "amount": 1788,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1490,
       "shop": "Steam"
     }
   ]

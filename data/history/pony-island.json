@@ -1,6 +1,6 @@
 {
   "slug": "pony-island",
-  "updated_at": "2026-10-03T23:27:37Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -65,6 +65,11 @@
     {
       "date": "2026-01-05",
       "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 0,
       "shop": "Steam"
     }
   ]

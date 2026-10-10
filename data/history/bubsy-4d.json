@@ -1,0 +1,61 @@
+{
+  "slug": "bubsy-4d",
+  "updated_at": "2026-10-10T00:25:27Z",
+  "history": [
+    {
+      "date": "2026-04-01",
+      "amount": 2070,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-13",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-21",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}

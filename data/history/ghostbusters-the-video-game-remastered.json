@@ -1,6 +1,6 @@
 {
   "slug": "ghostbusters-the-video-game-remastered",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 719,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 719,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 719,
       "shop": "Steam"
     }

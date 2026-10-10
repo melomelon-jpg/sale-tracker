@@ -1,6 +1,6 @@
 {
   "slug": "mad-yu-rural-idle",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2026-04-27",
@@ -39,6 +39,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 132,
       "shop": "Steam"
     }

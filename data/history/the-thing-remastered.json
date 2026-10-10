@@ -1,6 +1,6 @@
 {
   "slug": "the-thing-remastered",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-08-21",
+      "amount": 1870,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1870,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 1870,
       "shop": "Steam"
     }

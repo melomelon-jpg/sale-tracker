@@ -1,6 +1,6 @@
 {
   "slug": "humankind",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,26 @@
     {
       "date": "2026-08-25",
       "amount": 559,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 5590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1397,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 1397,
       "shop": "Steam"
     }
   ]

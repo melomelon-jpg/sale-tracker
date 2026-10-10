@@ -1,6 +1,6 @@
 {
   "slug": "world-war-z",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 1074,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1074,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 1074,
       "shop": "Steam"
     }

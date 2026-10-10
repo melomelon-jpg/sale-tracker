@@ -1,0 +1,61 @@
+{
+  "slug": "assassin-of-dombardos",
+  "updated_at": "2026-10-10T00:25:27Z",
+  "history": [
+    {
+      "date": "2026-04-11",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-25",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 108,
+      "shop": "Steam"
+    }
+  ]
+}

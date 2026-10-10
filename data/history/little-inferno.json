@@ -1,6 +1,6 @@
 {
   "slug": "little-inferno",
-  "updated_at": "2026-10-03T23:27:37Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-01",
       "amount": 561,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

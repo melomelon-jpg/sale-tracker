@@ -1,6 +1,6 @@
 {
   "slug": "sons-of-valhalla",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-10T00:25:27Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 495,
       "shop": "Steam"
     }

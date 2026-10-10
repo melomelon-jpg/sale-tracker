@@ -1,0 +1,76 @@
+{
+  "slug": "meow-survivors",
+  "updated_at": "2026-10-10T00:25:27Z",
+  "history": [
+    {
+      "date": "2026-03-03",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-17",
+      "amount": 176,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 176,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 86,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-15",
+      "amount": 176,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 116,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 176,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-09",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 100,
+      "shop": "Steam"
+    }
+  ]
+}
