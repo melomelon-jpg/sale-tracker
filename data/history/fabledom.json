@@ -1,6 +1,6 @@
 {
   "slug": "fabledom",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,26 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
       "amount": 840,
       "shop": "Steam"
     }

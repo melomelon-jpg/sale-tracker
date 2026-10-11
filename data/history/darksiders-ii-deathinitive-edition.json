@@ -1,6 +1,6 @@
 {
   "slug": "darksiders-ii-deathinitive-edition",
-  "updated_at": "2026-10-04T23:46:02Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-09-24",
       "amount": 447,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2980,
       "shop": "Steam"
     }
   ]

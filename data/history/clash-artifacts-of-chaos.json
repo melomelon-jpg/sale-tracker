@@ -1,6 +1,6 @@
 {
   "slug": "clash-artifacts-of-chaos",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,26 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
       "amount": 340,
       "shop": "Steam"
     }

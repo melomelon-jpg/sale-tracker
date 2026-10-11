@@ -1,6 +1,6 @@
 {
   "slug": "dwarf-fortress",
-  "updated_at": "2026-10-10T00:25:27Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -220,6 +220,11 @@
     {
       "date": "2026-10-01",
       "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
+      "amount": 3850,
       "shop": "Steam"
     }
   ]

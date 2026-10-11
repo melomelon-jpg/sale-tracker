@@ -1,6 +1,6 @@
 {
   "slug": "railgrade",
-  "updated_at": "2026-08-28T02:25:02Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
       "amount": 984,
       "shop": "Steam"
     }

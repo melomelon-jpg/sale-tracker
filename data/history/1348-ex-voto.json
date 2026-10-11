@@ -1,6 +1,6 @@
 {
   "slug": "1348-ex-voto",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2026-03-12",
@@ -54,6 +54,26 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
       "amount": 1800,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "ember-knights",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,16 @@
     {
       "date": "2026-08-25",
       "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 805,
       "shop": "Steam"
     }
   ]

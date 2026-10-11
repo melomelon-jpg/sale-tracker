@@ -1,6 +1,6 @@
 {
   "slug": "painkiller",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-10-11T00:03:13Z",
   "history": [
     {
       "date": "2025-06-24",
@@ -79,6 +79,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 1159,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 5799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1159,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
       "amount": 1159,
       "shop": "Steam"
     }
