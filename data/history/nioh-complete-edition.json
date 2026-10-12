@@ -1,6 +1,6 @@
 {
   "slug": "nioh-complete-edition",
-  "updated_at": "2026-10-06T01:37:42Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-02",
       "amount": 957,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6380,
       "shop": "Steam"
     }
   ]

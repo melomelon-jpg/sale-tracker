@@ -2665,6 +2665,30 @@
     "name": "Chicken Police - Paint it RED!",
     "review_count": 1615
   },
+  "1085220": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Figment 2: Creed Valley",
+    "review_count": 911
+  },
   "1085520": {
     "categories": [
       "シングルプレイヤー",
@@ -7907,6 +7931,24 @@
     "jp_support": true,
     "name": "ミラーズエッジ™ カタリスト",
     "review_count": 14213
+  },
+  "1234430": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Ad Infinitum",
+    "review_count": 1065
   },
   "1235140": {
     "categories": [
@@ -17784,6 +17826,27 @@
     "jp_support": true,
     "name": "Stray Blade",
     "review_count": 304
+  },
+  "1622350": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "偽猫物語",
+    "review_count": 4681
   },
   "1622770": {
     "categories": [
@@ -37924,6 +37987,32 @@
     "name": "餓狼伝説 City of the Wolves",
     "review_count": 3117
   },
+  "2494780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "#DRIVE Rally",
+    "review_count": 750
+  },
   "2495100": {
     "categories": [
       "シングルプレイヤー",
@@ -42470,6 +42559,37 @@
     "name": "Repterra",
     "review_count": null
   },
+  "2769240": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "タッチのみのオプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Wax Heads",
+    "review_count": 529
+  },
   "2769570": {
     "categories": [
       "シングルプレイヤー",
@@ -45674,6 +45794,23 @@
     "name": "Urban",
     "review_count": null
   },
+  "299680": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Tengami",
+    "review_count": 911
+  },
   "2999760": {
     "categories": [
       "シングルプレイヤー",
@@ -48544,6 +48681,23 @@
     "name": "Deadzone: Rogue",
     "review_count": 14669
   },
+  "3229100": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Teenage Mutant Ninja Turtles: Tactical Takedown",
+    "review_count": 160
+  },
   "323190": {
     "categories": [
       "シングルプレイヤー",
@@ -48687,6 +48841,28 @@
     "jp_support": true,
     "name": "Move or Die",
     "review_count": 16476
+  },
+  "3238670": {
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "Conquest Dark",
+    "review_count": 2558
   },
   "3238780": {
     "categories": [
@@ -49877,6 +50053,32 @@
     "jp_support": true,
     "name": "PRAGMATA",
     "review_count": 32051
+  },
+  "3357960": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "KuloNiku: Bowl Up!",
+    "review_count": 2367
   },
   "3363680": {
     "categories": [
@@ -70061,6 +70263,27 @@
     "name": "RAZED",
     "review_count": null
   },
+  "727130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Between the Stars",
+    "review_count": 1970
+  },
   "727540": {
     "categories": [
       "シングルプレイヤー",
@@ -76188,6 +76411,22 @@
     "jp_support": true,
     "name": "Flower",
     "review_count": 4761
+  },
+  "968370": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-12T00:08:10Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The Blind Prophet",
+    "review_count": 433
   },
   "970830": {
     "categories": [

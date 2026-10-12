@@ -1,6 +1,6 @@
 {
   "slug": "uplink",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -109,6 +109,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 1400,
       "shop": "Steam"
     }

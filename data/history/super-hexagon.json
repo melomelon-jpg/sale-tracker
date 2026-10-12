@@ -1,6 +1,6 @@
 {
   "slug": "super-hexagon",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -74,6 +74,16 @@
     },
     {
       "date": "2026-07-09",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 350,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "pinball-spire",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 960,
       "shop": "Steam"
     }

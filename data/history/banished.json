@@ -1,6 +1,6 @@
 {
   "slug": "banished",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -84,6 +84,16 @@
     },
     {
       "date": "2026-04-27",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 1980,
       "shop": "Steam"
     }

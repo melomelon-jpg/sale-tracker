@@ -1,0 +1,231 @@
+{
+  "slug": "copycat",
+  "updated_at": "2026-10-12T00:08:10Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-19",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-26",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-31",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-31",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-11",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-19",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-25",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-24",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-10",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-09",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-23",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-25",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-16",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-30",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-06",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-20",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-07",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-05",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-19",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-10",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-24",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-01",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-15",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-03",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-17",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-21",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
+      "amount": 400,
+      "shop": "Steam"
+    }
+  ]
+}

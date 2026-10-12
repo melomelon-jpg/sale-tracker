@@ -1,6 +1,6 @@
 {
   "slug": "age-of-empires-ii-definitive-edition",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -134,6 +134,16 @@
     },
     {
       "date": "2026-07-09",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2613,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 3900,
       "shop": "Steam"
     }

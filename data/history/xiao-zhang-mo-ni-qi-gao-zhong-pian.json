@@ -1,6 +1,6 @@
 {
   "slug": "xiao-zhang-mo-ni-qi-gao-zhong-pian",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
       "amount": 130,
       "shop": "Steam"
     }

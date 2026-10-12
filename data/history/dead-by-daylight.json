@@ -1,6 +1,6 @@
 {
   "slug": "dead-by-daylight",
-  "updated_at": "2026-10-03T23:27:37Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-01",
       "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2499,
       "shop": "Steam"
     }
   ]

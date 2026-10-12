@@ -1,6 +1,6 @@
 {
   "slug": "greedfall",
-  "updated_at": "2026-10-04T23:46:02Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-10-01",
       "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5800,
       "shop": "Steam"
     }
   ]

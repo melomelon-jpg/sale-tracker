@@ -1,6 +1,6 @@
 {
   "slug": "sonic-racing-crossworlds",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2025-06-07",
@@ -80,6 +80,16 @@
     {
       "date": "2026-10-01",
       "amount": 3196,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 4990,
       "shop": "Steam"
     }
   ]

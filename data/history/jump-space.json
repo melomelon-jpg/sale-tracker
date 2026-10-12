@@ -1,6 +1,6 @@
 {
   "slug": "jump-space",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2025-09-19",
@@ -60,6 +60,21 @@
     {
       "date": "2026-09-17",
       "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

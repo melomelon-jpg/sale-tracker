@@ -1,6 +1,6 @@
 {
   "slug": "besiege",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-09-21",
       "amount": 360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1800,
       "shop": "Steam"
     }
   ]

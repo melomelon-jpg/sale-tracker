@@ -1,6 +1,6 @@
 {
   "slug": "unbeatable",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2025-12-09",
@@ -85,6 +85,11 @@
     {
       "date": "2026-10-01",
       "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3200,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "the-incredible-adventures-of-van-helsing",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 1700,
       "shop": "Steam"
     }

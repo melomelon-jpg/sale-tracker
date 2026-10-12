@@ -1,6 +1,6 @@
 {
   "slug": "payday-the-heist",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-09-13",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
       "amount": 1200,
       "shop": "Steam"
     }

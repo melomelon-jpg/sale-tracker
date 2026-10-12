@@ -1,6 +1,6 @@
 {
   "slug": "ultimate-marvel-vs-capcom-3",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,16 @@
     },
     {
       "date": "2026-09-02",
+      "amount": 498,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 2490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 498,
       "shop": "Steam"
     }

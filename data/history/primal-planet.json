@@ -1,6 +1,6 @@
 {
   "slug": "primal-planet",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2025-07-28",
@@ -114,6 +114,16 @@
     },
     {
       "date": "2026-08-23",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 920,
       "shop": "Steam"
     }

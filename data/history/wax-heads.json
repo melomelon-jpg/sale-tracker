@@ -1,0 +1,41 @@
+{
+  "slug": "wax-heads",
+  "updated_at": "2026-10-12T00:08:10Z",
+  "history": [
+    {
+      "date": "2026-05-05",
+      "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-19",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 1280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1040,
+      "shop": "Steam"
+    }
+  ]
+}

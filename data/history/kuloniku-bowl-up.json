@@ -1,0 +1,61 @@
+{
+  "slug": "kuloniku-bowl-up",
+  "updated_at": "2026-10-12T00:08:10Z",
+  "history": [
+    {
+      "date": "2026-04-07",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-02",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
+      "amount": 840,
+      "shop": "Steam"
+    }
+  ]
+}

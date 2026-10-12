@@ -1,6 +1,6 @@
 {
   "slug": "voidigo",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-10-12T00:08:10Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-08-28",
+      "amount": 295,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 295,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
       "amount": 295,
       "shop": "Steam"
     }
