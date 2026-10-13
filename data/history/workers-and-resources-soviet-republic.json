@@ -1,6 +1,6 @@
 {
   "slug": "workers-and-resources-soviet-republic",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 995,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 995,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "nordhold",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2025-03-25",
@@ -115,6 +115,26 @@
     {
       "date": "2026-08-28",
       "amount": 1265,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 1150,
       "shop": "Steam"
     }
   ]

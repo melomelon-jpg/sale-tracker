@@ -1,6 +1,6 @@
 {
   "slug": "nobody-saves-the-world",
-  "updated_at": "2026-10-06T01:37:42Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 945,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 945,
       "shop": "Steam"
     }

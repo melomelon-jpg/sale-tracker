@@ -1,6 +1,6 @@
 {
   "slug": "ad-infinitum",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-11",
       "amount": 390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 260,
       "shop": "Steam"
     }
   ]

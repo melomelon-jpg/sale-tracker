@@ -1,6 +1,6 @@
 {
   "slug": "rims-racing",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-01",
       "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 130,
       "shop": "Steam"
     }
   ]

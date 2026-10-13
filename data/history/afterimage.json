@@ -1,6 +1,6 @@
 {
   "slug": "afterimage",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 560,
       "shop": "Steam"
     }

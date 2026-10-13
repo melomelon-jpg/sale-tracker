@@ -1,6 +1,6 @@
 {
   "slug": "settlement-survival",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 575,
       "shop": "Steam"
     }

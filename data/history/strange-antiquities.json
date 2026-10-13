@@ -1,6 +1,6 @@
 {
   "slug": "strange-antiquities",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2025-09-17",
@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1300,
       "shop": "Steam"
     }

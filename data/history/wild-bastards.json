@@ -1,6 +1,6 @@
 {
   "slug": "wild-bastards",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 810,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 810,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 810,
       "shop": "Steam"
     }

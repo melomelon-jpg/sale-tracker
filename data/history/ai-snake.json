@@ -1,6 +1,6 @@
 {
   "slug": "ai-snake",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2025-10-17",
@@ -109,6 +109,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 367,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "black-book",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-13T02:21:06Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,26 @@
     {
       "date": "2026-08-13",
       "amount": 952,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 840,
       "shop": "Steam"
     }
   ]
