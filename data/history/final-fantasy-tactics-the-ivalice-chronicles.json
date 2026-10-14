@@ -1,6 +1,6 @@
 {
   "slug": "final-fantasy-tactics-the-ivalice-chronicles",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2025-06-05",
@@ -70,6 +70,11 @@
     {
       "date": "2026-09-18",
       "amount": 3480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5800,
       "shop": "Steam"
     }
   ]

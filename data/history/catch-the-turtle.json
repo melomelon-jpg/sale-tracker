@@ -1,0 +1,51 @@
+{
+  "slug": "catch-the-turtle",
+  "updated_at": "2026-10-14T00:03:47Z",
+  "history": [
+    {
+      "date": "2026-02-12",
+      "amount": 13200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-28",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-11",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1100,
+      "shop": "Steam"
+    }
+  ]
+}

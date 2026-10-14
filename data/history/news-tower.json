@@ -1,6 +1,6 @@
 {
   "slug": "news-tower",
-  "updated_at": "2026-10-04T23:46:02Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,16 @@
     {
       "date": "2026-10-01",
       "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1885,
       "shop": "Steam"
     }
   ]

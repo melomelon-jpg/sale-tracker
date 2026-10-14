@@ -1,0 +1,91 @@
+{
+  "slug": "room-football-junk-town",
+  "updated_at": "2026-10-14T00:03:47Z",
+  "history": [
+    {
+      "date": "2025-05-23",
+      "amount": 13200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-06",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-22",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-04",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-18",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 6000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-29",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-28",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-11",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-15",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-29",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-27",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 22000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1100,
+      "shop": "Steam"
+    }
+  ]
+}

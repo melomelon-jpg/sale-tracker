@@ -5163,6 +5163,33 @@
     "name": "Costume Quest",
     "review_count": 2599
   },
+  "1151340": {
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "アプリ内購入",
+      "チャットの文字起こし",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "タブレットでRemote Play"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Fallout 76",
+    "review_count": 78591
+  },
   "1152000": {
     "categories": [
       "シングルプレイヤー",
@@ -20138,6 +20165,28 @@
     "name": "Teslagrad 2",
     "review_count": 416
   },
+  "1700870": {
+    "categories": [
+      "シングルプレイヤー",
+      "テキストサイズの調整",
+      "カスタム音量調整",
+      "難易度の調整",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "RPG",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Clanfolk クランフォーク",
+    "review_count": 3799
+  },
   "1701520": {
     "categories": [
       "シングルプレイヤー",
@@ -21268,6 +21317,36 @@
     "jp_support": false,
     "name": "Killer Worm 2",
     "review_count": null
+  },
+  "1769170": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "タッチのみのオプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Shattered Pixel Dungeon",
+    "review_count": 2135
   },
   "1769420": {
     "categories": [
@@ -24087,6 +24166,33 @@
     "jp_support": false,
     "name": "Pillars of Light",
     "review_count": null
+  },
+  "1902690": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Fate/Samurai Remnant",
+    "review_count": 5041
   },
   "1902850": {
     "categories": [
@@ -42011,6 +42117,29 @@
     "name": "Strange Jigsaws",
     "review_count": 4238
   },
+  "2703230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Hangar",
+    "review_count": null
+  },
   "270830": {
     "categories": [
       "シングルプレイヤー",
@@ -45490,6 +45619,29 @@
     "name": "SILENT HILL f",
     "review_count": 18637
   },
+  "2947760": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Vintage House Top-Down 3D",
+    "review_count": null
+  },
   "2950340": {
     "categories": [
       "シングルプレイヤー",
@@ -45719,6 +45871,121 @@
     "jp_support": false,
     "name": "Titan Souls",
     "review_count": 7971
+  },
+  "2973540": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Hospital 2",
+    "review_count": null
+  },
+  "2973550": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Hospital 3",
+    "review_count": null
+  },
+  "2973560": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Old Sea Port",
+    "review_count": null
+  },
+  "2973570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Haunted Town Top-Down 3D",
+    "review_count": null
+  },
+  "2973580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden FPS Shooting Top-Down 3D",
+    "review_count": null
   },
   "298110": {
     "categories": [
@@ -46372,6 +46639,98 @@
     "jp_support": true,
     "name": "Winter Burrow",
     "review_count": 2777
+  },
+  "3009770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - OldHospital",
+    "review_count": null
+  },
+  "3009780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Underground",
+    "review_count": null
+  },
+  "3009790": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Rusty",
+    "review_count": null
+  },
+  "3009820": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Hospital 4",
+    "review_count": null
   },
   "301280": {
     "categories": [
@@ -47387,6 +47746,112 @@
     "name": "Sleeping Dogs: Definitive Edition",
     "review_count": 70006
   },
+  "3079400": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Abandoned Prison",
+    "review_count": null
+  },
+  "3079410": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Sun Temple",
+    "review_count": null
+  },
+  "3079420": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Flooded Grounds",
+    "review_count": null
+  },
+  "3079440": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Bedroom",
+    "review_count": null
+  },
+  "3079460": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Deserted Village",
+    "review_count": null
+  },
   "307960": {
     "categories": [
       "シングルプレイヤー",
@@ -47932,6 +48397,95 @@
     "name": "Barro 2024",
     "review_count": 185
   },
+  "3120290": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Courtyard",
+    "review_count": null
+  },
+  "3120300": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Pizza Shop 1",
+    "review_count": null
+  },
+  "3120310": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Winter Outpost",
+    "review_count": null
+  },
+  "3120320": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Pizza Shop 2",
+    "review_count": null
+  },
   "3122100": {
     "categories": [
       "シングルプレイヤー",
@@ -48372,6 +48926,71 @@
     "jp_support": false,
     "name": "Schedule I",
     "review_count": 286108
+  },
+  "3165280": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Apocalyptic Wasteland",
+    "review_count": null
+  },
+  "3165290": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Pirate Tavern",
+    "review_count": null
+  },
+  "3165300": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Tanks Logic Puzzle",
+    "review_count": null
   },
   "3167020": {
     "categories": [
@@ -48822,6 +49441,75 @@
     "name": "レッツ城",
     "review_count": null
   },
+  "3214780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Colonial Graveyard",
+    "review_count": null
+  },
+  "3214800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Gas Station",
+    "review_count": null
+  },
+  "3214810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Medieval",
+    "review_count": null
+  },
   "322110": {
     "categories": [
       "シングルプレイヤー",
@@ -48977,6 +49665,70 @@
     "jp_support": false,
     "name": "Teenage Mutant Ninja Turtles: Tactical Takedown",
     "review_count": 160
+  },
+  "3230870": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - FROZEN WALL",
+    "review_count": null
+  },
+  "3230890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Space Station Top-Down 3D",
+    "review_count": null
+  },
+  "3230900": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Storehouse Top-Down 3D",
+    "review_count": null
   },
   "323190": {
     "categories": [
@@ -49292,6 +50044,75 @@
     "name": "A Game About Digging A Hole™",
     "review_count": 18886
   },
+  "3244690": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Save Scream and Run",
+    "review_count": null
+  },
+  "3244700": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Egypt",
+    "review_count": null
+  },
+  "3244710": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Post-Apocalypse",
+    "review_count": null
+  },
   "32470": {
     "categories": [
       "シングルプレイヤー",
@@ -49478,6 +50299,74 @@
     "jp_support": true,
     "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "review_count": 18190
+  },
+  "3269610": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Food",
+    "review_count": null
+  },
+  "3269620": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Frozen Knights",
+    "review_count": null
+  },
+  "3269630": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Frozen Village",
+    "review_count": null
   },
   "327030": {
     "categories": [
@@ -50569,6 +51458,75 @@
     "name": "Warden: Melody of the Undergrowth",
     "review_count": null
   },
+  "3385420": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Weapon",
+    "review_count": null
+  },
+  "3385430": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Sand Fantasy",
+    "review_count": null
+  },
+  "3385440": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Sand Japanese",
+    "review_count": null
+  },
   "3387740": {
     "categories": [
       "シングルプレイヤー",
@@ -51285,6 +52243,52 @@
     "name": "My Bird",
     "review_count": null
   },
+  "3463180": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Frozen Space",
+    "review_count": null
+  },
+  "3463190": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Archaeology - Frozen Pirates",
+    "review_count": null
+  },
   "3466110": {
     "categories": [
       "シングルプレイヤー",
@@ -51338,6 +52342,52 @@
     "jp_support": false,
     "name": "Shadowrun: Hong Kong - Extended Edition",
     "review_count": 3580
+  },
+  "3471090": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Tanks",
+    "review_count": null
+  },
+  "3471100": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Plants",
+    "review_count": null
   },
   "3471980": {
     "categories": [
@@ -51831,6 +52881,98 @@
     "name": "UnReal World",
     "review_count": 1239
   },
+  "3517270": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Royale Lands",
+    "review_count": null
+  },
+  "3517280": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Ranch",
+    "review_count": null
+  },
+  "3517290": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Archaeology - Grass Farm",
+    "review_count": null
+  },
+  "3517310": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Archaeology - Grass Kingdom",
+    "review_count": null
+  },
   "351920": {
     "categories": [
       "シングルプレイヤー",
@@ -51849,6 +52991,51 @@
     "jp_support": true,
     "name": "Crazy Machines 3",
     "review_count": 7476
+  },
+  "3525850": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Animals",
+    "review_count": null
+  },
+  "3525880": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Vehicles",
+    "review_count": null
   },
   "352720": {
     "categories": [
@@ -51952,6 +53139,48 @@
     "jp_support": true,
     "name": "Many Nights a Whisper",
     "review_count": 686
+  },
+  "3548380": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Fishes",
+    "review_count": null
+  },
+  "3548400": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "How Much Items - Vegetation",
+    "review_count": null
   },
   "355130": {
     "categories": [
@@ -52178,6 +53407,44 @@
     "jp_support": true,
     "name": "CARIMARA: Beneath the forlorn limbs",
     "review_count": 2592
+  },
+  "3571650": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Hangar",
+    "review_count": null
+  },
+  "3571660": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Petrol Station",
+    "review_count": null
   },
   "357190": {
     "categories": [
@@ -52506,6 +53773,43 @@
     "name": "How to Survive 2",
     "review_count": 8638
   },
+  "3602120": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Apocalyptic Wasteland",
+    "review_count": null
+  },
+  "3602130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Cursed West",
+    "review_count": null
+  },
   "360430": {
     "categories": [
       "シングルプレイヤー",
@@ -52525,6 +53829,47 @@
     "jp_support": true,
     "name": "Mafia III: Definitive Edition",
     "review_count": 41176
+  },
+  "3612760": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Wetlands",
+    "review_count": null
+  },
+  "3612770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Sun Shrine",
+    "review_count": null
   },
   "361280": {
     "categories": [
@@ -52932,6 +54277,29 @@
     "name": "Kona",
     "review_count": 2760
   },
+  "3651720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE -  Leafless",
+    "review_count": null
+  },
   "365360": {
     "categories": [
       "シングルプレイヤー",
@@ -52997,6 +54365,52 @@
     "jp_support": true,
     "name": "Tom Clancy’s The Division™",
     "review_count": 76986
+  },
+  "3660800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Race Track",
+    "review_count": null
+  },
+  "3660810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Abandoned Factory",
+    "review_count": null
   },
   "3662140": {
     "categories": [
@@ -53759,6 +55173,51 @@
     "name": "Kathy Rain",
     "review_count": 1844
   },
+  "3710460": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Junk Town",
+    "review_count": null
+  },
+  "3710480": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Sand Storm",
+    "review_count": null
+  },
   "371140": {
     "categories": [
       "シングルプレイヤー",
@@ -54168,6 +55627,74 @@
     "jp_support": true,
     "name": "DARK SOULS™ III",
     "review_count": 277491
+  },
+  "3746490": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Steampunk City",
+    "review_count": null
+  },
+  "3746510": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Mountain Life",
+    "review_count": null
+  },
+  "3746520": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ROOM FOOTBALL - Dark Place",
+    "review_count": null
   },
   "3751260": {
     "categories": [
@@ -58268,6 +59795,52 @@
     "name": "ブレス オブ ファイアIV うつろわざるもの",
     "review_count": 596
   },
+  "4256820": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "GIFT UP - FARM",
+    "review_count": null
+  },
+  "4256830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Catch the Chiken",
+    "review_count": null
+  },
   "426790": {
     "categories": [
       "シングルプレイヤー",
@@ -58703,6 +60276,52 @@
     "jp_support": true,
     "name": "Slime Rancher",
     "review_count": 138765
+  },
+  "4335890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Can deliver?  Survival Kit",
+    "review_count": null
+  },
+  "4335910": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Catch the Turtle",
+    "review_count": null
   },
   "434000": {
     "categories": [
@@ -66970,6 +68589,23 @@
     "name": "Quake Champions",
     "review_count": 6342
   },
+  "611660": {
+    "categories": [
+      "シングルプレイヤー",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "VRサポート",
+      "SteamVRコレクティブル",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Fallout 4 VR",
+    "review_count": 5628
+  },
   "611810": {
     "categories": [
       "シングルプレイヤー",
@@ -71073,6 +72709,35 @@
     "jp_support": true,
     "name": "Phasmophobia",
     "review_count": 682192
+  },
+  "739650": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-14T00:03:47Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Drake Hollow",
+    "review_count": 1159
   },
   "740130": {
     "categories": [

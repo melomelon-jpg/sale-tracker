@@ -1,6 +1,6 @@
 {
   "slug": "station-to-station",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,26 @@
     {
       "date": "2026-08-27",
       "amount": 792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 990,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "arma-2-operation-arrowhead",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,11 @@
     {
       "date": "2026-10-01",
       "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]

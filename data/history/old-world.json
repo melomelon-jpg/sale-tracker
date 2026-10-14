@@ -1,6 +1,6 @@
 {
   "slug": "old-world",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,16 @@
     {
       "date": "2026-08-22",
       "amount": 995,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 398,
       "shop": "Steam"
     }
   ]

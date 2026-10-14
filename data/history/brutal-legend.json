@@ -1,6 +1,6 @@
 {
   "slug": "brutal-legend",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-10-14T00:03:47Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-08",
       "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 222,
       "shop": "Steam"
     }
   ]
