@@ -1,6 +1,6 @@
 {
   "slug": "sengoku-dynasty",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-10-14T23:35:22Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,26 @@
     {
       "date": "2026-08-24",
       "amount": 1799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
+      "amount": 1727,
       "shop": "Steam"
     }
   ]

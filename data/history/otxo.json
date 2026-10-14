@@ -1,6 +1,6 @@
 {
   "slug": "otxo",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-10-14T23:35:22Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-08-28",
+      "amount": 760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
       "amount": 760,
       "shop": "Steam"
     }

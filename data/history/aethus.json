@@ -1,0 +1,81 @@
+{
+  "slug": "aethus",
+  "updated_at": "2026-10-14T23:35:22Z",
+  "history": [
+    {
+      "date": "2026-03-06",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-19",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-03",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}

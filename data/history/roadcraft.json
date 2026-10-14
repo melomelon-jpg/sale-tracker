@@ -1,6 +1,6 @@
 {
   "slug": "roadcraft",
-  "updated_at": "2026-10-06T01:37:42Z",
+  "updated_at": "2026-10-14T23:35:22Z",
   "history": [
     {
       "date": "2025-01-28",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 3490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
       "amount": 3490,
       "shop": "Steam"
     }
