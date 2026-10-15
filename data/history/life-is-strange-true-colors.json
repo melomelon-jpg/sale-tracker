@@ -1,6 +1,6 @@
 {
   "slug": "life-is-strange-true-colors",
-  "updated_at": "2026-08-17T12:56:31Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 1914,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1914,
       "shop": "Steam"
     }

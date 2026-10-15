@@ -1,0 +1,61 @@
+{
+  "slug": "nova-roma",
+  "updated_at": "2026-10-15T23:29:43Z",
+  "history": [
+    {
+      "date": "2026-03-26",
+      "amount": 2384,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2384,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2384,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 2235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2086,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 1937,
+      "shop": "Steam"
+    }
+  ]
+}

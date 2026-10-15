@@ -1,6 +1,6 @@
 {
   "slug": "yakuza-like-a-dragon",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-01",
       "amount": 792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]

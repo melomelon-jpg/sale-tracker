@@ -1,6 +1,6 @@
 {
   "slug": "horticular-build-a-garden-attract-wildlife",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-08-30",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
       "amount": 920,
       "shop": "Steam"
     }

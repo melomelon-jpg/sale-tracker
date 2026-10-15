@@ -1,6 +1,6 @@
 {
   "slug": "the-case-of-the-golden-idol",
-  "updated_at": "2026-10-10T00:25:27Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-10-08",
       "amount": 1012,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1840,
       "shop": "Steam"
     }
   ]

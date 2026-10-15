@@ -1,6 +1,6 @@
 {
   "slug": "crisis-core-final-fantasy-vii-reunion",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-09-18",
       "amount": 1917,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5478,
       "shop": "Steam"
     }
   ]

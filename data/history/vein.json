@@ -1,6 +1,6 @@
 {
   "slug": "vein",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2025-10-24",
@@ -50,6 +50,26 @@
     {
       "date": "2026-08-31",
       "amount": 1742,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 1690,
       "shop": "Steam"
     }
   ]

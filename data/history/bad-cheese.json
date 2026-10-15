@@ -1,0 +1,101 @@
+{
+  "slug": "bad-cheese",
+  "updated_at": "2026-10-15T23:29:43Z",
+  "history": [
+    {
+      "date": "2025-09-01",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-15",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-21",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-04",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-04",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-23",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-06",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-13",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-31",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-14",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 600,
+      "shop": "Steam"
+    }
+  ]
+}

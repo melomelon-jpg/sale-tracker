@@ -1,6 +1,6 @@
 {
   "slug": "dream-tactics",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1000,
       "shop": "Steam"
     }

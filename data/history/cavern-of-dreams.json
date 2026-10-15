@@ -1,6 +1,6 @@
 {
   "slug": "cavern-of-dreams",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-08-28",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
       "amount": 600,
       "shop": "Steam"
     }

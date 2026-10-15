@@ -1,6 +1,6 @@
 {
   "slug": "lego-city-undercover",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 597,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
       "amount": 597,
       "shop": "Steam"
     }

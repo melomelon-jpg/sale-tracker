@@ -1,6 +1,6 @@
 {
   "slug": "hogwarts-legacy",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 8778,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 877,
       "shop": "Steam"
     }
   ]

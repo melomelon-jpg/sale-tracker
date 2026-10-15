@@ -1,6 +1,6 @@
 {
   "slug": "cronos-the-new-dawn",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2025-07-31",
@@ -100,6 +100,11 @@
     {
       "date": "2026-10-01",
       "amount": 3975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7950,
       "shop": "Steam"
     }
   ]

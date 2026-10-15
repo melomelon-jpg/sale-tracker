@@ -1,6 +1,6 @@
 {
   "slug": "dynasty-warriors-origins",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2025-02-01",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-02",
       "amount": 6776,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 9680,
       "shop": "Steam"
     }
   ]

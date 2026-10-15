@@ -1,6 +1,6 @@
 {
   "slug": "lego-harry-potter-collection",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-10-15T23:29:43Z",
   "history": [
     {
       "date": "2026-06-15",
@@ -29,6 +29,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 986,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6578,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
       "amount": 986,
       "shop": "Steam"
     }
