@@ -3548,6 +3548,32 @@
     "name": "Eldest Souls",
     "review_count": 3091
   },
+  "1112890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "ゲームパッド推奨",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "いつでもセーブ可能",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "カリコ",
+    "review_count": 3244
+  },
   "1113000": {
     "categories": [
       "シングルプレイヤー",
@@ -5674,6 +5700,26 @@
     "jp_support": true,
     "name": "オメガラビリンス ライフ",
     "review_count": 263
+  },
+  "1164050": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "When The Past Was Around",
+    "review_count": 3937
   },
   "1164940": {
     "categories": [
@@ -22316,6 +22362,23 @@
     "jp_support": true,
     "name": "龍が如く 維新！ 極",
     "review_count": 4850
+  },
+  "1807090": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Wantless : Solace at World’s End",
+    "review_count": 310
   },
   "1807810": {
     "categories": [
@@ -39434,6 +39497,32 @@
     "name": "7 Days to Die",
     "review_count": 278292
   },
+  "2516170": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "G.I. Joe: Wrath of Cobra",
+    "review_count": 121
+  },
   "2518960": {
     "categories": [
       "シングルプレイヤー",
@@ -40455,6 +40544,27 @@
     "jp_support": true,
     "name": "ロスト・イン・ランダム - ザ・エターナル・ダイ",
     "review_count": 757
+  },
+  "2570210": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Eden Crafters",
+    "review_count": 2552
   },
   "257030": {
     "categories": [
@@ -54945,6 +55055,32 @@
     "name": "Battlefleet Gothic: Armada (Classic)",
     "review_count": 5141
   },
+  "3643170": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シミュレーション",
+      "無料プレイ",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Roadside Research",
+    "review_count": 4067
+  },
   "364360": {
     "categories": [
       "シングルプレイヤー",
@@ -65973,6 +66109,33 @@
     "name": "Dying Light 2 Stay Human: Reloaded Edition",
     "review_count": 164174
   },
+  "534550": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Guacamelee! 2",
+    "review_count": 2727
+  },
   "535930": {
     "categories": [
       "シングルプレイヤー",
@@ -68291,6 +68454,44 @@
     "jp_support": true,
     "name": "Dead Cells",
     "review_count": 155647
+  },
+  "589290": {
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "テキストサイズの調整",
+      "色のオプション",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "データ",
+      "Steamランキング",
+      "レベル編集可能",
+      "Source SDKを含む"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Holdfast: Nations At War",
+    "review_count": 26724
   },
   "589360": {
     "categories": [
@@ -75608,6 +75809,30 @@
     "name": "Cliff Empire",
     "review_count": 4184
   },
+  "809230": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Unity of Command II",
+    "review_count": 2059
+  },
   "809890": {
     "categories": [
       "シングルプレイヤー",
@@ -77414,6 +77639,32 @@
     "jp_support": true,
     "name": "The Forgotten City",
     "review_count": 11067
+  },
+  "874390": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamターン通知",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-16T23:11:52Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "The Battle of Polytopia",
+    "review_count": 4768
   },
   "877810": {
     "categories": [

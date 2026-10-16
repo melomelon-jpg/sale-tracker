@@ -1,6 +1,6 @@
 {
   "slug": "dread-delusion",
-  "updated_at": "2026-10-09T00:55:08Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -120,6 +120,11 @@
     {
       "date": "2026-10-01",
       "amount": 1025,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]

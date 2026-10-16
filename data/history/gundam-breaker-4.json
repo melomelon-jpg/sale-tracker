@@ -1,6 +1,6 @@
 {
   "slug": "gundam-breaker-4",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 3388,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 8470,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 3388,
       "shop": "Steam"
     }

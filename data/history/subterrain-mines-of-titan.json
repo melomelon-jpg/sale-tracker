@@ -1,6 +1,6 @@
 {
   "slug": "subterrain-mines-of-titan",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1265,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1265,
       "shop": "Steam"
     }

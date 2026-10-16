@@ -1,6 +1,6 @@
 {
   "slug": "windrose",
-  "updated_at": "2026-10-09T00:55:08Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2026-04-14",
@@ -35,6 +35,11 @@
     {
       "date": "2026-10-01",
       "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]

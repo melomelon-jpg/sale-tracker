@@ -1,6 +1,6 @@
 {
   "slug": "escape-academy",
-  "updated_at": "2026-10-15T23:29:43Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-10-08",
       "amount": 205,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-16",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]

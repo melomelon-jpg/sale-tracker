@@ -1,6 +1,6 @@
 {
   "slug": "super-battle-golf",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-16T23:11:52Z",
   "history": [
     {
       "date": "2026-02-19",
@@ -54,6 +54,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 975,
       "shop": "Steam"
     }
