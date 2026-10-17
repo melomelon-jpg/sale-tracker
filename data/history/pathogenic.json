@@ -1,0 +1,46 @@
+{
+  "slug": "pathogenic",
+  "updated_at": "2026-10-17T22:48:42Z",
+  "history": [
+    {
+      "date": "2026-07-16",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-30",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-30",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 840,
+      "shop": "Steam"
+    }
+  ]
+}

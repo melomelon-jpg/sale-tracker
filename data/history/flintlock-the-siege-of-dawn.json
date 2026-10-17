@@ -1,6 +1,6 @@
 {
   "slug": "flintlock-the-siege-of-dawn",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-10-17T22:48:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
       "amount": 1200,
       "shop": "Steam"
     }

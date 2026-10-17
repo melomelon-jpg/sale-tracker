@@ -1,6 +1,6 @@
 {
   "slug": "bloodthief",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-17T22:48:42Z",
   "history": [
     {
       "date": "2025-09-22",
@@ -104,6 +104,26 @@
     },
     {
       "date": "2026-08-29",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
       "amount": 1150,
       "shop": "Steam"
     }

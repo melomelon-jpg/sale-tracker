@@ -1334,6 +1334,24 @@
     "name": "デジモンストーリー サイバースルゥース ハッカーズメモリー",
     "review_count": 10802
   },
+  "1043260": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Gladiator Guild Manager",
+    "review_count": 3829
+  },
   "1043810": {
     "categories": [
       "シングルプレイヤー",
@@ -4515,6 +4533,29 @@
     "jp_support": true,
     "name": "Unpacking アンパッキング",
     "review_count": 34959
+  },
+  "1135810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Vault of the Void",
+    "review_count": 2535
   },
   "1135910": {
     "categories": [
@@ -14046,6 +14087,25 @@
     "name": "フェノトピア(Phoenotopia: Awakening)",
     "review_count": 2727
   },
+  "1440440": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Sam & Max Save the World",
+    "review_count": 1756
+  },
   "1441180": {
     "categories": [
       "シングルプレイヤー",
@@ -17052,6 +17112,24 @@
     "jp_support": true,
     "name": "クアリー～悪夢のサマーキャンプ",
     "review_count": 15772
+  },
+  "1577620": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "The Signal State",
+    "review_count": 655
   },
   "1578650": {
     "categories": [
@@ -21293,6 +21371,25 @@
     "jp_support": false,
     "name": "HYPER DEMON",
     "review_count": 3062
+  },
+  "1747050": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Sam & Max: Beyond Time and Space",
+    "review_count": 497
   },
   "1747760": {
     "categories": [
@@ -30142,6 +30239,25 @@
     "name": "LEGO® Harry Potter: Years 1-4",
     "review_count": 6472
   },
+  "2113040": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "RUNGORE",
+    "review_count": 992
+  },
   "2113850": {
     "categories": [
       "シングルプレイヤー",
@@ -32205,6 +32321,42 @@
     "name": "DayZ",
     "review_count": 386398
   },
+  "2211170": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Unrailed 2:バック・オン・トラック",
+    "review_count": 1824
+  },
   "221260": {
     "categories": [
       "シングルプレイヤー",
@@ -32889,6 +33041,27 @@
     "jp_support": false,
     "name": "Fallout 3: Game of the Year Edition",
     "review_count": 43891
+  },
+  "2237970": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steam入力APIサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アドベンチャー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Outpath",
+    "review_count": 2934
   },
   "2238040": {
     "categories": [
@@ -41818,6 +41991,24 @@
     "jp_support": true,
     "name": "サブノーティカ",
     "review_count": 339837
+  },
+  "2648050": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Sam & Max: The Devil's Playhouse",
+    "review_count": 433
   },
   "2650680": {
     "categories": [
@@ -56968,6 +57159,37 @@
     "name": "Summoner's Automata",
     "review_count": null
   },
+  "3808690": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Pathogenic",
+    "review_count": 4676
+  },
   "381210": {
     "categories": [
       "マルチプレイヤー",
@@ -60005,6 +60227,38 @@
     "jp_support": false,
     "name": "Ghost of a Tale",
     "review_count": 4199
+  },
+  "418030": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Subsistence",
+    "review_count": 12576
   },
   "418180": {
     "categories": [
@@ -68644,6 +68898,32 @@
     "name": "Sons of Triskelion",
     "review_count": null
   },
+  "593280": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "キャットクエスト",
+    "review_count": 8400
+  },
   "593640": {
     "categories": [
       "シングルプレイヤー",
@@ -72734,6 +73014,27 @@
     "name": "Thief: Deadly Shadows",
     "review_count": 2339
   },
+  "698640": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Deep Sky Derelicts",
+    "review_count": 1990
+  },
   "698670": {
     "categories": [
       "シングルプレイヤー",
@@ -75680,6 +75981,28 @@
     "name": "マブラヴ オルタネイティヴ",
     "review_count": 3428
   },
+  "803050": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Per Aspera",
+    "review_count": 4113
+  },
   "803330": {
     "categories": [
       "シングルプレイヤー",
@@ -78401,6 +78724,37 @@
     "jp_support": true,
     "name": "恐怖の世界",
     "review_count": 8962
+  },
+  "914710": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-17T22:48:42Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Cat Quest II",
+    "review_count": 5875
   },
   "914750": {
     "categories": [

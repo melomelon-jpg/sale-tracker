@@ -1,6 +1,6 @@
 {
   "slug": "the-sinking-city-remastered",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-10-17T22:48:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-09-02",
+      "amount": 1059,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 7060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1059,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
       "amount": 1059,
       "shop": "Steam"
     }

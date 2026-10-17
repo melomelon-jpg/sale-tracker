@@ -1,6 +1,6 @@
 {
   "slug": "the-testament-of-sherlock-holmes",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-17T22:48:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
       "amount": 250,
       "shop": "Steam"
     }

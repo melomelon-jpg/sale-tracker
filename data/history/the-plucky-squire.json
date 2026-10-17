@@ -1,6 +1,6 @@
 {
   "slug": "the-plucky-squire",
-  "updated_at": "2026-10-10T00:25:27Z",
+  "updated_at": "2026-10-17T22:48:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-10-01",
       "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]
