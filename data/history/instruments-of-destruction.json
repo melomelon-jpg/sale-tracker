@@ -1,6 +1,6 @@
 {
   "slug": "instruments-of-destruction",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1150,
       "shop": "Steam"
     }

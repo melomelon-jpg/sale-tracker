@@ -1,6 +1,6 @@
 {
   "slug": "blacksmith-master",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2025-05-15",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 990,
       "shop": "Steam"
     }

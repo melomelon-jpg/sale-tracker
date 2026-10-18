@@ -1,6 +1,6 @@
 {
   "slug": "shapez",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-18",
       "amount": 120,
       "shop": "Steam"
     }

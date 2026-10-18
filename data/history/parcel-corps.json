@@ -1,6 +1,6 @@
 {
   "slug": "parcel-corps",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 552,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 552,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-18",
       "amount": 552,
       "shop": "Steam"
     }

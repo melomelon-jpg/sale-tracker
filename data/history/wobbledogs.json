@@ -1,6 +1,6 @@
 {
   "slug": "wobbledogs",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 512,
       "shop": "Steam"
     }

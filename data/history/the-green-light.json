@@ -1,9 +1,29 @@
 {
   "slug": "the-green-light",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2026-01-30",
+      "amount": 464,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-12",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-27",
+      "amount": 435,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-10",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-10",
       "amount": 406,
       "shop": "Steam"
     },
@@ -25,6 +45,31 @@
     {
       "date": "2026-07-23",
       "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 174,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-09",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 145,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
+      "amount": 116,
       "shop": "Steam"
     }
   ]

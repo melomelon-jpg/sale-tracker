@@ -1,6 +1,6 @@
 {
   "slug": "obduction",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -74,6 +74,16 @@
     },
     {
       "date": "2026-08-21",
+      "amount": 1540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-04",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 1540,
       "shop": "Steam"
     }

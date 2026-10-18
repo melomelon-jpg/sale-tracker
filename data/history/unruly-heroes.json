@@ -1,6 +1,6 @@
 {
   "slug": "unruly-heroes",
-  "updated_at": "2026-09-08T21:05:51Z",
+  "updated_at": "2026-10-18T22:41:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -109,6 +109,26 @@
     },
     {
       "date": "2026-09-08",
+      "amount": 550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-18",
       "amount": 550,
       "shop": "Steam"
     }
