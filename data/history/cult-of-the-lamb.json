@@ -1,6 +1,6 @@
 {
   "slug": "cult-of-the-lamb",
-  "updated_at": "2026-10-18T22:41:53Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-12",
       "amount": 1285,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 2570,
       "shop": "Steam"
     }
   ]

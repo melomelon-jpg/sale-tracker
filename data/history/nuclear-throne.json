@@ -1,6 +1,6 @@
 {
   "slug": "nuclear-throne",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -60,6 +60,11 @@
     {
       "date": "2026-10-08",
       "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-14",
+      "amount": 1600,
       "shop": "Steam"
     }
   ]

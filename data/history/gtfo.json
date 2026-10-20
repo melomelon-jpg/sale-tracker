@@ -1,6 +1,6 @@
 {
   "slug": "gtfo",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,11 @@
     {
       "date": "2026-10-08",
       "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1037,
       "shop": "Steam"
     }
   ]

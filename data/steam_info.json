@@ -6715,6 +6715,26 @@
     "name": "Tell Me Why",
     "review_count": 3926
   },
+  "1182620": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Impostor Factory",
+    "review_count": 12023
+  },
   "1182900": {
     "categories": [
       "シングルプレイヤー",
@@ -7102,6 +7122,26 @@
     "jp_support": false,
     "name": "ネクソモン: 絶滅",
     "review_count": 3713
+  },
+  "1199030": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Tainted Grail: Conquest",
+    "review_count": 7609
   },
   "1201230": {
     "categories": [
@@ -12775,6 +12815,22 @@
     "name": "Wordle 2",
     "review_count": 384
   },
+  "1386780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "City of Gangsters",
+    "review_count": 1335
+  },
   "1386870": {
     "categories": [
       "シングルプレイヤー",
@@ -15008,6 +15064,24 @@
     "jp_support": true,
     "name": "Commandos: Origins",
     "review_count": 1824
+  },
+  "1484720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Dead Estate",
+    "review_count": 5807
   },
   "1485690": {
     "categories": [
@@ -18117,6 +18191,34 @@
     "name": "ペルソナ4 ジ・アルティマックス ウルトラスープレックスホールド",
     "review_count": 3839
   },
+  "1602080": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "ゲームパッド推奨",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Soulstice",
+    "review_count": 1856
+  },
   "1604030": {
     "categories": [
       "シングルプレイヤー",
@@ -18915,6 +19017,31 @@
     "jp_support": true,
     "name": "Behind the Frame 〜とっておきの景色を〜",
     "review_count": 4943
+  },
+  "1634860": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Minishoot' Adventures",
+    "review_count": 7906
   },
   "1635450": {
     "categories": [
@@ -25146,6 +25273,26 @@
     "name": "Garden Life: A Cozy Simulator",
     "review_count": 883
   },
+  "1915550": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Nemesis: Lockdown",
+    "review_count": 737
+  },
   "1916280": {
     "categories": [
       "シングルプレイヤー",
@@ -26081,6 +26228,25 @@
     "jp_support": false,
     "name": "Riddle of the mask",
     "review_count": null
+  },
+  "1944430": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Amnesia: The Bunker",
+    "review_count": 10521
   },
   "1946550": {
     "categories": [
@@ -37994,6 +38160,25 @@
     "name": "Banished",
     "review_count": 37846
   },
+  "2429240": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Soulslinger: Envoy of Death",
+    "review_count": 473
+  },
   "2429270": {
     "categories": [
       "シングルプレイヤー",
@@ -41943,6 +42128,37 @@
     "name": "The Elder Scrolls IV: Oblivion Remastered",
     "review_count": 59327
   },
+  "2625420": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Drive Beyond Horizons",
+    "review_count": 18107
+  },
   "2627260": {
     "categories": [
       "シングルプレイヤー",
@@ -45729,6 +45945,144 @@
     "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "review_count": 72736
   },
+  "2878310": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Pirates Top-Down 3D",
+    "review_count": null
+  },
+  "2878320": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Castle Top-Down 3D",
+    "review_count": null
+  },
+  "2878330": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Climb Challenge - Find Items 4",
+    "review_count": null
+  },
+  "2878340": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Climb Challenge - Find Items 5",
+    "review_count": null
+  },
+  "2878350": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Save from Bobr Curve",
+    "review_count": null
+  },
+  "2878360": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Save and Survive",
+    "review_count": null
+  },
   "2878600": {
     "categories": [
       "シングルプレイヤー",
@@ -46737,6 +47091,75 @@
     "jp_support": true,
     "name": "SILENT HILL f",
     "review_count": 18637
+  },
+  "2947730": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Hospital 1",
+    "review_count": null
+  },
+  "2947740": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "3D PUZZLE - Pirates",
+    "review_count": null
+  },
+  "2947750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Hidden Old House Top-Down 3D",
+    "review_count": null
   },
   "2947760": {
     "categories": [
@@ -51634,6 +52057,29 @@
     "name": "NINJA GAIDEN 2 Black",
     "review_count": 3295
   },
+  "3288210": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Super Meat Boy 3D",
+    "review_count": 847
+  },
   "329050": {
     "categories": [
       "シングルプレイヤー",
@@ -52471,6 +52917,24 @@
     "jp_support": false,
     "name": "Electronics Supermarket Simulator",
     "review_count": null
+  },
+  "337340": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-20T00:03:24Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Finding Paradise",
+    "review_count": 18175
   },
   "3373660": {
     "categories": [

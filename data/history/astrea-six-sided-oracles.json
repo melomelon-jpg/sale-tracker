@@ -1,6 +1,6 @@
 {
   "slug": "astrea-six-sided-oracles",
-  "updated_at": "2026-10-02T00:25:12Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 1680,
       "shop": "Steam"
     }

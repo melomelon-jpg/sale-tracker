@@ -1,6 +1,6 @@
 {
   "slug": "the-darkness-ii",
-  "updated_at": "2026-10-18T22:41:53Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-08",
       "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 298,
       "shop": "Steam"
     }
   ]

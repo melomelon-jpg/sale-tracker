@@ -1,6 +1,6 @@
 {
   "slug": "bloodshed",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-12",
@@ -200,6 +200,26 @@
     {
       "date": "2026-09-02",
       "amount": 375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 345,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 180,
       "shop": "Steam"
     }
   ]

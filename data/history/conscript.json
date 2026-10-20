@@ -1,6 +1,6 @@
 {
   "slug": "conscript",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -124,6 +124,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 782,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 782,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 782,
       "shop": "Steam"
     }

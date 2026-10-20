@@ -1,6 +1,6 @@
 {
   "slug": "skullbreaker",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2025-10-11",
@@ -104,6 +104,26 @@
     },
     {
       "date": "2026-09-05",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 272,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 170,
       "shop": "Steam"
     }

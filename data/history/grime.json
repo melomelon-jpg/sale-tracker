@@ -1,6 +1,6 @@
 {
   "slug": "grime",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,26 @@
     {
       "date": "2026-09-03",
       "amount": 771,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1028,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1028,
       "shop": "Steam"
     }
   ]

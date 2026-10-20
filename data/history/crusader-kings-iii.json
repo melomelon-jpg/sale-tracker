@@ -1,6 +1,6 @@
 {
   "slug": "crusader-kings-iii",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-01",
       "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 6990,
       "shop": "Steam"
     }
   ]

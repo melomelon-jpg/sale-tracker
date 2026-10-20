@@ -1,6 +1,6 @@
 {
   "slug": "bridge-constructor-portal",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-20T00:03:24Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,26 @@
     {
       "date": "2026-08-23",
       "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 108,
       "shop": "Steam"
     }
   ]
