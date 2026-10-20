@@ -1,6 +1,6 @@
 {
   "slug": "he-is-coming",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2025-07-17",
@@ -134,6 +134,16 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
       "amount": 990,
       "shop": "Steam"
     }

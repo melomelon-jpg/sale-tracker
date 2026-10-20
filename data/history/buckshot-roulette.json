@@ -1,6 +1,6 @@
 {
   "slug": "buckshot-roulette",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
       "amount": 175,
       "shop": "Steam"
     }

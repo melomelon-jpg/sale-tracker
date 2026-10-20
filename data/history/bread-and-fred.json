@@ -1,6 +1,6 @@
 {
   "slug": "bread-and-fred",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,26 @@
     {
       "date": "2026-09-04",
       "amount": 765,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
+      "amount": 680,
       "shop": "Steam"
     }
   ]

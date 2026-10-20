@@ -1,6 +1,6 @@
 {
   "slug": "amnesia-rebirth",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-09-16",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 680,
       "shop": "Steam"
     }

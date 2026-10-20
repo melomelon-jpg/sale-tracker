@@ -1,6 +1,6 @@
 {
   "slug": "we-were-here-forever",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
       "amount": 800,
       "shop": "Steam"
     }

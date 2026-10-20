@@ -1,6 +1,6 @@
 {
   "slug": "forever-skies",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-10-08",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
+      "amount": 1360,
       "shop": "Steam"
     }
   ]

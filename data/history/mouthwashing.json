@@ -1,6 +1,6 @@
 {
   "slug": "mouthwashing",
-  "updated_at": "2026-10-14T23:35:22Z",
+  "updated_at": "2026-10-20T23:34:33Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
+      "amount": 900,
       "shop": "Steam"
     }
   ]

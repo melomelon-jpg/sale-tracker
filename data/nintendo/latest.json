@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:21:39Z",
+  "generated_at": "2026-10-20T23:52:06Z",
   "currency": "JPY",
   "games": [
     {
@@ -23,8 +23,8 @@
       "title": "Terraria",
       "nsuid": "70010000023877",
       "regular": 4180,
-      "current": 4180,
-      "on_sale": false
+      "current": 2090,
+      "on_sale": true
     },
     {
       "slug": "cuphead",
