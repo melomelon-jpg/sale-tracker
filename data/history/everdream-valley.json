@@ -1,6 +1,6 @@
 {
   "slug": "everdream-valley",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 3200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 960,
       "shop": "Steam"
     }

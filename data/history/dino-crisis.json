@@ -1,6 +1,6 @@
 {
   "slug": "dino-crisis",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2026-02-13",
@@ -54,6 +54,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 500,
       "shop": "Steam"
     }

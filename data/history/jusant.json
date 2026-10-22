@@ -1,6 +1,6 @@
 {
   "slug": "jusant",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 1210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3025,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3025,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 1210,
       "shop": "Steam"
     }

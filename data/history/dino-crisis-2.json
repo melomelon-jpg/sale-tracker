@@ -1,0 +1,81 @@
+{
+  "slug": "dino-crisis-2",
+  "updated_at": "2026-10-21T23:51:29Z",
+  "history": [
+    {
+      "date": "2026-02-13",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-01",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-18",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 500,
+      "shop": "Steam"
+    }
+  ]
+}

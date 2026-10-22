@@ -1,6 +1,6 @@
 {
   "slug": "pragmata",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2025-12-12",
@@ -25,6 +25,11 @@
     {
       "date": "2026-10-08",
       "amount": 7990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 6392,
       "shop": "Steam"
     }
   ]

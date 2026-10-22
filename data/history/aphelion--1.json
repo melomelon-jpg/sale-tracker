@@ -1,0 +1,71 @@
+{
+  "slug": "aphelion--1",
+  "updated_at": "2026-10-21T23:51:29Z",
+  "history": [
+    {
+      "date": "2026-04-28",
+      "amount": 3305,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 3306,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 3673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2938,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 2938,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-08",
+      "amount": 3673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2938,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 3673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2571,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3673,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 2203,
+      "shop": "Steam"
+    }
+  ]
+}

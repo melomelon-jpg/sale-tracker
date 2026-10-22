@@ -1,6 +1,6 @@
 {
   "slug": "onimusha-warlords-gui-wu-zhe",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -120,6 +120,31 @@
     {
       "date": "2026-08-24",
       "amount": 1495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 995,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 995,
       "shop": "Steam"
     }
   ]

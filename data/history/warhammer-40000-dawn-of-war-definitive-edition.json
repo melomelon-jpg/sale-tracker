@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-dawn-of-war-definitive-edition",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2025-08-14",
@@ -124,6 +124,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 2450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 2450,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "dead-rising-2",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 506,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 2027,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 506,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2027,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 506,
       "shop": "Steam"
     }

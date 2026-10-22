@@ -2172,6 +2172,29 @@
     "name": "Transport Fever 2",
     "review_count": 26560
   },
+  "1066890": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "フルコントローラサポート",
+      "VR対応",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": false,
+    "name": "Automobilista 2",
+    "review_count": 12170
+  },
   "1067540": {
     "categories": [
       "シングルプレイヤー",
@@ -8364,6 +8387,29 @@
     "name": "お姉チャンバラORIGIN",
     "review_count": 1218
   },
+  "1232580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Knock on the Coffin Lid",
+    "review_count": 2739
+  },
   "1233570": {
     "categories": [
       "シングルプレイヤー",
@@ -12839,6 +12885,28 @@
     "jp_support": true,
     "name": "Insurmountable",
     "review_count": 831
+  },
+  "1385380": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Across the Obelisk",
+    "review_count": 10771
   },
   "1386730": {
     "categories": [
@@ -22716,6 +22784,27 @@
     "name": "ロックマンエグゼ アドバンスドコレクション Vol.1",
     "review_count": 1277
   },
+  "1798020": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "ロックマンエグゼ アドバンスドコレクション Vol.2",
+    "review_count": 522
+  },
   "1798320": {
     "categories": [
       "シングルプレイヤー",
@@ -22956,6 +23045,23 @@
     "jp_support": true,
     "name": "ペルソナ３ ポータブル",
     "review_count": 4697
+  },
+  "1810670": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Cat Detective Albert Wilde",
+    "review_count": 123
   },
   "1810820": {
     "categories": [
@@ -26733,6 +26839,28 @@
     "jp_support": true,
     "name": "DOLPHIN HUSTLE",
     "review_count": null
+  },
+  "1966410": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "ゲームパッド推奨",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Aphelion",
+    "review_count": 318
   },
   "1966720": {
     "categories": [
@@ -36078,6 +36206,25 @@
     "name": "Titanium Court",
     "review_count": 1031
   },
+  "2366970": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Arco",
+    "review_count": 2216
+  },
   "2366980": {
     "categories": [
       "シングルプレイヤー",
@@ -37652,6 +37799,27 @@
     "jp_support": false,
     "name": "Crown of Light",
     "review_count": null
+  },
+  "2414270": {
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Sunderfolk",
+    "review_count": 1923
   },
   "2415120": {
     "categories": [
@@ -45438,6 +45606,30 @@
     "jp_support": false,
     "name": "LEGO® The Hobbit™",
     "review_count": 5056
+  },
+  "285190": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "データ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Warhammer 40,000: Dawn of War III",
+    "review_count": 14490
   },
   "2852190": {
     "categories": [
@@ -61786,6 +61978,26 @@
     "name": "DINO CRISIS",
     "review_count": 940
   },
+  "4249140": {
+    "categories": [
+      "シングルプレイヤー",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "DINO CRISIS 2",
+    "review_count": 730
+  },
   "4249150": {
     "categories": [
       "シングルプレイヤー",
@@ -61804,6 +62016,25 @@
     "jp_support": true,
     "name": "ブレス オブ ファイアIV うつろわざるもの",
     "review_count": 596
+  },
+  "425210": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Shadwen",
+    "review_count": 1053
   },
   "4256820": {
     "categories": [
@@ -63519,6 +63750,25 @@
     "jp_support": true,
     "name": "Parkitect",
     "review_count": 6785
+  },
+  "454120": {
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-21T23:51:29Z",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "Starbase",
+    "review_count": 6219
   },
   "4546240": {
     "categories": [

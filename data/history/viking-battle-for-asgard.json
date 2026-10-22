@@ -1,6 +1,6 @@
 {
   "slug": "viking-battle-for-asgard",
-  "updated_at": "2026-10-14T23:35:22Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,11 @@
     {
       "date": "2026-10-01",
       "amount": 328,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 1640,
       "shop": "Steam"
     }
   ]

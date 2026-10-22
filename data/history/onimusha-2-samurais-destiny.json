@@ -1,6 +1,6 @@
 {
   "slug": "onimusha-2-samurais-destiny",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2025-02-13",
@@ -80,6 +80,31 @@
     {
       "date": "2026-08-24",
       "amount": 1995,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 1495,
       "shop": "Steam"
     }
   ]

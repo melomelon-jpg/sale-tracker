@@ -1,6 +1,6 @@
 {
   "slug": "mega-man-x-legacy-collection-2",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-10-21T23:51:29Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,26 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 996,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 996,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 996,
       "shop": "Steam"
     }
