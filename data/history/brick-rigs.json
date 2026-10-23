@@ -1,6 +1,6 @@
 {
   "slug": "brick-rigs",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -120,6 +120,26 @@
     {
       "date": "2026-08-28",
       "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 1638,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "thief-of-thieves-season-one",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-08-21",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 230,
       "shop": "Steam"
     }

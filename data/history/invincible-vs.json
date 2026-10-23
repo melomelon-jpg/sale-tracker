@@ -1,0 +1,56 @@
+{
+  "slug": "invincible-vs",
+  "updated_at": "2026-10-23T23:42:20Z",
+  "history": [
+    {
+      "date": "2025-12-12",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 4400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-16",
+      "amount": 4400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-22",
+      "amount": 3685,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 3300,
+      "shop": "Steam"
+    }
+  ]
+}

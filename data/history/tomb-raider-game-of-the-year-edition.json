@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-game-of-the-year-edition",
-  "updated_at": "2026-10-22T23:48:30Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -240,6 +240,11 @@
     {
       "date": "2026-10-08",
       "amount": 2770,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 277,
       "shop": "Steam"
     }
   ]

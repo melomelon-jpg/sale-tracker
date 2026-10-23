@@ -1,6 +1,6 @@
 {
   "slug": "generation-zero",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
       "amount": 520,
       "shop": "Steam"
     }

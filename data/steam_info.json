@@ -10896,6 +10896,22 @@
     "name": "TOEM（トーエム）",
     "review_count": 9690
   },
+  "1307660": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Ravenbound",
+    "review_count": 774
+  },
   "1307690": {
     "categories": [
       "シングルプレイヤー",
@@ -13361,6 +13377,37 @@
     "name": "ディズニー ドリームライトバレー",
     "review_count": 22077
   },
+  "1401730": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング",
+      "Steamタイムライン"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Crashlands 2",
+    "review_count": 2216
+  },
   "1402110": {
     "categories": [
       "シングルプレイヤー",
@@ -15541,6 +15588,33 @@
     "jp_support": true,
     "name": "Eternal Strands",
     "review_count": 1630
+  },
+  "1492070": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Sker Ritual",
+    "review_count": 4922
   },
   "1492680": {
     "categories": [
@@ -25468,6 +25542,33 @@
     "jp_support": true,
     "name": "Sprout Lands",
     "review_count": null
+  },
+  "1910090": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "トワと神樹の祈り子たち",
+    "review_count": 209
   },
   "1911360": {
     "categories": [
@@ -36157,6 +36258,30 @@
     "name": "Fellowship",
     "review_count": 15360
   },
+  "2353060": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Invincible VS",
+    "review_count": 3066
+  },
   "2353250": {
     "categories": [
       "シングルプレイヤー",
@@ -38103,6 +38228,26 @@
     "jp_support": false,
     "name": "Rogue Legacy",
     "review_count": 15845
+  },
+  "2416100": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Goodnight Universe",
+    "review_count": 1398
   },
   "2416450": {
     "categories": [
@@ -59548,6 +59693,39 @@
     "name": "Layers of Fear (2016)",
     "review_count": 13103
   },
+  "391730": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Crashlands",
+    "review_count": 5566
+  },
   "3920": {
     "categories": [
       "シングルプレイヤー",
@@ -76738,6 +76916,24 @@
     "name": "Xmas Zombie Rampage 2",
     "review_count": null
   },
+  "770390": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Draugen",
+    "review_count": 1877
+  },
   "773650": {
     "categories": [
       "シングルプレイヤー",
@@ -80507,6 +80703,27 @@
     "jp_support": true,
     "name": "ゾンビ ローラーズ：ピンボール・ヒーロー Zombie Rollerz: Pinball Heroes",
     "review_count": 306
+  },
+  "915810": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-23T23:42:20Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Midnight Ghost Hunt",
+    "review_count": 5418
   },
   "91600": {
     "categories": [

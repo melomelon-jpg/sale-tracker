@@ -1,6 +1,6 @@
 {
   "slug": "skyhill",
-  "updated_at": "2026-08-29T21:03:27Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-08-29",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
       "amount": 120,
       "shop": "Steam"
     }

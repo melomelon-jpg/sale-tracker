@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-iv-vi-remastered",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -115,6 +115,26 @@
     {
       "date": "2026-08-20",
       "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-30",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 680,
       "shop": "Steam"
     }
   ]

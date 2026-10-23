@@ -1,6 +1,6 @@
 {
   "slug": "the-walking-dead-season-two",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-10-23T23:42:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-08",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 340,
       "shop": "Steam"
     }
   ]
