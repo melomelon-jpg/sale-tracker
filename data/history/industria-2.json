@@ -1,0 +1,71 @@
+{
+  "slug": "industria-2",
+  "updated_at": "2026-10-22T23:48:30Z",
+  "history": [
+    {
+      "date": "2026-04-29",
+      "amount": 3465,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-16",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 2887,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-16",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2887,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 2579,
+      "shop": "Steam"
+    }
+  ]
+}

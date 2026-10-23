@@ -1,6 +1,6 @@
 {
   "slug": "dragon-ball-xenoverse-2",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 742,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 742,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 742,
       "shop": "Steam"
     }

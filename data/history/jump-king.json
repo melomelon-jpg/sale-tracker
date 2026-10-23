@@ -1,6 +1,6 @@
 {
   "slug": "jump-king",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,26 @@
     {
       "date": "2026-08-21",
       "amount": 399,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 1599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 383,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 367,
       "shop": "Steam"
     }
   ]

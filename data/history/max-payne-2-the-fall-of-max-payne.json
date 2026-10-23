@@ -1,6 +1,6 @@
 {
   "slug": "max-payne-2-the-fall-of-max-payne",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-01",
       "amount": 245,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 980,
       "shop": "Steam"
     }
   ]

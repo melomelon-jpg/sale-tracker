@@ -1,6 +1,6 @@
 {
   "slug": "fatal-frame-ii-crimson-butterfly-remake",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2025-11-12",
@@ -49,6 +49,26 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 4147,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4147,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 4147,
       "shop": "Steam"
     }

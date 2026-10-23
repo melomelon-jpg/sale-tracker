@@ -1,6 +1,6 @@
 {
   "slug": "elite-dangerous",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-10-01",
       "amount": 690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

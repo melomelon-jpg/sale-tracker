@@ -1,0 +1,111 @@
+{
+  "slug": "pax-dei",
+  "updated_at": "2026-10-22T23:48:30Z",
+  "history": [
+    {
+      "date": "2025-10-16",
+      "amount": 3040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-28",
+      "amount": 2508,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 3040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-19",
+      "amount": 2280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-02",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 2280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 2508,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 2280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-31",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1900,
+      "shop": "Steam"
+    }
+  ]
+}

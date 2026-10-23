@@ -1,6 +1,6 @@
 {
   "slug": "fatal-frame-project-zero-mask-of-the-lunar-eclipse",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,16 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 3828,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 3828,
       "shop": "Steam"
     }

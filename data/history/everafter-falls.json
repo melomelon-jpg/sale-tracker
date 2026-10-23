@@ -1,6 +1,6 @@
 {
   "slug": "everafter-falls",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,26 @@
     {
       "date": "2026-09-03",
       "amount": 1127,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1332,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1332,
       "shop": "Steam"
     }
   ]

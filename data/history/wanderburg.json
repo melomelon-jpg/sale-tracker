@@ -1,9 +1,19 @@
 {
   "slug": "wanderburg",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2026-09-08",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 975,
       "shop": "Steam"
     }

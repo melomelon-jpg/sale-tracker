@@ -1,6 +1,6 @@
 {
   "slug": "south-of-midnight",
-  "updated_at": "2026-10-15T23:29:43Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2025-01-23",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-02",
       "amount": 3773,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 5390,
       "shop": "Steam"
     }
   ]

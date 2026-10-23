@@ -1,6 +1,6 @@
 {
   "slug": "victoria-3",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2097,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 2097,
       "shop": "Steam"
     }

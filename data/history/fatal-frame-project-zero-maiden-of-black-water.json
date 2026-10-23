@@ -1,6 +1,6 @@
 {
   "slug": "fatal-frame-project-zero-maiden-of-black-water",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -99,6 +99,16 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 3696,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 3696,
       "shop": "Steam"
     }

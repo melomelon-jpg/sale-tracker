@@ -1,6 +1,6 @@
 {
   "slug": "megaquarium",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,26 @@
     },
     {
       "date": "2026-08-27",
+      "amount": 945,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 945,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 945,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "endless-space-definitive-edition",
-  "updated_at": "2026-10-15T23:29:43Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-09",
       "amount": 264,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1180,
       "shop": "Steam"
     }
   ]

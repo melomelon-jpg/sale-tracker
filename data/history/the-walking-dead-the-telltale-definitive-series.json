@@ -1,6 +1,6 @@
 {
   "slug": "the-walking-dead-the-telltale-definitive-series",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,16 @@
     {
       "date": "2026-10-01",
       "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 550,
       "shop": "Steam"
     }
   ]

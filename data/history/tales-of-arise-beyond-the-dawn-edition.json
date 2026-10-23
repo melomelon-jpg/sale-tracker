@@ -1,6 +1,6 @@
 {
   "slug": "tales-of-arise-beyond-the-dawn-edition",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -134,6 +134,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 2772,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2772,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6930,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 2772,
       "shop": "Steam"
     }

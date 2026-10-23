@@ -1,6 +1,6 @@
 {
   "slug": "little-big-workshop",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 575,
       "shop": "Steam"
     }

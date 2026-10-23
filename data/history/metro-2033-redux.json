@@ -1,6 +1,6 @@
 {
   "slug": "metro-2033-redux",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -35,11 +35,6 @@
     {
       "date": "2025-03-20",
       "amount": 2389,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-04-14",
-      "amount": 0,
       "shop": "Steam"
     },
     {
@@ -185,6 +180,11 @@
     {
       "date": "2026-10-08",
       "amount": 2389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 238,
       "shop": "Steam"
     }
   ]

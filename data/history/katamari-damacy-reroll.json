@@ -1,6 +1,6 @@
 {
   "slug": "katamari-damacy-reroll",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,16 @@
     },
     {
       "date": "2026-08-06",
+      "amount": 880,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 3520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 880,
       "shop": "Steam"
     }

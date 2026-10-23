@@ -1,6 +1,6 @@
 {
   "slug": "lego-the-lord-of-the-rings",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-10-15",
       "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]

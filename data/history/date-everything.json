@@ -1,6 +1,6 @@
 {
   "slug": "date-everything",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2025-05-27",
@@ -95,6 +95,26 @@
     {
       "date": "2026-08-10",
       "amount": 1054,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1054,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1360,
       "shop": "Steam"
     }
   ]

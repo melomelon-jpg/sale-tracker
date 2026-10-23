@@ -1,6 +1,6 @@
 {
   "slug": "roots-of-pacha",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 1680,
       "shop": "Steam"
     }

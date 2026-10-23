@@ -1,6 +1,6 @@
 {
   "slug": "bleach-rebirth-of-souls",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 3344,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 8360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3344,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 3344,
       "shop": "Steam"
     }

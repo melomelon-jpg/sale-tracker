@@ -1,6 +1,6 @@
 {
   "slug": "greedfall-the-dying-world",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,21 @@
     {
       "date": "2026-08-17",
       "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 3290,
       "shop": "Steam"
     }
   ]

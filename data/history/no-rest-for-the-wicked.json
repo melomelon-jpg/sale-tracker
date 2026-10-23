@@ -1,6 +1,6 @@
 {
   "slug": "no-rest-for-the-wicked",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-22T23:48:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-01",
       "amount": 3234,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 4620,
       "shop": "Steam"
     }
   ]
