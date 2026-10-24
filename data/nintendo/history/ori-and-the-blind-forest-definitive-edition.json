@@ -2,7 +2,7 @@
   "slug": "ori-and-the-blind-forest-definitive-edition",
   "title": "Ori and the Blind Forest: Definitive Edition",
   "nsuid": "70010000018711",
-  "updated_at": "2026-10-23T23:57:43Z",
+  "updated_at": "2026-10-24T23:08:35Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -301,6 +301,11 @@
     },
     {
       "date": "2026-10-23",
+      "regular": 2052,
+      "current": 2052
+    },
+    {
+      "date": "2026-10-24",
       "regular": 2052,
       "current": 2052
     }

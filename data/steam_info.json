@@ -6878,6 +6878,25 @@
     "name": "A Plague Tale: Requiem",
     "review_count": 20250
   },
+  "1183800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Shardpunk",
+    "review_count": 742
+  },
   "1184050": {
     "categories": [
       "シングルプレイヤー",
@@ -11467,6 +11486,29 @@
     "name": "Olympus Griddlers",
     "review_count": null
   },
+  "1330000": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アドベンチャー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "ストーレンレルム",
+    "review_count": 3534
+  },
   "1330460": {
     "categories": [
       "シングルプレイヤー",
@@ -12682,6 +12724,21 @@
     "jp_support": true,
     "name": "ジョジョの奇妙な冒険 オールスターバトル R",
     "review_count": 14367
+  },
+  "1373510": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "BloodRayne: Terminal Cut",
+    "review_count": 1623
   },
   "1373550": {
     "categories": [
@@ -16808,6 +16865,21 @@
     "name": "The Witch of Fern Island",
     "review_count": 705
   },
+  "1550260": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "ブラッドレインビトレイヤル 鮮血",
+    "review_count": 132
+  },
   "1551330": {
     "categories": [
       "シングルプレイヤー",
@@ -18784,6 +18856,28 @@
     "name": "OTXO",
     "review_count": 3290
   },
+  "1608700": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Soundfall",
+    "review_count": 996
+  },
   "1611600": {
     "categories": [
       "シングルプレイヤー",
@@ -19508,6 +19602,24 @@
     "jp_support": false,
     "name": "Survive Isolation",
     "review_count": null
+  },
+  "1640300": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Project Warlock II",
+    "review_count": 1255
   },
   "1641700": {
     "categories": [
@@ -20727,6 +20839,23 @@
     "jp_support": false,
     "name": "Blade Runner: Enhanced Edition",
     "review_count": 608
+  },
+  "1678430": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "PowerSlave Exhumed",
+    "review_count": 767
   },
   "1680880": {
     "categories": [
@@ -22362,6 +22491,30 @@
     "name": "Nuclear Dawn",
     "review_count": 1618
   },
+  "1771110": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Craftlings",
+    "review_count": 317
+  },
   "1771300": {
     "categories": [
       "シングルプレイヤー",
@@ -22737,6 +22890,27 @@
     "jp_support": true,
     "name": "Thalassa: Edge of the Abyss",
     "review_count": 319
+  },
+  "1785150": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Friends vs Friends",
+    "review_count": 10927
   },
   "1787600": {
     "categories": [
@@ -24132,6 +24306,30 @@
     "name": "Norland ノアランド  ",
     "review_count": 8787
   },
+  "1857740": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "機動戦士ガンダムSEED BATTLE DESTINY REMASTERED",
+    "review_count": 766
+  },
   "1857950": {
     "categories": [
       "シングルプレイヤー",
@@ -25458,6 +25656,28 @@
     "jp_support": true,
     "name": "Killer Frequency",
     "review_count": 5035
+  },
+  "1903910": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "スレイブ ゼロ X",
+    "review_count": 450
   },
   "1904480": {
     "categories": [
@@ -29904,6 +30124,34 @@
     "jp_support": false,
     "name": "Squirrel with a Gun",
     "review_count": 3086
+  },
+  "2067920": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Rogue : Genesia",
+    "review_count": 8206
   },
   "2068050": {
     "categories": [
@@ -35100,6 +35348,23 @@
     "jp_support": false,
     "name": "Painkiller",
     "review_count": 1047
+  },
+  "230070": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The Age of Decadence",
+    "review_count": 3596
   },
   "230190": {
     "categories": [
@@ -43816,6 +44081,24 @@
     "name": "Dex",
     "review_count": 2894
   },
+  "2697470": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": false,
+    "name": "PO'ed: Definitive Edition",
+    "review_count": 123
+  },
   "269770": {
     "categories": [
       "シングルプレイヤー",
@@ -51433,6 +51716,27 @@
     "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
     "review_count": 326
   },
+  "317040": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Strife: Veteran Edition",
+    "review_count": 477
+  },
   "3179730": {
     "categories": [
       "シングルプレイヤー",
@@ -58981,6 +59285,32 @@
     "jp_support": true,
     "name": "YAPYAP",
     "review_count": 8183
+  },
+  "383840": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "カスタム音量調整",
+      "難易度の調整",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Nimbatus - The Space Drone Constructor",
+    "review_count": 1764
   },
   "383870": {
     "categories": [
@@ -73819,6 +74149,27 @@
     "name": "Atomic Heart",
     "review_count": 38478
   },
+  "668980": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Forsaken Remastered",
+    "review_count": 268
+  },
   "669330": {
     "categories": [
       "シングルプレイヤー",
@@ -80147,6 +80498,24 @@
     "jp_support": true,
     "name": "Sid Meier's Civilization® V",
     "review_count": 127984
+  },
+  "893680": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-24T22:48:41Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Project Warlock",
+    "review_count": 4717
   },
   "893850": {
     "categories": [

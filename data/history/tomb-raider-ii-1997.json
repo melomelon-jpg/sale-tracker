@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-ii-1997",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -75,6 +75,11 @@
     {
       "date": "2026-10-08",
       "amount": 970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 485,
       "shop": "Steam"
     }
   ]

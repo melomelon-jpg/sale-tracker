@@ -1,6 +1,6 @@
 {
   "slug": "colony-ship-a-post-earth-role-playing-game",
-  "updated_at": "2026-10-22T23:48:30Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -220,6 +220,11 @@
     {
       "date": "2026-10-08",
       "amount": 4999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 1999,
       "shop": "Steam"
     }
   ]

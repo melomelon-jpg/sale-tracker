@@ -1,6 +1,6 @@
 {
   "slug": "turok",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
       "amount": 297,
       "shop": "Steam"
     }

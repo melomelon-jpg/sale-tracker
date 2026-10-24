@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-space-marine-2",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-14",
       "amount": 2450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 9800,
       "shop": "Steam"
     }
   ]

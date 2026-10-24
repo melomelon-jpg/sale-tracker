@@ -1,6 +1,6 @@
 {
   "slug": "turok-3-shadow-of-oblivion-remastered",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,26 @@
     {
       "date": "2026-09-17",
       "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 1020,
       "shop": "Steam"
     }
   ]

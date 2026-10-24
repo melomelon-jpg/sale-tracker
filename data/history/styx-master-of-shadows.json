@@ -1,6 +1,6 @@
 {
   "slug": "styx-master-of-shadows",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-24T22:48:41Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 205,
       "shop": "Steam"
     }
   ]
