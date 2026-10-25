@@ -1,6 +1,6 @@
 {
   "slug": "snake-pass",
-  "updated_at": "2026-10-18T22:41:53Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-01",
       "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]

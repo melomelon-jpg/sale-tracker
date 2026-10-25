@@ -1,6 +1,6 @@
 {
   "slug": "cabernet",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2025-02-20",
@@ -165,6 +165,26 @@
     {
       "date": "2026-09-03",
       "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 1610,
       "shop": "Steam"
     }
   ]

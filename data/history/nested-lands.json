@@ -1,0 +1,81 @@
+{
+  "slug": "nested-lands",
+  "updated_at": "2026-10-25T22:58:32Z",
+  "history": [
+    {
+      "date": "2026-02-25",
+      "amount": 1699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-04",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 1604,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 1604,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-05",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-15",
+      "amount": 1510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-22",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 1321,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1321,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1888,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 1227,
+      "shop": "Steam"
+    }
+  ]
+}

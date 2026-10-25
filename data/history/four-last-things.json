@@ -1,6 +1,6 @@
 {
   "slug": "four-last-things",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,26 @@
     {
       "date": "2026-08-27",
       "amount": 275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 385,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 385,
       "shop": "Steam"
     }
   ]

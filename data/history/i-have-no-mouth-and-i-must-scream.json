@@ -1,6 +1,6 @@
 {
   "slug": "i-have-no-mouth-and-i-must-scream",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,26 @@
     {
       "date": "2026-08-21",
       "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-03",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 180,
       "shop": "Steam"
     }
   ]

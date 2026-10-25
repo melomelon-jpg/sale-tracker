@@ -1,6 +1,6 @@
 {
   "slug": "grim-fandango-remastered",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -95,6 +95,11 @@
     {
       "date": "2026-10-08",
       "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 222,
       "shop": "Steam"
     }
   ]

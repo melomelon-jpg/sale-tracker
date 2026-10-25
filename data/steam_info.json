@@ -2364,6 +2364,46 @@
     "name": "The Procession to Calvary",
     "review_count": 1212
   },
+  "1071870": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamワークショップ",
+      "カスタム音量調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "レベル編集可能",
+      "スマホでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Biped",
+    "review_count": 9129
+  },
   "1072420": {
     "categories": [
       "シングルプレイヤー",
@@ -4815,6 +4855,20 @@
     "jp_support": true,
     "name": "Sherlock Holmes Chapter One",
     "review_count": 4120
+  },
+  "1137450": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "ENCODYA",
+    "review_count": 327
   },
   "1138660": {
     "categories": [
@@ -14941,6 +14995,25 @@
     "name": "Roads of Time 2: Odyssey",
     "review_count": null
   },
+  "1454540": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "LAPIN(ラパン)",
+    "review_count": 294
+  },
   "1455840": {
     "categories": [
       "シングルプレイヤー",
@@ -20428,6 +20501,26 @@
     "name": "Frigato: Shadows of the Caribbean",
     "review_count": null
   },
+  "1668290": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Dungeons of Aether",
+    "review_count": 610
+  },
   "1668780": {
     "categories": [
       "シングルプレイヤー",
@@ -21629,6 +21722,29 @@
     "jp_support": true,
     "name": "Starfield",
     "review_count": 114855
+  },
+  "1717090": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Into the Necrovale",
+    "review_count": 587
   },
   "1717120": {
     "categories": [
@@ -26196,6 +26312,35 @@
     "name": "TT Isle Of Man: Ride on the Edge 3",
     "review_count": 632
   },
+  "1924180": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "レース",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Phantom Spark",
+    "review_count": 207
+  },
   "1924360": {
     "categories": [
       "シングルプレイヤー",
@@ -30561,6 +30706,39 @@
     "name": "Botanicula (ボタニキュラ)",
     "review_count": 4918
   },
+  "2079180": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "ナレーション付きゲームメニュー",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "字幕オプション",
+      "タッチのみのオプション",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "VIDEOVERSE",
+    "review_count": 207
+  },
   "2080690": {
     "categories": [
       "シングルプレイヤー",
@@ -33743,6 +33921,30 @@
     "jp_support": false,
     "name": "The Jackbox Party Pack 10",
     "review_count": 497
+  },
+  "2217000": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "アプリ内購入",
+      "ゲームパッド推奨",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Rivals of Aether II",
+    "review_count": 7100
   },
   "2218900": {
     "categories": [
@@ -41857,6 +42059,39 @@
     "jp_support": true,
     "name": "KINGDOM HEARTS III + Re Mind (DLC)",
     "review_count": 2312
+  },
+  "2553040": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "ネストされた土地",
+    "review_count": 514
   },
   "2555440": {
     "categories": [
@@ -59351,6 +59586,38 @@
     "jp_support": false,
     "name": "Doorways: Holy Mountains of Flesh",
     "review_count": 110
+  },
+  "383980": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "スマホでRemote Play",
+      "タブレットでRemote Play",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-25T22:58:32Z",
+    "genres": [
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Rivals of Aether",
+    "review_count": 33415
   },
   "38400": {
     "categories": [

@@ -1,6 +1,6 @@
 {
   "slug": "ark-survival-ascended",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-25T22:58:32Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,26 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 1690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 6760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1690,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6760,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
       "amount": 1690,
       "shop": "Steam"
     }
