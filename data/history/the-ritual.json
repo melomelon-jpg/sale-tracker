@@ -1,6 +1,6 @@
 {
   "slug": "the-ritual",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,16 @@
     },
     {
       "date": "2026-10-02",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 130,
       "shop": "Steam"
     }

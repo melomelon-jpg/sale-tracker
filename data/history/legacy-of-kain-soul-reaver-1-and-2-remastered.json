@@ -1,9 +1,114 @@
 {
   "slug": "legacy-of-kain-soul-reaver-1-and-2-remastered",
-  "updated_at": "2026-08-16T10:40:49Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
-      "date": "2026-05-15",
+      "date": "2024-12-07",
+      "amount": 3060,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-24",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 2550,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-27",
+      "amount": 2210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-02",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 2210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-15",
+      "amount": 2210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-22",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-06",
       "amount": 3400,
       "shop": "Steam"
     },
@@ -25,6 +130,21 @@
     {
       "date": "2026-07-09",
       "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1530,
       "shop": "Steam"
     }
   ]

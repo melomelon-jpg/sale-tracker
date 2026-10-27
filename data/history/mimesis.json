@@ -1,0 +1,96 @@
+{
+  "slug": "mimesis",
+  "updated_at": "2026-10-27T00:09:52Z",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-10",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-10",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-17",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-24",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 480,
+      "shop": "Steam"
+    }
+  ]
+}

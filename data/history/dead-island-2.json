@@ -1,6 +1,6 @@
 {
   "slug": "dead-island-2",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,26 @@
     {
       "date": "2026-08-24",
       "amount": 1177,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 5889,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 588,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5889,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 588,
       "shop": "Steam"
     }
   ]

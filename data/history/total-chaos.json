@@ -1,0 +1,71 @@
+{
+  "slug": "total-chaos",
+  "updated_at": "2026-10-27T00:09:52Z",
+  "history": [
+    {
+      "date": "2025-11-20",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-27",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-27",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-03",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 2240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-30",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-15",
+      "amount": 1960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-22",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1680,
+      "shop": "Steam"
+    }
+  ]
+}

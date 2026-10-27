@@ -1,6 +1,6 @@
 {
   "slug": "routine",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
       "date": "2025-12-04",
@@ -100,6 +100,11 @@
     {
       "date": "2026-10-08",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1820,
       "shop": "Steam"
     }
   ]

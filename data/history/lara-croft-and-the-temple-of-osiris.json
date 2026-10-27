@@ -1,6 +1,6 @@
 {
   "slug": "lara-croft-and-the-temple-of-osiris",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-08",
       "amount": 2770,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 415,
       "shop": "Steam"
     }
   ]

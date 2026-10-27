@@ -1,6 +1,6 @@
 {
   "slug": "inside",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-10-27T00:09:52Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-10-08",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 280,
       "shop": "Steam"
     }
   ]

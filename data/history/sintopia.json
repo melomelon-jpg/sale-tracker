@@ -1,0 +1,61 @@
+{
+  "slug": "sintopia",
+  "updated_at": "2026-10-27T00:09:52Z",
+  "history": [
+    {
+      "date": "2026-04-16",
+      "amount": 3709,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 4364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 3491,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 4364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 3491,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 4364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3491,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 4364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 3054,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4364,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 3054,
+      "shop": "Steam"
+    }
+  ]
+}
