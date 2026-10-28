@@ -1,6 +1,6 @@
 {
   "slug": "monster-boy-and-the-cursed-kingdom",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -174,6 +174,26 @@
     },
     {
       "date": "2026-09-13",
+      "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-27",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-27",
       "amount": 1122,
       "shop": "Steam"
     }

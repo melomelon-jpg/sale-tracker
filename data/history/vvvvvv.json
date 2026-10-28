@@ -1,6 +1,6 @@
 {
   "slug": "vvvvvv",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -90,6 +90,11 @@
     {
       "date": "2026-10-12",
       "amount": 145,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 580,
       "shop": "Steam"
     }
   ]

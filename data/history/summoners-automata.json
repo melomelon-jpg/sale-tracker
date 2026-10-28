@@ -1,6 +1,6 @@
 {
   "slug": "summoners-automata",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2025-07-17",
@@ -125,6 +125,26 @@
     {
       "date": "2026-09-05",
       "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 84,
       "shop": "Steam"
     }
   ]

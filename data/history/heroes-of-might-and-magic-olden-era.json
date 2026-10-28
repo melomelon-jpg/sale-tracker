@@ -1,6 +1,6 @@
 {
   "slug": "heroes-of-might-and-magic-olden-era",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2026-04-30",
@@ -55,6 +55,11 @@
     {
       "date": "2026-10-15",
       "amount": 2985,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 3980,
       "shop": "Steam"
     }
   ]

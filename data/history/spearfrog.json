@@ -1,6 +1,6 @@
 {
   "slug": "spearfrog",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,26 @@
     },
     {
       "date": "2026-09-05",
+      "amount": 154,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 154,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 154,
       "shop": "Steam"
     }

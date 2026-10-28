@@ -1,6 +1,6 @@
 {
   "slug": "go-kart-survival",
-  "updated_at": "2026-09-19T22:36:27Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-09-06",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-20",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
       "amount": 138,
       "shop": "Steam"
     }

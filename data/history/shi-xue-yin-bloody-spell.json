@@ -1,6 +1,6 @@
 {
   "slug": "shi-xue-yin-bloody-spell",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -79,6 +79,16 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 258,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-27",
       "amount": 258,
       "shop": "Steam"
     }

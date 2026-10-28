@@ -1,6 +1,6 @@
 {
   "slug": "tisnart-tiles",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,21 @@
     {
       "date": "2026-08-24",
       "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 157,
       "shop": "Steam"
     }
   ]

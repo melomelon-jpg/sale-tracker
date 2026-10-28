@@ -1,6 +1,6 @@
 {
   "slug": "world-crafter-td",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
       "amount": 119,
       "shop": "Steam"
     }

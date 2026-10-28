@@ -1,6 +1,6 @@
 {
   "slug": "battlegrounds-at-enemy-gates",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-09-12",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 130,
       "shop": "Steam"
     }

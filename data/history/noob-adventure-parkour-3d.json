@@ -1,6 +1,6 @@
 {
   "slug": "noob-adventure-parkour-3d",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,26 @@
     },
     {
       "date": "2026-09-05",
+      "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 225,
       "shop": "Steam"
     }

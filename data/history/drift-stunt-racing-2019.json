@@ -1,6 +1,6 @@
 {
   "slug": "drift-stunt-racing-2019",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 225,
       "shop": "Steam"
     }

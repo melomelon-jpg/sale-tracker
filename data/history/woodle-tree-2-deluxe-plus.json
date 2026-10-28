@@ -1,6 +1,6 @@
 {
   "slug": "woodle-tree-2-deluxe-plus",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,26 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 105,
       "shop": "Steam"
     }

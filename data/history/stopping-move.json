@@ -1,6 +1,6 @@
 {
   "slug": "stopping-move",
-  "updated_at": "2026-09-18T22:57:28Z",
+  "updated_at": "2026-10-28T00:11:45Z",
   "history": [
     {
       "date": "2026-07-14",
@@ -15,6 +15,26 @@
     {
       "date": "2026-09-05",
       "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 94,
       "shop": "Steam"
     }
   ]
