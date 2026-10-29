@@ -1,0 +1,66 @@
+{
+  "slug": "alisa",
+  "updated_at": "2026-10-29T00:32:53Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-27",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-03",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 552,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "silly-polly-beast",
+  "updated_at": "2026-10-29T00:32:53Z",
+  "history": [
+    {
+      "date": "2025-10-28",
+      "amount": 1955,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-11",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-09",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}

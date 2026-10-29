@@ -1,6 +1,6 @@
 {
   "slug": "rimworld",
-  "updated_at": "2026-10-28T00:11:45Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-21",
       "amount": 3120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-28",
+      "amount": 3900,
       "shop": "Steam"
     }
   ]

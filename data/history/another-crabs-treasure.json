@@ -1,6 +1,6 @@
 {
   "slug": "another-crabs-treasure",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-14",
       "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-28",
+      "amount": 3300,
       "shop": "Steam"
     }
   ]

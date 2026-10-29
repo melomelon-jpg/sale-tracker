@@ -1,6 +1,6 @@
 {
   "slug": "gas-station-simulator",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-21",
+      "amount": 1012,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1012,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-28",
       "amount": 1012,
       "shop": "Steam"
     }

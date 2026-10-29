@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-end-times-vermintide",
-  "updated_at": "2026-10-22T23:48:30Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-12",
       "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]

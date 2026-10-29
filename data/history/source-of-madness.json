@@ -1,6 +1,6 @@
 {
   "slug": "source-of-madness",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,26 @@
     },
     {
       "date": "2026-09-11",
+      "amount": 307,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 307,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 307,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "iron-lung",
-  "updated_at": "2026-08-19T21:55:00Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,26 @@
     {
       "date": "2026-08-17",
       "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 414,
       "shop": "Steam"
     }
   ]

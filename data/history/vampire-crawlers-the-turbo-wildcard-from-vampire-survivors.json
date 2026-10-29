@@ -1,6 +1,6 @@
 {
   "slug": "vampire-crawlers-the-turbo-wildcard-from-vampire-survivors",
-  "updated_at": "2026-10-22T23:48:30Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2026-04-21",
@@ -40,6 +40,11 @@
     {
       "date": "2026-10-11",
       "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

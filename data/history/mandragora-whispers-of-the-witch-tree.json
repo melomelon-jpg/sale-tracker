@@ -1,6 +1,6 @@
 {
   "slug": "mandragora-whispers-of-the-witch-tree",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-10-29T00:32:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,26 @@
     {
       "date": "2026-08-25",
       "amount": 2475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-28",
+      "amount": 2227,
       "shop": "Steam"
     }
   ]
