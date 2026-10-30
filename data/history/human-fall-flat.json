@@ -1,6 +1,6 @@
 {
   "slug": "human-fall-flat",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-10-08",
       "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 615,
       "shop": "Steam"
     }
   ]

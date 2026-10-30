@@ -1,6 +1,6 @@
 {
   "slug": "the-roottrees-are-dead",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2025-01-15",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-08",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-28",
+      "amount": 1955,
       "shop": "Steam"
     }
   ]

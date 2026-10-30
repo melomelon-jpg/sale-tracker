@@ -1,6 +1,6 @@
 {
   "slug": "zombie-army-trilogy",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 458,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 4580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 458,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 458,
       "shop": "Steam"
     }

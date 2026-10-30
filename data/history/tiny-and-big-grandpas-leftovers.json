@@ -1,6 +1,6 @@
 {
   "slug": "tiny-and-big-grandpas-leftovers",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,11 @@
     {
       "date": "2026-10-19",
       "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1400,
       "shop": "Steam"
     }
   ]

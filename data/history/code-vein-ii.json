@@ -1,6 +1,6 @@
 {
   "slug": "code-vein-ii",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2025-09-25",
@@ -40,6 +40,26 @@
     {
       "date": "2026-09-03",
       "amount": 4989,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 8910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4989,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 4455,
       "shop": "Steam"
     }
   ]

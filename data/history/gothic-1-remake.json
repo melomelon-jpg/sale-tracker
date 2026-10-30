@@ -1,6 +1,6 @@
 {
   "slug": "gothic-1-remake",
-  "updated_at": "2026-10-29T00:32:53Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2026-04-07",
@@ -25,6 +25,11 @@
     {
       "date": "2026-10-08",
       "amount": 6490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 4867,
       "shop": "Steam"
     }
   ]

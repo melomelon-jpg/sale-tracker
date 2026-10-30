@@ -1,6 +1,6 @@
 {
   "slug": "trine-2-complete-story",
-  "updated_at": "2026-10-29T00:32:53Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-15",
       "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 1980,
       "shop": "Steam"
     }
   ]

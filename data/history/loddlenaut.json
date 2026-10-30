@@ -1,6 +1,6 @@
 {
   "slug": "loddlenaut",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-15",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
       "amount": 750,
       "shop": "Steam"
     }

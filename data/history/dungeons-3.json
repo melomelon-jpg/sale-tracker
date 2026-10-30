@@ -1,6 +1,6 @@
 {
   "slug": "dungeons-3",
-  "updated_at": "2026-08-31T21:03:21Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 3748,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3748,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
       "amount": 749,
       "shop": "Steam"
     }

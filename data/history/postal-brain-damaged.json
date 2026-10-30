@@ -1,6 +1,6 @@
 {
   "slug": "postal-brain-damaged",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
       "amount": 575,
       "shop": "Steam"
     }

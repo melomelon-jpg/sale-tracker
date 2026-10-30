@@ -1,6 +1,6 @@
 {
   "slug": "the-riftbreaker",
-  "updated_at": "2026-10-06T01:37:42Z",
+  "updated_at": "2026-10-30T00:32:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,16 @@
     {
       "date": "2026-10-01",
       "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 1122,
       "shop": "Steam"
     }
   ]
