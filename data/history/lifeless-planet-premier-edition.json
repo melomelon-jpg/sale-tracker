@@ -1,6 +1,6 @@
 {
   "slug": "lifeless-planet-premier-edition",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,26 @@
     {
       "date": "2026-09-16",
       "amount": 213,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 1420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 426,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
+      "amount": 284,
       "shop": "Steam"
     }
   ]

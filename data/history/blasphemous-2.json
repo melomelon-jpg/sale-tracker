@@ -1,6 +1,6 @@
 {
   "slug": "blasphemous-2",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-12",
       "amount": 874,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 3499,
       "shop": "Steam"
     }
   ]

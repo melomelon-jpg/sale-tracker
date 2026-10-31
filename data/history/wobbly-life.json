@@ -1,6 +1,6 @@
 {
   "slug": "wobbly-life",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-09-16",
+      "amount": 1644,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 2530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1644,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
       "amount": 1644,
       "shop": "Steam"
     }

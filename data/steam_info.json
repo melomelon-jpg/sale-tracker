@@ -13137,6 +13137,28 @@
     "name": "ジョジョの奇妙な冒険 オールスターバトル R",
     "review_count": 14367
   },
+  "1372280": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "MELTY BLOOD: TYPE LUMINA",
+    "review_count": 9201
+  },
   "1373510": {
     "categories": [
       "シングルプレイヤー",
@@ -19177,6 +19199,32 @@
     "name": "PROPHUNT",
     "review_count": null
   },
+  "1601330": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "カスタム音量調整",
+      "難易度の調整",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "ストラテジー",
+      "無料プレイ"
+    ],
+    "jp_support": true,
+    "name": "Survival Machine",
+    "review_count": 696
+  },
   "1601570": {
     "categories": [
       "シングルプレイヤー",
@@ -21278,6 +21326,25 @@
     "jp_support": true,
     "name": "火山の娘",
     "review_count": 45274
+  },
+  "1670870": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "MADiSON",
+    "review_count": 3069
   },
   "1671210": {
     "categories": [
@@ -31600,6 +31667,30 @@
     "jp_support": true,
     "name": "Botanicula (ボタニキュラ)",
     "review_count": 4918
+  },
+  "2078230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Badlands Crew - Drive, Command, Conquer",
+    "review_count": 1141
   },
   "2079180": {
     "categories": [
@@ -51314,6 +51405,42 @@
     "name": "Sus Virus Amogus",
     "review_count": null
   },
+  "3032830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Katanaut",
+    "review_count": 502
+  },
   "303310": {
     "categories": [
       "シングルプレイヤー",
@@ -52839,6 +52966,25 @@
     "jp_support": true,
     "name": "UFO（ユーフォー）",
     "review_count": null
+  },
+  "313780": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Conarium",
+    "review_count": 1910
   },
   "314160": {
     "categories": [
@@ -62374,6 +62520,35 @@
     "name": "Clustertruck",
     "review_count": 14732
   },
+  "3981100": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Leaf it Alone",
+    "review_count": 6759
+  },
   "398850": {
     "categories": [
       "シングルプレイヤー",
@@ -69820,6 +69995,24 @@
     "name": "My Summer Car",
     "review_count": 107719
   },
+  "518150": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steamワークショップ",
+      "データ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "Intruder",
+    "review_count": 5441
+  },
   "518790": {
     "categories": [
       "シングルプレイヤー",
@@ -70277,6 +70470,32 @@
     "jp_support": true,
     "name": "Just Shapes & Beats",
     "review_count": 23931
+  },
+  "531680": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "8-Bit Invaders!",
+    "review_count": 402
   },
   "531920": {
     "categories": [
@@ -77744,6 +77963,31 @@
     "jp_support": true,
     "name": "Fade to Silence",
     "review_count": 1033
+  },
+  "710230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T00:17:26Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Urban Strife",
+    "review_count": 669
   },
   "710920": {
     "categories": [

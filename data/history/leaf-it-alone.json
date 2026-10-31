@@ -1,0 +1,61 @@
+{
+  "slug": "leaf-it-alone",
+  "updated_at": "2026-10-31T00:17:26Z",
+  "history": [
+    {
+      "date": "2025-10-30",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-06",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-17",
+      "amount": 455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
+      "amount": 350,
+      "shop": "Steam"
+    }
+  ]
+}

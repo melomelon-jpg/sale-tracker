@@ -1,6 +1,6 @@
 {
   "slug": "roadwarden",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,26 @@
     },
     {
       "date": "2026-09-16",
+      "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
       "amount": 280,
       "shop": "Steam"
     }

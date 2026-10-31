@@ -1,6 +1,6 @@
 {
   "slug": "dustforce-dx",
-  "updated_at": "2026-10-24T22:48:41Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -45,6 +45,11 @@
     {
       "date": "2026-10-08",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 480,
       "shop": "Steam"
     }
   ]

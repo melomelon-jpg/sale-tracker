@@ -1,6 +1,6 @@
 {
   "slug": "runescape-dragonwilds",
-  "updated_at": "2026-10-24T22:48:41Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2025-04-15",
@@ -70,6 +70,11 @@
     {
       "date": "2026-10-15",
       "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 3400,
       "shop": "Steam"
     }
   ]

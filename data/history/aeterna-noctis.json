@@ -1,6 +1,6 @@
 {
   "slug": "aeterna-noctis",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-08-29",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 680,
       "shop": "Steam"
     }

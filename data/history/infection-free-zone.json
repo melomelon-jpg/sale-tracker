@@ -1,6 +1,6 @@
 {
   "slug": "infection-free-zone",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-10-31T00:17:26Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 2309,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 2309,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
       "amount": 2309,
       "shop": "Steam"
     }
