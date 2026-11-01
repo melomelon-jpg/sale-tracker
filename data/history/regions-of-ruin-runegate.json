@@ -1,0 +1,61 @@
+{
+  "slug": "regions-of-ruin-runegate",
+  "updated_at": "2026-10-31T23:53:38Z",
+  "history": [
+    {
+      "date": "2026-04-14",
+      "amount": 1799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 1599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-20",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 1299,
+      "shop": "Steam"
+    }
+  ]
+}

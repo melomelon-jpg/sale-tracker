@@ -1,6 +1,6 @@
 {
   "slug": "gloomhaven",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 1036,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 1036,
       "shop": "Steam"
     }

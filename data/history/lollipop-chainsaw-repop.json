@@ -1,6 +1,6 @@
 {
   "slug": "lollipop-chainsaw-repop",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,16 @@
     {
       "date": "2026-09-17",
       "amount": 3569,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 3894,
       "shop": "Steam"
     }
   ]

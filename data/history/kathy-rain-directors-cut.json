@@ -1,6 +1,6 @@
 {
   "slug": "kathy-rain-directors-cut",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 425,
       "shop": "Steam"
     }

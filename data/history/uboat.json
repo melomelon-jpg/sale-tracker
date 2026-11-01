@@ -1,6 +1,6 @@
 {
   "slug": "uboat",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -219,6 +219,16 @@
     },
     {
       "date": "2026-09-26",
+      "amount": 952,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 952,
       "shop": "Steam"
     }

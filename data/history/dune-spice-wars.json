@@ -1,6 +1,6 @@
 {
   "slug": "dune-spice-wars",
-  "updated_at": "2026-10-29T00:32:53Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 4170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 1668,
       "shop": "Steam"
     }
   ]

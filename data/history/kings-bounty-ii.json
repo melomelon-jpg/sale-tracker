@@ -1,6 +1,6 @@
 {
   "slug": "kings-bounty-ii",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,21 @@
     {
       "date": "2026-09-17",
       "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 500,
       "shop": "Steam"
     }
   ]

@@ -10795,6 +10795,28 @@
     "name": "サガ フロンティア リマスター",
     "review_count": 559
   },
+  "1295500": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Warhammer 40,000: Battlesector",
+    "review_count": 5104
+  },
   "1295510": {
     "categories": [
       "シングルプレイヤー",
@@ -10905,6 +10927,25 @@
     "jp_support": true,
     "name": "Peglin",
     "review_count": 16526
+  },
+  "1296830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "暖雪 Warm Snow",
+    "review_count": 35363
   },
   "1296980": {
     "categories": [
@@ -12474,6 +12515,31 @@
     "name": "The Divine Invasion",
     "review_count": 850
   },
+  "1347970": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "色のオプション",
+      "いつでもセーブ可能",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Patch Quest",
+    "review_count": 2060
+  },
   "1350200": {
     "categories": [
       "シングルプレイヤー",
@@ -13288,6 +13354,33 @@
     "jp_support": true,
     "name": "帰ってきた 魔界村",
     "review_count": 1303
+  },
+  "1375750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Regions of Ruin: Runegate",
+    "review_count": 403
   },
   "1375900": {
     "categories": [
@@ -15947,6 +16040,47 @@
     "name": "Commandos: Origins",
     "review_count": 1824
   },
+  "1481170": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "LAN PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "Steamワークショップ",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "#category_contrast_controls",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "ZEPHON",
+    "review_count": 1896
+  },
   "1484720": {
     "categories": [
       "シングルプレイヤー",
@@ -18164,6 +18298,33 @@
     "jp_support": false,
     "name": "Subterrain: Mines of Titan",
     "review_count": 655
+  },
+  "1573280": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "WW2 Rebuilder",
+    "review_count": 1520
   },
   "1573390": {
     "categories": [
@@ -21523,6 +21684,33 @@
     "name": "XEL",
     "review_count": 143
   },
+  "1674920": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "色のオプション",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Sovereign Syndicate",
+    "review_count": 582
+  },
   "1675830": {
     "categories": [
       "シングルプレイヤー",
@@ -22070,6 +22258,28 @@
     "jp_support": false,
     "name": "Baptism of Fire",
     "review_count": null
+  },
+  "1696440": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "Steamワークショップ",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "绝世好武功 The Matchless KungFu",
+    "review_count": 6782
   },
   "1698220": {
     "categories": [
@@ -23382,6 +23592,37 @@
     "jp_support": true,
     "name": "Noble Fates",
     "review_count": 1387
+  },
+  "1769830": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "タッチのみのオプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "As We Descend 深淵へ至る道",
+    "review_count": 1411
   },
   "17710": {
     "categories": [
@@ -29726,6 +29967,28 @@
     "name": "Naheulbeuk's Dungeon Master",
     "review_count": 1303
   },
+  "2006140": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Withering Rooms",
+    "review_count": 1256
+  },
   "200710": {
     "categories": [
       "シングルプレイヤー",
@@ -34461,6 +34724,29 @@
     "jp_support": false,
     "name": "DmC: Devil May Cry",
     "review_count": 20801
+  },
+  "2206270": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Vampire Hunters",
+    "review_count": 2004
   },
   "2206460": {
     "categories": [
@@ -44020,6 +44306,25 @@
     "jp_support": true,
     "name": "Cyber Avenger",
     "review_count": 147
+  },
+  "2607060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "From Glory To Goo",
+    "review_count": 1853
   },
   "2608120": {
     "categories": [
@@ -68168,6 +68473,27 @@
     "name": "2026 U.S. Election Simulator",
     "review_count": null
   },
+  "4809480": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "カジュアル"
+    ],
+    "jp_support": false,
+    "name": "Push It!",
+    "review_count": null
+  },
   "481110": {
     "categories": [
       "シングルプレイヤー",
@@ -73213,6 +73539,32 @@
     "name": "Sons of Triskelion",
     "review_count": null
   },
+  "592480": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "すすめ！じでんしゃナイツ",
+    "review_count": 484
+  },
   "593150": {
     "categories": [
       "シングルプレイヤー",
@@ -75070,6 +75422,21 @@
     "jp_support": true,
     "name": "Devil May Cry HD Collection",
     "review_count": 19135
+  },
+  "631570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Whispers of a Machine",
+    "review_count": 1420
   },
   "632300": {
     "categories": [
@@ -80593,6 +80960,26 @@
     "jp_support": false,
     "name": "Paladin Duty - Knights and Blades",
     "review_count": null
+  },
+  "801480": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-10-31T23:53:38Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Agent A: A puzzle in disguise",
+    "review_count": 5960
   },
   "801500": {
     "categories": [

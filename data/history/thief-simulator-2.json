@@ -1,6 +1,6 @@
 {
   "slug": "thief-simulator-2",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -225,6 +225,21 @@
     {
       "date": "2026-09-26",
       "amount": 483,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 437,
       "shop": "Steam"
     }
   ]

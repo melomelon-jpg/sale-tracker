@@ -1,6 +1,6 @@
 {
   "slug": "kathy-rain-2-soothsayer",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2025-05-20",
@@ -134,6 +134,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 1265,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1265,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 1265,
       "shop": "Steam"
     }

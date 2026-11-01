@@ -1,6 +1,6 @@
 {
   "slug": "builders-of-egypt",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-10-31T23:53:38Z",
   "history": [
     {
       "date": "2025-01-08",
@@ -175,6 +175,21 @@
     {
       "date": "2026-09-26",
       "amount": 506,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 483,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 460,
       "shop": "Steam"
     }
   ]
