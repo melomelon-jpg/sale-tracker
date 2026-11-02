@@ -1,6 +1,6 @@
 {
   "slug": "teleglitch-die-more-edition",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,16 @@
     },
     {
       "date": "2026-10-08",
+      "amount": 1790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 447,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
       "amount": 1790,
       "shop": "Steam"
     }

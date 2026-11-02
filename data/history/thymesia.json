@@ -1,6 +1,6 @@
 {
   "slug": "thymesia",
-  "updated_at": "2026-10-02T00:25:12Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 624,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 624,
       "shop": "Steam"
     }

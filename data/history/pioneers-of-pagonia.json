@@ -1,6 +1,6 @@
 {
   "slug": "pioneers-of-pagonia",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 2340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 2340,
       "shop": "Steam"
     }

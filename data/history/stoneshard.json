@@ -1,6 +1,6 @@
 {
   "slug": "stoneshard",
-  "updated_at": "2026-10-14T23:35:22Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-12",
       "amount": 1749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 2499,
       "shop": "Steam"
     }
   ]

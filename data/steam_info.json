@@ -19089,6 +19089,31 @@
     "name": "God of War",
     "review_count": 129083
   },
+  "1594060": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "レース",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Victory Heat Rally",
+    "review_count": 608
+  },
   "1594320": {
     "categories": [
       "シングルプレイヤー",
@@ -21304,6 +21329,26 @@
     "jp_support": true,
     "name": "Amber Isle",
     "review_count": 1777
+  },
+  "1663220": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "review_count": 2524
   },
   "1663640": {
     "categories": [
@@ -32449,6 +32494,31 @@
     "jp_support": true,
     "name": "Turnip Boy Robs a Bank",
     "review_count": 1873
+  },
+  "2100020": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アドベンチャー",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "ルーのラグーン",
+    "review_count": 142
   },
   "2101960": {
     "categories": [
@@ -46984,6 +47054,20 @@
     "name": "The Book of Legends",
     "review_count": 139
   },
+  "277590": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Assassin's Creed Freedom Cry",
+    "review_count": 2937
+  },
   "2778610": {
     "categories": [
       "シングルプレイヤー",
@@ -47859,6 +47943,26 @@
     "jp_support": true,
     "name": "Save Giant Girl from monsters 4",
     "review_count": null
+  },
+  "283160": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "VR対応",
+      "VRサポート",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "House of the Dying Sun",
+    "review_count": 1951
   },
   "2833580": {
     "categories": [
@@ -51874,6 +51978,33 @@
     "jp_support": true,
     "name": "biohazard HD REMASTER",
     "review_count": 27119
+  },
+  "3043580": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "ゲームパッド推奨",
+      "ナレーション付きゲームメニュー",
+      "時間制限付き入力なしでプレイ可能",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Keeper",
+    "review_count": 1074
   },
   "304390": {
     "categories": [
@@ -62717,6 +62848,25 @@
     "name": "Zone 404",
     "review_count": null
   },
+  "396750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "VR対応",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "EVERSPACE™",
+    "review_count": 9829
+  },
   "397090": {
     "categories": [
       "シングルプレイヤー",
@@ -70679,6 +70829,25 @@
     "jp_support": true,
     "name": "Warhammer 40,000: Inquisitor - Martyr",
     "review_count": 19481
+  },
+  "528230": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-02T00:07:28Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "SYNTHETIK: Legion Rising",
+    "review_count": 10141
   },
   "528660": {
     "categories": [

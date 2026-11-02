@@ -1,0 +1,31 @@
+{
+  "slug": "lous-lagoon",
+  "updated_at": "2026-11-02T00:07:28Z",
+  "history": [
+    {
+      "date": "2026-08-27",
+      "amount": 2925,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-02",
+      "amount": 3250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
+      "amount": 1950,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "the-necromancers-tale",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2025-07-17",
@@ -134,6 +134,26 @@
     },
     {
       "date": "2026-09-12",
+      "amount": 1670,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1927,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 1670,
       "shop": "Steam"
     }

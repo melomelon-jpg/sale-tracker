@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-shadows",
-  "updated_at": "2026-10-29T00:32:53Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2025-01-23",
@@ -115,6 +115,11 @@
     {
       "date": "2026-10-08",
       "amount": 9790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
+      "amount": 3916,
       "shop": "Steam"
     }
   ]

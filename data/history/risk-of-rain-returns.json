@@ -1,6 +1,6 @@
 {
   "slug": "risk-of-rain-returns",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-01",
       "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

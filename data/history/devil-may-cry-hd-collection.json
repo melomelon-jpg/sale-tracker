@@ -1,6 +1,6 @@
 {
   "slug": "devil-may-cry-hd-collection",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-01",
       "amount": 986,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 2990,
       "shop": "Steam"
     }
   ]

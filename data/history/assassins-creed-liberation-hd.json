@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-liberation-hd",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -99,6 +99,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 648,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2592,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 648,
       "shop": "Steam"
     }

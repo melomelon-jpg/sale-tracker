@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-origins",
-  "updated_at": "2026-10-30T00:32:19Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-10-08",
       "amount": 7920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
+      "amount": 1188,
       "shop": "Steam"
     }
   ]

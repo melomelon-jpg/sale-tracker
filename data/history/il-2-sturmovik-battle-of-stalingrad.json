@@ -1,6 +1,6 @@
 {
   "slug": "il-2-sturmovik-battle-of-stalingrad",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,26 @@
     {
       "date": "2026-09-07",
       "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
+      "amount": 825,
       "shop": "Steam"
     }
   ]

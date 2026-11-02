@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-brotherhood",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-02T00:07:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 486,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1944,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 486,
       "shop": "Steam"
     }
