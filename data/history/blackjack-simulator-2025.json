@@ -1,6 +1,6 @@
 {
   "slug": "blackjack-simulator-2025",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2025-08-01",
@@ -115,6 +115,26 @@
     {
       "date": "2026-09-07",
       "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 108,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "slug": "finding-annie",
+  "updated_at": "2026-11-03T02:43:59Z",
+  "history": [
+    {
+      "date": "2025-06-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-18",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-28",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-11",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-12",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 92,
+      "shop": "Steam"
+    }
+  ]
+}

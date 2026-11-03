@@ -1,6 +1,6 @@
 {
   "slug": "survival-fountain-of-youth",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 1110,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-13",
+      "amount": 3173,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1269,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3173,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
       "amount": 1110,
       "shop": "Steam"
     }

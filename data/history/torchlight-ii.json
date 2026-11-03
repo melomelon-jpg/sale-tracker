@@ -1,6 +1,6 @@
 {
   "slug": "torchlight-ii",
-  "updated_at": "2026-11-02T00:07:28Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-08",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 396,
       "shop": "Steam"
     }
   ]

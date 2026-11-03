@@ -1,6 +1,6 @@
 {
   "slug": "tiny-tinas-wonderlands",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,26 @@
     {
       "date": "2026-08-24",
       "amount": 1752,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 876,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 876,
       "shop": "Steam"
     }
   ]

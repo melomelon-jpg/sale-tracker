@@ -1,6 +1,6 @@
 {
   "slug": "playing-history-the-plague",
-  "updated_at": "2026-09-19T22:36:27Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,26 @@
     },
     {
       "date": "2026-09-06",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-20",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-20",
       "amount": 108,
       "shop": "Steam"
     }

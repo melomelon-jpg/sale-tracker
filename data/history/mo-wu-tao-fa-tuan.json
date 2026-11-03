@@ -1,6 +1,6 @@
 {
   "slug": "mo-wu-tao-fa-tuan",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-09-21",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
       "amount": 105,
       "shop": "Steam"
     }

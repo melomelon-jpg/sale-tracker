@@ -1,6 +1,6 @@
 {
   "slug": "borderlands-4",
-  "updated_at": "2026-11-02T00:07:28Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2025-06-16",
@@ -95,6 +95,11 @@
     {
       "date": "2026-10-08",
       "amount": 9460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 4730,
       "shop": "Steam"
     }
   ]

@@ -1,0 +1,76 @@
+{
+  "slug": "mega-solitaire-collection",
+  "updated_at": "2026-11-03T02:43:59Z",
+  "history": [
+    {
+      "date": "2026-04-17",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-08",
+      "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 202,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-19",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 202,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 135,
+      "shop": "Steam"
+    }
+  ]
+}

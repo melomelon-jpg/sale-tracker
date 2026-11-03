@@ -1,0 +1,56 @@
+{
+  "slug": "crazy-bike--1",
+  "updated_at": "2026-11-03T02:43:59Z",
+  "history": [
+    {
+      "date": "2026-03-16",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-12",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-10",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-23",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-06",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 140,
+      "shop": "Steam"
+    }
+  ]
+}

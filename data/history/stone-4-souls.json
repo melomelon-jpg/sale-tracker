@@ -1,6 +1,6 @@
 {
   "slug": "stone-4-souls",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2025-05-17",
@@ -154,6 +154,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 120,
       "shop": "Steam"
     }

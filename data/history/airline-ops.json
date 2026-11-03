@@ -1,0 +1,31 @@
+{
+  "slug": "airline-ops",
+  "updated_at": "2026-11-03T02:43:59Z",
+  "history": [
+    {
+      "date": "2026-02-03",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-14",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-30",
+      "amount": 170,
+      "shop": "Steam"
+    }
+  ]
+}

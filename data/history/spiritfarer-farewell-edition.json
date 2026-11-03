@@ -1,6 +1,6 @@
 {
   "slug": "spiritfarer-farewell-edition",
-  "updated_at": "2026-10-30T00:32:19Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -140,6 +140,11 @@
     {
       "date": "2026-10-08",
       "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 385,
       "shop": "Steam"
     }
   ]

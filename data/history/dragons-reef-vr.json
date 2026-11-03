@@ -1,6 +1,6 @@
 {
   "slug": "dragons-reef-vr",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2025-07-14",
@@ -124,6 +124,26 @@
     },
     {
       "date": "2026-09-21",
+      "amount": 207,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 207,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
       "amount": 207,
       "shop": "Steam"
     }

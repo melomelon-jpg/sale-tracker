@@ -1,6 +1,6 @@
 {
   "slug": "south-of-the-circle",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-11-03T02:43:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,26 @@
     {
       "date": "2026-09-03",
       "amount": 528,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 330,
       "shop": "Steam"
     }
   ]
