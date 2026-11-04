@@ -1,6 +1,6 @@
 {
   "slug": "zombie-vikings",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,26 @@
     },
     {
       "date": "2026-09-11",
+      "amount": 118,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 1180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 118,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 118,
       "shop": "Steam"
     }

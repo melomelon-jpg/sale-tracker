@@ -1,6 +1,6 @@
 {
   "slug": "taurus-war",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
       "amount": 280,
       "shop": "Steam"
     }

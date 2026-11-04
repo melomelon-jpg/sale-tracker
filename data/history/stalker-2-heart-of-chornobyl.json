@@ -1,6 +1,6 @@
 {
   "slug": "stalker-2-heart-of-chornobyl",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-21",
       "amount": 5565,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
+      "amount": 7950,
       "shop": "Steam"
     }
   ]

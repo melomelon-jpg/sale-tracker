@@ -1,6 +1,6 @@
 {
   "slug": "demon-gaze-extra-digital-premium-edition",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -119,6 +119,16 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 7800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
       "amount": 780,
       "shop": "Steam"
     }

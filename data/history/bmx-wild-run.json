@@ -1,6 +1,6 @@
 {
   "slug": "bmx-wild-run",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,26 @@
     {
       "date": "2026-09-04",
       "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-27",
+      "amount": 120,
       "shop": "Steam"
     }
   ]

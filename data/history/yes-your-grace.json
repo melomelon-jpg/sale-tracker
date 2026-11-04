@@ -1,6 +1,6 @@
 {
   "slug": "yes-your-grace",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
       "amount": 410,
       "shop": "Steam"
     }

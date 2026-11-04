@@ -1,6 +1,6 @@
 {
   "slug": "into-the-breach",
-  "updated_at": "2026-10-30T00:32:19Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-22",
       "amount": 638,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
+      "amount": 1520,
       "shop": "Steam"
     }
   ]

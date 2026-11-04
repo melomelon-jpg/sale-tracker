@@ -1,6 +1,6 @@
 {
   "slug": "x-rebirth-vr-edition",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-01",
       "amount": 450,
       "shop": "Steam"
     }

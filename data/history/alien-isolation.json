@@ -1,6 +1,6 @@
 {
   "slug": "alien-isolation",
-  "updated_at": "2026-11-02T00:07:28Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-26",
       "amount": 995,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 3980,
       "shop": "Steam"
     }
   ]

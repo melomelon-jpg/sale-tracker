@@ -1,6 +1,6 @@
 {
   "slug": "atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2025-04-05",
@@ -119,6 +119,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 4840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
       "amount": 4840,
       "shop": "Steam"
     }

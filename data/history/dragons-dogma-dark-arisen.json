@@ -1,6 +1,6 @@
 {
   "slug": "dragons-dogma-dark-arisen",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-04T00:59:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-21",
       "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
+      "amount": 4063,
       "shop": "Steam"
     }
   ]
