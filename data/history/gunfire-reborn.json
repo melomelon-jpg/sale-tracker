@@ -1,6 +1,6 @@
 {
   "slug": "gunfire-reborn",
-  "updated_at": "2026-10-29T00:32:53Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-10-24",
       "amount": 1435,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]

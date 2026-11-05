@@ -1,6 +1,6 @@
 {
   "slug": "monster-prom",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
       "amount": 244,
       "shop": "Steam"
     }

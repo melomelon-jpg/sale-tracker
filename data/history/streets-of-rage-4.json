@@ -1,6 +1,6 @@
 {
   "slug": "streets-of-rage-4",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 642,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 642,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
       "amount": 642,
       "shop": "Steam"
     }

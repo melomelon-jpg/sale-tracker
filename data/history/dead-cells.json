@@ -1,6 +1,6 @@
 {
   "slug": "dead-cells",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-21",
       "amount": 1240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
+      "amount": 2480,
       "shop": "Steam"
     }
   ]

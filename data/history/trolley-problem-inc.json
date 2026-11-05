@@ -1,6 +1,6 @@
 {
   "slug": "trolley-problem-inc",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-12",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 130,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 130,
       "shop": "Steam"
     }

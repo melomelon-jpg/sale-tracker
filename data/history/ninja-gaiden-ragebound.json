@@ -1,6 +1,6 @@
 {
   "slug": "ninja-gaiden-ragebound",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2025-07-31",
@@ -95,6 +95,26 @@
     {
       "date": "2026-08-31",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
+      "amount": 1650,
       "shop": "Steam"
     }
   ]

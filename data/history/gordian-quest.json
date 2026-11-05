@@ -1,6 +1,6 @@
 {
   "slug": "gordian-quest",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-05T01:14:23Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -210,6 +210,11 @@
     {
       "date": "2026-10-22",
       "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]
