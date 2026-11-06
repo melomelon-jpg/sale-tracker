@@ -1,0 +1,41 @@
+{
+  "slug": "deck-combo",
+  "updated_at": "2026-11-06T01:18:50Z",
+  "history": [
+    {
+      "date": "2025-02-27",
+      "amount": 6540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-06",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-23",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 545,
+      "shop": "Steam"
+    }
+  ]
+}

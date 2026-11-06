@@ -1,6 +1,6 @@
 {
   "slug": "space-avengers",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2026-04-15",
@@ -54,6 +54,26 @@
     },
     {
       "date": "2026-09-26",
+      "amount": 135,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 202,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 135,
       "shop": "Steam"
     }

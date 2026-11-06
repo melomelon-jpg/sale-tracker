@@ -1,6 +1,6 @@
 {
   "slug": "pathfinder-kingmaker-enhanced-plus-edition",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,26 @@
     },
     {
       "date": "2026-09-23",
+      "amount": 430,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 430,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 430,
       "shop": "Steam"
     }

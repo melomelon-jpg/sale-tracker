@@ -1,6 +1,6 @@
 {
   "slug": "eriksholm-the-stolen-dream",
-  "updated_at": "2026-08-24T21:57:09Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2025-07-15",
@@ -99,6 +99,26 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-31",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3599,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 3599,
       "shop": "Steam"
     }

@@ -4888,6 +4888,30 @@
     "name": "Dark Light",
     "review_count": 626
   },
+  "1134700": {
+    "categories": [
+      "マルチプレイヤー",
+      "MMO",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "アプリ内購入",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Wild Terra 2: New Lands",
+    "review_count": 1400
+  },
   "1135230": {
     "categories": [
       "シングルプレイヤー",
@@ -8947,6 +8971,33 @@
     "name": "Knock on the Coffin Lid",
     "review_count": 2739
   },
+  "1233070": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "色のオプション",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "空と海の伝説",
+    "review_count": 1567
+  },
   "1233260": {
     "categories": [
       "シングルプレイヤー",
@@ -12664,6 +12715,24 @@
     "name": "We Were Here Forever",
     "review_count": 16227
   },
+  "1342620": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Werewolf: The Apocalypse — Heart of the Forest",
+    "review_count": 813
+  },
   "1343240": {
     "categories": [
       "シングルプレイヤー",
@@ -14198,6 +14267,25 @@
     "name": "リトルナイトメア3",
     "review_count": 10089
   },
+  "1393750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "オーシャンズハート",
+    "review_count": 1417
+  },
   "1394470": {
     "categories": [
       "シングルプレイヤー",
@@ -15567,6 +15655,36 @@
     "jp_support": true,
     "name": "Monsters Domain",
     "review_count": 272
+  },
+  "1442520": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "ゲームパッド推奨",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Akatori",
+    "review_count": 332
   },
   "1446650": {
     "categories": [
@@ -22641,6 +22759,24 @@
     "jp_support": false,
     "name": "Sid Meier's Civilization IV: Colonization",
     "review_count": 1273
+  },
+  "1681060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "Exogate Initiative",
+    "review_count": 698
   },
   "1681430": {
     "categories": [
@@ -36792,6 +36928,27 @@
     "name": "ルーンファクトリー３スペシャル",
     "review_count": 715
   },
+  "2244210": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Echoes of Aincrad",
+    "review_count": 4227
+  },
   "2246340": {
     "categories": [
       "シングルプレイヤー",
@@ -42024,6 +42181,27 @@
     "jp_support": false,
     "name": "Space Engineers",
     "review_count": 102481
+  },
+  "2448570": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "LAN PvP",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "レース"
+    ],
+    "jp_support": false,
+    "name": "ロードラッシュ™: 30th Anniversary Edition",
+    "review_count": null
   },
   "2449390": {
     "categories": [
@@ -51832,6 +52010,26 @@
     "name": "Tengami",
     "review_count": 911
   },
+  "2998650": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "NEON Squad Tactics",
+    "review_count": null
+  },
   "299950": {
     "categories": [
       "シングルプレイヤー",
@@ -53345,6 +53543,21 @@
     "name": "Marathon",
     "review_count": 45111
   },
+  "3067110": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Strike Commander™",
+    "review_count": null
+  },
   "306760": {
     "categories": [
       "シングルプレイヤー",
@@ -54793,6 +55006,37 @@
     "jp_support": true,
     "name": "Tanks Logic Puzzle",
     "review_count": null
+  },
+  "3166810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "字幕オプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Insider Trading",
+    "review_count": 614
   },
   "3167020": {
     "categories": [
@@ -58338,6 +58582,20 @@
     "name": "Color Madness",
     "review_count": null
   },
+  "3460570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Deck Combo",
+    "review_count": null
+  },
   "346110": {
     "categories": [
       "シングルプレイヤー",
@@ -59501,6 +59759,31 @@
     "jp_support": true,
     "name": "Football Manager 26",
     "review_count": 20885
+  },
+  "3552140": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Retro Rewind - Video Store Simulator",
+    "review_count": 10728
   },
   "3556750": {
     "categories": [
@@ -61750,6 +62033,34 @@
     "name": "Barony",
     "review_count": 12878
   },
+  "3721500": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Night Seeker",
+    "review_count": null
+  },
+  "3721570": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Forsaken Manor",
+    "review_count": null
+  },
   "372160": {
     "categories": [
       "シングルプレイヤー",
@@ -61779,6 +62090,20 @@
     ],
     "jp_support": false,
     "name": "BrainRooms - Brainrot Backrooms",
+    "review_count": null
+  },
+  "3724540": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Owl Bounce",
     "review_count": null
   },
   "3727390": {
@@ -67286,6 +67611,23 @@
     "jp_support": true,
     "name": "Lost Castle / 失落城堡",
     "review_count": 18404
+  },
+  "4349170": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Virus Lab",
+    "review_count": null
   },
   "434920": {
     "categories": [
@@ -76284,6 +76626,23 @@
     "jp_support": false,
     "name": "Sea Of Secrets",
     "review_count": null
+  },
+  "610840": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-06T01:18:50Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "JASEM: Just Another Shooter with Electronic Music",
+    "review_count": 133
   },
   "611500": {
     "categories": [

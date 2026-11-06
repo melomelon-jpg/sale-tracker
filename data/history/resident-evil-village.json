@@ -1,6 +1,6 @@
 {
   "slug": "resident-evil-village",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-10-21",
       "amount": 997,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-03",
+      "amount": 3990,
       "shop": "Steam"
     }
   ]

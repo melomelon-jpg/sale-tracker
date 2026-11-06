@@ -1,0 +1,51 @@
+{
+  "slug": "insider-trading",
+  "updated_at": "2026-11-06T01:18:50Z",
+  "history": [
+    {
+      "date": "2026-02-18",
+      "amount": 1275,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-04",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 750,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "wrc-7-fia-world-rally-championship",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,16 @@
     {
       "date": "2026-10-01",
       "amount": 102,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 205,
       "shop": "Steam"
     }
   ]

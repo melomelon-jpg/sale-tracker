@@ -1,6 +1,6 @@
 {
   "slug": "tricky-towers",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-09-22",
+      "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 680,
       "shop": "Steam"
     }

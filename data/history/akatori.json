@@ -1,0 +1,31 @@
+{
+  "slug": "akatori",
+  "updated_at": "2026-11-06T01:18:50Z",
+  "history": [
+    {
+      "date": "2026-08-05",
+      "amount": 1699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-12",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1399,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 1299,
+      "shop": "Steam"
+    }
+  ]
+}

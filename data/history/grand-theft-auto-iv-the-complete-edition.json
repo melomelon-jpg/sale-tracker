@@ -1,6 +1,6 @@
 {
   "slug": "grand-theft-auto-iv-the-complete-edition",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-08",
       "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 660,
       "shop": "Steam"
     }
   ]

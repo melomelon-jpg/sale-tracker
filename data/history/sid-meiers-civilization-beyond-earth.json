@@ -1,6 +1,6 @@
 {
   "slug": "sid-meiers-civilization-beyond-earth",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 1250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 5000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 1250,
       "shop": "Steam"
     }

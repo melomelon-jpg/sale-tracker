@@ -1,6 +1,6 @@
 {
   "slug": "tt-isle-of-man-ride-on-the-edge-3-racing-fan-edition",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,26 @@
     },
     {
       "date": "2026-09-15",
+      "amount": 325,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 6500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 325,
       "shop": "Steam"
     }

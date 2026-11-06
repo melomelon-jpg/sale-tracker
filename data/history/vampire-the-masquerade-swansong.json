@@ -1,6 +1,6 @@
 {
   "slug": "vampire-the-masquerade-swansong",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,21 @@
     {
       "date": "2026-09-20",
       "amount": 360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-04",
+      "amount": 5150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 260,
       "shop": "Steam"
     }
   ]

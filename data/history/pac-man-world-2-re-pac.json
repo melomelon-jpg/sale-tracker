@@ -1,6 +1,6 @@
 {
   "slug": "pac-man-world-2-re-pac",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2025-08-01",
@@ -50,6 +50,26 @@
     {
       "date": "2026-09-03",
       "amount": 2772,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 2376,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 2376,
       "shop": "Steam"
     }
   ]

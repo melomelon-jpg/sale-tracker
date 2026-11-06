@@ -1,6 +1,6 @@
 {
   "slug": "company-of-heroes-3",
-  "updated_at": "2026-09-17T23:18:38Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,16 @@
     {
       "date": "2026-09-17",
       "amount": 3036,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 2504,
       "shop": "Steam"
     }
   ]

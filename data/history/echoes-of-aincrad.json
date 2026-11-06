@@ -1,0 +1,26 @@
+{
+  "slug": "echoes-of-aincrad",
+  "updated_at": "2026-11-06T01:18:50Z",
+  "history": [
+    {
+      "date": "2026-03-06",
+      "amount": 8910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 6237,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8910,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 5346,
+      "shop": "Steam"
+    }
+  ]
+}

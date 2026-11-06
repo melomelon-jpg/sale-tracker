@@ -1,6 +1,6 @@
 {
   "slug": "sid-meiers-civilization-v",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-10-08",
       "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 745,
       "shop": "Steam"
     }
   ]

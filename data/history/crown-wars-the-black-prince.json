@@ -1,6 +1,6 @@
 {
   "slug": "crown-wars-the-black-prince",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,31 @@
     {
       "date": "2026-09-14",
       "amount": 225,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 130,
       "shop": "Steam"
     }
   ]

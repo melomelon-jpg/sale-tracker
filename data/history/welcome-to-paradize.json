@@ -1,6 +1,6 @@
 {
   "slug": "welcome-to-paradize",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-11-06T01:18:50Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,26 @@
     },
     {
       "date": "2026-09-08",
+      "amount": 371,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 556,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3712,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 371,
       "shop": "Steam"
     }

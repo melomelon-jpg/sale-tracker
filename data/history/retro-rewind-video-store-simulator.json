@@ -1,0 +1,51 @@
+{
+  "slug": "retro-rewind-video-store-simulator",
+  "updated_at": "2026-11-06T01:18:50Z",
+  "history": [
+    {
+      "date": "2026-03-17",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-24",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-13",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 1610,
+      "shop": "Steam"
+    }
+  ]
+}
