@@ -1,6 +1,6 @@
 {
   "slug": "astrometica",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2024-12-10",
@@ -175,6 +175,26 @@
     {
       "date": "2026-08-31",
       "amount": 1472,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1472,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
+      "amount": 1380,
       "shop": "Steam"
     }
   ]

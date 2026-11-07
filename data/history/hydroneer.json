@@ -1,6 +1,6 @@
 {
   "slug": "hydroneer",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,26 @@
     },
     {
       "date": "2026-09-01",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
       "amount": 570,
       "shop": "Steam"
     }

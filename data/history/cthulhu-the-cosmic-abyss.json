@@ -1,6 +1,6 @@
 {
   "slug": "cthulhu-the-cosmic-abyss",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2026-04-16",
@@ -35,6 +35,21 @@
     {
       "date": "2026-09-24",
       "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1575,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
+      "amount": 1575,
       "shop": "Steam"
     }
   ]

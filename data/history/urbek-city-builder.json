@@ -1,6 +1,6 @@
 {
   "slug": "urbek-city-builder",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-09-07",
+      "amount": 292,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 312,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
       "amount": 292,
       "shop": "Steam"
     }

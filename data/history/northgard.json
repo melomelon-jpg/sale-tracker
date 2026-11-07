@@ -1,6 +1,6 @@
 {
   "slug": "northgard",
-  "updated_at": "2026-10-31T23:53:38Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-10-19",
       "amount": 1092,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 3900,
       "shop": "Steam"
     }
   ]

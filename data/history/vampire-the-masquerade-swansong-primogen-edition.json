@@ -1,6 +1,6 @@
 {
   "slug": "vampire-the-masquerade-swansong-primogen-edition",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,21 @@
     {
       "date": "2026-09-20",
       "amount": 455,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-04",
+      "amount": 6500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 385,
       "shop": "Steam"
     }
   ]

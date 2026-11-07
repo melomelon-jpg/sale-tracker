@@ -1,6 +1,6 @@
 {
   "slug": "the-fallow-city",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-11-07T00:33:16Z",
   "history": [
     {
       "date": "2025-02-06",
@@ -104,6 +104,26 @@
     },
     {
       "date": "2026-08-19",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
       "amount": 108,
       "shop": "Steam"
     }

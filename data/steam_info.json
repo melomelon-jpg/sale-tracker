@@ -4294,6 +4294,23 @@
     "name": "Builder Simulator",
     "review_count": 1665
   },
+  "1120560": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Sense - 不祥的预感: A Cyberpunk Ghost Story",
+    "review_count": 488
+  },
   "1121640": {
     "categories": [
       "シングルプレイヤー",
@@ -5727,6 +5744,31 @@
     "jp_support": true,
     "name": "Fallout 76",
     "review_count": 78591
+  },
+  "1151380": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "RPG",
+      "シミュレーション",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "Cowboy Life Simulator",
+    "review_count": 1154
   },
   "1152000": {
     "categories": [
@@ -9185,6 +9227,35 @@
     "name": "A Highland Song",
     "review_count": 554
   },
+  "1240590": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "データ",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Sir Whoopass™: Immortal Death",
+    "review_count": 1341
+  },
   "1242980": {
     "categories": [
       "シングルプレイヤー",
@@ -11952,6 +12023,26 @@
     "name": "GetsuFumaDen: Undying Moon",
     "review_count": 962
   },
+  "1323900": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Scrapnaut",
+    "review_count": 735
+  },
   "1324130": {
     "categories": [
       "シングルプレイヤー",
@@ -12714,6 +12805,27 @@
     "jp_support": true,
     "name": "We Were Here Forever",
     "review_count": 16227
+  },
+  "1342330": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Mad Games Tycoon 2",
+    "review_count": 7396
   },
   "1342620": {
     "categories": [
@@ -26975,6 +27087,22 @@
     "jp_support": false,
     "name": "Wandering Sword",
     "review_count": 36936
+  },
+  "1876930": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Saloon Simulator",
+    "review_count": 883
   },
   "1877020": {
     "categories": [
@@ -58205,6 +58333,23 @@
     "name": "Gunslugs 2",
     "review_count": null
   },
+  "341000": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Mad Games Tycoon",
+    "review_count": 3699
+  },
   "3410980": {
     "categories": [
       "シングルプレイヤー",
@@ -75028,6 +75173,25 @@
     "jp_support": true,
     "name": "ソニックマニア",
     "review_count": 24177
+  },
+  "584980": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-07T00:33:16Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Late Shift",
+    "review_count": 7786
   },
   "584990": {
     "categories": [
