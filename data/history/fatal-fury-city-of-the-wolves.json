@@ -1,0 +1,41 @@
+{
+  "slug": "fatal-fury-city-of-the-wolves",
+  "updated_at": "2026-11-08T00:07:53Z",
+  "history": [
+    {
+      "date": "2026-04-24",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-22",
+      "amount": 1490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2235,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-07",
+      "amount": 745,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "walk-of-life",
+  "updated_at": "2026-11-08T00:07:53Z",
+  "history": [
+    {
+      "date": "2025-10-24",
+      "amount": 2160,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-07",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-08",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-15",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-05",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-14",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1440,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-07",
+      "amount": 1200,
+      "shop": "Steam"
+    }
+  ]
+}

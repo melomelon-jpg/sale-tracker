@@ -1,6 +1,6 @@
 {
   "slug": "12-is-better-than-6",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-11-08T00:07:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-12",
       "amount": 196,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 980,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "revival-recolonization",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-11-08T00:07:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,26 @@
     {
       "date": "2026-09-21",
       "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 2380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-07",
+      "amount": 2210,
       "shop": "Steam"
     }
   ]

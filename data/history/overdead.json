@@ -1,0 +1,61 @@
+{
+  "slug": "overdead",
+  "updated_at": "2026-11-08T00:07:53Z",
+  "history": [
+    {
+      "date": "2026-03-20",
+      "amount": 1080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-03",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 420,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-21",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-07",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

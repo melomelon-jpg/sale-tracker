@@ -1,6 +1,6 @@
 {
   "slug": "simrail-the-railway-simulator",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-08T00:07:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,16 @@
     {
       "date": "2026-09-30",
       "amount": 2464,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-07",
+      "amount": 2420,
       "shop": "Steam"
     }
   ]

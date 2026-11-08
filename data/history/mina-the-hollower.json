@@ -1,9 +1,19 @@
 {
   "slug": "mina-the-hollower",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-11-08T00:07:53Z",
   "history": [
     {
       "date": "2026-05-29",
+      "amount": 2480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "amount": 1984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
       "amount": 2480,
       "shop": "Steam"
     }

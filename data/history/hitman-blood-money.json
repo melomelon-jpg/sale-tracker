@@ -1,6 +1,6 @@
 {
   "slug": "hitman-blood-money",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-11-08T00:07:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-08",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 120,
       "shop": "Steam"
     }
   ]
