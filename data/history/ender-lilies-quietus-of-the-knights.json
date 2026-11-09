@@ -1,6 +1,6 @@
 {
   "slug": "ender-lilies-quietus-of-the-knights",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-09T00:25:15Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-10-08",
       "amount": 2728,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-08",
+      "amount": 1091,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "sunday-gold",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-11-09T00:25:15Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,26 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 439,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 439,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
       "amount": 439,
       "shop": "Steam"
     }

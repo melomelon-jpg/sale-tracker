@@ -10939,6 +10939,23 @@
     "name": "Way of the Hunter",
     "review_count": 8463
   },
+  "1288600": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "TWELVE CONTAINERS",
+    "review_count": null
+  },
   "12900": {
     "categories": [
       "シングルプレイヤー",
@@ -12094,6 +12111,32 @@
     "jp_support": true,
     "name": "Stranded: Alien Dawn",
     "review_count": 9709
+  },
+  "1324350": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "レース",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Turbo Golf Racing",
+    "review_count": 638
   },
   "1325040": {
     "categories": [
@@ -13522,6 +13565,26 @@
     "jp_support": true,
     "name": "Dyson Sphere Program",
     "review_count": 83304
+  },
+  "1366560": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "レース",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "MiLE HiGH TAXi",
+    "review_count": null
   },
   "1367040": {
     "categories": [
@@ -16174,6 +16237,23 @@
     "name": "LAPIN(ラパン)",
     "review_count": 294
   },
+  "1455450": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "To Hell With The Ugly",
+    "review_count": 134
+  },
   "1455840": {
     "categories": [
       "シングルプレイヤー",
@@ -16738,6 +16818,21 @@
     "jp_support": true,
     "name": "Commandos: Origins",
     "review_count": 1824
+  },
+  "1479890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Inua - A Story in Ice and Time",
+    "review_count": null
   },
   "1481170": {
     "categories": [
@@ -23557,6 +23652,23 @@
     "name": "Drug Dealer Simulator 2",
     "review_count": 7140
   },
+  "1709700": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "How to Say Goodbye",
+    "review_count": 144
+  },
   "1709880": {
     "categories": [
       "シングルプレイヤー",
@@ -24469,6 +24581,20 @@
     "jp_support": true,
     "name": "初音ミク Project DIVA MEGA39’s＋",
     "review_count": 19300
+  },
+  "1762010": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Wrought Flesh",
+    "review_count": 778
   },
   "1763250": {
     "categories": [
@@ -26345,6 +26471,29 @@
     "jp_support": true,
     "name": "ブリガンダイン ルーナジア戦記",
     "review_count": 1336
+  },
+  "1844380": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "review_count": 1880
   },
   "1845910": {
     "categories": [
@@ -31580,6 +31729,23 @@
     "name": "Nickelodeon All-Star Brawl 2",
     "review_count": 990
   },
+  "2017620": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Beloved Rapture",
+    "review_count": 250
+  },
   "201790": {
     "categories": [
       "シングルプレイヤー",
@@ -33464,6 +33630,22 @@
     "name": "Batman™: Arkham Knight",
     "review_count": 110480
   },
+  "2088770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "カードを出せ！ソウルの勇者",
+    "review_count": 153
+  },
   "2089600": {
     "categories": [
       "シングルプレイヤー",
@@ -33674,6 +33856,26 @@
     "jp_support": true,
     "name": "灾变前夜  Dread Dawn",
     "review_count": 2115
+  },
+  "2096510": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "フルコントローラサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": false,
+    "name": "The Ouroboros King",
+    "review_count": 480
   },
   "209670": {
     "categories": [
@@ -34575,6 +34777,22 @@
     "jp_support": true,
     "name": "REMATCH",
     "review_count": 39890
+  },
+  "2139300": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Redemption Reapers",
+    "review_count": 573
   },
   "2140020": {
     "categories": [
@@ -39447,6 +39665,23 @@
     "jp_support": true,
     "name": "Moonlighter 2: The Endless Vault",
     "review_count": 2475
+  },
+  "2351860": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Tower of Kalemonvo",
+    "review_count": 461
   },
   "235210": {
     "categories": [
@@ -45433,6 +45668,26 @@
     "jp_support": true,
     "name": "Chick-Chick",
     "review_count": null
+  },
+  "258890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Type:Rider",
+    "review_count": 569
   },
   "258970": {
     "categories": [
@@ -64081,6 +64336,26 @@
     "name": "DinoGORE",
     "review_count": null
   },
+  "3884500": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "キーボードのみのオプション",
+      "サラウンドサウンド",
+      "タッチのみのオプション",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "TYPE",
+    "review_count": null
+  },
   "3887010": {
     "categories": [
       "シングルプレイヤー",
@@ -65372,6 +65647,23 @@
     "jp_support": false,
     "name": "The Guest",
     "review_count": 849
+  },
+  "402060": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Californium",
+    "review_count": 269
   },
   "402220": {
     "categories": [
@@ -68704,6 +68996,21 @@
     "jp_support": false,
     "name": "Fox Shooter",
     "review_count": null
+  },
+  "446800": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamワークショップ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Transport Fever",
+    "review_count": 9311
   },
   "446810": {
     "categories": [
@@ -79074,6 +79381,23 @@
     "name": "Cybercube",
     "review_count": 162
   },
+  "657000": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Rising Hell",
+    "review_count": 225
+  },
   "657240": {
     "categories": [
       "シングルプレイヤー",
@@ -87105,6 +87429,32 @@
     "name": "聖剣伝説3 TRIALS of MANA",
     "review_count": 4810
   },
+  "925460": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Vectronom",
+    "review_count": 267
+  },
   "926140": {
     "categories": [
       "シングルプレイヤー",
@@ -88340,6 +88690,21 @@
     "jp_support": true,
     "name": "Flower",
     "review_count": 4761
+  },
+  "966670": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-09T00:25:15Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "The Wanderer: Frankenstein’s Creature",
+    "review_count": 300
   },
   "968370": {
     "categories": [
