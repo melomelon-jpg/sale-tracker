@@ -1,6 +1,6 @@
 {
   "slug": "tokyo-xanadu-ex-plus",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 3774,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 6290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3774,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 3774,
       "shop": "Steam"
     }

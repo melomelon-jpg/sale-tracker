@@ -1,0 +1,41 @@
+{
+  "slug": "the-mound-omen-of-cthulhu",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-07-15",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 3080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2502,
+      "shop": "Steam"
+    }
+  ]
+}

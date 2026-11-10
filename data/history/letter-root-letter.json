@@ -1,6 +1,6 @@
 {
   "slug": "letter-root-letter",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -164,6 +164,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 198,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
       "amount": 198,
       "shop": "Steam"
     }

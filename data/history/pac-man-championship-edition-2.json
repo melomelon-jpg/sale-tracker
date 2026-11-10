@@ -1,6 +1,6 @@
 {
   "slug": "pac-man-championship-edition-2",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-22",
       "amount": 264,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 1320,
       "shop": "Steam"
     }
   ]

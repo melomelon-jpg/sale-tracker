@@ -1,0 +1,71 @@
+{
+  "slug": "unknown-faces",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-01-07",
+      "amount": 960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-14",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-21",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

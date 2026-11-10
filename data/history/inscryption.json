@@ -1,6 +1,6 @@
 {
   "slug": "inscryption",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-26",
       "amount": 820,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2050,
       "shop": "Steam"
     }
   ]

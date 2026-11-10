@@ -1,0 +1,51 @@
+{
+  "slug": "put-one-in-for-johnny-minn",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-03-12",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-28",
+      "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-11",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

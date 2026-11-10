@@ -1,6 +1,6 @@
 {
   "slug": "for-the-king-ii",
-  "updated_at": "2026-10-03T23:27:37Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,16 @@
     {
       "date": "2026-10-02",
       "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1050,
       "shop": "Steam"
     }
   ]

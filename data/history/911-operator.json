@@ -1,6 +1,6 @@
 {
   "slug": "911-operator",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2025-10-06",
       "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-26",
+      "amount": 0,
       "shop": "Steam"
     },
     {
@@ -235,6 +240,11 @@
     {
       "date": "2026-10-30",
       "amount": 296,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
+      "amount": 1480,
       "shop": "Steam"
     }
   ]

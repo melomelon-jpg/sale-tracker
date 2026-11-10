@@ -1,0 +1,51 @@
+{
+  "slug": "lay-of-the-land",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-04-08",
+      "amount": 2340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1950,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1820,
+      "shop": "Steam"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "house-flipper",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-22",
       "amount": 224,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]

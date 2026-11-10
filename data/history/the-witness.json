@@ -1,6 +1,6 @@
 {
   "slug": "the-witness",
-  "updated_at": "2026-11-07T00:33:16Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 995,
       "shop": "Steam"
     }
   ]

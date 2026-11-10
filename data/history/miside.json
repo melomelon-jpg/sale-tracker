@@ -1,6 +1,6 @@
 {
   "slug": "miside",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-11",
@@ -190,6 +190,11 @@
     {
       "date": "2026-10-22",
       "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

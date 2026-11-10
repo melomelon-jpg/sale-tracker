@@ -1,6 +1,6 @@
 {
   "slug": "granblue-fantasy-relink",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-21",
       "amount": 2904,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
+      "amount": 4840,
       "shop": "Steam"
     }
   ]

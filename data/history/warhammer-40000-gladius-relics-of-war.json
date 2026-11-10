@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-gladius-relics-of-war",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-31",
       "amount": 450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 4500,
       "shop": "Steam"
     }
   ]

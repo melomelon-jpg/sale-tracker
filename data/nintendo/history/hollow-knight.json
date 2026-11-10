@@ -2,7 +2,7 @@
   "slug": "hollow-knight",
   "title": "Hollow Knight",
   "nsuid": "70010000003209",
-  "updated_at": "2026-11-09T00:41:02Z",
+  "updated_at": "2026-11-10T03:32:03Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -381,6 +381,11 @@
     },
     {
       "date": "2026-11-09",
+      "regular": 1480,
+      "current": 1480
+    },
+    {
+      "date": "2026-11-10",
       "regular": 1480,
       "current": 1480
     }

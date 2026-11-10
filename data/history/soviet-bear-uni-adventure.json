@@ -1,0 +1,61 @@
+{
+  "slug": "soviet-bear-uni-adventure",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-16",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-15",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-01",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-31",
+      "amount": 120,
+      "shop": "Steam"
+    }
+  ]
+}

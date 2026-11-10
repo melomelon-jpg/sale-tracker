@@ -1,6 +1,6 @@
 {
   "slug": "cartel-tycoon",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 850,
       "shop": "Steam"
     }

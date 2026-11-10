@@ -1,0 +1,76 @@
+{
+  "slug": "project-aftershock",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-03-23",
+      "amount": 149,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-06",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-16",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-30",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-10",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-10",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 99,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 199,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-10",
+      "amount": 705,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 70,
+      "shop": "Steam"
+    }
+  ]
+}

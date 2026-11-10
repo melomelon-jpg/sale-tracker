@@ -1,6 +1,6 @@
 {
   "slug": "drill-core",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,26 @@
     {
       "date": "2026-09-14",
       "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1000,
       "shop": "Steam"
     }
   ]

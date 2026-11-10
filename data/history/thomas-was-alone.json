@@ -1,6 +1,6 @@
 {
   "slug": "thomas-was-alone",
-  "updated_at": "2026-11-03T02:43:59Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-08",
       "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 490,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "huntdown",
-  "updated_at": "2026-10-07T00:18:05Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,16 @@
     },
     {
       "date": "2026-09-25",
+      "amount": 518,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2590,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 518,
       "shop": "Steam"
     }

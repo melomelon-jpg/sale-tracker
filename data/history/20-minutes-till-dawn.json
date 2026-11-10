@@ -1,6 +1,6 @@
 {
   "slug": "20-minutes-till-dawn",
-  "updated_at": "2026-09-01T21:06:13Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,26 @@
     {
       "date": "2026-09-01",
       "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 348,
       "shop": "Steam"
     }
   ]

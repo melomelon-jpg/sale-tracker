@@ -1,6 +1,6 @@
 {
   "slug": "phantom-breaker-battle-grounds",
-  "updated_at": "2026-08-17T12:56:31Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2025-07-15",
@@ -89,6 +89,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 119,
       "shop": "Steam"
     }

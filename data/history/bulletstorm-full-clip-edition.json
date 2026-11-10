@@ -1,6 +1,6 @@
 {
   "slug": "bulletstorm-full-clip-edition",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-10T03:05:42Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 410,
       "shop": "Steam"
     }

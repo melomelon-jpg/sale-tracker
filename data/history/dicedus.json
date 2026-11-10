@@ -1,0 +1,81 @@
+{
+  "slug": "dicedus",
+  "updated_at": "2026-11-10T03:05:42Z",
+  "history": [
+    {
+      "date": "2026-01-09",
+      "amount": 1190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-16",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-16",
+      "amount": 1050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-23",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 560,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-11",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 210,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 140,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 140,
+      "shop": "Steam"
+    }
+  ]
+}
