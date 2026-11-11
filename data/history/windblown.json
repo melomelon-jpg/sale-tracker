@@ -1,6 +1,6 @@
 {
   "slug": "windblown",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-10-21",
       "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-04",
+      "amount": 3000,
       "shop": "Steam"
     }
   ]

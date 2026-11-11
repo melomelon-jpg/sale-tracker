@@ -1,6 +1,6 @@
 {
   "slug": "the-political-simulator",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2026-07-27",
@@ -15,6 +15,26 @@
     {
       "date": "2026-09-14",
       "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 170,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "along-the-edge",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,26 @@
     {
       "date": "2026-09-14",
       "amount": 320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 160,
       "shop": "Steam"
     }
   ]

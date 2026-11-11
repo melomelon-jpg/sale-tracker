@@ -1,6 +1,6 @@
 {
   "slug": "sword-and-fairy-7",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-09-30",
+      "amount": 1236,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
+      "amount": 3090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
       "amount": 1236,
       "shop": "Steam"
     }

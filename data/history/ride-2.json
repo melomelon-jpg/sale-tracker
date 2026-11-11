@@ -1,6 +1,6 @@
 {
   "slug": "ride-2",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2970,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 297,
       "shop": "Steam"
     }

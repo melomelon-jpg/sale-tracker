@@ -1,6 +1,6 @@
 {
   "slug": "pyramid-of-wisdom",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2026-06-11",
@@ -25,6 +25,26 @@
     {
       "date": "2026-09-14",
       "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 94,
       "shop": "Steam"
     }
   ]

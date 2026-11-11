@@ -1,6 +1,6 @@
 {
   "slug": "night-in-the-woods",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -110,6 +110,11 @@
     {
       "date": "2026-11-02",
       "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

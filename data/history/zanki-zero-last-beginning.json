@@ -1,6 +1,6 @@
 {
   "slug": "zanki-zero-last-beginning",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 629,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 6290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 629,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
       "amount": 629,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "lootbound",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2026-08-14",
@@ -15,6 +15,16 @@
     {
       "date": "2026-09-27",
       "amount": 1299,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
+      "amount": 1999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 1199,
       "shop": "Steam"
     }
   ]

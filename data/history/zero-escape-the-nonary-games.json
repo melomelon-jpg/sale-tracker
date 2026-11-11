@@ -1,6 +1,6 @@
 {
   "slug": "zero-escape-the-nonary-games",
-  "updated_at": "2026-09-05T21:05:29Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,26 @@
     },
     {
       "date": "2026-09-04",
+      "amount": 638,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 3190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 638,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
       "amount": 638,
       "shop": "Steam"
     }

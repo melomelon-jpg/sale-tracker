@@ -1,6 +1,6 @@
 {
   "slug": "danganronpa-trigger-happy-havoc",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-09",
+      "amount": 213,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-18",
+      "amount": 2138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 213,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2138,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
       "amount": 213,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "company-of-heroes-opposing-fronts",
-  "updated_at": "2026-11-04T00:59:28Z",
+  "updated_at": "2026-11-11T00:58:01Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-10-08",
       "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 470,
       "shop": "Steam"
     }
   ]
