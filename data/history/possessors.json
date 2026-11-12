@@ -1,0 +1,86 @@
+{
+  "slug": "possessors",
+  "updated_at": "2026-11-12T02:04:59Z",
+  "history": [
+    {
+      "date": "2025-11-11",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-25",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-12",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 337,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-06",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-11",
+      "amount": 337,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 337,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-03",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 202,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-11",
+      "amount": 202,
+      "shop": "Steam"
+    }
+  ]
+}

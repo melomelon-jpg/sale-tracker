@@ -1,6 +1,6 @@
 {
   "slug": "tomb-raider-underworld",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-23",
       "amount": 137,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
+      "amount": 1250,
       "shop": "Steam"
     }
   ]

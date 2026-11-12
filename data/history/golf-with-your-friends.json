@@ -1,6 +1,6 @@
 {
   "slug": "golf-with-your-friends",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-26",
       "amount": 380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1520,
       "shop": "Steam"
     }
   ]

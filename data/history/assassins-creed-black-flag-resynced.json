@@ -1,6 +1,6 @@
 {
   "slug": "assassins-creed-black-flag-resynced",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2026-04-23",
@@ -20,6 +20,11 @@
     {
       "date": "2026-11-01",
       "amount": 6270,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 8360,
       "shop": "Steam"
     }
   ]

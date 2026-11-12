@@ -1,6 +1,6 @@
 {
   "slug": "deponia-the-complete-journey",
-  "updated_at": "2026-11-05T01:14:23Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-26",
       "amount": 389,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 3890,
       "shop": "Steam"
     }
   ]

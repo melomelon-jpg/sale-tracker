@@ -1,6 +1,6 @@
 {
   "slug": "atari-50-the-anniversary-celebration",
-  "updated_at": "2026-10-10T00:25:27Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,16 @@
     {
       "date": "2026-10-09",
       "amount": 1640,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-11",
+      "amount": 1230,
       "shop": "Steam"
     }
   ]

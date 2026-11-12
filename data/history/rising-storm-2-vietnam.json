@@ -1,6 +1,6 @@
 {
   "slug": "rising-storm-2-vietnam",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 248,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 2480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 248,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-11",
       "amount": 248,
       "shop": "Steam"
     }

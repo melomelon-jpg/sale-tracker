@@ -6017,6 +6017,29 @@
     "name": "Shadow Empire",
     "review_count": 1462
   },
+  "1154850": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "9th Dawn III",
+    "review_count": 503
+  },
   "1155650": {
     "categories": [
       "シングルプレイヤー",
@@ -16640,6 +16663,22 @@
     "name": "LAPIN(ラパン)",
     "review_count": 294
   },
+  "1454970": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "『ニュー・テイルズ・フロム・ザ・ボーダーランズ』",
+    "review_count": 1761
+  },
   "1455450": {
     "categories": [
       "シングルプレイヤー",
@@ -18012,6 +18051,25 @@
     "name": "Settlement Survival",
     "review_count": 7662
   },
+  "1509960": {
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "PICO PARK",
+    "review_count": 23807
+  },
   "1510": {
     "categories": [
       "シングルプレイヤー",
@@ -18912,6 +18970,31 @@
     "jp_support": false,
     "name": "The Witch of Fern Island",
     "review_count": 705
+  },
+  "1550180": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "9th Dawn Remake",
+    "review_count": 518
   },
   "1550260": {
     "categories": [
@@ -26910,6 +26993,24 @@
     "jp_support": true,
     "name": "Dungeon Drafters",
     "review_count": 559
+  },
+  "1830970": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "The Last Flame",
+    "review_count": 2758
   },
   "1832040": {
     "categories": [
@@ -35417,6 +35518,26 @@
     "name": "Rabbit and Steel",
     "review_count": 10111
   },
+  "2132890": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Possessor(s)",
+    "review_count": 788
+  },
   "2134770": {
     "categories": [
       "シングルプレイヤー",
@@ -37761,6 +37882,29 @@
     "jp_support": true,
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
     "review_count": 4372
+  },
+  "2224640": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Artisan TD",
+    "review_count": 2249
   },
   "222480": {
     "categories": [
@@ -40290,6 +40434,23 @@
     "name": "ディアブロ IV",
     "review_count": 57163
   },
+  "234510": {
+    "categories": [
+      "マルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": false,
+    "name": "Rising Storm Game of the Year Edition",
+    "review_count": null
+  },
   "2345410": {
     "categories": [
       "シングルプレイヤー",
@@ -41176,6 +41337,28 @@
     "jp_support": false,
     "name": "Dreamfall Chapters",
     "review_count": 3211
+  },
+  "2378620": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Anomaly Agent",
+    "review_count": 9525
   },
   "237930": {
     "categories": [
@@ -44782,6 +44965,20 @@
     "name": "Among the Sleep - Enhanced Edition",
     "review_count": 6273
   },
+  "2507560": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "雑音系少年少女",
+    "review_count": 121
+  },
   "250760": {
     "categories": [
       "シングルプレイヤー",
@@ -47701,6 +47898,34 @@
     "jp_support": true,
     "name": "Star Trek: Voyager - Across the Unknown",
     "review_count": 4111
+  },
+  "2644470": {
+    "categories": [
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steam入力APIサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "PICO PARK 2",
+    "review_count": 4109
   },
   "2644610": {
     "categories": [
@@ -61482,6 +61707,29 @@
     "name": "How Much Items - Vehicles",
     "review_count": null
   },
+  "352620": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Porcunipine",
+    "review_count": null
+  },
   "352720": {
     "categories": [
       "シングルプレイヤー",
@@ -61602,6 +61850,29 @@
     "jp_support": true,
     "name": "Many Nights a Whisper",
     "review_count": 686
+  },
+  "35450": {
+    "categories": [
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Valveアンチチート有効",
+      "データ",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+    "review_count": 25013
   },
   "3548380": {
     "categories": [
@@ -84390,6 +84661,29 @@
     "name": "Airport Madness 3D: Volume 2",
     "review_count": 194
   },
+  "749800": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "フルコントローラサポート",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "PixelJunk™ Monsters 2",
+    "review_count": 278
+  },
   "750070": {
     "categories": [
       "シングルプレイヤー",
@@ -91180,6 +91474,27 @@
     "name": "Spiritfarer®: Farewellエディション",
     "review_count": 46973
   },
+  "973230": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steamワークショップ",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス"
+    ],
+    "jp_support": true,
+    "name": "We Who Are About To Die",
+    "review_count": 8158
+  },
   "973580": {
     "categories": [
       "シングルプレイヤー",
@@ -91598,6 +91913,22 @@
     "jp_support": true,
     "name": "Space Battle VR",
     "review_count": null
+  },
+  "982720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-12T02:04:59Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Paradise Lost",
+    "review_count": 1481
   },
   "983670": {
     "categories": [

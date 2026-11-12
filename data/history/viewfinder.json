@@ -1,6 +1,6 @@
 {
   "slug": "viewfinder",
-  "updated_at": "2026-11-08T00:07:53Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-26",
       "amount": 840,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]

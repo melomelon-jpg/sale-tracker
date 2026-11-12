@@ -1,6 +1,6 @@
 {
   "slug": "pirate-mosaic-puzzle-caribbean-treasures",
-  "updated_at": "2026-08-17T13:50:16Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -84,6 +84,26 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
       "amount": 170,
       "shop": "Steam"
     }

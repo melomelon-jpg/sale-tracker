@@ -1,6 +1,6 @@
 {
   "slug": "lords-of-the-fallen",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-12T02:04:59Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-11-02",
       "amount": 1402,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 4249,
       "shop": "Steam"
     }
   ]
