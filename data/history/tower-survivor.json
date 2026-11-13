@@ -1,6 +1,6 @@
 {
   "slug": "tower-survivor",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2025-08-01",
@@ -84,6 +84,26 @@
     },
     {
       "date": "2026-09-26",
+      "amount": 120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
       "amount": 120,
       "shop": "Steam"
     }

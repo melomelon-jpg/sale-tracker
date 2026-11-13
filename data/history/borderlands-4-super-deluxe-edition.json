@@ -1,6 +1,6 @@
 {
   "slug": "borderlands-4-super-deluxe-edition",
-  "updated_at": "2026-09-22T23:24:47Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2025-06-16",
@@ -80,6 +80,26 @@
     {
       "date": "2026-09-10",
       "amount": 8250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 16500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 8250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 16500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 6600,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "no-time-to-explain-remastered",
-  "updated_at": "2026-11-06T01:18:50Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-10-08",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 340,
       "shop": "Steam"
     }
   ]

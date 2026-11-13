@@ -1,6 +1,6 @@
 {
   "slug": "warno",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,26 @@
     {
       "date": "2026-08-19",
       "amount": 1720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-26",
+      "amount": 4300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1462,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
+      "amount": 1462,
       "shop": "Steam"
     }
   ]

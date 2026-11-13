@@ -1,6 +1,6 @@
 {
   "slug": "clair-obscur-expedition-33",
-  "updated_at": "2026-11-12T02:04:59Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2025-01-23",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-29",
       "amount": 5984,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
+      "amount": 7480,
       "shop": "Steam"
     }
   ]

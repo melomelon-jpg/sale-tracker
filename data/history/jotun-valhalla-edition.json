@@ -1,6 +1,6 @@
 {
   "slug": "jotun-valhalla-edition",
-  "updated_at": "2026-11-08T00:07:53Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-11-02",
       "amount": 190,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1900,
       "shop": "Steam"
     }
   ]

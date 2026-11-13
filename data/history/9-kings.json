@@ -1,6 +1,6 @@
 {
   "slug": "9-kings",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2025-05-23",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
       "amount": 990,
       "shop": "Steam"
     }

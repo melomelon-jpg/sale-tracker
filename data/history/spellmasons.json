@@ -1,6 +1,6 @@
 {
   "slug": "spellmasons",
-  "updated_at": "2026-08-28T22:00:25Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,26 @@
     {
       "date": "2026-08-28",
       "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-04",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
+      "amount": 1000,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "deadly-days-roadtrip",
-  "updated_at": "2026-11-12T02:04:59Z",
+  "updated_at": "2026-11-13T01:37:28Z",
   "history": [
     {
       "date": "2025-09-22",
@@ -95,6 +95,11 @@
     {
       "date": "2026-10-29",
       "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-12",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]
