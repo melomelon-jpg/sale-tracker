@@ -1,0 +1,61 @@
+{
+  "slug": "bubblegum-galaxy",
+  "updated_at": "2026-11-14T01:10:20Z",
+  "history": [
+    {
+      "date": "2026-03-11",
+      "amount": 1782,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-25",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 1584,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-24",
+      "amount": 1485,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-07",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1386,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-13",
+      "amount": 1386,
+      "shop": "Steam"
+    }
+  ]
+}

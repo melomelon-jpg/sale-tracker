@@ -1,6 +1,6 @@
 {
   "slug": "bear-and-breakfast",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-14T01:10:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,26 @@
     {
       "date": "2026-09-15",
       "amount": 782,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-22",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 759,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-13",
+      "amount": 759,
       "shop": "Steam"
     }
   ]

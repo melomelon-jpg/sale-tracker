@@ -1,6 +1,6 @@
 {
   "slug": "sos-ops",
-  "updated_at": "2026-10-09T00:55:08Z",
+  "updated_at": "2026-11-14T01:10:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,16 @@
     },
     {
       "date": "2026-09-25",
+      "amount": 79,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 799,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-13",
       "amount": 79,
       "shop": "Steam"
     }

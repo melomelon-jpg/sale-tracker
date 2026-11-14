@@ -1,0 +1,76 @@
+{
+  "slug": "deadline-delivery",
+  "updated_at": "2026-11-14T01:10:20Z",
+  "history": [
+    {
+      "date": "2026-03-16",
+      "amount": 1445,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-30",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 1360,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-13",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-12",
+      "amount": 1241,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1122,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-25",
+      "amount": 1105,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-13",
+      "amount": 1020,
+      "shop": "Steam"
+    }
+  ]
+}

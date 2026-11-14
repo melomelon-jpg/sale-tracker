@@ -1,6 +1,6 @@
 {
   "slug": "the-drifter",
-  "updated_at": "2026-11-07T00:33:16Z",
+  "updated_at": "2026-11-14T01:10:20Z",
   "history": [
     {
       "date": "2025-07-17",
@@ -115,6 +115,11 @@
     {
       "date": "2026-11-02",
       "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "mini-motorways",
-  "updated_at": "2026-11-07T00:33:16Z",
+  "updated_at": "2026-11-14T01:10:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-11-01",
       "amount": 808,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 1010,
       "shop": "Steam"
     }
   ]
