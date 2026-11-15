@@ -1,6 +1,6 @@
 {
   "slug": "athenian-rhapsody",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,26 @@
     {
       "date": "2026-09-14",
       "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 935,
       "shop": "Steam"
     }
   ]

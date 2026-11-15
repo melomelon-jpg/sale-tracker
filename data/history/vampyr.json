@@ -1,6 +1,6 @@
 {
   "slug": "vampyr",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-10-26",
       "amount": 648,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 6480,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "potion-permit",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,31 @@
     {
       "date": "2026-09-14",
       "amount": 780,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-21",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 858,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-14",
+      "amount": 924,
       "shop": "Steam"
     }
   ]

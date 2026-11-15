@@ -1,6 +1,6 @@
 {
   "slug": "creaks",
-  "updated_at": "2026-10-09T00:55:08Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,16 @@
     },
     {
       "date": "2026-10-08",
+      "amount": 480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 2400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-14",
       "amount": 480,
       "shop": "Steam"
     }

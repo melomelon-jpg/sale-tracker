@@ -1,6 +1,6 @@
 {
   "slug": "kingdoms-and-castles",
-  "updated_at": "2026-11-08T00:07:53Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-11-03",
       "amount": 884,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 2600,
       "shop": "Steam"
     }
   ]

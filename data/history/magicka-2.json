@@ -1,6 +1,6 @@
 {
   "slug": "magicka-2",
-  "updated_at": "2026-08-17T21:53:17Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,26 @@
     {
       "date": "2026-08-13",
       "amount": 497,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-19",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 497,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-14",
+      "amount": 398,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "fragmented",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -220,6 +220,16 @@
     {
       "date": "2026-10-01",
       "amount": 88,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-14",
+      "amount": 98,
       "shop": "Steam"
     }
   ]

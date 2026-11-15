@@ -1,6 +1,6 @@
 {
   "slug": "moonfall-ultimate",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -169,6 +169,26 @@
     },
     {
       "date": "2026-09-16",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-30",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 132,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-06",
       "amount": 132,
       "shop": "Steam"
     }

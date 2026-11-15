@@ -1,6 +1,6 @@
 {
   "slug": "monster-truck-championship",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-15T00:36:21Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,21 @@
     {
       "date": "2026-09-19",
       "amount": 475,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-05",
+      "amount": 260,
       "shop": "Steam"
     }
   ]

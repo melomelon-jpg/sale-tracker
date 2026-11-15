@@ -1,0 +1,66 @@
+{
+  "slug": "phonopolis",
+  "updated_at": "2026-11-15T00:36:21Z",
+  "history": [
+    {
+      "date": "2026-05-20",
+      "amount": 2610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-03",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 2610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-18",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-29",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-29",
+      "amount": 2175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-14",
+      "amount": 1740,
+      "shop": "Steam"
+    }
+  ]
+}
