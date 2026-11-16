@@ -1,6 +1,6 @@
 {
   "slug": "aven-colony",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,16 @@
     {
       "date": "2026-09-17",
       "amount": 298,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-02",
+      "amount": 596,
       "shop": "Steam"
     }
   ]

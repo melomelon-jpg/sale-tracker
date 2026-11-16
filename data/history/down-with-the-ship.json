@@ -1,0 +1,51 @@
+{
+  "slug": "down-with-the-ship",
+  "updated_at": "2026-11-16T00:37:04Z",
+  "history": [
+    {
+      "date": "2026-05-15",
+      "amount": 1710,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-29",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-20",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-27",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 1520,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 1235,
+      "shop": "Steam"
+    }
+  ]
+}

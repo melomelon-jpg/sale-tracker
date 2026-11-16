@@ -1,6 +1,6 @@
 {
   "slug": "pathfinder-wrath-of-the-righteous-enhanced-edition",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-11-03",
       "amount": 519,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 2599,
       "shop": "Steam"
     }
   ]

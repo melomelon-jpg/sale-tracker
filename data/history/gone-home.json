@@ -1,6 +1,6 @@
 {
   "slug": "gone-home",
-  "updated_at": "2026-11-10T03:05:42Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,11 @@
     {
       "date": "2026-10-30",
       "amount": 510,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-13",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "the-last-hero-of-nostalgaia",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-10-16",
       "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 514,
       "shop": "Steam"
     }
   ]

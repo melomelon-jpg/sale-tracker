@@ -1,6 +1,6 @@
 {
   "slug": "everspace-2",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,11 @@
     {
       "date": "2026-11-01",
       "amount": 1100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 5500,
       "shop": "Steam"
     }
   ]

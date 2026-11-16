@@ -1,0 +1,61 @@
+{
+  "slug": "my-little-puppy",
+  "updated_at": "2026-11-16T00:37:04Z",
+  "history": [
+    {
+      "date": "2025-11-07",
+      "amount": 2320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 2030,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-16",
+      "amount": 1740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-17",
+      "amount": 1740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 1740,
+      "shop": "Steam"
+    }
+  ]
+}

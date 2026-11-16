@@ -1,6 +1,6 @@
 {
   "slug": "universe-sandbox",
-  "updated_at": "2026-11-09T00:25:15Z",
+  "updated_at": "2026-11-16T00:37:04Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-29",
       "amount": 2579,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-09",
+      "amount": 3850,
       "shop": "Steam"
     }
   ]
