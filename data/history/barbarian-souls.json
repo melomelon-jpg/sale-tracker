@@ -1,6 +1,6 @@
 {
   "slug": "barbarian-souls",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,16 @@
     },
     {
       "date": "2026-10-10",
+      "amount": 102,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 102,
       "shop": "Steam"
     }

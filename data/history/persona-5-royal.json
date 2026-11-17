@@ -1,6 +1,6 @@
 {
   "slug": "persona-5-royal",
-  "updated_at": "2026-11-13T01:37:28Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-08",
       "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 2303,
       "shop": "Steam"
     }
   ]

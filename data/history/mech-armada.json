@@ -1,6 +1,6 @@
 {
   "slug": "mech-armada",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,16 @@
     {
       "date": "2026-09-27",
       "amount": 307,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-11",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 205,
       "shop": "Steam"
     }
   ]

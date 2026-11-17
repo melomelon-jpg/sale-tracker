@@ -1,6 +1,6 @@
 {
   "slug": "soul-hackers-2",
-  "updated_at": "2026-09-30T00:01:06Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-09-24",
+      "amount": 1975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 1975,
       "shop": "Steam"
     }

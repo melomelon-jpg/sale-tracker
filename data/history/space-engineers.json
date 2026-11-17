@@ -1,6 +1,6 @@
 {
   "slug": "space-engineers",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -175,6 +175,11 @@
     {
       "date": "2026-10-08",
       "amount": 3150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 1575,
       "shop": "Steam"
     }
   ]

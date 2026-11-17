@@ -1,6 +1,6 @@
 {
   "slug": "crimson-desert",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2025-09-25",
@@ -15,6 +15,11 @@
     {
       "date": "2026-09-09",
       "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 7744,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "roads-of-time-2-odyssey",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -44,6 +44,26 @@
     },
     {
       "date": "2026-08-17",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 170,
       "shop": "Steam"
     }

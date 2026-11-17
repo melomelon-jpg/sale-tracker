@@ -1,6 +1,6 @@
 {
   "slug": "total-war-pharaoh",
-  "updated_at": "2026-08-20T21:57:37Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,31 @@
     {
       "date": "2026-08-15",
       "amount": 877,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 4388,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-01",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 897,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 2990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 897,
       "shop": "Steam"
     }
   ]

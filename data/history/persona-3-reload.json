@@ -1,6 +1,6 @@
 {
   "slug": "persona-3-reload",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-08",
       "amount": 7678,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 2687,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "etrian-odyssey-hd",
-  "updated_at": "2026-09-29T00:46:29Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-09-24",
+      "amount": 1340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4467,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 1340,
       "shop": "Steam"
     }

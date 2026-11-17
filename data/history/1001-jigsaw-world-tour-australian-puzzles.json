@@ -1,6 +1,6 @@
 {
   "slug": "1001-jigsaw-world-tour-australian-puzzles",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -89,6 +89,16 @@
     },
     {
       "date": "2026-09-28",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-03",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 170,
       "shop": "Steam"
     }

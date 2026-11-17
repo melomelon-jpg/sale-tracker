@@ -1,6 +1,6 @@
 {
   "slug": "control-resonant",
-  "updated_at": "2026-11-10T03:05:42Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2026-06-02",
@@ -10,6 +10,11 @@
     {
       "date": "2026-11-03",
       "amount": 6392,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "amount": 7990,
       "shop": "Steam"
     }
   ]

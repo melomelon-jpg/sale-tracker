@@ -1,6 +1,6 @@
 {
   "slug": "surviving-the-aftermath",
-  "updated_at": "2026-08-18T21:49:39Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,26 @@
     {
       "date": "2026-08-17",
       "amount": 1197,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-24",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 997,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 798,
       "shop": "Steam"
     }
   ]

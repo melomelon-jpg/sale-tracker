@@ -1,6 +1,6 @@
 {
   "slug": "despots-game-dystopian-battle-simulator",
-  "updated_at": "2026-09-23T23:23:25Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,26 @@
     },
     {
       "date": "2026-09-14",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 512,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 512,
       "shop": "Steam"
     }

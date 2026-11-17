@@ -1,6 +1,6 @@
 {
   "slug": "microcivilization",
-  "updated_at": "2026-08-30T21:03:42Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -205,6 +205,26 @@
     {
       "date": "2026-08-29",
       "amount": 1350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1125,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2250,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 1125,
       "shop": "Steam"
     }
   ]

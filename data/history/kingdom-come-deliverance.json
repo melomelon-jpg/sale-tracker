@@ -1,6 +1,6 @@
 {
   "slug": "kingdom-come-deliverance",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-08",
       "amount": 3589,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 538,
       "shop": "Steam"
     }
   ]

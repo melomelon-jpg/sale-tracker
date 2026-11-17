@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -117,8 +117,8 @@
       "appid": 49520,
       "info_fetched": true,
       "lowest": {
-        "amount": 495,
-        "date": "2024-12-19"
+        "amount": 198,
+        "date": "2026-11-02"
       }
     },
     {
@@ -7964,8 +7964,8 @@
       "appid": 1904480,
       "info_fetched": true,
       "lowest": {
-        "amount": 2227,
-        "date": "2026-02-16"
+        "amount": 1782,
+        "date": "2026-11-04"
       }
     },
     {
@@ -11583,8 +11583,8 @@
       "appid": 2239150,
       "info_fetched": true,
       "lowest": {
-        "amount": 900,
-        "date": "2026-09-29"
+        "amount": 750,
+        "date": "2026-11-11"
       }
     },
     {
@@ -14529,8 +14529,8 @@
       "appid": 1669000,
       "info_fetched": true,
       "lowest": {
-        "amount": 3495,
-        "date": "2025-09-29"
+        "amount": 2796,
+        "date": "2026-11-03"
       }
     },
     {
@@ -16698,8 +16698,8 @@
       "appid": 2605790,
       "info_fetched": true,
       "lowest": {
-        "amount": 2380,
-        "date": "2026-10-01"
+        "amount": 1700,
+        "date": "2026-11-12"
       }
     },
     {

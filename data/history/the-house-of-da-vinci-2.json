@@ -1,0 +1,186 @@
+{
+  "slug": "the-house-of-da-vinci-2",
+  "updated_at": "2026-11-17T03:20:51Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2024-12-20",
+      "amount": 624,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-01-02",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-17",
+      "amount": 999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-02-24",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-13",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-03-20",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-15",
+      "amount": 999,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-04-21",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-22",
+      "amount": 499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-01",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-06-27",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-07-10",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-18",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-08-25",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-09-29",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-10-06",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-17",
+      "amount": 874,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-24",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-19",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-26",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 624,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-26",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 874,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-28",
+      "amount": 624,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-04",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 624,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-06",
+      "amount": 374,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-17",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2499,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 749,
+      "shop": "Steam"
+    }
+  ]
+}

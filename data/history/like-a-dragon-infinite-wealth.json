@@ -1,6 +1,6 @@
 {
   "slug": "like-a-dragon-infinite-wealth",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-10-15",
       "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 1936,
       "shop": "Steam"
     }
   ]

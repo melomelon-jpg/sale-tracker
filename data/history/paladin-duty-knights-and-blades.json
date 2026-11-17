@@ -1,6 +1,6 @@
 {
   "slug": "paladin-duty-knights-and-blades",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-10-10",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-17",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 96,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "sonic-forces",
-  "updated_at": "2026-08-21T21:53:09Z",
+  "updated_at": "2026-11-17T03:20:51Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 822,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 3289,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 822,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 3289,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
       "amount": 822,
       "shop": "Steam"
     }
