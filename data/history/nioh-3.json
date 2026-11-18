@@ -1,6 +1,6 @@
 {
   "slug": "nioh-3",
-  "updated_at": "2026-11-11T00:58:01Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2025-09-25",
@@ -75,6 +75,11 @@
     {
       "date": "2026-10-08",
       "amount": 9680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
+      "amount": 4840,
       "shop": "Steam"
     }
   ]

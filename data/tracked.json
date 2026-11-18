@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "items": [
     {
       "id": "018d9584-24d6-7010-b82b-df1f0b154cc7",
@@ -5792,8 +5792,8 @@
       "appid": 1043810,
       "info_fetched": true,
       "lowest": {
-        "amount": 1265,
-        "date": "2026-06-25"
+        "amount": 1150,
+        "date": "2026-11-12"
       }
     },
     {
@@ -9730,8 +9730,8 @@
       "appid": 2062430,
       "info_fetched": true,
       "lowest": {
-        "amount": 1122,
-        "date": "2026-08-06"
+        "amount": 850,
+        "date": "2026-11-12"
       }
     },
     {

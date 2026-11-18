@@ -1,6 +1,6 @@
 {
   "slug": "nioh-2-the-complete-edition",
-  "updated_at": "2026-11-14T01:10:20Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,11 @@
     {
       "date": "2026-10-08",
       "amount": 6380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
+      "amount": 2552,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "call-of-duty-black-ops-iii-zombies-chronicles-edition",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,16 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 2247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 8990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 2247,
       "shop": "Steam"
     }

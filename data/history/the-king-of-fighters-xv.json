@@ -1,6 +1,6 @@
 {
   "slug": "the-king-of-fighters-xv",
-  "updated_at": "2026-09-12T21:05:57Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -94,6 +94,16 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 990,
       "shop": "Steam"
     }

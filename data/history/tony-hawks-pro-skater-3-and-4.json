@@ -1,6 +1,6 @@
 {
   "slug": "tony-hawks-pro-skater-3-and-4",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2025-03-04",
@@ -90,6 +90,26 @@
     {
       "date": "2026-09-03",
       "amount": 4119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 7490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4119,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
+      "amount": 3745,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "daemon-x-machina",
-  "updated_at": "2026-09-11T21:05:57Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -119,6 +119,26 @@
     },
     {
       "date": "2026-09-02",
+      "amount": 1315,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 6578,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1315,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6578,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 1315,
       "shop": "Steam"
     }

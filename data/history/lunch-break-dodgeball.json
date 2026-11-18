@@ -1,6 +1,6 @@
 {
   "slug": "lunch-break-dodgeball",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2026-08-16",
@@ -14,6 +14,16 @@
     },
     {
       "date": "2026-10-09",
+      "amount": 108,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-16",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 108,
       "shop": "Steam"
     }

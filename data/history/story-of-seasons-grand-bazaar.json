@@ -1,6 +1,6 @@
 {
   "slug": "story-of-seasons-grand-bazaar",
-  "updated_at": "2026-09-02T21:06:03Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2025-08-27",
@@ -59,6 +59,26 @@
     },
     {
       "date": "2026-09-02",
+      "amount": 4620,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4620,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 6600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 4620,
       "shop": "Steam"
     }

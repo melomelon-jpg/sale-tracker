@@ -1,6 +1,6 @@
 {
   "slug": "dark-souls-ii-scholar-of-the-first-sin",
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -34,22 +34,22 @@
     },
     {
       "date": "2025-05-01",
-      "amount": 2860,
+      "amount": 2310,
       "shop": "Steam"
     },
     {
       "date": "2025-05-01",
-      "amount": 2310,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-05-15",
-      "amount": 4620,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
       "date": "2025-05-15",
       "amount": 5720,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-05-15",
+      "amount": 4620,
       "shop": "Steam"
     },
     {
@@ -94,12 +94,12 @@
     },
     {
       "date": "2026-02-12",
-      "amount": 2860,
+      "amount": 2310,
       "shop": "Steam"
     },
     {
       "date": "2026-02-12",
-      "amount": 2310,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "date": "2026-04-20",
-      "amount": 2310,
+      "amount": 2860,
       "shop": "Steam"
     },
     {
       "date": "2026-04-20",
-      "amount": 2860,
+      "amount": 2310,
       "shop": "Steam"
     },
     {

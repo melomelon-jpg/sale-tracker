@@ -1,6 +1,6 @@
 {
   "slug": "call-of-duty-wwii",
-  "updated_at": "2026-09-09T21:05:58Z",
+  "updated_at": "2026-11-18T02:40:54Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 2247,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-17",
+      "amount": 8990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
       "amount": 2247,
       "shop": "Steam"
     }
