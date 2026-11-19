@@ -1,6 +1,6 @@
 {
   "slug": "blood-knot",
-  "updated_at": "2026-08-22T21:44:39Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -194,6 +194,36 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
       "amount": 97,
       "shop": "Steam"
     }

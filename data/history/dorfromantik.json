@@ -1,6 +1,6 @@
 {
   "slug": "dorfromantik",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-11-01",
       "amount": 923,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 1420,
       "shop": "Steam"
     }
   ]

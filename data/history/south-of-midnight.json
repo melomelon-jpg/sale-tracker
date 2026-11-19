@@ -1,25 +1,15 @@
 {
   "slug": "south-of-midnight",
-  "updated_at": "2026-11-12T02:04:59Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2025-01-23",
-      "amount": 5390,
+      "amount": 7040,
       "shop": "Steam"
     },
     {
       "date": "2025-01-23",
-      "amount": 7040,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-03-26",
-      "amount": 7040,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-06-07",
-      "amount": 5632,
+      "amount": 5390,
       "shop": "Steam"
     },
     {
@@ -28,6 +18,11 @@
       "shop": "Steam"
     },
     {
+      "date": "2025-06-07",
+      "amount": 5632,
+      "shop": "Steam"
+    },
+    {
       "date": "2025-06-16",
       "amount": 7040,
       "shop": "Steam"
@@ -69,12 +64,17 @@
     },
     {
       "date": "2025-10-06",
-      "amount": 7040,
+      "amount": 5390,
       "shop": "Steam"
     },
     {
       "date": "2025-10-06",
-      "amount": 5390,
+      "amount": 7040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-11-21",
+      "amount": 4042,
       "shop": "Steam"
     },
     {
@@ -83,8 +83,8 @@
       "shop": "Steam"
     },
     {
-      "date": "2025-11-21",
-      "amount": 4042,
+      "date": "2025-12-02",
+      "amount": 5390,
       "shop": "Steam"
     },
     {
@@ -93,18 +93,13 @@
       "shop": "Steam"
     },
     {
-      "date": "2025-12-02",
-      "amount": 5390,
+      "date": "2025-12-18",
+      "amount": 4042,
       "shop": "Steam"
     },
     {
       "date": "2025-12-18",
       "amount": 5280,
-      "shop": "Steam"
-    },
-    {
-      "date": "2025-12-18",
-      "amount": 4042,
       "shop": "Steam"
     },
     {
@@ -129,12 +124,17 @@
     },
     {
       "date": "2026-02-02",
-      "amount": 5390,
+      "amount": 7040,
       "shop": "Steam"
     },
     {
       "date": "2026-02-02",
-      "amount": 7040,
+      "amount": 5390,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-31",
+      "amount": 5390,
       "shop": "Steam"
     },
     {

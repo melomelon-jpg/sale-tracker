@@ -1,6 +1,6 @@
 {
   "slug": "nier-replicant-ver-1-22474487139",
-  "updated_at": "2026-11-18T02:40:54Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-08",
       "amount": 8580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 3432,
       "shop": "Steam"
     }
   ]

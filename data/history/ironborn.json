@@ -1,6 +1,6 @@
 {
   "slug": "ironborn",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,36 @@
     {
       "date": "2026-08-22",
       "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 96,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 108,
       "shop": "Steam"
     }
   ]

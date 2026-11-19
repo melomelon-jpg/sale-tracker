@@ -1,6 +1,6 @@
 {
   "slug": "millennium-deluxe-edition-contains-game-and-guide-and-goodies",
-  "updated_at": "2026-09-03T21:06:42Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -184,6 +184,36 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 112,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
       "amount": 112,
       "shop": "Steam"
     }

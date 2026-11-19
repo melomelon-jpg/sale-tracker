@@ -1,6 +1,6 @@
 {
   "slug": "paranormasight-the-seven-mysteries-of-honjo",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-09-18",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
       "amount": 990,
       "shop": "Steam"
     }

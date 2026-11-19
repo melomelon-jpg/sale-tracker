@@ -1,6 +1,6 @@
 {
   "slug": "the-last-gas-station",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2026-04-28",
@@ -35,6 +35,26 @@
     {
       "date": "2026-09-15",
       "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 720,
       "shop": "Steam"
     }
   ]

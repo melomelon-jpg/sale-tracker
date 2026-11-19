@@ -1,6 +1,6 @@
 {
   "slug": "final-fantasy-x-x-2-hd-remaster",
-  "updated_at": "2026-11-12T02:04:59Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-10-08",
       "amount": 3463,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 1385,
       "shop": "Steam"
     }
   ]

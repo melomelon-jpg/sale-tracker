@@ -4217,6 +4217,30 @@
     "name": "NieR Replicant™ ver.1.22474487139...",
     "review_count": 21402
   },
+  "1113570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "テキストサイズの調整",
+      "色のオプション",
+      "カスタム音量調整",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Voice of Cards ドラゴンの島",
+    "review_count": 1287
+  },
   "1113750": {
     "categories": [
       "シングルプレイヤー",
@@ -14023,6 +14047,20 @@
     "name": "Patch Quest",
     "review_count": 2060
   },
+  "13500": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": false,
+    "name": "Prince of Persia: Warrior Within™",
+    "review_count": 4018
+  },
   "1350200": {
     "categories": [
       "シングルプレイヤー",
@@ -15536,6 +15574,29 @@
     "jp_support": true,
     "name": "リトルナイトメア3",
     "review_count": 10089
+  },
+  "1393370": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "アクトレイザー・ルネサンス",
+    "review_count": 716
   },
   "1393750": {
     "categories": [
@@ -33205,6 +33266,21 @@
     "name": "Reborn Souls",
     "review_count": null
   },
+  "1989630": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "That Which Was Lost",
+    "review_count": null
+  },
   "1989640": {
     "categories": [
       "シングルプレイヤー",
@@ -38628,6 +38704,62 @@
     "name": "Save the Queen",
     "review_count": null
   },
+  "2188480": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "She Who Rises",
+    "review_count": null
+  },
+  "2188490": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Heavy Lies the Crown",
+    "review_count": null
+  },
+  "2188500": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "From the Ashes",
+    "review_count": null
+  },
+  "2188510": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Breath of the Gods",
+    "review_count": null
+  },
   "219150": {
     "categories": [
       "シングルプレイヤー",
@@ -41549,6 +41681,20 @@
     ],
     "jp_support": false,
     "name": "Shadows of the Night",
+    "review_count": null
+  },
+  "2302030": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The Dragon Queen",
     "review_count": null
   },
   "2302040": {
@@ -44798,6 +44944,36 @@
     "name": "Sherlock Holmes: Crimes and Punishments",
     "review_count": 7060
   },
+  "2413470": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Knights of the Throne",
+    "review_count": null
+  },
+  "2413480": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Through the Mist",
+    "review_count": null
+  },
   "2413490": {
     "categories": [
       "シングルプレイヤー",
@@ -44811,6 +44987,21 @@
     ],
     "jp_support": false,
     "name": "Crown of Light",
+    "review_count": null
+  },
+  "2413500": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The Last Seal",
     "review_count": null
   },
   "2414270": {
@@ -48451,6 +48642,53 @@
     "name": "Zakantosh Cardgame",
     "review_count": null
   },
+  "2551820": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "From the Deep",
+    "review_count": null
+  },
+  "2551830": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "Echoes of Numa",
+    "review_count": null
+  },
+  "2551840": {
+    "categories": [
+      "シングルプレイヤー",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "From Light",
+    "review_count": null
+  },
   "2552430": {
     "categories": [
       "シングルプレイヤー",
@@ -49879,6 +50117,36 @@
     "jp_support": true,
     "name": "The Elder Scrolls IV: Oblivion Remastered",
     "review_count": 59327
+  },
+  "2624870": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Life is Strange: Reunion",
+    "review_count": 4755
   },
   "2625420": {
     "categories": [
@@ -51555,6 +51823,23 @@
     "jp_support": true,
     "name": "Escape: Zombie Maze",
     "review_count": null
+  },
+  "2716400": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "The Rise of the Golden Idol",
+    "review_count": 3870
   },
   "2717880": {
     "categories": [
@@ -59233,6 +59518,28 @@
     "name": "Puzzle Agent",
     "review_count": 1618
   },
+  "312750": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "マウスのみのオプション",
+      "時間制限付き入力なしでプレイ可能",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Final Fantasy IV (3D Remake)",
+    "review_count": 2759
+  },
   "312780": {
     "categories": [
       "シングルプレイヤー",
@@ -63988,6 +64295,34 @@
     "jp_support": true,
     "name": "東方ファンタジー ～toho fantasy～",
     "review_count": null
+  },
+  "3483510": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "ゲームパッド推奨",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "冒険家エリオットの千年物語",
+    "review_count": 1845
   },
   "3483740": {
     "categories": [
@@ -78827,6 +79162,31 @@
     "jp_support": false,
     "name": "My Summer Car",
     "review_count": 107719
+  },
+  "517630": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "字幕オプション",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Just Cause 4 Reloaded",
+    "review_count": 23519
   },
   "518150": {
     "categories": [
@@ -95575,6 +95935,31 @@
     "name": "Dieselpunk Wars",
     "review_count": 115
   },
+  "952540": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "色のオプション",
+      "キーボードのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "タッチのみのオプション",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "ロマンシング サガ3",
+    "review_count": 487
+  },
   "953490": {
     "categories": [
       "シングルプレイヤー",
@@ -96954,6 +97339,28 @@
     "jp_support": false,
     "name": "Recompile",
     "review_count": 146
+  },
+  "987720": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カスタム音量調整",
+      "難易度の調整",
+      "キーボードのみのオプション",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-19T02:10:25Z",
+    "genres": [
+      "アクション",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "ONINAKI",
+    "review_count": 335
   },
   "989690": {
     "categories": [

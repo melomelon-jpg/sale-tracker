@@ -1,6 +1,6 @@
 {
   "slug": "star-wars-outlaws",
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -165,6 +165,11 @@
     {
       "date": "2026-10-08",
       "amount": 9790,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 1958,
       "shop": "Steam"
     }
   ]

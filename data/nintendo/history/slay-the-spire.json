@@ -2,7 +2,7 @@
   "slug": "slay-the-spire",
   "title": "Slay the Spire",
   "nsuid": "70010000012390",
-  "updated_at": "2026-11-18T02:57:32Z",
+  "updated_at": "2026-11-19T02:38:19Z",
   "history": [
     {
       "date": "2026-08-18",
@@ -452,6 +452,13 @@
       "date": "2026-11-18",
       "regular": 2570,
       "current": 2570
+    },
+    {
+      "date": "2026-11-19",
+      "regular": 2570,
+      "current": 642,
+      "on_sale": true,
+      "sale_end": "2026-12-02T14:59:59Z"
     }
   ]
 }

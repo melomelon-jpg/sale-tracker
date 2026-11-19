@@ -1,6 +1,6 @@
 {
   "slug": "far-cry-6",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,16 @@
     {
       "date": "2026-09-17",
       "amount": 924,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 9240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 2310,
       "shop": "Steam"
     }
   ]

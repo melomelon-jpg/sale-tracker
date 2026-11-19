@@ -1,6 +1,6 @@
 {
   "slug": "the-elder-scrolls-v-skyrim-special-edition",
-  "updated_at": "2026-11-18T02:40:54Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-11-11",
       "amount": 879,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 4399,
       "shop": "Steam"
     }
   ]

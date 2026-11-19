@@ -1,6 +1,6 @@
 {
   "slug": "world-of-final-fantasy",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,16 @@
     },
     {
       "date": "2026-09-18",
+      "amount": 1496,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3740,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
       "amount": 1496,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "undefeated-strategist-edition-contains-game-and-guide",
-  "updated_at": "2026-09-04T21:05:57Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -179,6 +179,36 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 94,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 94,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 94,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1180,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
       "amount": 94,
       "shop": "Steam"
     }

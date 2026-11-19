@@ -1,6 +1,6 @@
 {
   "slug": "sleeping-dogs-definitive-edition",
-  "updated_at": "2026-11-18T02:40:54Z",
+  "updated_at": "2026-11-19T02:10:25Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-10-19",
       "amount": 2023,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 303,
       "shop": "Steam"
     }
   ]
