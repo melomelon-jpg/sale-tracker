@@ -1,6 +1,6 @@
 {
   "slug": "marvels-guardians-of-the-galaxy",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -144,6 +144,26 @@
     },
     {
       "date": "2026-08-24",
+      "amount": 1246,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-07",
+      "amount": 8310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1246,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8310,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
       "amount": 1246,
       "shop": "Steam"
     }

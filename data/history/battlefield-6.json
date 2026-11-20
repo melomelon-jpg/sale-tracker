@@ -1,6 +1,6 @@
 {
   "slug": "battlefield-6",
-  "updated_at": "2026-10-20T00:03:24Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2025-07-31",
@@ -100,6 +100,16 @@
     {
       "date": "2026-10-13",
       "amount": 3920,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-11",
+      "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 3234,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "battlefield-2042",
-  "updated_at": "2026-09-15T21:06:14Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -110,6 +110,26 @@
     {
       "date": "2026-09-14",
       "amount": 870,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-28",
+      "amount": 8700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 870,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 435,
       "shop": "Steam"
     }
   ]

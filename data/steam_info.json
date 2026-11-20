@@ -9815,6 +9815,100 @@
     "name": "Dead Space™ 3",
     "review_count": 12236
   },
+  "1238810": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "HDR使用可能"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Battlefield™ V",
+    "review_count": 238044
+  },
+  "1238820": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "バトルフィールド 3 ",
+    "review_count": 16702
+  },
+  "1238840": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "HDR使用可能"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション",
+      "MM（Massively Multiplayer）"
+    ],
+    "jp_support": true,
+    "name": "バトルフィールド 1 ",
+    "review_count": 203390
+  },
+  "1238860": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "HDR使用可能"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "バトルフィールド 4 ",
+    "review_count": 70073
+  },
+  "1238880": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "バトルフィールド ハードライン Ultimateエディション",
+    "review_count": 4099
+  },
   "1239080": {
     "categories": [
       "シングルプレイヤー",
@@ -45572,6 +45666,31 @@
     "name": "The Forest",
     "review_count": 579247
   },
+  "2428810": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "LEGO® ホライゾン アドベンチャー",
+    "review_count": 407
+  },
   "2428980": {
     "categories": [
       "シングルプレイヤー",
@@ -63033,6 +63152,39 @@
     "name": "空の軌跡 the 1st",
     "review_count": 4401
   },
+  "3378960": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "色のオプション",
+      "カスタム音量調整",
+      "難易度の調整",
+      "ゲームパッド推奨",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Lost Soul Aside™",
+    "review_count": 1314
+  },
   "337980": {
     "categories": [
       "シングルプレイヤー",
@@ -68553,6 +68705,34 @@
     "name": "Thea: The Awakening",
     "review_count": 3441
   },
+  "3787240": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "データ",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アクション",
+      "カジュアル"
+    ],
+    "jp_support": true,
+    "name": "MARVEL Tōkon: Fighting Souls",
+    "review_count": 5140
+  },
   "379430": {
     "categories": [
       "シングルプレイヤー",
@@ -72389,6 +72569,26 @@
     "jp_support": false,
     "name": "Moto Racer  4",
     "review_count": 346
+  },
+  "417880": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-20T01:58:38Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Everybody's Gone to the Rapture",
+    "review_count": 1866
   },
   "418030": {
     "categories": [

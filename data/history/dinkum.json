@@ -1,6 +1,6 @@
 {
   "slug": "dinkum",
-  "updated_at": "2026-11-13T01:37:28Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,11 @@
     {
       "date": "2026-10-15",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 1840,
       "shop": "Steam"
     }
   ]

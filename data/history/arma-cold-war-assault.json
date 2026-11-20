@@ -1,6 +1,6 @@
 {
   "slug": "arma-cold-war-assault",
-  "updated_at": "2026-11-13T01:37:28Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-11-12",
       "amount": 240,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 1200,
       "shop": "Steam"
     }
   ]

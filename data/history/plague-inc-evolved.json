@@ -1,6 +1,6 @@
 {
   "slug": "plague-inc-evolved",
-  "updated_at": "2026-11-13T01:37:28Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-11-04",
       "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-18",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

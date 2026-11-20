@@ -1,6 +1,6 @@
 {
   "slug": "wuchang-fallen-feathers",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2025-04-29",
@@ -69,6 +69,16 @@
     },
     {
       "date": "2026-10-02",
+      "amount": 5082,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7260,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
       "amount": 5082,
       "shop": "Steam"
     }

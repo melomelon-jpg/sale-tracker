@@ -1,6 +1,6 @@
 {
   "slug": "days-gone",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-08",
       "amount": 4290,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 1415,
       "shop": "Steam"
     }
   ]

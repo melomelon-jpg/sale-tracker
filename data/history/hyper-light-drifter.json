@@ -1,6 +1,6 @@
 {
   "slug": "hyper-light-drifter",
-  "updated_at": "2026-11-18T02:40:54Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -75,6 +75,11 @@
     {
       "date": "2026-10-08",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 495,
       "shop": "Steam"
     }
   ]

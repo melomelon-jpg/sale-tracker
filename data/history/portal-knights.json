@@ -1,6 +1,6 @@
 {
   "slug": "portal-knights",
-  "updated_at": "2026-09-13T21:05:42Z",
+  "updated_at": "2026-11-20T01:58:38Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-09-10",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 297,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
       "amount": 297,
       "shop": "Steam"
     }
