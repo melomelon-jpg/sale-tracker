@@ -1,6 +1,6 @@
 {
   "slug": "tails-of-iron-2-whiskers-of-winter",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-21T01:55:02Z",
   "history": [
     {
       "date": "2025-01-28",
@@ -155,6 +155,16 @@
     {
       "date": "2026-10-12",
       "amount": 1120,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
+      "amount": 840,
       "shop": "Steam"
     }
   ]

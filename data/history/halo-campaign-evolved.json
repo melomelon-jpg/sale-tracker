@@ -1,0 +1,26 @@
+{
+  "slug": "halo-campaign-evolved",
+  "updated_at": "2026-11-21T01:55:02Z",
+  "history": [
+    {
+      "date": "2026-06-07",
+      "amount": 7900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-24",
+      "amount": 6320,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 7900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
+      "amount": 4740,
+      "shop": "Steam"
+    }
+  ]
+}

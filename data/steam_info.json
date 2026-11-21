@@ -3701,6 +3701,36 @@
     "name": "Weird West: Definitive Edition",
     "review_count": 3938
   },
+  "1097840": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "共有／分割画面でのPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "キャプション使用可能",
+      "アプリ内購入",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-21T01:55:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Gears 5",
+    "review_count": 21475
+  },
   "1098770": {
     "categories": [
       "シングルプレイヤー",
@@ -28931,6 +28961,29 @@
     "name": "Witchbrook",
     "review_count": null
   },
+  "1847160": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "カスタム音量調整",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-21T01:55:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "ジョニー・ボーイ: 赤い月の接吻",
+    "review_count": null
+  },
   "1849790": {
     "categories": [
       "シングルプレイヤー",
@@ -53334,6 +53387,43 @@
     "name": "Fight till the End!",
     "review_count": null
   },
+  "2806050": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "テキストサイズの調整",
+      "カメラの快適性",
+      "チャットの文字起こし",
+      "チャットのテキスト読み上げ",
+      "色のオプション",
+      "#category_contrast_controls",
+      "カスタム音量調整",
+      "難易度の調整",
+      "ナレーション付きゲームメニュー",
+      "#category_playable_at_your_own_pace",
+      "時間制限付き入力なしでプレイ可能",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "ステレオサウンド",
+      "字幕オプション",
+      "サラウンドサウンド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-21T01:55:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Halo: Campaign Evolved",
+    "review_count": 13065
+  },
   "2806640": {
     "categories": [
       "シングルプレイヤー",
@@ -57384,6 +57474,31 @@
     "jp_support": true,
     "name": "3D PUZZLE - Hospital 4",
     "review_count": null
+  },
+  "3010850": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "アプリ内購入",
+      "DualSenseコントローラーサポート",
+      "HDR使用可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-21T01:55:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Gears of War: E-Day",
+    "review_count": 11698
   },
   "301280": {
     "categories": [
@@ -92918,6 +93033,25 @@
     "jp_support": true,
     "name": "Yooka-Laylee and the Impossible Lair",
     "review_count": 874
+  },
+  "847370": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "テレビでRemote Play",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-21T01:55:02Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Sunset Overdrive",
+    "review_count": 12179
   },
   "848350": {
     "categories": [

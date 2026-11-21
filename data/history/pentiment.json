@@ -1,6 +1,6 @@
 {
   "slug": "pentiment",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-21T01:55:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-10-08",
       "amount": 2090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
+      "amount": 522,
       "shop": "Steam"
     }
   ]

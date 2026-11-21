@@ -1,0 +1,51 @@
+{
+  "slug": "johnny-boy-red-moons-kiss",
+  "updated_at": "2026-11-21T01:55:02Z",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "amount": 620,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-02-11",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-03-19",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-04-09",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-09",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-05-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1725,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-23",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
+      "amount": 138,
+      "shop": "Steam"
+    }
+  ]
+}

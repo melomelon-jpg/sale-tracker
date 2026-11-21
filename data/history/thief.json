@@ -1,6 +1,6 @@
 {
   "slug": "thief",
-  "updated_at": "2026-11-14T01:10:20Z",
+  "updated_at": "2026-11-21T01:55:02Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-10-08",
       "amount": 2770,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 415,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "ninja-gaiden-4",
-  "updated_at": "2026-09-27T23:32:09Z",
+  "updated_at": "2026-11-21T01:55:02Z",
   "history": [
     {
       "date": "2025-06-08",
@@ -99,6 +99,16 @@
     },
     {
       "date": "2026-09-24",
+      "amount": 4450,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 8900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
       "amount": 4450,
       "shop": "Steam"
     }
