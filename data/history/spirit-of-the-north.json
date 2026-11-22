@@ -1,6 +1,6 @@
 {
   "slug": "spirit-of-the-north",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,16 @@
     {
       "date": "2026-10-01",
       "amount": 307,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 205,
       "shop": "Steam"
     }
   ]

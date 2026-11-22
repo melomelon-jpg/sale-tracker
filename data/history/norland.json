@@ -1,6 +1,6 @@
 {
   "slug": "norland",
-  "updated_at": "2026-10-14T23:35:22Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 1490,
       "shop": "Steam"
     }

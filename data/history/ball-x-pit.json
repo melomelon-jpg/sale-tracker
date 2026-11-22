@@ -1,6 +1,6 @@
 {
   "slug": "ball-x-pit",
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-10-15",
@@ -90,6 +90,11 @@
     {
       "date": "2026-11-12",
       "amount": 850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 1700,
       "shop": "Steam"
     }
   ]

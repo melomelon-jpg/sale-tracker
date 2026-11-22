@@ -1,6 +1,6 @@
 {
   "slug": "lost-records-bloom-and-rage",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-02-18",
@@ -155,6 +155,16 @@
     {
       "date": "2026-10-08",
       "amount": 2674,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 4862,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 2431,
       "shop": "Steam"
     }
   ]

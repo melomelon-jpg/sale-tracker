@@ -1,6 +1,6 @@
 {
   "slug": "skin-deep",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-04-30",
@@ -125,6 +125,16 @@
     {
       "date": "2026-10-01",
       "amount": 1410,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 1175,
       "shop": "Steam"
     }
   ]

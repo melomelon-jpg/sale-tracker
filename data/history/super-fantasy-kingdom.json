@@ -1,6 +1,6 @@
 {
   "slug": "super-fantasy-kingdom",
-  "updated_at": "2026-10-20T00:03:24Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-10-24",
@@ -94,6 +94,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 990,
       "shop": "Steam"
     }

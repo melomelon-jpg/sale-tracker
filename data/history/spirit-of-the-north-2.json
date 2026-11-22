@@ -1,6 +1,6 @@
 {
   "slug": "spirit-of-the-north-2",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-05-08",
@@ -125,6 +125,26 @@
     {
       "date": "2026-09-12",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 1530,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 1360,
       "shop": "Steam"
     }
   ]

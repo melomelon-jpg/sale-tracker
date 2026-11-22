@@ -1,6 +1,6 @@
 {
   "slug": "townscaper",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,16 @@
     {
       "date": "2026-10-01",
       "amount": 280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 245,
       "shop": "Steam"
     }
   ]

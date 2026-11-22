@@ -1,6 +1,6 @@
 {
   "slug": "valfaris",
-  "updated_at": "2026-09-25T23:44:47Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-12",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-26",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 257,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 257,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "forza-horizon-6",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2026-01-22",
@@ -25,6 +25,11 @@
     {
       "date": "2026-10-08",
       "amount": 9800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
+      "amount": 7350,
       "shop": "Steam"
     }
   ]

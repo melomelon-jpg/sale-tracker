@@ -1,6 +1,6 @@
 {
   "slug": "endless-legend-2",
-  "updated_at": "2026-09-20T22:52:33Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-09-22",
@@ -94,6 +94,26 @@
     },
     {
       "date": "2026-09-17",
+      "amount": 2490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 4980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 2490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 2490,
       "shop": "Steam"
     }

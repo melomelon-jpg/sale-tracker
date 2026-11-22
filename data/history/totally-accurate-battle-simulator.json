@@ -1,6 +1,6 @@
 {
   "slug": "totally-accurate-battle-simulator",
-  "updated_at": "2026-10-21T23:51:29Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 748,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 748,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "darkwood",
-  "updated_at": "2026-11-20T01:58:38Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -225,6 +225,11 @@
     {
       "date": "2026-10-22",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 198,
       "shop": "Steam"
     }
   ]

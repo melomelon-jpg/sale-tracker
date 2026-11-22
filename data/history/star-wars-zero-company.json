@@ -1,10 +1,15 @@
 {
   "slug": "star-wars-zero-company",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2026-06-06",
       "amount": 6900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 5520,
       "shop": "Steam"
     }
   ]

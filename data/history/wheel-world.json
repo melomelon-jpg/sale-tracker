@@ -1,6 +1,6 @@
 {
   "slug": "wheel-world",
-  "updated_at": "2026-10-15T23:29:43Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-07-23",
@@ -114,6 +114,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1175,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2350,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 1175,
       "shop": "Steam"
     }

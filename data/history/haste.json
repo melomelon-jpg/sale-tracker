@@ -1,6 +1,6 @@
 {
   "slug": "haste",
-  "updated_at": "2026-11-18T02:40:54Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2025-04-01",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-22",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 1380,
       "shop": "Steam"
     }
   ]

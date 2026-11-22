@@ -1,6 +1,6 @@
 {
   "slug": "xenonauts-2",
-  "updated_at": "2026-10-20T00:03:24Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,16 @@
     {
       "date": "2026-10-02",
       "amount": 1990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 3980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 1592,
       "shop": "Steam"
     }
   ]

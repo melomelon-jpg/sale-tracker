@@ -1,6 +1,6 @@
 {
   "slug": "gambonanza",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2026-05-01",
@@ -24,6 +24,26 @@
     },
     {
       "date": "2026-08-22",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-05",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 975,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 975,
       "shop": "Steam"
     }

@@ -1373,6 +1373,23 @@
     "name": "EARTH DEFENSE FORCE: IRON RAIN",
     "review_count": 1256
   },
+  "1040200": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-22T00:51:00Z",
+    "genres": [
+      "アクション",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "Crime Scene Cleaner",
+    "review_count": 33181
+  },
   "1040420": {
     "categories": [
       "シングルプレイヤー",
@@ -24991,6 +25008,22 @@
     "jp_support": false,
     "name": "ECO HOLE",
     "review_count": 234
+  },
+  "1676910": {
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-22T00:51:00Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Onde",
+    "review_count": 240
   },
   "1676920": {
     "categories": [
@@ -70054,6 +70087,34 @@
     "jp_support": false,
     "name": "Sid Meier's Civilization® III Complete",
     "review_count": 5684
+  },
+  "3912150": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-22T00:51:00Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Cosmic Rescue",
+    "review_count": null
+  },
+  "3912160": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-22T00:51:00Z",
+    "genres": [
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": false,
+    "name": "Devil Laugh",
+    "review_count": null
   },
   "391220": {
     "categories": [

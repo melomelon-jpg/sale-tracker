@@ -1,0 +1,36 @@
+{
+  "slug": "devil-laugh",
+  "updated_at": "2026-11-22T00:51:00Z",
+  "history": [
+    {
+      "date": "2025-10-08",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2025-12-23",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-01-05",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-06-25",
+      "amount": 1090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-07-09",
+      "amount": 10900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
+      "amount": 545,
+      "shop": "Steam"
+    }
+  ]
+}

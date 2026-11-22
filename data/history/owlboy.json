@@ -1,6 +1,6 @@
 {
   "slug": "owlboy",
-  "updated_at": "2026-11-15T00:36:21Z",
+  "updated_at": "2026-11-22T00:51:00Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -220,6 +220,11 @@
     {
       "date": "2026-11-01",
       "amount": 230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-15",
+      "amount": 2300,
       "shop": "Steam"
     }
   ]
