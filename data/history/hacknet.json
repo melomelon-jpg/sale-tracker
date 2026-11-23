@@ -1,6 +1,6 @@
 {
   "slug": "hacknet",
-  "updated_at": "2026-11-22T00:51:00Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -200,6 +200,11 @@
     {
       "date": "2026-10-22",
       "amount": 1200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-22",
+      "amount": 180,
       "shop": "Steam"
     }
   ]

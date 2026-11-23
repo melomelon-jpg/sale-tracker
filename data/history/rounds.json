@@ -1,6 +1,6 @@
 {
   "slug": "rounds",
-  "updated_at": "2026-10-10T00:25:27Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 335,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 670,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-21",
       "amount": 335,
       "shop": "Steam"
     }

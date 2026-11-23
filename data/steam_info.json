@@ -26018,6 +26018,22 @@
     "name": "初代ドワーフ (First Dwarf)",
     "review_count": 312
   },
+  "1715130": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-23T01:19:03Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Crysis Remastered",
+    "review_count": 17018
+  },
   "1715590": {
     "categories": [
       "シングルプレイヤー",
@@ -27640,6 +27656,29 @@
     "jp_support": true,
     "name": "ドラゴンボール Sparking! ZERO",
     "review_count": 50399
+  },
+  "1792250": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "Steamワークショップ",
+      "Steamクラウド",
+      "レベル編集可能",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-23T01:19:03Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "Serious Sam: Siberian Mayhem",
+    "review_count": 4818
   },
   "1793030": {
     "categories": [
@@ -34421,6 +34460,35 @@
     "name": "Voidwrought",
     "review_count": 965
   },
+  "2015270": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-23T01:19:03Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "Rotwood",
+    "review_count": 7534
+  },
   "2015960": {
     "categories": [
       "シングルプレイヤー",
@@ -36695,6 +36763,38 @@
     "jp_support": false,
     "name": "The Ouroboros King",
     "review_count": 480
+  },
+  "2096600": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-23T01:19:03Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Crysis 2 Remastered",
+    "review_count": 9200
+  },
+  "2096610": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-23T01:19:03Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Crysis 3 Remastered",
+    "review_count": 7888
   },
   "209670": {
     "categories": [

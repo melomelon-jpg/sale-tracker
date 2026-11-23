@@ -1,6 +1,6 @@
 {
   "slug": "serious-sam-4",
-  "updated_at": "2026-09-08T21:05:51Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,26 @@
     },
     {
       "date": "2026-08-31",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-22",
       "amount": 900,
       "shop": "Steam"
     }

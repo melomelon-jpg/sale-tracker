@@ -1,6 +1,6 @@
 {
   "slug": "cave-story-plus",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-08",
       "amount": 1480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-17",
+      "amount": 1184,
       "shop": "Steam"
     }
   ]

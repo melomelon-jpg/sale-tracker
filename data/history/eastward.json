@@ -1,6 +1,6 @@
 {
   "slug": "eastward",
-  "updated_at": "2026-11-16T00:37:04Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-11-02",
       "amount": 1400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-16",
+      "amount": 2800,
       "shop": "Steam"
     }
   ]

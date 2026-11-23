@@ -1,6 +1,6 @@
 {
   "slug": "mao-mao-pao-ku",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2026-08-05",
@@ -25,6 +25,16 @@
     {
       "date": "2026-10-09",
       "amount": 265,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 2650,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-22",
+      "amount": 132,
       "shop": "Steam"
     }
   ]

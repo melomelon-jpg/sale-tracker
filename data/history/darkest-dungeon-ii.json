@@ -1,6 +1,6 @@
 {
   "slug": "darkest-dungeon-ii",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -190,6 +190,11 @@
     {
       "date": "2026-10-22",
       "amount": 4600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-22",
+      "amount": 1426,
       "shop": "Steam"
     }
   ]

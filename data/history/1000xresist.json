@@ -1,6 +1,6 @@
 {
   "slug": "1000xresist",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-23T01:19:03Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,16 @@
     {
       "date": "2026-10-01",
       "amount": 1380,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-22",
+      "amount": 1150,
       "shop": "Steam"
     }
   ]
