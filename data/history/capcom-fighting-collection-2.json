@@ -1,6 +1,6 @@
 {
   "slug": "capcom-fighting-collection-2",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2025-02-05",
@@ -99,6 +99,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 2495,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-21",
+      "amount": 4990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-20",
       "amount": 2495,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "red-dead-redemption-2",
-  "updated_at": "2026-11-23T01:19:03Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -170,6 +170,11 @@
     {
       "date": "2026-10-22",
       "amount": 8618,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 2154,
       "shop": "Steam"
     }
   ]

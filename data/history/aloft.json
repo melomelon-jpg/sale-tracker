@@ -1,6 +1,6 @@
 {
   "slug": "aloft",
-  "updated_at": "2026-10-11T00:03:13Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2025-01-15",
@@ -169,6 +169,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 2128,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 3040,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 2128,
       "shop": "Steam"
     }

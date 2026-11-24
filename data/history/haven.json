@@ -1,6 +1,6 @@
 {
   "slug": "haven",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -195,6 +195,11 @@
     {
       "date": "2026-10-22",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 1120,
       "shop": "Steam"
     }
   ]

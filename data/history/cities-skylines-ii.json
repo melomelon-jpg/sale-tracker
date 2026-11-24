@@ -1,6 +1,6 @@
 {
   "slug": "cities-skylines-ii",
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,11 @@
     {
       "date": "2026-11-12",
       "amount": 4893,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 6990,
       "shop": "Steam"
     }
   ]

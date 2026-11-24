@@ -1,6 +1,6 @@
 {
   "slug": "boiling-bolt",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -224,6 +224,16 @@
     },
     {
       "date": "2026-10-10",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 97,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "hi-fi-rush",
-  "updated_at": "2026-11-23T01:19:03Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -60,6 +60,11 @@
     {
       "date": "2026-11-18",
       "amount": 1959,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 4355,
       "shop": "Steam"
     }
   ]

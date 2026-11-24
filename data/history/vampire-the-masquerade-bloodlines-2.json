@@ -1,6 +1,6 @@
 {
   "slug": "vampire-the-masquerade-bloodlines-2",
-  "updated_at": "2026-11-23T01:19:03Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2025-08-19",
@@ -75,6 +75,11 @@
     {
       "date": "2026-10-08",
       "amount": 7990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 3995,
       "shop": "Steam"
     }
   ]

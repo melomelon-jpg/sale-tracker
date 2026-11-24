@@ -1,6 +1,6 @@
 {
   "slug": "tom-clancys-the-division",
-  "updated_at": "2026-10-01T00:18:16Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -150,6 +150,16 @@
     {
       "date": "2026-09-17",
       "amount": 396,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3960,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 792,
       "shop": "Steam"
     }
   ]

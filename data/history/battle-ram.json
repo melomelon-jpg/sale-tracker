@@ -1,6 +1,6 @@
 {
   "slug": "battle-ram",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -199,6 +199,16 @@
     },
     {
       "date": "2026-10-09",
+      "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-23",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 170,
       "shop": "Steam"
     }

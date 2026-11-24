@@ -1,6 +1,6 @@
 {
   "slug": "suicide-squad-kill-the-justice-league",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-10-15",
+      "amount": 493,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 9878,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 493,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "wolfenstein-the-old-blood",
-  "updated_at": "2026-11-17T03:20:51Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -145,6 +145,11 @@
     {
       "date": "2026-10-15",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 495,
       "shop": "Steam"
     }
   ]

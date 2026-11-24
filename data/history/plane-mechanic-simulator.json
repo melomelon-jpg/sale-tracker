@@ -1,6 +1,6 @@
 {
   "slug": "plane-mechanic-simulator",
-  "updated_at": "2026-08-23T21:43:31Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,36 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 97,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1220,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 97,
       "shop": "Steam"
     }

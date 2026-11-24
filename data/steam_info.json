@@ -8401,6 +8401,24 @@
     "name": "Tainted Grail: Conquest",
     "review_count": 7609
   },
+  "1200220": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "カジュアル",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": false,
+    "name": "Fishing Adventure VR",
+    "review_count": null
+  },
   "1201230": {
     "categories": [
       "シングルプレイヤー",
@@ -12266,6 +12284,23 @@
     "jp_support": true,
     "name": "暖雪 Warm Snow",
     "review_count": 35363
+  },
+  "1296880": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamトレーディングカード",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "カジュアル",
+      "早期アクセス"
+    ],
+    "jp_support": false,
+    "name": "Sausage Hunter",
+    "review_count": 130
   },
   "1296980": {
     "categories": [
@@ -40361,6 +40396,21 @@
     "jp_support": false,
     "name": "Insurgency",
     "review_count": 86363
+  },
+  "2229420": {
+    "categories": [
+      "シングルプレイヤー",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Cleaning Queens",
+    "review_count": null
   },
   "2230110": {
     "categories": [
@@ -81001,6 +81051,24 @@
     "name": "Deep Rock Galactic",
     "review_count": 302442
   },
+  "548570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "キャプション使用可能",
+      "アプリ内購入",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "RAGE 2",
+    "review_count": 14051
+  },
   "549100": {
     "categories": [
       "シングルプレイヤー",
@@ -84462,6 +84530,26 @@
     "name": "Fallout 4 VR",
     "review_count": 5628
   },
+  "611670": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "被追跡コントローラサポート",
+      "VR限定",
+      "VRサポート",
+      "SteamVRコレクティブル",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "RPG"
+    ],
+    "jp_support": true,
+    "name": "The Elder Scrolls V: Skyrim VR",
+    "review_count": 9220
+  },
   "611760": {
     "categories": [
       "シングルプレイヤー",
@@ -84626,6 +84714,27 @@
     "jp_support": true,
     "name": "クロノ・トリガー",
     "review_count": 12066
+  },
+  "614570": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "色のオプション",
+      "難易度の調整",
+      "時間制限付き入力なしでプレイ可能",
+      "ステレオサウンド",
+      "サラウンドサウンド",
+      "部分的コントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Dishonored®: Death of the Outsider™",
+    "review_count": 9889
   },
   "615680": {
     "categories": [
@@ -87024,6 +87133,24 @@
     "jp_support": true,
     "name": "DESOLATE",
     "review_count": 6228
+  },
+  "671810": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-24T05:05:40Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG"
+    ],
+    "jp_support": false,
+    "name": "The Adventures of Capitano Navarro",
+    "review_count": null
   },
   "672630": {
     "categories": [

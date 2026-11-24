@@ -1,6 +1,6 @@
 {
   "slug": "dome-keeper",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -224,6 +224,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 2000,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 500,
       "shop": "Steam"
     }

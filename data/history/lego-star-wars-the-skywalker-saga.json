@@ -1,6 +1,6 @@
 {
   "slug": "lego-star-wars-the-skywalker-saga",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,16 @@
     {
       "date": "2026-10-15",
       "amount": 792,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 5280,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 528,
       "shop": "Steam"
     }
   ]

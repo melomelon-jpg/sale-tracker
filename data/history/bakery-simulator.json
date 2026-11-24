@@ -1,6 +1,6 @@
 {
   "slug": "bakery-simulator",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,36 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 126,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 126,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 126,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 1800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 126,
       "shop": "Steam"
     }

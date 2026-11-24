@@ -1,6 +1,6 @@
 {
   "slug": "ships-2017",
-  "updated_at": "2026-08-25T21:56:12Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,36 @@
     },
     {
       "date": "2026-08-13",
+      "amount": 156,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-08-27",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 156,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 156,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 2600,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 156,
       "shop": "Steam"
     }

@@ -1,6 +1,6 @@
 {
   "slug": "metal-hellsinger",
-  "updated_at": "2026-09-07T21:06:24Z",
+  "updated_at": "2026-11-24T05:05:40Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -159,6 +159,26 @@
     },
     {
       "date": "2026-09-01",
+      "amount": 1074,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 3580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1074,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3580,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 1074,
       "shop": "Steam"
     }
