@@ -1,6 +1,6 @@
 {
   "slug": "void-crew",
-  "updated_at": "2026-09-10T21:05:53Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,26 @@
     },
     {
       "date": "2026-09-03",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-14",
+      "amount": 4200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 4200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
       "amount": 2100,
       "shop": "Steam"
     }

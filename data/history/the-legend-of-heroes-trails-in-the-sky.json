@@ -1,6 +1,6 @@
 {
   "slug": "the-legend-of-heroes-trails-in-the-sky",
-  "updated_at": "2026-11-23T01:19:03Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -135,6 +135,11 @@
     {
       "date": "2026-10-08",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
+      "amount": 990,
       "shop": "Steam"
     }
   ]

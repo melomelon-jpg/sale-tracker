@@ -1,6 +1,6 @@
 {
   "slug": "transistor",
-  "updated_at": "2026-11-20T01:58:38Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-08",
       "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
+      "amount": 460,
       "shop": "Steam"
     }
   ]

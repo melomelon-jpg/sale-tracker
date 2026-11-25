@@ -1,6 +1,6 @@
 {
   "slug": "cosmoteer-starship-architect-and-commander",
-  "updated_at": "2026-10-12T00:08:10Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -185,6 +185,16 @@
     {
       "date": "2026-10-11",
       "amount": 1610,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-25",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
+      "amount": 1495,
       "shop": "Steam"
     }
   ]

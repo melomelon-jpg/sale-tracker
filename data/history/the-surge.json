@@ -1,6 +1,6 @@
 {
   "slug": "the-surge",
-  "updated_at": "2026-10-15T23:29:43Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -209,6 +209,16 @@
     },
     {
       "date": "2026-10-14",
+      "amount": 322,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 2480,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
       "amount": 322,
       "shop": "Steam"
     }

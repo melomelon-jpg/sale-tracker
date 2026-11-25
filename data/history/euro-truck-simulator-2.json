@@ -1,6 +1,6 @@
 {
   "slug": "euro-truck-simulator-2",
-  "updated_at": "2026-11-24T05:05:40Z",
+  "updated_at": "2026-11-25T03:54:20Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-11-10",
       "amount": 749,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-24",
+      "amount": 2999,
       "shop": "Steam"
     }
   ]
