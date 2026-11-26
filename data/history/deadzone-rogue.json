@@ -1,6 +1,6 @@
 {
   "slug": "deadzone-rogue",
-  "updated_at": "2026-10-14T00:03:47Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2025-04-29",
@@ -144,6 +144,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 1367,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 2735,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
       "amount": 1367,
       "shop": "Steam"
     }

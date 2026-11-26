@@ -1,6 +1,6 @@
 {
   "slug": "suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -105,6 +105,11 @@
     {
       "date": "2026-10-08",
       "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
+      "amount": 2750,
       "shop": "Steam"
     }
   ]

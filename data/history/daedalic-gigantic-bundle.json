@@ -1,6 +1,6 @@
 {
   "slug": "daedalic-gigantic-bundle",
-  "updated_at": "2026-10-14T00:03:47Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -204,6 +204,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 375,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 7500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
       "amount": 375,
       "shop": "Steam"
     }

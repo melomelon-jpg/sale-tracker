@@ -1,6 +1,6 @@
 {
   "slug": "europa-universalis-iv",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-10-08",
       "amount": 6990,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 2097,
       "shop": "Steam"
     }
   ]

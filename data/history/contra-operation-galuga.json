@@ -1,6 +1,6 @@
 {
   "slug": "contra-operation-galuga",
-  "updated_at": "2026-09-14T21:06:15Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-09-01",
+      "amount": 1925,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-15",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 1925,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3850,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
       "amount": 1925,
       "shop": "Steam"
     }

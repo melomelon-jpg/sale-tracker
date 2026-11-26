@@ -1,6 +1,6 @@
 {
   "slug": "styx-shards-of-darkness",
-  "updated_at": "2026-11-19T02:10:25Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,11 @@
     {
       "date": "2026-11-05",
       "amount": 248,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-19",
+      "amount": 2480,
       "shop": "Steam"
     }
   ]

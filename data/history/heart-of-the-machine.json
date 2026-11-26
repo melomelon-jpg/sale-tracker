@@ -1,6 +1,6 @@
 {
   "slug": "heart-of-the-machine",
-  "updated_at": "2026-10-20T23:34:33Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2025-01-31",
@@ -184,6 +184,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 894,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 2980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
       "amount": 894,
       "shop": "Steam"
     }

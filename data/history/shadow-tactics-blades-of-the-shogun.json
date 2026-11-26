@@ -1,6 +1,6 @@
 {
   "slug": "shadow-tactics-blades-of-the-shogun",
-  "updated_at": "2026-11-20T01:58:38Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -220,6 +220,11 @@
     {
       "date": "2026-10-26",
       "amount": 5400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
+      "amount": 540,
       "shop": "Steam"
     }
   ]

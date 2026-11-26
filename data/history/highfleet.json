@@ -1,6 +1,6 @@
 {
   "slug": "highfleet",
-  "updated_at": "2026-10-18T22:41:53Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -160,6 +160,16 @@
     {
       "date": "2026-10-17",
       "amount": 1545,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-24",
+      "amount": 3090,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
+      "amount": 1390,
       "shop": "Steam"
     }
   ]

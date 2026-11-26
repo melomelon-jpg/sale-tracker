@@ -1,6 +1,6 @@
 {
   "slug": "carto",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-09-16",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-23",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 615,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2050,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
       "amount": 615,
       "shop": "Steam"
     }

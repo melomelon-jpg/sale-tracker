@@ -1,6 +1,6 @@
 {
   "slug": "sunderfolk",
-  "updated_at": "2026-10-25T22:58:32Z",
+  "updated_at": "2026-11-26T03:19:53Z",
   "history": [
     {
       "date": "2025-04-23",
@@ -115,6 +115,16 @@
     {
       "date": "2026-10-21",
       "amount": 2200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 5500,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-25",
+      "amount": 1375,
       "shop": "Steam"
     }
   ]
