@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-darktide",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -214,6 +214,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 5200,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 1300,
       "shop": "Steam"
     }

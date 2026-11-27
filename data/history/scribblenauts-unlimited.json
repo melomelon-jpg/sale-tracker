@@ -1,6 +1,6 @@
 {
   "slug": "scribblenauts-unlimited",
-  "updated_at": "2026-11-20T01:58:38Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-10-22",
       "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 198,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "headsnatchers",
-  "updated_at": "2026-11-20T01:58:38Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -215,6 +215,11 @@
     {
       "date": "2026-10-26",
       "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 170,
       "shop": "Steam"
     }
   ]

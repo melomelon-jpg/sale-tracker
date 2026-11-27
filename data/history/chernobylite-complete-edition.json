@@ -1,6 +1,6 @@
 {
   "slug": "chernobylite-complete-edition",
-  "updated_at": "2026-10-20T00:03:24Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -189,6 +189,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 739,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 3699,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 739,
       "shop": "Steam"
     }

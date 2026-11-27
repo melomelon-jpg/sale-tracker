@@ -1,6 +1,6 @@
 {
   "slug": "voidtrain",
-  "updated_at": "2026-11-23T01:19:03Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -180,6 +180,11 @@
     {
       "date": "2026-10-26",
       "amount": 3490,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 1745,
       "shop": "Steam"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "slug": "keywe",
-  "updated_at": "2026-09-21T23:45:58Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,26 @@
     },
     {
       "date": "2026-09-11",
+      "amount": 385,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-25",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 385,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2570,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 385,
       "shop": "Steam"
     }

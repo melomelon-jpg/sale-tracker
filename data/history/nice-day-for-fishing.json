@@ -1,6 +1,6 @@
 {
   "slug": "nice-day-for-fishing",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2025-05-08",
@@ -110,6 +110,16 @@
     {
       "date": "2026-10-01",
       "amount": 935,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 2750,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 687,
       "shop": "Steam"
     }
   ]

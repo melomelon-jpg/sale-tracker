@@ -1,6 +1,6 @@
 {
   "slug": "baby-steps",
-  "updated_at": "2026-10-13T02:21:06Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2025-09-23",
@@ -74,6 +74,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1150,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 1150,
       "shop": "Steam"
     }

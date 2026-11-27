@@ -12847,6 +12847,25 @@
     "name": "Bears In Space",
     "review_count": 478
   },
+  "1309950": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "Children of the Sun",
+    "review_count": 2069
+  },
   "1310410": {
     "categories": [
       "シングルプレイヤー",
@@ -14002,6 +14021,29 @@
     "jp_support": true,
     "name": "We Were Here Forever",
     "review_count": 16227
+  },
+  "1341820": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "共有／分割画面",
+      "クロスプラットフォームマルチプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "キャプション使用可能",
+      "Remote Play Together",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アドベンチャー"
+    ],
+    "jp_support": true,
+    "name": "As Dusk Falls",
+    "review_count": 3760
   },
   "1342330": {
     "categories": [
@@ -15594,6 +15636,23 @@
     "jp_support": true,
     "name": "龍が如く６　命の詩。",
     "review_count": 6962
+  },
+  "1388770": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アクション",
+      "インディー",
+      "シミュレーション"
+    ],
+    "jp_support": false,
+    "name": "Cruelty Squad",
+    "review_count": 23575
   },
   "1388870": {
     "categories": [
@@ -26221,6 +26280,27 @@
     "jp_support": true,
     "name": "Time on Frog Island",
     "review_count": 281
+  },
+  "1718460": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "ゲームパッド推奨",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "Steamランキング",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アクション"
+    ],
+    "jp_support": true,
+    "name": "Terminator 2D: NO FATE",
+    "review_count": 1540
   },
   "1718570": {
     "categories": [
@@ -39094,6 +39174,24 @@
     "name": "Hotline Miami",
     "review_count": 108908
   },
+  "2193050": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー"
+    ],
+    "jp_support": true,
+    "name": "Bleak Sword DX",
+    "review_count": 658
+  },
   "2193490": {
     "categories": [
       "シングルプレイヤー",
@@ -42913,6 +43011,28 @@
     "name": "Kenshi",
     "review_count": 97599
   },
+  "2340520": {
+    "categories": [
+      "シングルプレイヤー",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アドベンチャー",
+      "RPG",
+      "シミュレーション"
+    ],
+    "jp_support": true,
+    "name": "清宮物語",
+    "review_count": 2299
+  },
   "234140": {
     "categories": [
       "シングルプレイヤー",
@@ -44885,6 +45005,28 @@
     "jp_support": false,
     "name": "Overdrive Escape",
     "review_count": null
+  },
+  "2399420": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "VR対応",
+      "部分的コントローラサポート",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "レース",
+      "シミュレーション",
+      "スポーツ"
+    ],
+    "jp_support": true,
+    "name": "Le Mans Ultimate",
+    "review_count": 15992
   },
   "2399730": {
     "categories": [
@@ -69030,6 +69172,37 @@
     "jp_support": true,
     "name": "DARIUSBURST Chronicle Saviours",
     "review_count": 717
+  },
+  "3784030": {
+    "categories": [
+      "シングルプレイヤー",
+      "Steam実績",
+      "フルコントローラサポート",
+      "Steamトレーディングカード",
+      "カメラの快適性",
+      "カスタム音量調整",
+      "難易度の調整",
+      "マウスのみのオプション",
+      "#category_playable_at_your_own_pace",
+      "DUALSHOCKコントローラーサポート",
+      "DUALSHOCKコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "DualSenseコントローラーサポート",
+      "いつでもセーブ可能",
+      "ステレオサウンド",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "jp_support": true,
+    "name": "RACCOIN: Coin Pusher Roguelike",
+    "review_count": 5054
   },
   "378540": {
     "categories": [
@@ -98068,6 +98241,27 @@
     "jp_support": true,
     "name": "ONINAKI",
     "review_count": 335
+  },
+  "989440": {
+    "categories": [
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "PvP",
+      "オンラインPvP",
+      "フルコントローラサポート",
+      "Steamクラウド",
+      "ファミリーシェアリング"
+    ],
+    "checked_at": "2026-11-27T03:25:19Z",
+    "genres": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）"
+    ],
+    "jp_support": true,
+    "name": "Phantom Abyss",
+    "review_count": 1961
   },
   "989690": {
     "categories": [

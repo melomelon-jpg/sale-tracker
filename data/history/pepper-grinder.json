@@ -1,6 +1,6 @@
 {
   "slug": "pepper-grinder",
-  "updated_at": "2026-09-16T23:28:02Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -120,6 +120,26 @@
     {
       "date": "2026-09-15",
       "amount": 680,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 425,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 425,
       "shop": "Steam"
     }
   ]

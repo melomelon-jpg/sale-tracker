@@ -1,6 +1,6 @@
 {
   "slug": "die-in-the-dungeon",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2025-02-21",
@@ -150,6 +150,16 @@
     {
       "date": "2026-10-12",
       "amount": 1020,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 935,
       "shop": "Steam"
     }
   ]

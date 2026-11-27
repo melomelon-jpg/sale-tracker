@@ -1,6 +1,6 @@
 {
   "slug": "door-kickers-2-task-force-north",
-  "updated_at": "2026-11-24T05:05:40Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -125,6 +125,11 @@
     {
       "date": "2026-10-08",
       "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 1680,
       "shop": "Steam"
     }
   ]

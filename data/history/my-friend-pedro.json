@@ -1,6 +1,6 @@
 {
   "slug": "my-friend-pedro",
-  "updated_at": "2026-09-24T23:42:38Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -139,6 +139,26 @@
     },
     {
       "date": "2026-09-22",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-29",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-02",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 460,
       "shop": "Steam"
     }

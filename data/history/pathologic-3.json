@@ -1,6 +1,6 @@
 {
   "slug": "pathologic-3",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2026-01-09",
@@ -75,6 +75,16 @@
     {
       "date": "2026-10-12",
       "amount": 2535,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 3900,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 2340,
       "shop": "Steam"
     }
   ]

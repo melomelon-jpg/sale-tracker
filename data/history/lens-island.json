@@ -1,6 +1,6 @@
 {
   "slug": "lens-island",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -154,6 +154,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 1540,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 2800,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 1540,
       "shop": "Steam"
     }

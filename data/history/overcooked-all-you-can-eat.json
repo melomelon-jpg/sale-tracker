@@ -1,6 +1,6 @@
 {
   "slug": "overcooked-all-you-can-eat",
-  "updated_at": "2026-10-17T22:48:42Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -155,6 +155,16 @@
     {
       "date": "2026-10-01",
       "amount": 1230,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 4100,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 1025,
       "shop": "Steam"
     }
   ]

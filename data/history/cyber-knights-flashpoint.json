@@ -1,6 +1,6 @@
 {
   "slug": "cyber-knights-flashpoint",
-  "updated_at": "2026-10-22T23:48:30Z",
+  "updated_at": "2026-11-27T03:25:19Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -225,6 +225,16 @@
     {
       "date": "2026-10-22",
       "amount": 2244,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-27",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
+      "amount": 1904,
       "shop": "Steam"
     }
   ]
