@@ -1,6 +1,6 @@
 {
   "slug": "trek-to-yomi",
-  "updated_at": "2026-10-09T00:55:08Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -129,6 +129,16 @@
     },
     {
       "date": "2026-10-01",
+      "amount": 460,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-12",
+      "amount": 2300,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 460,
       "shop": "Steam"
     }

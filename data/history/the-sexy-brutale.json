@@ -1,6 +1,6 @@
 {
   "slug": "the-sexy-brutale",
-  "updated_at": "2026-10-23T23:42:20Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -230,6 +230,16 @@
     {
       "date": "2026-10-22",
       "amount": 554,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-26",
+      "amount": 1980,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-27",
+      "amount": 613,
       "shop": "Steam"
     }
   ]

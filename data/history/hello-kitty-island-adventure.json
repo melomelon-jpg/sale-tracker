@@ -1,6 +1,6 @@
 {
   "slug": "hello-kitty-island-adventure",
-  "updated_at": "2026-10-11T00:03:13Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2025-01-30",
@@ -180,6 +180,16 @@
     {
       "date": "2026-10-09",
       "amount": 3012,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-19",
+      "amount": 5478,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-27",
+      "amount": 2739,
       "shop": "Steam"
     }
   ]

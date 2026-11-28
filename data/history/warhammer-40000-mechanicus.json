@@ -1,6 +1,6 @@
 {
   "slug": "warhammer-40000-mechanicus",
-  "updated_at": "2026-10-08T00:39:33Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -130,6 +130,16 @@
     {
       "date": "2026-10-01",
       "amount": 170,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "amount": 3400,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
+      "amount": 340,
       "shop": "Steam"
     }
   ]

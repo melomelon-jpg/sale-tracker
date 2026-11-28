@@ -1,6 +1,6 @@
 {
   "slug": "red-dead-redemption-2-ultimate-edition",
-  "updated_at": "2026-09-06T21:05:41Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,26 @@
     },
     {
       "date": "2026-08-25",
+      "amount": 2816,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-09-08",
+      "amount": 14080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "amount": 2816,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 14080,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-23",
       "amount": 2816,
       "shop": "Steam"
     }

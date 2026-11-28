@@ -1,6 +1,6 @@
 {
   "slug": "ape-out",
-  "updated_at": "2026-10-16T23:11:52Z",
+  "updated_at": "2026-11-28T03:01:30Z",
   "history": [
     {
       "date": "2024-12-07",
@@ -149,6 +149,16 @@
     },
     {
       "date": "2026-10-12",
+      "amount": 340,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "amount": 1700,
+      "shop": "Steam"
+    },
+    {
+      "date": "2026-11-26",
       "amount": 340,
       "shop": "Steam"
     }
